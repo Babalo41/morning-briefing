@@ -1,0 +1,30 @@
+# TEMPLATE — copy this file to config/personal.local.yaml and fill in real
+# values. personal.local.yaml is gitignored and NEVER committed. It is the
+# only place real health/family data lives on disk in plain text; the
+# pipeline encrypts the relevant fields before they ever reach docs/data/.
+
+health:
+  condition: diabetes_type_1
+  supplies:
+    - name: Libre 3 Plus sensors
+      reorder_at_count: 2
+      current_count: 5
+      reorder_lead_days: 7
+    - name: Insulin pump reservoirs
+      reorder_at_count: 3
+      current_count: 6
+      reorder_lead_days: 5
+  next_appointment: null   # e.g. "2026-09-10T09:00"
+
+calendar:
+  known_events: []
+  # - title: "Bürgeramt appointment"
+  #   date: "2026-08-27T17:00"
+  #   note: "Bring Wohnungsgeberbestätigung"
+
+family:
+  linked_people:
+    - relation: wife
+      city: Bhavnagar, India
+    - relation: parents
+      city: Surat, India

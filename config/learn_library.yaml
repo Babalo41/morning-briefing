@@ -1,0 +1,36 @@
+# Seed learn-library courses. One new lesson unlocks per calendar day
+# (day-of-year modulo lesson count), mirroring the blueprint's "+1 lesson per
+# night" pattern. Add more courses/lessons any time — no code changes needed.
+courses:
+  - id: bremen_history
+    title: Bremen, in Depth
+    blurb: >
+      The city you actually live in — Hanseatic trade, the Town Musicians, and
+      how a medieval free city ended up the way it is today.
+    lessons:
+      - t: The Roland and the Town Musicians
+        key: Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.
+        b: >
+          <p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the
+          legendary knight Roland holding a sword and shield, a symbol of the city's independence from local
+          bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern
+          Europe, and UNESCO listed it as a World Heritage Site in 2004.</p>
+          <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster
+          stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to
+          become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of
+          hands have worn the bronze gold there.</p>
+          <p class="rem"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the
+          story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the
+          city wanted to say about itself, not a record of an event.</p>
+      - t: The Hanseatic League, and why Bremen still says it
+        key: "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years."
+        b: >
+          <p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe,
+          active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded
+          its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p>
+          <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and
+          Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or
+          constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it
+          resilient but also why it eventually dissolved as nation-states centralized power.</p>
+          <p class="rem"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the
+          "Hanseatic" title formally in their names — it's a status marker, not a decoration.</p>

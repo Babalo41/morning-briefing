@@ -1,0 +1,9 @@
+.env
+config/personal.local.yaml
+data/state/
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log

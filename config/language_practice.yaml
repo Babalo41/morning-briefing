@@ -1,0 +1,29 @@
+# German B1 vocabulary practice pool. A few entries rotate into the
+# language_practice block each run. Uses the same glossary sheet format as the
+# rest of the app (IPA, respelling, TTS via lang: de-DE).
+vocab:
+  - term: die Anmeldung
+    ipa: "/diː ˈʔanˌmɛldʊŋ/"
+    respelling: "dee AN-mel-dung"
+    definition: Residence registration — the mandatory first step after moving to a German address.
+    why_it_matters: Everything else (bank account, tax ID, health insurance) depends on this being done first.
+  - term: die Rechnung
+    ipa: "/diː ˈʁɛçnʊŋ/"
+    respelling: "dee REKH-nung"
+    definition: The bill or invoice.
+    why_it_matters: "'Die Rechnung, bitte' is the phrase you'll use most often in restaurants."
+  - term: der Termin
+    ipa: "/deːɐ̯ tɛɐ̯ˈmiːn/"
+    respelling: "dair ter-MEEN"
+    definition: An appointment or scheduled date.
+    why_it_matters: Distinct from an informal meeting — this is the word for a booked slot with a government office or doctor.
+  - term: die Kündigung
+    ipa: "/diː ˈkʏndɪɡʊŋ/"
+    respelling: "dee KUEN-di-gung"
+    definition: A notice of termination — for a job, lease, or contract.
+    why_it_matters: German notice periods (Kündigungsfrist) are often longer than expected; the word to search for when reading any contract.
+  - term: die Versicherung
+    ipa: "/diː fɛɐ̯ˈzɪçəʁʊŋ/"
+    respelling: "dee fer-ZI-khe-rung"
+    definition: Insurance.
+    why_it_matters: Germany runs on mandatory insurance for almost everything — health, liability, often even contents insurance is expected.

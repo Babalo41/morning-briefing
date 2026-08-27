@@ -1,0 +1,102 @@
+# BRIEFING ENGINE — PERSONALIZATION PROFILE
+# Non-secret. Committed to git. Real personal values (health, exact family
+# addresses, etc.) live in config/personal.local.yaml, which is gitignored.
+
+owner:
+  timezone: Europe/Berlin
+  home_city: Bremen, Germany
+  home_city_lat: 53.0793
+  home_city_lon: 8.8017
+  linked_cities:
+    - name: Bhavnagar, India
+      lat: 21.7645
+      lon: 72.1519
+    - name: Surat, India
+      lat: 21.1702
+      lon: 72.8311
+  profession: Software Tester (automotive/electronics QA)
+
+# How often the pipeline is allowed to actually hit each source type.
+# The scheduled task runs every 30 min; a source only re-fetches once its
+# refresh interval has elapsed since the last successful fetch (state kept
+# in data/state/).
+refresh_minutes:
+  weather: 360      # 6h
+  news_rss: 1440    # daily
+  science_rss: 1440
+  calendar: 1440
+
+sections:
+  # id, title, kind (drives which renderer/enricher runs), sensitive (client-side encrypted)
+  - id: needs_attention
+    title: Needs Attention
+    kind: triage
+    sensitive: true      # pulls from health + personal calendar
+  - id: weather
+    title: Weather
+    kind: weather
+    sensitive: false
+    city: home
+  - id: week_and_month_ahead
+    title: Week & Month Ahead
+    kind: calendar
+    sensitive: true
+  - id: health_supplies
+    title: Diabetes & Supplies
+    kind: health
+    sensitive: true
+  - id: profession_field
+    title: Software Testing Field
+    kind: rss
+    sensitive: false
+    feeds:
+      - https://www.ministryoftesting.com/rss
+      - https://reddit.com/r/QualityAssurance/.rss
+  - id: work_industry
+    title: Work & Industry
+    kind: rss
+    sensitive: false
+    feeds:
+      - https://europe.autonews.com/rss.xml
+  - id: near_home
+    title: Near Home
+    kind: local_news
+    sensitive: false      # city names public; any personal detail about who lives there stays in personal.local.yaml
+    cities: [home, linked]
+  - id: world_and_knowledge
+    title: World & Knowledge
+    kind: rss
+    sensitive: false
+    feeds:
+      - https://feeds.reuters.com/reuters/worldNews
+      - https://feeds.bbci.co.uk/news/world/rss.xml
+  - id: learn_library
+    title: Learn Library
+    kind: learn
+    sensitive: false
+  - id: language_practice
+    title: Language Practice (German B1)
+    kind: language
+    sensitive: false
+
+jobs:
+  - name: daily_briefing
+    schedule: every_30_min_while_pc_on
+    depth: exhaustive
+    delivery: single_persistent_url
+    push_notify: false
+    sections: [needs_attention, weather, week_and_month_ahead, health_supplies,
+               profession_field, work_industry, near_home, world_and_knowledge,
+               learn_library, language_practice]
+
+design:
+  shell: installable_pwa
+  chart_style: fixed_house_style   # see docs/style.css — Economist-style, do not vary
+  glossary: inline_terms_with_pronunciation
+  archive: keep_past_editions_in_app
+  archive_keep_count: 30
+
+scaling_rules:
+  add_category: append_to_sections + one_fetcher_module
+  on_source_failure: degrade_that_category_only
+  schedule_exceptions: temporary_override_record, never_edit_main_cron
