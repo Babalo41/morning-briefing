@@ -7,12 +7,16 @@ from datetime import datetime, timezone
 
 import feedparser
 
+# Some hosts (notably Reddit) 429 requests carrying feedparser's default
+# generic user-agent. A descriptive one is treated far more leniently.
+USER_AGENT = "morning-briefing-pipeline/1.0 (personal RSS reader; single user)"
+
 
 def fetch_feed(url: str, limit: int = 20) -> list[dict]:
     """Fetch and normalize one feed. Never raises — returns [] on any failure so
     one dead feed can't take down a whole run."""
     try:
-        parsed = feedparser.parse(url)
+        parsed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT})
         if parsed.bozo and not parsed.entries:
             return []
         items = []
@@ -49,6 +53,8 @@ def _clean_summary(html: str, max_len: int = 400) -> str:
 
 def fetch_many(urls: list[str], per_feed_limit: int = 20) -> list[dict]:
     items: list[dict] = []
-    for url in urls:
+    for i, url in enumerate(urls):
+        if i > 0:
+            time.sleep(1.2)  # be polite — avoids Reddit-style 429s when several feeds run back to back
         items.extend(fetch_feed(url, limit=per_feed_limit))
     return items

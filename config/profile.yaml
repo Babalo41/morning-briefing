@@ -14,7 +14,18 @@ owner:
     - name: Surat, India
       lat: 21.1702
       lon: 72.8311
-  profession: Software Tester (automotive/electronics QA)
+  profession: Software Tester at Rheinmetall — secure networking & defense electronics
+  employer: Rheinmetall
+  technical_interests:
+    - SINA box (secunet secure workstation/network encryption)
+    - INFODAS SDoT gateway (cross-domain security gateway)
+    - IGMP configuration
+    - switches / VLANs / subnetting
+    - Windows & Linux system administration
+    - NAS
+    - boot processes / iPXE / network boot
+    - ISTQB certification prep
+    - Jira, Xray, Confluence (test management tooling)
 
 # How often the pipeline is allowed to actually hit each source type.
 # The scheduled task runs every 30 min; a source only re-fetches once its
@@ -46,18 +57,33 @@ sections:
     kind: health
     sensitive: true
   - id: profession_field
-    title: Software Testing Field
+    title: ISTQB & Software Testing
     kind: rss
     sensitive: false
     feeds:
       - https://www.ministryoftesting.com/rss
       - https://reddit.com/r/QualityAssurance/.rss
+      - https://istqb.org/feed
   - id: work_industry
-    title: Work & Industry
+    title: Defense Electronics & Secure Networking
     kind: rss
     sensitive: false
     feeds:
-      - https://europe.autonews.com/rss.xml
+      - https://www.infodas.com/en/rss
+      - https://www.bleepingcomputer.com/feed/
+      - https://www.theregister.com/security/headlines.atom
+  - id: network_systems
+    title: Network & Systems Engineering
+    kind: rss
+    sensitive: false
+    feeds:
+      - https://www.reddit.com/r/networking/.rss
+  - id: test_tooling
+    title: Jira, Xray & Confluence
+    kind: rss
+    sensitive: false
+    feeds:
+      - https://community.atlassian.com/t5/s/rss/board?board.id=jira-questions
   - id: near_home
     title: Near Home
     kind: local_news
@@ -86,8 +112,8 @@ jobs:
     delivery: single_persistent_url
     push_notify: false
     sections: [needs_attention, weather, week_and_month_ahead, health_supplies,
-               profession_field, work_industry, near_home, world_and_knowledge,
-               learn_library, language_practice]
+               profession_field, work_industry, network_systems, test_tooling,
+               near_home, world_and_knowledge, learn_library, language_practice]
 
 design:
   shell: installable_pwa

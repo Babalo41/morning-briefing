@@ -1,0 +1,84 @@
+# Candidate RSS sources awaiting your review. This is the "does Claude think
+# this might be useful" list, not the live feed list — nothing here reaches
+# the site until you approve it with `py scripts/review_sources.py`.
+#
+# Status values:
+#   pending   - not yet health-checked
+#   verified  - health-checked, has entries, awaiting your keep/reject
+#   broken    - health-checked, returned nothing (won't be re-suggested until fixed)
+#   approved  - you kept it; it's been appended to config/profile.yaml
+#   rejected  - you rejected it; discover.py will never re-suggest this exact URL
+#
+# Add more candidates here any time (by hand, or ask Claude to research some) —
+# `py scripts/discover.py` health-checks every `pending` entry, then
+# `py scripts/review_sources.py` walks you through the `verified` ones.
+
+candidates:
+- url: https://istqb.org/feed
+  category: profession_field
+  note: Official ISTQB news — certification launches, syllabus updates.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:05.142780+00:00'
+  sample_titles:
+  - ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture
+  - ISTQB® Launches Certified Tester Finance Testing certification
+  - ISTQB® Launches Certified Tester Quality in DevOps certification
+- url: https://www.infodas.com/en/rss
+  category: work_industry
+  note: INFODAS's own news feed — the company behind the SDoT gateway product line.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:05.781613+00:00'
+  sample_titles:
+  - 'Timber Express: Virtual battlespaces as the future of training and testing'
+  - 'From forecast to foresight: creating futures through cybersecurity strategies'
+  - 'The Dilemma of Generative AI: Lessons Learned from 2025 (so far)'
+- url: https://www.bleepingcomputer.com/feed/
+  category: work_industry
+  note: General cybersecurity news — broad, but catches secure-gateway/network-appliance-adjacent stories
+    often.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:06.118324+00:00'
+  sample_titles:
+  - PaperCut warns of NG, MF flaw exploited in zero-day attacks
+  - Manchester Airports Group says hackers stole travelers' data
+  - How Threat Research and MDR Help SMBs Build a Defensive Edge
+- url: https://www.theregister.com/security/headlines.atom
+  category: work_industry
+  note: The Register's security desk — enterprise/infrastructure security angle, less breathless than
+    most security news.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:06.613561+00:00'
+  sample_titles:
+  - AI girlfriend review site's secrets were exposed to the world for three weeks
+  - Omarchy distro gains serious backing
+  - ATF responds to 'major' cybersecurity incident after ransomware gang's claims
+- url: https://www.reddit.com/r/networking/.rss
+  category: network_systems
+  note: Switches, subnetting, IGMP, VLANs — exactly your stated topics, real practitioner discussion.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:08.178512+00:00'
+  sample_titles:
+  - Blog/Project Post Friday!
+  - Rant Wednesday!
+  - Automatic switch updates
+- url: https://www.reddit.com/r/sysadmin/.rss
+  category: network_systems
+  note: Windows/Linux administration, NAS, general sysadmin war stories. Came back 429 (rate-limited)
+    during initial setup testing, not a broken URL — same format as r/networking, which verified fine.
+    Left pending to retry on the next `discover.py` run.
+  status: pending
+- url: https://www.reddit.com/r/homelab/.rss
+  category: network_systems
+  note: NAS, PXE/iPXE boot, home network gear — hobbyist but technically substantive. Same 429-during-setup-testing
+    situation as r/sysadmin above — left pending to retry.
+  status: pending
+- url: https://community.atlassian.com/t5/s/rss/board?board.id=jira-questions
+  category: test_tooling
+  note: Atlassian Community Jira Q&A board — real user questions/answers, not marketing. Xray's own blog
+    (getxray.app) has no discoverable RSS feed as of this check.
+  status: approved
+  last_checked_at: '2026-08-27T19:30:09.474316+00:00'
+  sample_titles:
+  - Visualice the same subtask twice.
+  - should there be separate work item types to track bugs for QA Vs. Production
+  - Jira Timeline shows parented Tasks and Sub-tasks as top-level rows (and duplicates them)

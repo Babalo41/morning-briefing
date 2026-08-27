@@ -170,7 +170,8 @@ def build_edition_data(cfg: Config) -> dict:
             b = {"h": section["title"], **_calendar_block(cfg)}
         elif sid == "health_supplies":
             b = {"h": section["title"], **_health_block(cfg)}
-        elif sid in ("profession_field", "work_industry", "world_and_knowledge"):
+        elif sid in ("profession_field", "work_industry", "network_systems",
+                     "test_tooling", "world_and_knowledge"):
             b = _rss_block(section["title"], sid, section.get("feeds", []),
                             cfg.refresh_minutes("news_rss", 1440), glossary)
         elif sid == "near_home":

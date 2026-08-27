@@ -58,6 +58,27 @@ Safari → open the URL → Share → **Add to Home Screen**. It installs as a
 standalone app (via `docs/manifest.json`) and works offline for the shell
 (via `docs/sw.js`), refetching `data.js` whenever it's online.
 
+## Finding and vetting new sources
+
+Rather than guessing feed URLs into `profile.yaml` directly, propose candidates
+into `config/candidate_sources.yaml`, then:
+
+```bash
+py scripts/discover.py          # health-checks every `pending` candidate,
+                                 # captures 3 sample item titles from each
+py scripts/review_sources.py    # walk through the results, keep or reject each
+```
+
+`discover.py` never invents URLs on its own (no search-API key is used, by
+design) — it only verifies candidates already listed. Adding *new* candidates
+to research is a good thing to ask Claude for in a future session, or to add
+by hand. `review_sources.py` shows you real sample headlines a source would
+actually deliver before you decide — a source can be perfectly valid and
+still not be for you (wrong angle, wrong depth); reject it there and it's
+never suggested again. Approve it and `profile_editor.py` appends it straight
+into the matching section of `profile.yaml`, comments and formatting
+untouched, live on your next `run_pipeline.py`.
+
 ## Extending it
 
 Per the blueprint's scaling rules — **the interest profile is config, not

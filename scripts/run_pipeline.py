@@ -14,6 +14,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")  # Windows console defaults to cp1252; briefing content isn't ASCII-only
+
 from pipeline.compose import build_edition_data  # noqa: E402
 from pipeline.config import ROOT as CFG_ROOT, load_config  # noqa: E402
 from pipeline.render import write_data_js  # noqa: E402
