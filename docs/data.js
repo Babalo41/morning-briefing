@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-27T22:50:24.317835+02:00",
+  "generated_at": "2026-08-27T23:20:23.502501+02:00",
   "editions": [
     {
       "id": "2026-08-27",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "27",
       "mon": "Aug",
       "date": "Thursday 27 August 2026",
-      "headline": "Briefing refreshed 22:50 Berlin time",
-      "stand": "Automatically rebuilt at 22:50 — 11 sections tracked.",
+      "headline": "Briefing refreshed 23:20 Berlin time",
+      "stand": "Automatically rebuilt at 23:20 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "vG2i1PFyhwUrHfo090p9zqvwTV1sGPdAtf7YjtT39LxdZzMJqtCOCQpAJoa2rTduLChyTTJOnsQB3/Zz/wpN3Nby4GJ4DwZgnTkGtSasmeuA/LR2q2o8YYgjc7XXIYGNvURwGvv3sv8MvdjCvXlXd5tznOpHtlMVhjx18AjbVn3oKsoUeJPT",
-          "iv": "YQ05ugmJ60Xh1dzk",
-          "salt": "GuH5SBkX6PHCD5rrdPsLTg=="
+          "ciphertext": "uF6HrdxqeKLXrNTN1zOOZ5h/IUGC2WMG015ni2215FguQsldYhS0RZYg7Q4RH8mE1RdFXtQy3hULBTRW9jdEoy/+KnStTnTPoxweCwf0/LpSouw8TMj6usShTfkwnXJ7B61e9viCj7zK25+cSv/q2+IPWeJ7ig2gf5gKGJo+xrS/qAxWCFKH",
+          "iv": "y52yQlUlgpDryWVE",
+          "salt": "ekrol2R5sJdKPkpTaK/5ng=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "YQoJcb6HC6z8g/wI3nOmhwvqF+h+81TIe+8lLP7VAoHWbunNNPY1nzARmnpudbEBTAAdiWYR7MwEH/FH8/t5X1dzUntgZCXznXgvE3jgKWYuSS+MzM0/+hGGLWOEP1N49fFtDH3mbM8foumElN1oyVXZypmYnWT5EQ4O",
-          "iv": "Z7IsrYjkpGI0CsMN",
-          "salt": "4yjjsnj7VOdzUt2xx1R2Eg=="
+          "ciphertext": "gENmU0WmnjpcJzy/ESI3PI2psmoPzZYK3Yfgw7/gHxU+MVDaBXcDmNleCeBavp4JUBXwjQw7ZEqOGAlfJ5ZWBlSf2h1mRUxFXXr5z6ykB8cTKW09yxMsnaj99Mdq/8F/Nq8J9cCXHKjK154Csc4JMLan5lDqD8lqL3Ne",
+          "iv": "0jiBV/RA3RpWA5w1",
+          "salt": "HmDNRT35SZQNzjIPEpSjkg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "6q3MEwkt22Mp2tA+fTPgXf1eGzIp7h6tE9zESBxa9n28l5Ajmn4go+s5h9kjtc37UaDm87C58Pqi6myd8gk8yexraMJEHz3N1uNY4PZMtD45RTPr9piD3e2CCQXmdg6WzHtH5XnzLJJymdiBTSdQ7/VOwx4CySXboX4pv72JaUkG3j9GBQPcpccR7zR6ne9Q2dLlgKuh9I9RSnQhgUK14kGACV+NdBHbFTj02F1F83njI4IIg/8eLqux5C7yyYzfIRsL2d6gVu0HoYiBtG/K2NCMk85XJ6eRrbTqapykCcU0Rw7LYykzmetv/QtmRhAo2HNZuPqf",
-          "iv": "ozd03gVBwb0aI+Z2",
-          "salt": "o5pl73EWcUIevxnqVuD4TA=="
+          "ciphertext": "zRhWvs78+I1jdfJ1ITxaGh26R72rPRccu6z6KUl3WAPRUGN3x3n2F0+OEyVZQ79xo1Jv4WfNGhKc8HKWmZi2jIALIT+iDUTnUJuufdoN3SqleiM+wZvqB0iAPci0ciB3hS1RyOUwmWp/HiQkPF5WwT2DjnED3N0c3XUl7e2yaK4ojsWuniSZ4vQH2PCtMDEqKLHUH7/YhMX1CpQIBCOu1H69RpffsTM/TxuRRCDAOY8+E7+5IobIFuHDljmYZW58siRch07YO93ROvcKE7AEowtjgXv9Ye3RuR5cDekGEy5ULLcpCK4Gt1TKBnzki2ubzZKhHr5H",
+          "iv": "Po8DTHbMoxNuhI0S",
+          "salt": "s5KG0U+bFdSTNxB2DzwO0g=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -348,14 +348,24 @@ window.EDITION_DATA = {
           "h": "Language Practice",
           "items": [
             {
-              "t": "die Versicherung",
-              "b": "<span class=\"jt\" data-g=\"lang_dieversicherung\">die Versicherung</span> — Insurance.",
-              "src": "German B1 practice"
+              "t": "der Gegenstand",
+              "b": "<span class=\"jt\" data-g=\"lang_dergegenstand\">der Gegenstand</span> — the object <span class=\"gram\">(plural: ¨-e)</span>",
+              "src": "Goethe B1 · p.44"
             },
             {
-              "t": "die Anmeldung",
-              "b": "<span class=\"jt\" data-g=\"lang_dieanmeldung\">die Anmeldung</span> — Residence registration — the mandatory first step after moving to a German address.",
-              "src": "German B1 practice"
+              "t": "das Gegenteil",
+              "b": "<span class=\"jt\" data-g=\"lang_dasgegenteil\">das Gegenteil</span> — the opposite <span class=\"gram\">(plural: -e)</span>",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "gegenüber",
+              "b": "<span class=\"jt\" data-g=\"lang_gegenüber\">gegenüber</span> — opposite",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "das Gehalt",
+              "b": "<span class=\"jt\" data-g=\"lang_dasgehalt\">das Gehalt</span> — the salary <span class=\"gram\">(plural: ¨-er)</span>",
+              "src": "Goethe B1 · p.44"
             }
           ]
         }
@@ -402,6 +412,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "Residence registration — the mandatory first step after moving to a German address.",
       "w": "Everything else (bank account, tax ID, health insurance) depends on this being done first."
+    },
+    "lang_dergegenstand": {
+      "t": "der Gegenstand",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The object",
+      "w": "“Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.”"
+    },
+    "lang_dasgegenteil": {
+      "t": "das Gegenteil",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The opposite",
+      "w": "“Das Gegenteil von „klein“ ist „groß“.”"
+    },
+    "lang_gegenüber": {
+      "t": "gegenüber",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Opposite",
+      "w": "“Das Geschäft liegt direkt gegenüber der Post.”"
+    },
+    "lang_dasgehalt": {
+      "t": "das Gehalt",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The salary",
+      "w": "“Ich bin mit meinem Gehalt zufrieden.”"
     }
   },
   "charts": {

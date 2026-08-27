@@ -38,5 +38,37 @@
     "lang": "de-DE",
     "d": "Residence registration — the mandatory first step after moving to a German address.",
     "w": "Everything else (bank account, tax ID, health insurance) depends on this being done first."
+  },
+  "lang_dergegenstand": {
+    "t": "der Gegenstand",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The object",
+    "w": "“Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.”"
+  },
+  "lang_dasgegenteil": {
+    "t": "das Gegenteil",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The opposite",
+    "w": "“Das Gegenteil von „klein“ ist „groß“.”"
+  },
+  "lang_gegenüber": {
+    "t": "gegenüber",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Opposite",
+    "w": "“Das Geschäft liegt direkt gegenüber der Post.”"
+  },
+  "lang_dasgehalt": {
+    "t": "das Gehalt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The salary",
+    "w": "“Ich bin mit meinem Gehalt zufrieden.”"
   }
 }

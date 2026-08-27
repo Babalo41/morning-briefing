@@ -120,6 +120,53 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--card)}
 .chip .c{font-family:var(--mo);font-size:10.5px;opacity:.6;margin-left:5px}
 
+/* ── story rail ── */
+.srail{display:flex;gap:14px;overflow-x:auto;padding:2px 2px 16px;scrollbar-width:none}
+.srail::-webkit-scrollbar{display:none}
+.sring{flex:none;display:flex;flex-direction:column;align-items:center;gap:6px;width:60px}
+.sring .sc{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;
+  background:var(--card);border:2.5px solid var(--rec)}
+.sring.unread .sc{border-color:var(--red)}
+.sring .sc span{font-family:var(--rd);font-size:19px;font-weight:600;color:var(--ink)}
+.sring .lab{font-size:10.5px;color:var(--muted);text-align:center;line-height:1.25;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.sring.unread .lab{color:var(--ink);font-weight:600}
+.lede[data-act="story"]{cursor:pointer}
+
+/* ── full-screen story viewer ── */
+.stories{position:fixed;inset:0;z-index:70;display:none;flex-direction:column;
+  touch-action:none;--sbg:#121211;--sfg:#F2F1EC;background:var(--sbg)}
+.stories.on{display:flex}
+.st-top{padding:calc(10px + env(safe-area-inset-top)) 12px 0;flex:none}
+.st-segs{display:flex;gap:4px;margin-bottom:10px}
+.sseg{flex:1;height:3px;border-radius:2px;background:rgba(255,255,255,.28);overflow:hidden}
+.sfill{display:block;height:100%;width:0;background:var(--sfg);border-radius:2px}
+.sfill.done{width:100%!important}
+.sfill.run{animation:sfill linear forwards;animation-duration:var(--sdur,5s)}
+.stories.paused .sfill.run{animation-play-state:paused}
+@keyframes sfill{from{width:0}to{width:100%}}
+.st-head{display:flex;align-items:center;gap:9px;padding-bottom:11px}
+.st-sec{font-size:13px;font-weight:700;color:var(--sfg);flex:1;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.st-cnt{font-family:var(--mo);font-size:10.5px;color:rgba(255,255,255,.6)}
+.st-x{width:30px;height:30px;display:grid;place-items:center;color:var(--sfg);font-size:17px;flex:none}
+.st-stage{flex:1;position:relative;display:flex;align-items:center;padding:0 22px;overflow:hidden}
+.st-card{width:100%;max-width:520px;margin:0 auto;color:var(--sfg)}
+.st-card .sk{font-family:var(--mo);font-size:11px;color:rgba(242,241,236,.6);
+  letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px}
+.st-card h2{font-family:var(--rd);font-size:26px;font-weight:600;line-height:1.32;
+  margin:0 0 16px;letter-spacing:-.01em;text-wrap:balance}
+.st-card p{font-family:var(--rd);font-size:17px;line-height:1.65;
+  color:rgba(242,241,236,.9);margin:0 0 16px}
+.st-card .ssrc{font-family:var(--ui);font-size:12.5px;color:rgba(242,241,236,.62);
+  text-decoration:underline;text-underline-offset:2px}
+.st-star{position:absolute;top:14px;right:14px;width:38px;height:38px;
+  display:grid;place-items:center;color:var(--sfg);z-index:2}
+.st-star svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.8;
+  stroke-linecap:round;stroke-linejoin:round}
+.st-star[aria-pressed="true"]{color:var(--red)}
+.st-star[aria-pressed="true"] svg{fill:currentColor}
+
 /* group */
 .group{margin-bottom:14px}
 .ghead{display:flex;align-items:baseline;gap:8px;padding:0 4px 7px}
@@ -164,6 +211,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .teach .tb{font-family:var(--rd);font-size:15px;line-height:1.6;color:var(--ink2);padding-bottom:6px}
 .teach .tb p{margin:0 0 8px}.teach .tb p:last-child{margin:0}
 
+.gram{font-family:var(--mo);font-size:12.5px;color:var(--faint)}
 .term{border-bottom:1px dotted var(--red);cursor:pointer;padding:0;font:inherit}
 .term::after{content:"?";font-family:var(--ui);font-size:9px;font-weight:700;color:var(--red);
   vertical-align:super;margin-left:1px}

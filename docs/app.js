@@ -25,6 +25,8 @@ const store={
 let stars=store.get("stars",[]), reads=store.get("reads",[]);
 let curEd=EDITIONS.length?EDITIONS[0].id:null, curTab="today", filter="all", query="";
 const uid=(ed,bi,ii)=>ed+"|"+bi+"|"+ii;
+let storyGroups=[], storyGi=0, storySi=0, storyEdId=null;
+let storyTimer=null, storyRemainMs=0, storyStartTs=0;
 
 /*═══════════════════════════════════════════════════════════════════
   ENCRYPTION GATE — sensitive blocks/items ship as
@@ -205,6 +207,125 @@ function match(it,b,ed){
   return (it.t+" "+strip(it.b)+" "+b.h+" "+ed.date).toLowerCase().includes(q);
 }
 
+/* ── stories (Instagram-style swipe-through) ── */
+function buildStoryGroups(ed){
+  const groups=[{h:"Today",special:"lede",items:[{}]}];
+  ed.blocks.forEach((b,bi)=>{
+    if(b.encrypted)return;
+    const items=(b.items||[]).map((it,ii)=>({it,ii})).filter(o=>!o.it.encrypted);
+    if(!items.length)return;
+    groups.push({h:b.h,bi,items});
+  });
+  return groups;
+}
+function renderStoryRail(ed){
+  const groups=buildStoryGroups(ed);
+  return `<div class="srail">${groups.map((g,gi)=>{
+    const unread=g.special==="lede"?!reads.includes("lede|"+ed.id)
+      :g.items.some(o=>!reads.includes(uid(ed.id,g.bi,o.ii)));
+    const letter=g.special==="lede"?"☀":g.h.charAt(0);
+    return `<button class="sring${unread?" unread":""}" data-act="story" data-si="${gi}">
+      <span class="sc"><span>${esc(letter)}</span></span>
+      <span class="lab">${esc(g.special==="lede"?"Today":g.h)}</span>
+    </button>`;
+  }).join("")}</div>`;
+}
+function openStories(startGi){
+  const ed=EDITIONS.find(e=>e.id===curEd); if(!ed||ed.encrypted)return;
+  storyGroups=buildStoryGroups(ed); storyEdId=ed.id;
+  storyGi=Math.min(Math.max(0,startGi||0),storyGroups.length-1);
+  storySi=0;
+  $("#stories").classList.add("on"); $("#stories").classList.remove("paused");
+  $("#stories").setAttribute("aria-hidden","false");
+  renderStorySlide();
+}
+function closeStories(){
+  clearTimeout(storyTimer);
+  $("#stories").classList.remove("on","paused");
+  $("#stories").setAttribute("aria-hidden","true");
+  paint();
+}
+function armStoryTimer(ms){
+  clearTimeout(storyTimer);
+  storyRemainMs=ms; storyStartTs=Date.now();
+  storyTimer=setTimeout(nextStory,ms);
+}
+function pauseStories(){
+  $("#stories").classList.add("paused");
+  clearTimeout(storyTimer);
+  storyRemainMs=Math.max(50,storyRemainMs-(Date.now()-storyStartTs));
+}
+function resumeStories(){
+  $("#stories").classList.remove("paused");
+  storyStartTs=Date.now();
+  storyTimer=setTimeout(nextStory,storyRemainMs);
+}
+function nextStory(){
+  const g=storyGroups[storyGi]; if(!g)return closeStories();
+  if(storySi<g.items.length-1){storySi++}
+  else if(storyGi<storyGroups.length-1){storyGi++;storySi=0}
+  else return closeStories();
+  renderStorySlide();
+}
+function prevStory(){
+  if(storySi>0){storySi--}
+  else if(storyGi>0){storyGi--;storySi=storyGroups[storyGi].items.length-1}
+  else return;
+  renderStorySlide();
+}
+function renderStorySlide(){
+  const g=storyGroups[storyGi]; if(!g)return closeStories();
+  const ed=EDITIONS.find(e=>e.id===storyEdId); if(!ed)return closeStories();
+  $("#stSegs").innerHTML=g.items.map((_,i)=>
+    `<div class="sseg"><span class="sfill ${i<storySi?"done":i===storySi?"run":""}"></span></div>`).join("");
+  $("#stSec").textContent=g.h;
+  $("#stCnt").textContent=(storyGi+1)+"/"+storyGroups.length;
+  $("#stStage").querySelector(".st-star")?.remove();
+  let cardHtml, words;
+  if(g.special==="lede"){
+    if(!reads.includes("lede|"+ed.id)){reads=[...reads,"lede|"+ed.id];store.set("reads",reads)}
+    cardHtml=`<div class="sk">${esc(ed.date)}</div><h2>${esc(ed.headline)}</h2><p>${esc(ed.stand)}</p>`;
+    words=strip(ed.stand).split(/\s+/).length;
+  } else {
+    const {it,ii}=g.items[storySi];
+    const id=uid(ed.id,g.bi,ii);
+    if(!reads.includes(id)){reads=[...reads,id];store.set("reads",reads)}
+    const on=stars.includes(id);
+    const src=it.u?`<a class="ssrc sctrl" href="${it.u}" target="_blank" rel="noopener">${esc(it.src)}</a>`
+                  :`<span class="ssrc">${esc(it.src)}</span>`;
+    cardHtml=`<div class="sk">${esc(g.h)}</div><h2>${esc(it.t)}</h2><p>${it.b}</p>${src}`;
+    $("#stStage").insertAdjacentHTML("beforeend",
+      `<button class="st-star sctrl" data-act="ststar" data-id="${id}" aria-pressed="${on}" aria-label="Save">${starSvg}</button>`);
+    words=strip(it.b).split(/\s+/).length;
+  }
+  $("#stCard").innerHTML=cardHtml;
+  wireTerms();
+  const ms=Math.max(3500,Math.min(10000,words*220));
+  const run=$("#stSegs .sfill.run");
+  if(run)run.style.setProperty("--sdur",ms+"ms");
+  armStoryTimer(ms);
+}
+let sdX=0,sdY=0,sdT=0,sHoldTimer=null,sIsHold=false,sDown=false;
+function stageDown(e){
+  if(e.target.closest(".sctrl")){sDown=false;return}
+  sDown=true;sdX=e.clientX;sdY=e.clientY;sdT=Date.now();sIsHold=false;
+  clearTimeout(sHoldTimer);
+  sHoldTimer=setTimeout(()=>{sIsHold=true;pauseStories()},220);
+}
+function stageUp(e){
+  if(!sDown)return; sDown=false; clearTimeout(sHoldTimer);
+  if(sIsHold){resumeStories();return}
+  const dx=e.clientX-sdX, dy=e.clientY-sdY;
+  if(Math.abs(dy)>80&&Math.abs(dy)>Math.abs(dx)){closeStories();return}
+  if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)){dx<0?nextStory():prevStory();return}
+  const rect=$("#stStage").getBoundingClientRect();
+  const relX=(e.clientX-rect.left)/rect.width;
+  relX<0.3?prevStory():nextStory();
+}
+$("#stStage").addEventListener("pointerdown",stageDown);
+$("#stStage").addEventListener("pointerup",stageUp);
+$("#stStage").addEventListener("pointercancel",()=>{sDown=false;clearTimeout(sHoldTimer);resumeStories()});
+
 /* ── panels ── */
 function renderToday(){
   if(!EDITIONS.length){$("#p-today").innerHTML=`<p class="empty">No edition yet. The pipeline hasn't run.</p>`;return}
@@ -215,8 +336,9 @@ function renderToday(){
     return;
   }
   const secs=ed.blocks.map(b=>b.h);
-  let h=`<div class="lede"><div class="d">${esc(ed.date)}</div>
+  let h=`<div class="lede" data-act="story" data-si="0"><div class="d">${esc(ed.date)}</div>
     <h2>${esc(ed.headline)}</h2><p>${esc(ed.stand)}</p></div>`;
+  h+=renderStoryRail(ed);
   h+=`<div class="chips"><button class="chip" data-f="all" aria-pressed="${filter==="all"}">All
     <span class="c">${ed.blocks.reduce((n,b)=>n+(b.encrypted?(b.count||0):b.items.length),0)}</span></button>`+
     secs.map(s=>{const b=ed.blocks.find(x=>x.h===s);
@@ -348,10 +470,10 @@ function wireTerms(){
 }
 function openTerm(k){
   const g=G[k];
+  const phon=g.ipa||g.resp?`<span class="ipa">${esc(g.ipa)}</span><span class="resp">${esc(g.resp)}</span>`:"";
   $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
     <div class="mk"></div><h5>${esc(g.t)}</h5>
-    <div class="phon"><span class="ipa">${esc(g.ipa)}</span><span class="resp">${esc(g.resp)}</span>
-      <button class="say" id="say">▶ Hear it</button></div>
+    <div class="phon">${phon}<button class="say" id="say">▶ Hear it</button></div>
     <p class="def">${esc(g.d)}</p>
     <div class="why"><b>Why it matters to you</b>${esc(g.w)}</div>`;
   $("#sheet").classList.add("on");$("#scrim").classList.add("on");
@@ -393,6 +515,12 @@ function wireTips(){
 
 /* ── events ── */
 document.addEventListener("click",e=>{
+  const story=e.target.closest('[data-act="story"]'); if(story){openStories(Number(story.dataset.si));return}
+  const stx=e.target.closest('[data-act="stclose"]'); if(stx){closeStories();return}
+  const sts=e.target.closest('[data-act="ststar"]');
+  if(sts){const id=sts.dataset.id;
+    stars=stars.includes(id)?stars.filter(x=>x!==id):[...stars,id];
+    store.set("stars",stars);sts.setAttribute("aria-pressed",stars.includes(id));return}
   const tab=e.target.closest("[data-t]"); if(tab){go(tab.dataset.t);return}
   const chip=e.target.closest(".chip"); if(chip){filter=chip.dataset.f;renderToday();wireTerms();wireTips();return}
   const arc=e.target.closest(".arcrow"); if(arc){curEd=arc.dataset.ed;store.set("ed",curEd);go("today");return}
@@ -428,7 +556,15 @@ $("#searchBtn").addEventListener("click",()=>{
 });
 $("#q").addEventListener("input",e=>{query=e.target.value.trim();paint()});
 $("#scrim").addEventListener("click",closeSheet);
-document.addEventListener("keydown",e=>{if(e.key==="Escape")closeSheet()});
+document.addEventListener("keydown",e=>{
+  if($("#stories").classList.contains("on")){
+    if(e.key==="Escape")closeStories();
+    else if(e.key==="ArrowRight")nextStory();
+    else if(e.key==="ArrowLeft")prevStory();
+    return;
+  }
+  if(e.key==="Escape")closeSheet();
+});
 
 if("speechSynthesis" in window){try{speechSynthesis.getVoices()}catch(_){}}
 
