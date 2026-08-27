@@ -109,28 +109,32 @@ def _near_home_block(cfg: Config, glossary: dict) -> dict:
 
 
 def _language_block(cfg: Config, glossary: dict, day_index: int) -> dict:
-    import yaml
+    import json
     from pipeline.config import CONFIG_DIR
-    path = CONFIG_DIR / "language_practice.yaml"
+    path = CONFIG_DIR / "language_pool.json"
     vocab = []
     if path.exists():
         with open(path, "r", encoding="utf-8") as f:
-            vocab = (yaml.safe_load(f) or {}).get("vocab", [])
+            vocab = json.load(f)
     if not vocab:
-        return {"h": "Language Practice", "items": [{"t": "No vocab loaded", "b": "Add entries to config/language_practice.yaml.", "src": "system"}]}
+        return {"h": "Language Practice", "items": [{"t": "No vocab loaded", "b": "Add entries to config/language_pool.json.", "src": "system"}]}
 
-    pick = [vocab[day_index % len(vocab)], vocab[(day_index + 1) % len(vocab)]]
+    per_day = 4
+    start = (day_index * per_day) % len(vocab)
+    pick = [vocab[(start + i) % len(vocab)] for i in range(per_day)]
     items = []
     for v in pick:
         term_id = "lang_" + "".join(ch for ch in v["term"].lower() if ch.isalnum())
+        why = f"“{v['example']}”" if v.get("example") else "Goethe-Zertifikat B1 exam vocabulary."
         glossary[term_id] = {
-            "t": v["term"], "ipa": v["ipa"], "resp": v["respelling"], "lang": "de-DE",
-            "d": v["definition"], "w": v["why_it_matters"],
+            "t": v["term"], "ipa": "", "resp": "", "lang": "de-DE",
+            "d": v["en"][:1].upper() + v["en"][1:], "w": why,
         }
+        gram = f' <span class="gram">({v["grammar"]})</span>' if v.get("grammar") else ""
         items.append({
             "t": v["term"],
-            "b": f'<span class="jt" data-g="{term_id}">{v["term"]}</span> — {v["definition"]}',
-            "src": "German B1 practice",
+            "b": f'<span class="jt" data-g="{term_id}">{v["term"]}</span> — {v["en"]}{gram}',
+            "src": f"Goethe B1 · p.{v.get('page', '?')}",
         })
     return {"h": "Language Practice", "items": items}
 
