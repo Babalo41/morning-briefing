@@ -1,27 +1,27 @@
 {
   "istqb": {
-    "term": "ISTQB",
+    "t": "ISTQB",
     "ipa": "/ˌaɪ.ɛs.tiː.kjuː.biː/",
-    "respelling": "eye-ess-tee-kyoo-bee",
+    "resp": "eye-ess-tee-kyoo-bee",
     "lang": "en-GB",
-    "definition": "The International Software Testing Qualifications Board — the body behind the most widely recognized software-testing certification scheme.\n",
-    "why_it_matters": "An ISTQB cert is the credential recruiters filter on most often in QA/test automation postings — worth tracking news from the board directly.\n"
+    "d": "The International Software Testing Qualifications Board — the body behind the most widely recognized software-testing certification scheme.\n",
+    "w": "An ISTQB cert is the credential recruiters filter on most often in QA/test automation postings — worth tracking news from the board directly.\n"
   },
   "mcdc": {
-    "term": "MC/DC",
+    "t": "MC/DC",
     "ipa": "/ˌɛm.siːˌdiːˈsiː/",
-    "respelling": "em-see-dee-see",
+    "resp": "em-see-dee-see",
     "lang": "en-GB",
-    "definition": "Modified Condition/Decision Coverage — a strict test-coverage criterion requiring every condition in a compound boolean to be shown, on its own, to change the outcome.\n",
-    "why_it_matters": "ISO 26262 requires it at higher safety levels — a term worth recognizing instantly in automotive/embedded QA postings.\n"
+    "d": "Modified Condition/Decision Coverage — a strict test-coverage criterion requiring every condition in a compound boolean to be shown, on its own, to change the outcome.\n",
+    "w": "ISO 26262 requires it at higher safety levels — a term worth recognizing instantly in automotive/embedded QA postings.\n"
   },
   "csms": {
-    "term": "CSMS",
+    "t": "CSMS",
     "ipa": "/ˌsiːɛsɛmˈɛs/",
-    "respelling": "see-ess-em-ess",
+    "resp": "see-ess-em-ess",
     "lang": "en-GB",
-    "definition": "Cyber Security Management System — the certified process UNECE R155 requires carmakers to run across a vehicle's whole life.\n",
-    "why_it_matters": "Regulatory floor under automotive security testing — demand for these skills is written into law, not fashion.\n"
+    "d": "Cyber Security Management System — the certified process UNECE R155 requires carmakers to run across a vehicle's whole life.\n",
+    "w": "Regulatory floor under automotive security testing — demand for these skills is written into law, not fashion.\n"
   },
   "lang_dieversicherung": {
     "t": "die Versicherung",

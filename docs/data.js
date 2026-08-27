@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-27T21:13:05.837265+02:00",
+  "generated_at": "2026-08-27T21:16:56.568391+02:00",
   "editions": [
     {
       "id": "2026-08-27",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "27",
       "mon": "Aug",
       "date": "Thursday 27 August 2026",
-      "headline": "Briefing refreshed 21:13 Berlin time",
-      "stand": "Automatically rebuilt at 21:13 — 9 sections tracked.",
+      "headline": "Briefing refreshed 21:16 Berlin time",
+      "stand": "Automatically rebuilt at 21:16 — 9 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "7Ny4TsHic6ukclIlHfbBHfmJdKRXWh7yHJyuk9urUYxld7SaxyO17O/6SfDLJ7H5M4Ay7VGcCrlt3X56E3Yadxz0GYSBTqFmfI9g+EZQU3qOD3Ki4ei0pKxiyk4sWchYUaYyZMJS45HV7Ijf4roKXzddb4D+WlyVtOFzH7ysS/vik75nEgo0",
-          "iv": "bSE8rJ66rxCd4IPk",
-          "salt": "dtogD51pYV+oqSX+A1e9wQ=="
+          "ciphertext": "wE69+RUqKfLd/Jz8dZ/OJf4Jon+s1pfNnXgXIMOcqm3pvu4Z36mhD3JKDlvA2atb/Gd6Be+ebN9cIsZNYVhWHs6lXY/8y88//Ls4mYKiSlA3StdhgBDWLwmvGNr44shx/Stv2VTb4Q2rNYkIHWejuYn+F2QNqRpBFAIHK0mpnevI5nhhxuhg",
+          "iv": "Z2UqioLhjlBfw0Nm",
+          "salt": "0MkZRN/I+BbR7q8roCgcUA=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "xx8IsUb2WH0XCNgL/+PSvUSM5w5KjZMj8oL7jsBbNxdO3g4DpoMdxhOfDPuNU9Bk0tfIv8pLE7OIDacXKoYN1s58NEOiH6dNtlAJjpe5+WcJDpbwMU1UbTbDJixq617emMhcZoVcIOQ2MoeJC8jzyALLWdat74jAByyi",
-          "iv": "54/VLp6N16wr5b6w",
-          "salt": "WCEl0AQ/BPxxK1AmTOAX/A=="
+          "ciphertext": "RjtINLmG09R0iaTQJjHCVBR1Qa1WWTZjqK+hHzBcstFFOfsvtnkL02SkFwywvIhGerN+jlQdmXozxV9UcZ2eWei7M5u0VVZYImVvKLYUX+SYpJ9aH9fw2Qq/P32r+UaLEpSgyNR7bX1NmMHMP/30sMI73WEbmLdyUiao",
+          "iv": "+D9AbL11aataPl4w",
+          "salt": "AoRL7jyjnMzJQ09zprCxUA=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "nbryz8LnpthVOPdrA7vEehdDMWIXhQyniO2N31za32H0rJZgJeyjl+yiBVwaWx6CLXmC1tG+R1dmiXfwSim5WnD4VLc5oNYOKzzfJwGm8p1OB2PgUbyRo3Tlmr4POUxI0C2fMpPYOYOdpE3vRwL1HRHfxROQOF6fyiplVCBV2e9EMDa4Uevpp4ck+RxPWVkInEnaPSGFtT4aMeZXHc6JHjEFFwQSXVAQDuDY8hn/wklBno1P5fhbLD7IBd0bl+ewdH8tGdn9adI+hJgSnyNDZq4EI0qd5PKuATu+wc4LsJoUH/EL+PcafZxyJBpEMBgnJn24dT83",
-          "iv": "N8Bw0JdHIaBTdycC",
-          "salt": "en6KPi2WOmfZgr6a5KRG+Q=="
+          "ciphertext": "cByBUXgPBSsydxbEQXMYUoX3h7rzIn8tFs1MAygoDgZ4WDjoda1Gsn9CKaUZdqdmvXleVurjFee2x5g4e8CcpL8RfYrdtNTq5j49DmxgniYC1ybVAYbQvaztw8xcLyqYSXO+aNb8un+sPc8MZ3bGG/TeqaECIdWpt+vMru39CRoG02iVGVTRA3jBsJbjfqnHmtme9PlpzNznWBvXvLTqVD3Y2whCNr90L8dKdPKW3GP7m0mq+0L+EIpy/vars1nJfKqzCZHp5Ugw7bLjsT8UqnteWwq2Kt7uBtV8xRk01RJvbde4XibRYPPMPb397LAFAkgLxE2T",
+          "iv": "iw42Cto8aoDXk31l",
+          "salt": "GYxene4R1MX3mXJgZsxIXA=="
         },
         {
           "h": "Software Testing Field",
@@ -234,28 +234,28 @@ window.EDITION_DATA = {
   ],
   "glossary": {
     "istqb": {
-      "term": "ISTQB",
+      "t": "ISTQB",
       "ipa": "/ˌaɪ.ɛs.tiː.kjuː.biː/",
-      "respelling": "eye-ess-tee-kyoo-bee",
+      "resp": "eye-ess-tee-kyoo-bee",
       "lang": "en-GB",
-      "definition": "The International Software Testing Qualifications Board — the body behind the most widely recognized software-testing certification scheme.\n",
-      "why_it_matters": "An ISTQB cert is the credential recruiters filter on most often in QA/test automation postings — worth tracking news from the board directly.\n"
+      "d": "The International Software Testing Qualifications Board — the body behind the most widely recognized software-testing certification scheme.\n",
+      "w": "An ISTQB cert is the credential recruiters filter on most often in QA/test automation postings — worth tracking news from the board directly.\n"
     },
     "mcdc": {
-      "term": "MC/DC",
+      "t": "MC/DC",
       "ipa": "/ˌɛm.siːˌdiːˈsiː/",
-      "respelling": "em-see-dee-see",
+      "resp": "em-see-dee-see",
       "lang": "en-GB",
-      "definition": "Modified Condition/Decision Coverage — a strict test-coverage criterion requiring every condition in a compound boolean to be shown, on its own, to change the outcome.\n",
-      "why_it_matters": "ISO 26262 requires it at higher safety levels — a term worth recognizing instantly in automotive/embedded QA postings.\n"
+      "d": "Modified Condition/Decision Coverage — a strict test-coverage criterion requiring every condition in a compound boolean to be shown, on its own, to change the outcome.\n",
+      "w": "ISO 26262 requires it at higher safety levels — a term worth recognizing instantly in automotive/embedded QA postings.\n"
     },
     "csms": {
-      "term": "CSMS",
+      "t": "CSMS",
       "ipa": "/ˌsiːɛsɛmˈɛs/",
-      "respelling": "see-ess-em-ess",
+      "resp": "see-ess-em-ess",
       "lang": "en-GB",
-      "definition": "Cyber Security Management System — the certified process UNECE R155 requires carmakers to run across a vehicle's whole life.\n",
-      "why_it_matters": "Regulatory floor under automotive security testing — demand for these skills is written into law, not fashion.\n"
+      "d": "Cyber Security Management System — the certified process UNECE R155 requires carmakers to run across a vehicle's whole life.\n",
+      "w": "Regulatory floor under automotive security testing — demand for these skills is written into law, not fashion.\n"
     },
     "lang_dieversicherung": {
       "t": "die Versicherung",
