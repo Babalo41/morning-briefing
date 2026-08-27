@@ -1,0 +1,118 @@
+{
+  "wxtemp": {
+    "kind": "line",
+    "title": "29° is the high point this week in Bremen",
+    "sub": "Bremen, daily maximum temperature, °C",
+    "source": "Open-Meteo",
+    "xlabels": [
+      "08-27",
+      "08-28",
+      "08-29",
+      "08-30",
+      "08-31",
+      "09-01",
+      "09-02"
+    ],
+    "yticks": [
+      0,
+      10,
+      20,
+      30,
+      40
+    ],
+    "series": [
+      {
+        "name": "Max °C",
+        "hero": true,
+        "pts": [
+          [
+            0,
+            28.8
+          ],
+          [
+            1,
+            24.3
+          ],
+          [
+            2,
+            22.9
+          ],
+          [
+            3,
+            23.5
+          ],
+          [
+            4,
+            19.7
+          ],
+          [
+            5,
+            21.9
+          ],
+          [
+            6,
+            22.4
+          ]
+        ]
+      }
+    ]
+  },
+  "wxrain": {
+    "kind": "bar",
+    "title": "Rain chances peak at 90% this week in Bremen",
+    "sub": "Bremen, chance of precipitation, %",
+    "source": "Open-Meteo",
+    "catW": 76,
+    "rows": [
+      {
+        "k": "08-27",
+        "v": 20,
+        "lab": "20%",
+        "hero": false,
+        "tip": "29°C, Rain showers"
+      },
+      {
+        "k": "08-28",
+        "v": 90,
+        "lab": "90%",
+        "hero": true,
+        "tip": "24°C, Thunderstorm"
+      },
+      {
+        "k": "08-29",
+        "v": 58,
+        "lab": "58%",
+        "hero": false,
+        "tip": "23°C, Rain showers"
+      },
+      {
+        "k": "08-30",
+        "v": 68,
+        "lab": "68%",
+        "hero": false,
+        "tip": "24°C, Light rain"
+      },
+      {
+        "k": "08-31",
+        "v": 84,
+        "lab": "84%",
+        "hero": false,
+        "tip": "20°C, Rain showers"
+      },
+      {
+        "k": "09-01",
+        "v": 26,
+        "lab": "26%",
+        "hero": false,
+        "tip": "22°C, Overcast"
+      },
+      {
+        "k": "09-02",
+        "v": 43,
+        "lab": "43%",
+        "hero": false,
+        "tip": "22°C, Light rain"
+      }
+    ]
+  }
+}
