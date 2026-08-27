@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-27T21:20:32.366199+02:00",
+  "generated_at": "2026-08-27T21:31:28.522944+02:00",
   "editions": [
     {
       "id": "2026-08-27",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "27",
       "mon": "Aug",
       "date": "Thursday 27 August 2026",
-      "headline": "Briefing refreshed 21:20 Berlin time",
-      "stand": "Automatically rebuilt at 21:20 — 9 sections tracked.",
+      "headline": "Briefing refreshed 21:31 Berlin time",
+      "stand": "Automatically rebuilt at 21:31 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "Zma9FU0skl4Gd+F07qa78q+DLRQ4zjJrJ6Kac0tzdATUqMO+4pna8PARxx7AH3UNKXY4KJyHPfJLve/zd5z7DI3OOrV7I4jowfoWDbGsPtbTKhrHMqrGFiPUirc/bCAYmQbYHtsXQiGDVVGITI4aSxTTWNhb4hgi4Ary96Mao7V/tXzWJpQR",
-          "iv": "IbNJ2iJIKNcqrZ/K",
-          "salt": "CVXLrrLtSRIEBI+kZJYTcQ=="
+          "ciphertext": "BfI1wiNFcf7d4vnKjjqMuMbPqPFkHA4huXX7VVjbfkTGBqNUoVnabmTpVbVXgp4DRVVRHuRuo+2X4nOphWjPHCwhOGD5Nl8BGndrakA0AV5I+W/bEAxxvgTG+7XttpkKeLvPOMbPaljd9DxEygaxBFhKrh0ChUos/8Y2VzUjtmHdxbcIKGct",
+          "iv": "U8Ql4buYj8XRbsYu",
+          "salt": "XonYKfqj6CpeVc1+WrlClg=="
         },
         {
           "h": "Weather",
@@ -42,20 +42,20 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "V3NuV9l5F+LnSykmMJjwC/cLTlmFwVHa0+7rg5fK0iztvdUfIrTsd65MVY6bCra/zJBIlW+qNDycQ2imxIbaaePLpgIyhN55jEZ2NDdU0keWrJE5jkoIlgnI/O7Y9r9UVz+GKesJ/FIGqdVVQzSfJJOe7KCjTvfBA1l8",
-          "iv": "6DKzKd3Cr6uOa9nb",
-          "salt": "qdQlICew3MMFUVhrxPP3SQ=="
+          "ciphertext": "yaQ4zlFZjuRbCBfSSQO4rehcIeTRIo0mYe4Y7ti43GGs9LL7+e2oZnIMDGpLu+nOV6HqCUhjVT5ABAdjvg3hhPW4muwr+6m9OMwg8GRJfJO7Y0CFABHiZSv8WX/lQwAhCfid+KaXqWn/KSKD3Ll6WSf3GfhdZzUYLM6k",
+          "iv": "OJPB3sjjTlItrh26",
+          "salt": "NoQNZKLw9ri+6onB5oNHhg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "BGc2KySXML0JHlDa1ElYkkC034az0H37xnllhnNJeSHV9NxR6VqHpKsx/N2q2qKZSYdSvloox7kmEfAvDz8FCh18LB81i1EJom3ifIekPzGTs7Me8xQ5UGnTb0xuadSjevmSU+8As5NUtIfNZR9YY4Plh8HJsYvFslEphtn+sh7dczjvlufUujUYsXtHQO8zPKtGhYyhFrsbYNzxH5XsWHr/Dq6bKrcEcGXGJeVppQT0yeEV6Mk2QQafbDb164pRArPSh1wj49+w7L+7x3a4mLm0T4MYfGbBrod7sInwn6x45+T20Z1PYKjpoIaXlxrPv4EZ4msq",
-          "iv": "5TCHh9mDiIjPpOUW",
-          "salt": "ZOmrVTlh109kXT572kQRUQ=="
+          "ciphertext": "HbwyNZ7eYwiS+E2EpmikSZnfOdxUh9r46BVh6EqZSxi7zsx2zTKzYPmcB2eS2SEOcFmJYWSuvcrlk3KdtvvOKrV70vso36xpMXQ/w67nRdcRMZx/vskQVuVaJK5iU24LnBy5QE0qKPOGkHuz3acQu6Z+xuAm34MW1GKlCatnmieCGo7HUWmuDcyGoNJBUBHrU6X11A3uVb35WKOkB8OaInlFoVBoMChn8LwFsXUDvxPALeEBADvkN1OSuhXPexYgmM79DSvKw6yhSkD0hOUpWUXUWpkOAzQoU7Jz6gATF7x8f5oYepSAuXbpblheRa2+aayw4GRu",
+          "iv": "4uxVgeryIeCtQiCi",
+          "salt": "xXM3vdXGa8sksu1UZQdQEQ=="
         },
         {
-          "h": "Software Testing Field",
+          "h": "ISTQB & Software Testing",
           "items": [
             {
               "t": "How do you handle manual testing + test automation at the same time?",
@@ -120,12 +120,142 @@ window.EDITION_DATA = {
           ]
         },
         {
-          "h": "Work & Industry",
+          "h": "Defense Electronics & Secure Networking",
           "items": [
             {
               "t": "No fresh items this run",
-              "b": "'Work & Industry' had nothing new to show — will keep checking.",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
               "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "Unable to hit subnet from VPN",
+              "b": "This one has me pulling my hair out.  FG2600F-------------------VPN 192.168,66.1/27 | 10.250,0.10 | FG 600F------------New subnet 10.8,0.1/25 10.250,0.9  We added a network that we need access to on our vpn. -New subnet is accessible from networks that originate from the 2600F -Address object for ne",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w01gqb/unable_to_hit_subnet_from_vpn/"
+            },
+            {
+              "t": "Multicast for new product solution",
+              "b": "I have a question regarding implementing a solution to a new problem I have. I've designed and will soon be launching a new product called the DigiBall, which is the worlds first smart cue ball for billiards (see digicue dot net). The ball advertises BLE packets with ball information around 10 times",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vzx6jx/multicast_for_new_product_solution/"
+            },
+            {
+              "t": "Automatic switch updates",
+              "b": "Had a discussion yesterday with IT director and others in our IT department. The IT director brought up automating switch updates so they wouldn’t have to have some one monitoring and performing the updates. Staging various locations on different evenings.  I’ve been doing networking for 30 years an",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vzs367/automatic_switch_updates/"
+            },
+            {
+              "t": "Cisco ASA - Azure VPN gateway redundany",
+              "b": "Hey all, What is the recommended best practice for establishing a route-based Site-to-Site VPN connection between a single Cisco ASA and an Azure VPN Gateway when the Azure side is configured with two public IP addresses? My understanding is that Azure typically uses the tunnels in an Active-Active ",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vzp2bi/cisco_asa_azure_vpn_gateway_redundany/"
+            },
+            {
+              "t": "How do we get 17 modbus address values from 1 network to another?",
+              "b": "Our munis is wanting to monitor/control 17 areas around the plant. We use modbus for our SCADA network on a 100.100.100.x network. We don't have enough 100.100.100.x addresses left to monitor 17 new sites. Our plan is to have: (17 new devices on 192.169.0.x) ->(router) -> (one device, modbus compata",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vzfb0d/how_do_we_get_17_modbus_address_values_from_1/"
+            },
+            {
+              "t": "SCALANCE WUM763 Module stucks at loading when I try \"Write Startup Config\"",
+              "b": "Hello Everyone, As the title says whenever I try to change something (Doesn't matter how small the change is could be the device name or anything) the loading icon stalls and after some time it refreshes the page and the changes I made are not saved. Also another thing whenever I try to go to \"Infor",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vz6gyt/scalance_wum763_module_stucks_at_loading_when_i/"
+            },
+            {
+              "t": "storm control action shutdown - on uplinks/downlinks",
+              "b": "I'm dealing with network engineer, that insist on using storm control action shutdown on ports between switches.  Then when we get accidental looped ports from time to time, the whole network gets put down, then recovery timer is set, so it will come back up again, only to be shut down again. then t",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vz5fnf/storm_control_action_shutdown_on_uplinksdownlinks/"
+            },
+            {
+              "t": "RADIUS issues",
+              "b": "So for reference I have a freeradius server, ruckus R350 APs and On my network I have 5 VLANs, and what I want to achieve is that based on the username and password the user uses, the get thrown into a certain VLAN. I set it up everything and the the system authenticates users but it does not dynami",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vyyfwe/radius_issues/"
+            },
+            {
+              "t": "PSA on syslog dedup: hashing the raw message doesn't work on most network gear",
+              "b": "Hi all, spent the last while dealing with this and figured it's worth writing up, since I've seen a few threads where people try to cut syslog volume with a dedup step and get basically nothing out of it.  The naive approach is to hash the message and drop repeats inside a time window. On applicatio",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vyvxox/psa_on_syslog_dedup_hashing_the_raw_message/"
+            },
+            {
+              "t": "Rant Wednesday!",
+              "b": "It's Wednesday! Time to get that crap that's been bugging you off your chest! In the interests of spicing things up a bit around here, we're going to try out a Rant Wednesday thread for you all to vent your frustrations. Feel free to vent about vendors, co-workers, price of scotch or anything else n",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vyfh2e/rant_wednesday/"
+            }
+          ]
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "Visualice the same subtask twice.",
+              "b": "I create a task, then I create a subtask and linked with mi task, but when i do a refresh, I visualice the same subtask twice, 1 linked in the task, and other in the main. Can you help me please? I only like visualice 1 task in list and cronogram at the same time.",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Visualice-the-same-subtask-twice/qaq-p/3281480"
+            },
+            {
+              "t": "should there be separate work item types to track bugs for QA Vs. Production",
+              "b": "What is the best practice - should there be separate work item types to track bugs for QA Vs. Production?We have a discussion going back and forth with the QA team. QA team is recommending to have a separate work item type for QA bugs (called issue) and  use the \"bug\" type for production issues.",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/should-there-be-separate-work-item-types-to-track-bugs-for-QA-Vs/qaq-p/3281471"
+            },
+            {
+              "t": "Jira Timeline shows parented Tasks and Sub-tasks as top-level rows (and duplicates them)",
+              "b": "On a team-managed business project (Jira Work Management), the Timeline view is rendering  issues TWICE at the same time: once correctly nested under their real parent, and once again as a top-level row, as siblings of the project's Epics. The flat copies have no expand chevron.Every one of those 22",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Jira-Timeline-shows-parented-Tasks-and-Sub-tasks-as-top-level/qaq-p/3281464"
+            },
+            {
+              "t": "The organization's sole administrator left the company; we need to regain ownership of the site.",
+              "b": "To the Atlassian Support Team,I am reaching out to request an urgent Site Ownership Takeover for our Atlassian instance.The former primary administrator of our organization has recently departed the company without delegating site administrator privileges to anyone else. As a result, we are currentl",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/The-organization-s-sole-administrator-left-the-company-we-need/qaq-p/3281432"
+            },
+            {
+              "t": "Export Jira Board to powerpoint",
+              "b": "What is the best or easiest way to export a Jira kanban board to a Microsoft PowerPoint slide?",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Export-Jira-Board-to-powerpoint/qaq-p/3281427"
+            },
+            {
+              "t": "How can I set up an inbox for CMS forwarding in a company managed business space?",
+              "b": "It does not seem it is possible to add the CSM Inbox to a business project, but I do not see anything in the docs that says this feature is limited to Software projects.",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/How-can-I-set-up-an-inbox-for-CMS-forwarding-in-a-company/qaq-p/3281424"
+            },
+            {
+              "t": "Why is there no indication on the app when a dashboard is unavailable?",
+              "b": "I used the app for quick access to information that I need on JIRA.I read online that some things like dashboards are unavailable on the JIRA app for viewability reasons or because the gadgets aren't ready for Android devices, which is fine whatever.But why is there no indication that is what is goi",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Why-is-there-no-indication-on-the-app-when-a-dashboard-is/qaq-p/3281333"
+            },
+            {
+              "t": "Which cert to register for",
+              "b": "Hello everyone.Im looking to transition into an analyst role,and I have noticed most of the roles require Jira but im unsure which cert to opursue as theres a number. Would really appreciate your input.Thank you",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Which-cert-to-register-for/qaq-p/3281328"
+            },
+            {
+              "t": "What career opportunities are available after completing a digital marketing course?",
+              "b": "I’m exploring career options after completing a digital marketing course. What kind of roles can beginners apply for, such as SEO, PPC, social media, or content marketing? I’d also like to know which skills are most useful for getting started in this field. ",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/What-career-opportunities-are-available-after-completing-a/qaq-p/3281273"
+            },
+            {
+              "t": "Would like to assign QE contact to components",
+              "b": "Similarly to the functionality of Bugzilla, I am looking for a way to assign a QE contact to a component. I would like the QE contact field to be automatically populated when a work item is assigned the component. Does anyone have any suggestions?Thanks! ",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Would-like-to-assign-QE-contact-to-components/qaq-p/3281270"
             }
           ]
         },
