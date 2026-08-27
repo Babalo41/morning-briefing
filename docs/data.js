@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-27T21:12:34.118481+02:00",
+  "generated_at": "2026-08-27T21:13:05.837265+02:00",
   "editions": [
     {
       "id": "2026-08-27",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "27",
       "mon": "Aug",
       "date": "Thursday 27 August 2026",
-      "headline": "Briefing refreshed 21:12 Berlin time",
-      "stand": "Automatically rebuilt at 21:12 — 9 sections tracked.",
+      "headline": "Briefing refreshed 21:13 Berlin time",
+      "stand": "Automatically rebuilt at 21:13 — 9 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "vQJ8FgTq0Kst4FaK+UiljG+jb4yFELOBaUSMv66fYfOq0JrXFIbq5pRl0TzzzihnFkxrs5Qo5eXR15h7c2g3+ad63wZbB0ZK8bLxgFawy2lAs1RzjiFKQTTqIh1XKSSFDojod1if+NKJkzc0w7PuFiDhkSMzsqkXuLk6bj9FndJo7MbyMUCQ",
-          "iv": "Z8+T8GTYDpHyQGcw",
-          "salt": "Ta9F8O7E9rbt78rrGBrhwQ=="
+          "ciphertext": "7Ny4TsHic6ukclIlHfbBHfmJdKRXWh7yHJyuk9urUYxld7SaxyO17O/6SfDLJ7H5M4Ay7VGcCrlt3X56E3Yadxz0GYSBTqFmfI9g+EZQU3qOD3Ki4ei0pKxiyk4sWchYUaYyZMJS45HV7Ijf4roKXzddb4D+WlyVtOFzH7ysS/vik75nEgo0",
+          "iv": "bSE8rJ66rxCd4IPk",
+          "salt": "dtogD51pYV+oqSX+A1e9wQ=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "VGSMD6W+LL4qEwILELMOy5WQm8WhVrjGT3LM4HEiCMz9tmXGmlPyucs/28uNGdUkSwoqtoXiz5cOcgwQADmnV3CZiGni+NvVkADhbOW8L9MRQ5Sa7rBJgJDmiY1BedhdthwgiT/rsONnjRDVA4G7NX4qkbIq0R6vnOYI",
-          "iv": "LtK+gc1L7JNUxaO7",
-          "salt": "qDz9fqShi5Mt1F37S1aixQ=="
+          "ciphertext": "xx8IsUb2WH0XCNgL/+PSvUSM5w5KjZMj8oL7jsBbNxdO3g4DpoMdxhOfDPuNU9Bk0tfIv8pLE7OIDacXKoYN1s58NEOiH6dNtlAJjpe5+WcJDpbwMU1UbTbDJixq617emMhcZoVcIOQ2MoeJC8jzyALLWdat74jAByyi",
+          "iv": "54/VLp6N16wr5b6w",
+          "salt": "WCEl0AQ/BPxxK1AmTOAX/A=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "ciUeZiRKAYIyfYgqNN3UfNxA3c9dQ/8uBgi++bYFteH6nWhbba6pZh1V+RhldpV8YPhZK1rF7wPA7qBDUic+lyIymZOyIa1vFy7MbnrI6ZlMqYG/QuEhiGkHBwEMlWPfxrqkyEgV2VIRu1RmphZFXtk3lyb/NNVy711GA2rRUoOf0Hf+zMiB2p4SYYMuQ7kZ1NTBLMm7dwzXux6+b6FOvApBgyehPjnINtL575wZEWaBPCwmBAswx3SFjg4/jjiy8ubU9apKqdPvU2tiazZjW8/0JASJoJIWNVtYD9OtDDTxhPodtE9q63/UH78tV5uW3hfo6U0F",
-          "iv": "PAOe8zfaXlmqVr1E",
-          "salt": "2fv5E6b8ZJPUtMNuBRi4Hg=="
+          "ciphertext": "nbryz8LnpthVOPdrA7vEehdDMWIXhQyniO2N31za32H0rJZgJeyjl+yiBVwaWx6CLXmC1tG+R1dmiXfwSim5WnD4VLc5oNYOKzzfJwGm8p1OB2PgUbyRo3Tlmr4POUxI0C2fMpPYOYOdpE3vRwL1HRHfxROQOF6fyiplVCBV2e9EMDa4Uevpp4ck+RxPWVkInEnaPSGFtT4aMeZXHc6JHjEFFwQSXVAQDuDY8hn/wklBno1P5fhbLD7IBd0bl+ewdH8tGdn9adI+hJgSnyNDZq4EI0qd5PKuATu+wc4LsJoUH/EL+PcafZxyJBpEMBgnJn24dT83",
+          "iv": "N8Bw0JdHIaBTdycC",
+          "salt": "en6KPi2WOmfZgr6a5KRG+Q=="
         },
         {
           "h": "Software Testing Field",
@@ -65,13 +65,13 @@ window.EDITION_DATA = {
             },
             {
               "t": "Is Automation Testing a Good Career for a Fresher in India?",
-              "b": "&amp;#x200B; I’m a fresher who has received an offer for a Verification &amp; Validation (V&amp;V) Test Engineer / Automation Testing role at a service-based company. During training, I was taught Java, Selenium, TestNG, Cucumber/BDD, Jenkins, Git, SQL, JIRA, and SonarQube. I’m not sure yet how much",
+              "b": "&#x200B; I’m a fresher who has received an offer for a Verification & Validation (V&V) Test Engineer / Automation Testing role at a service-based company. During training, I was taught Java, Selenium, TestNG, Cucumber/BDD, Jenkins, Git, SQL, JIRA, and SonarQube. I’m not sure yet how much of this I’l",
               "src": "Quality Assurance : articles and news about software testing",
               "u": "https://www.reddit.com/r/QualityAssurance/comments/1w00h4u/is_automation_testing_a_good_career_for_a_fresher/"
             },
             {
               "t": "Scrum process in your project",
-              "b": "How is the scrum process in your project? Does your project have story points equivalent to some hours? Does QA go on until the end of the sprint while the devs do get some breathing space at the end of the sprint to look into next sprint stories?  &#32; submitted by &#32;  /u/pnitish93   [link] &#3",
+              "b": "How is the scrum process in your project? Does your project have story points equivalent to some hours? Does QA go on until the end of the sprint while the devs do get some breathing space at the end of the sprint to look into next sprint stories?    submitted by    /u/pnitish93   [link]   [comments",
               "src": "Quality Assurance : articles and news about software testing",
               "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzylgk/scrum_process_in_your_project/"
             },
@@ -89,7 +89,7 @@ window.EDITION_DATA = {
             },
             {
               "t": "Looking for a website for manual testing practice",
-              "b": "I’m doing manual testing as part of my software testing course and need a real, working website where I can write test cases, test different functionalities, and report bugs. I’m not looking for a demo/practice site. Any suggestions would be really helpful!  &#32; submitted by &#32;  /u/Ok-Plastic-1",
+              "b": "I’m doing manual testing as part of my software testing course and need a real, working website where I can write test cases, test different functionalities, and report bugs. I’m not looking for a demo/practice site. Any suggestions would be really helpful!    submitted by    /u/Ok-Plastic-1578   [l",
               "src": "Quality Assurance : articles and news about software testing",
               "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzk8jx/looking_for_a_website_for_manual_testing_practice/"
             },
@@ -107,7 +107,7 @@ window.EDITION_DATA = {
             },
             {
               "t": "VETS, any advice for future QAs?",
-              "b": "Hello, I have just started my career in QA, it's my first day of school and I would like to read from you, seasoned people, what are some things you wish you knew when you started this career or if you have any useful wizards knowledge that can be helpful in this journey?  &#32; submitted by &#32;  ",
+              "b": "Hello, I have just started my career in QA, it's my first day of school and I would like to read from you, seasoned people, what are some things you wish you knew when you started this career or if you have any useful wizards knowledge that can be helpful in this journey?    submitted by    /u/Sea-C",
               "src": "Quality Assurance : articles and news about software testing",
               "u": "https://www.reddit.com/r/QualityAssurance/comments/1vyte2x/vets_any_advice_for_future_qas/"
             },
