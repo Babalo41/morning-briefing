@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-28T19:50:24.454873+02:00",
+  "generated_at": "2026-08-28T20:20:24.299535+02:00",
   "editions": [
     {
       "id": "2026-08-28",
@@ -7,29 +7,29 @@ window.EDITION_DATA = {
       "dnum": "28",
       "mon": "Aug",
       "date": "Friday 28 August 2026",
-      "headline": "Briefing refreshed 19:50 Berlin time",
-      "stand": "Automatically rebuilt at 19:50 — 11 sections tracked.",
+      "headline": "Briefing refreshed 20:20 Berlin time",
+      "stand": "Automatically rebuilt at 20:20 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "5NrE5ImcMVomdgwvWDQsqa0gRKbo3nAvmxH1iHDN1MmIJ8maJH2iWT0AcXWnS7MPQiA4PJAtgzj32QNUxSAqgj52GnFIHpSWlg4bvvMweXtXQ+uT60j7d9eCOk6ro7KORHCSOw2xQfjtbGCqtQMS9xVpo3pn2YOuqOAMvwF5WC7GzCafEe6K",
-          "iv": "pOjcUmoCFtHA/84a",
-          "salt": "5l49CRDhsR6775eg2DvLpw=="
+          "ciphertext": "bWC/7sU8pMBuaFeLnoQd3VFgXjHbel07vzhpH9IMgByrAULVwNgCns9RitGJ0GwB2+Z6fBmkc7qCss2NMhvBzv0E/sDHtXupI+AYXcMAeXeSI30oBJYeQuAMMivOX2ifljWsDw1mN5ueLi/y2kNajVbTJgMyGasQc8nzU48w8yFnohKg6XGX",
+          "iv": "cYYvr8l+YH4Dkpxo",
+          "salt": "Urua4KDXX85IrdmmJ7BuoA=="
         },
         {
           "h": "Weather",
           "stats": [
             {
-              "n": "22°",
+              "n": "18°",
               "l": "right now"
             }
           ],
           "items": [
             {
-              "t": "Bremen: rain showers, high 24°C",
-              "b": "Low 18°C, gusts to 37 km/h. 7-day outlook below.",
+              "t": "Bremen: overcast, high 24°C",
+              "b": "Low 17°C, gusts to 42 km/h. 7-day outlook below.",
               "src": "Open-Meteo"
             }
           ],
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "Byh+ek3m/d7FmgZ2/t4xxjgygpZBqmVmrV7/sZKaWFTS8i9EQSEblos2izPezMteAAFsLpqsf//lz607Hzsn1xb55vwi5L3yCLrG049Ionlb4zG5ERqiN+OG93B59baG1fZl3yrzf7dKhwlZTQrlrVSmAYgj02I0JU4J",
-          "iv": "e2sgc0uUpofgoI3g",
-          "salt": "6SvjdaTmkweZYzRTU/oo1w=="
+          "ciphertext": "MslPCBoOJ+g0P6pGRJQOLL0bEyVxsuwdzVpQRyZ0YqMKiSCjFYtqatuE/wJwGysUgSkNZYGRGFx7JquHPzsWjOMCQC3BpkDpSuNfagm6f1NDwgprptEvLp9oAKhR2bUibSTxGCGQFlOfwlV0Tie55R2CQjtshC4HlgBM",
+          "iv": "Pd/VzSDBK+9yGlPe",
+          "salt": "xJHvcF5o/eWCTYZCasFmsg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "HQ1fBMOIlMh9hbCI8obllki1OUPyjDh6pUWhGLZW6G2X+KwLJUyPQVn4R7wATk4DELjGg552zt0ybJo3Ugbt/8V6aAPy0491VVrEgv2deGa3t8MerQTteQdLJe5BHzIdeJI83bm5wU+f4y8amcpW5As7qoyQP4dF0Pe063zKOfjDszOsHIVx0y9JNKyoa4359R4BpCWmIG//zrOKH+2brvQ7M4rE3R+CP4MXoGNQx6aX9w7fIcU7F5lVR4iqepSPqu+Wy5Xpn8nyVl8zvKn9ZqsgaURJmqfCWjusGfQy6mFMPW/kN5erNRn1n2IK2zcuwGW1kxFp",
-          "iv": "uxmostdXXeiR8nOz",
-          "salt": "GAw5ew8qbazK0TCPSvH4IA=="
+          "ciphertext": "2y1kTprhx47hvE1ZPADjW08tiKBggBHsdi+Nlz9fqHQALy+23LR/XeCku7NEP6Ve4Bd8Tx+vSXR0ggmVm/V01+lI0rmRYvr3s1t69r3lYvFBWNdddFVQelXE42HqVok0I5Jm90l3XCeAFHouosQ9EeluUErCwkumQsGtcggP6eyzT5C3w88w250aQXxZyBZtNYTdLkdFVg4Bs4x4T2mGMLtB30CV8Jco+7/WC/nB+UZBvlAT7IJfcEz5m3NzMm66cWuWJW0W08dFJgtotMIcULfpZUtTgLLhTvKuGrzrMGHx5BL6XUkG04jj+U+9IwY1S/Z/snTR",
+          "iv": "36ZkR7QEeerLLaKj",
+          "salt": "j5YsKQe6q8TvYocEfzHWeQ=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -881,27 +881,27 @@ window.EDITION_DATA = {
             ],
             [
               1,
-              22.2
-            ],
-            [
-              2,
-              23.5
-            ],
-            [
-              3,
-              20.0
-            ],
-            [
-              4,
-              20.5
-            ],
-            [
-              5,
               22.1
             ],
             [
+              2,
+              22.7
+            ],
+            [
+              3,
+              20.4
+            ],
+            [
+              4,
+              20.1
+            ],
+            [
+              5,
+              21.2
+            ],
+            [
               6,
-              17.5
+              20.2
             ]
           ]
         }
@@ -909,16 +909,16 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 90% this week in Bremen",
+      "title": "Rain chances peak at 100% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
           "k": "08-28",
-          "v": 88,
-          "lab": "88%",
-          "hero": false,
+          "v": 100,
+          "lab": "100%",
+          "hero": true,
           "tip": "24°C, Thunderstorm"
         },
         {
@@ -930,38 +930,38 @@ window.EDITION_DATA = {
         },
         {
           "k": "08-30",
-          "v": 68,
-          "lab": "68%",
+          "v": 75,
+          "lab": "75%",
           "hero": false,
-          "tip": "24°C, Rain showers"
+          "tip": "23°C, Light rain"
         },
         {
           "k": "08-31",
-          "v": 90,
-          "lab": "90%",
-          "hero": true,
+          "v": 79,
+          "lab": "79%",
+          "hero": false,
           "tip": "20°C, Rain showers"
         },
         {
           "k": "09-01",
-          "v": 31,
-          "lab": "31%",
+          "v": 40,
+          "lab": "40%",
           "hero": false,
           "tip": "20°C, Rain showers"
         },
         {
           "k": "09-02",
-          "v": 70,
-          "lab": "70%",
+          "v": 46,
+          "lab": "46%",
           "hero": false,
-          "tip": "22°C, Light rain"
+          "tip": "21°C, Rain showers"
         },
         {
           "k": "09-03",
-          "v": 78,
-          "lab": "78%",
+          "v": 58,
+          "lab": "58%",
           "hero": false,
-          "tip": "18°C, Rain showers"
+          "tip": "20°C, Overcast"
         }
       ]
     }

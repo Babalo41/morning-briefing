@@ -31,27 +31,27 @@
           ],
           [
             1,
-            22.2
-          ],
-          [
-            2,
-            23.5
-          ],
-          [
-            3,
-            20.0
-          ],
-          [
-            4,
-            20.5
-          ],
-          [
-            5,
             22.1
           ],
           [
+            2,
+            22.7
+          ],
+          [
+            3,
+            20.4
+          ],
+          [
+            4,
+            20.1
+          ],
+          [
+            5,
+            21.2
+          ],
+          [
             6,
-            17.5
+            20.2
           ]
         ]
       }
@@ -59,16 +59,16 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 90% this week in Bremen",
+    "title": "Rain chances peak at 100% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
         "k": "08-28",
-        "v": 88,
-        "lab": "88%",
-        "hero": false,
+        "v": 100,
+        "lab": "100%",
+        "hero": true,
         "tip": "24°C, Thunderstorm"
       },
       {
@@ -80,38 +80,38 @@
       },
       {
         "k": "08-30",
-        "v": 68,
-        "lab": "68%",
+        "v": 75,
+        "lab": "75%",
         "hero": false,
-        "tip": "24°C, Rain showers"
+        "tip": "23°C, Light rain"
       },
       {
         "k": "08-31",
-        "v": 90,
-        "lab": "90%",
-        "hero": true,
+        "v": 79,
+        "lab": "79%",
+        "hero": false,
         "tip": "20°C, Rain showers"
       },
       {
         "k": "09-01",
-        "v": 31,
-        "lab": "31%",
+        "v": 40,
+        "lab": "40%",
         "hero": false,
         "tip": "20°C, Rain showers"
       },
       {
         "k": "09-02",
-        "v": 70,
-        "lab": "70%",
+        "v": 46,
+        "lab": "46%",
         "hero": false,
-        "tip": "22°C, Light rain"
+        "tip": "21°C, Rain showers"
       },
       {
         "k": "09-03",
-        "v": 78,
-        "lab": "78%",
+        "v": 58,
+        "lab": "58%",
         "hero": false,
-        "tip": "18°C, Rain showers"
+        "tip": "20°C, Overcast"
       }
     ]
   }
