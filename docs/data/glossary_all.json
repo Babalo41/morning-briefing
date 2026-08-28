@@ -102,5 +102,37 @@
     "lang": "de-DE",
     "d": "Belong",
     "w": "“Gehört Ihnen das Haus?”"
+  },
+  "lang_dergehsteigd": {
+    "t": "der Gehsteig (D",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The sidewalk (D",
+    "w": "“Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.”"
+  },
+  "lang_dasgeld": {
+    "t": "das Geld",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The money",
+    "w": "“Ich habe nicht genug Geld dabei.”"
+  },
+  "lang_dergeldautomat": {
+    "t": "der Geldautomat",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The ATM",
+    "w": "“Ich hole noch Geld vom Geldautomaten.”"
+  },
+  "lang_diegeldbörse": {
+    "t": "die Geldbörse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The wallet",
+    "w": "“Ich habe nur Kleingeld in meiner Geldbörse.”"
   }
 }

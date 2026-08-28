@@ -1,6 +1,431 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-28T23:50:25.129520+02:00",
+  "generated_at": "2026-08-29T00:20:23.665016+02:00",
   "editions": [
+    {
+      "id": "2026-08-29",
+      "day": "Sat",
+      "dnum": "29",
+      "mon": "Aug",
+      "date": "Saturday 29 August 2026",
+      "headline": "Briefing refreshed 00:20 Berlin time",
+      "stand": "Automatically rebuilt at 00:20 — 11 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "0d14AS5aKOamdvwa5lKLK5hbRF5fks+vhWnbLyGSPnJbBoGzzRE7Gfe/INHnZV4gCFnFv8FRkF3m+INzEyvn2xTPhsW+jMPxp7dwyIlpwK+6v1ZDZv5rDBKRC/Ok8KB8eSntvjnGjYxSxlzBPImX2ifFscu5AFdLAVY4xFLAsOCsOmbmAarq",
+          "iv": "xydD4j0g7IbFXVv3",
+          "salt": "Ilb4qlhskActtoc1+Si4/A=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "18°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 24°C",
+              "b": "Low 17°C, gusts to 42 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "ZJh7Wnx+1VNAfA2QdE/k7Waz4zumjiGaj0bv7uQOZr74KpmvHO4oWxR4640f0aLMkByEKrXNdR5JDwnI6IJg8QeLNq/fcLnMlCRTqgoKebBAkjTmeUZo4covLlmfeUmefEVvfH/wqEKVBhlbOKHgmRx0E9cF80NotVxf",
+          "iv": "XKRqzfUNxc5gLz8k",
+          "salt": "Zbt/BHjIL8teKxwa+MaIuQ=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "ntypfhtLwId2pvWHeTq8BCFYbw0HoR9MjTRowwyxRCBYvK1YbOWRnSoxLI9d4rbm50Th1yIpaQ6c5MAvO5I3w5iMf3ZYDEsSF6dsfI5NV5QuWIYOWLM5hnjsZWfQGOOuZ1xKuuDJEKA/J1ZhVOsO6QVs0zK0CObNHzajr83EHj1YjMYkI5BGakTTjhqgEaLgG9e0FcXpgJ0xd1baDk+/qWs4txrCWsE6NflyUoeQXPSrMlPDBO6v/CnZ0VWyRm6ZBfTd7g03fTGQRNYFoqVIt2WkNxN4D6BCL3PF0t7K6zCPDr+5tgsPG8b5jKIJQhHVj2z/o/6a",
+          "iv": "SFKqAyypISS1Jtxg",
+          "salt": "H6gpx3soEhzo8C6Ph5hiyg=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "Discussion: Transitioning From Software Development to QA",
+              "b": "Hey, I have seen a quite number of people transition their career from software development to quality assurance. I am trying to get answers for some queries and would appreciate any honest feedback.  Why did you quit Software Development (What made you do it) ? I have heard most QA Jobs are offshor",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0xbxf/discussion_transitioning_from_software/"
+            },
+            {
+              "t": "QA is dead, today at 12pm EST",
+              "b": "hey guys! I did a talk a month ago in Chicago called QA is Dead: What Now?  I'm doing an updated presentation today at 12pm EST if anyone wants to check it out. I got a lot of great feedback from engineering leaders and quality engineers so I thought I'd share it here if anyone was interested.  Hope",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0s412/qa_is_dead_today_at_12pm_est/"
+            },
+            {
+              "t": "🚀 Question from a colleague: Test Data Strategy in Playwright",
+              "b": "A colleague of mine asked me to post this question here and get some feedback from the Playwright community. He is considering a test data strategy with two modes: Fresh Data and Reuse Data. 🔹 Fresh Data Mode — CI / Full Regression For CI or full regression runs, generate unique test data for every ",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0nw6e/question_from_a_colleague_test_data_strategy_in/"
+            },
+            {
+              "t": "Need Guidance !!! Looking for career advice ^_^",
+              "b": "Hi everyone,I would really appreciate some guidance. I have close to total 10 years of experience in Test Automation, currently working as a Senior Test Automation Engineer with 3 years in current company.Unfortunately, there has been company-wide layoff with almost all QAE being affected and I am n",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0n1vo/need_guidance_looking_for_career_advice/"
+            },
+            {
+              "t": "I work for a training provider but am curious.",
+              "b": "Right now there is a huge demand with the ISO 9001 2026 Revision and people are scheduling for Lead Auditor Trainings out to November. I am curious what peoples plans look like for this implementation and what their timeframes are like. Are you waiting for it to die down or are you in the group of p",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w08gte/i_work_for_a_training_provider_but_am_curious/"
+            },
+            {
+              "t": "What do you do with a screenshot between taking it and sending it?",
+              "b": "I’m building a browser screenshot and annotation tool, and I’m trying to understand the steps existing tools don’t handle well. Think about the last screenshot you used for work:  What were you trying to explain? Did you edit it somewhere else before sending it? Where did it end up—a bug ticket, cha",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w04mtp/what_do_you_do_with_a_screenshot_between_taking/"
+            },
+            {
+              "t": "How do you handle manual testing + test automation at the same time?",
+              "b": "In my previous company, manual and automation teams are separate. My lead made sure that would be the case, and I was part of the automation team. However, I heard that it’s now expected for a tester to be both. So in my current company, I tried to do that. I am burnt out. I don’t know how to proper",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w038z0/how_do_you_handle_manual_testing_test_automation/"
+            },
+            {
+              "t": "Is Automation Testing a Good Career for a Fresher in India?",
+              "b": "&#x200B; I’m a fresher who has received an offer for a Verification & Validation (V&V) Test Engineer / Automation Testing role at a service-based company. During training, I was taught Java, Selenium, TestNG, Cucumber/BDD, Jenkins, Git, SQL, JIRA, and SonarQube. I’m not sure yet how much of this I’l",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w00h4u/is_automation_testing_a_good_career_for_a_fresher/"
+            },
+            {
+              "t": "Scrum process in your project",
+              "b": "How is the scrum process in your project? Does your project have story points equivalent to some hours? Does QA go on until the end of the sprint while the devs do get some breathing space at the end of the sprint to look into next sprint stories?    submitted by    /u/pnitish93   [link]   [comments",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzylgk/scrum_process_in_your_project/"
+            },
+            {
+              "t": "QA roles has changed",
+              "b": "Companies no longer hire team of SDETs ir QA. They hire just one that does everything along with AI and right set of tools. this person is responsible picking the right tools, setting up AI agent’s, cross team collab. Essentially you are an orchestrator. With that in mind you need to figure out how ",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzso59/qa_roles_has_changed/"
+            }
+          ]
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "PaperCut releases second emergency patch for exploited flaws",
+              "b": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
+            },
+            {
+              "t": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+              "b": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/"
+            },
+            {
+              "t": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+              "b": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/"
+            },
+            {
+              "t": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
+              "b": "The IT specialist began contacting a foreign government within days of being assigned to the DIA’s Insider Threat Division",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248"
+            },
+            {
+              "t": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+              "b": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/"
+            },
+            {
+              "t": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+              "b": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/"
+            },
+            {
+              "t": "Toy-making giant Hasbro disclose data breach affecting employees",
+              "b": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/"
+            },
+            {
+              "t": "CISA: Most exploited vulnerabilities should have been eradicated decades ago",
+              "b": "Organizational culture and systemic gaps in Secure by Design adoption blamed for sorry state of affairs",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
+            },
+            {
+              "t": "Industry that built the problem offers to sell you the solution",
+              "b": "100+ tech giants warn AI attacks are coming, skip the part where they pay for defenses",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207"
+            },
+            {
+              "t": "ServiceNow warns of three max severity security vulnerabilities",
+              "b": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+              "src": "BleepingComputer",
+              "u": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/"
+            }
+          ]
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "What do people use for labs these days?",
+              "b": "So, I have been at my current job for 6-7 years and I have become rusty on technologies and vendors I do not use daily and I got the itch to just run large complicated multivendor lab, try things and break things. Back in the day I was using EVE-NG to run Junos, IOS-XR, IOS-XE etc. Is this still the",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w10e8j/what_do_people_use_for_labs_these_days/"
+            },
+            {
+              "t": "I'm so tired of WiFi at my current job",
+              "b": "So I've been working as a network technician for the past 3 years and I've evolved so much these past years but certain parts of my job makes me wanna quit almost every day. I absolutely cannot stand WiFi issues, we have a few network technicians at my workplace but nobody can quite troubleshoot WiF",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0zszi/im_so_tired_of_wifi_at_my_current_job/"
+            },
+            {
+              "t": "Palo Alto n+1 deployment, 3-way handshake does not complete",
+              "b": "New Azure deployment. TCP traffic to an internet host is originating from a VM in a spoke VNet. The subnet to which the VM's NIC is attached has a UDR to the internal LB (version 2).  The SYN makes it to the internet host, the SYN ACK traverses the trusted side but never makes it to the VM to comple",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ywrv/palo_alto_n1_deployment_3way_handshake_does_not/"
+            },
+            {
+              "t": "Network Automation with NetBox + CI/CD - How?",
+              "b": "Hi r/networking, I am part of a small network team (4 people), having to manage and support a few hundred Cisco Catalyst switches/routers plus some Meraki gear, spread across ~100 sites. No budget for something like Catalyst Center, so we're working with what we've got:  NetBox (honestly pretty negl",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0q5bo/network_automation_with_netbox_cicd_how/"
+            },
+            {
+              "t": "question about stratoweave",
+              "b": "Hello everyone, just asking if anyone here used stratoweave ? how was your experience ? and how does it compare to NSO ?    submitted by    /u/NebulaLower5898   [link]   [comments]",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ogu1/question_about_stratoweave/"
+            },
+            {
+              "t": "iPhone 17 not connecting to 802.1be!?",
+              "b": "I don't usually touch wireless, but I got assigned to this ticket about my client having difficulty connecting to our secured network via 11be. He's using iPhone17 and its latest iOS version. I told him to forget the SSID and try to reconnect to the network, but it didn't work. One thing I haven't t",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0csjf/iphone_17_not_connecting_to_8021be/"
+            },
+            {
+              "t": "Blog/Project Post Friday!",
+              "b": "It's Read-only Friday! It is time to put your feet up, pour a nice dram and look through some of our member's new and shiny blog posts and projects. Feel free to submit your blog post or personal project and as well a nice description to this thread. Note: This post is created at 00:00 UTC. It may n",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ath3/blogproject_post_friday/"
+            },
+            {
+              "t": "Selector.ai - Anyone used this?",
+              "b": "Saw a demo recently of selector.ai The product makes a lot of claims and promises, but was curious if anyone had done a POC or deployed in the real world? How did it go? Hows it going? Curious on any feedback. TIA!    submitted by    /u/Commercial_Tone_3115   [link]   [comments]",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w08kx5/selectorai_anyone_used_this/"
+            },
+            {
+              "t": "Unable to hit subnet from VPN",
+              "b": "This one has me pulling my hair out.  FG2600F-------------------VPN 192.168,66.1/27 | 10.250,0.10 | FG 600F------------New subnet 10.8,0.1/25 10.250,0.9  We added a network that we need access to on our vpn. -New subnet is accessible from networks that originate from the 2600F -Address object for ne",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w01gqb/unable_to_hit_subnet_from_vpn/"
+            },
+            {
+              "t": "Multicast for new product solution",
+              "b": "I have a question regarding implementing a solution to a new problem I have. I've designed and will soon be launching a new product called the DigiBall, which is the worlds first smart cue ball for billiards (see digicue dot net). The ball advertises BLE packets with ball information around 10 times",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1vzx6jx/multicast_for_new_product_solution/"
+            }
+          ]
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "Has anyone found a workaround for the limitation that I cannot re-order either Filters or Shortcuts",
+              "b": "My shortcuts and Filters are constantly evolving . I  want the ability to re-order this without going through hoops like delete and re-adding, etc. Has anyone found a way around this? ",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Has-anyone-found-a-workaround-for-the-limitation-that-I-cannot/qaq-p/3281997"
+            },
+            {
+              "t": "unable to connect my Jira cloud addon for Outlook to Jira",
+              "b": "Hello,I used to be able to add issues directly from my outlook inbox to an existing issue without leaving the inbox. but now i cannot even log into jira (connect now button is doing its job). how to fix this issue?Kindly advise!thanks.",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/unable-to-connect-my-Jira-cloud-addon-for-Outlook-to-Jira/qaq-p/3281995"
+            },
+            {
+              "t": "I created scrum board from filters and I have issue with creating and managing sprint its greyed out",
+              "b": "I have multiple spaces in Jira. We want to start using the Agile approach, so I created a board using a filter that includes all the spaces I need to plan on the board.After creating the board, the problem I ran into is that the Create Sprint button is greyed out; I can't create a sprint or add item",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/I-created-scrum-board-from-filters-and-I-have-issue-with/qaq-p/3281972"
+            },
+            {
+              "t": "Issue connecting Jira with GitHub",
+              "b": "We are having an issue connecting Jira with GitHub. We are no longer able to connect Jira with GitHub when the person doing the connection is not an owner in the GitHub organisation. In the past, when a non-owner of an GitHub organisation connected Jira with GitHub they would get a link to send to a",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Issue-connecting-Jira-with-GitHub/qaq-p/3281966"
+            },
+            {
+              "t": "Automation: Creating a Variable with RegEx and using it inside another fuction",
+              "b": "Hello dear Atlassian-Community,I am currently trying to build something that would make an old automation of mine way shorter and incredibly more efficient, but the whole idea hinges on \"being able to create a RegEx dynamically and handing it over to another function\"Here is the functional part of m",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Automation-Creating-a-Variable-with-RegEx-and-using-it-inside/qaq-p/3281871"
+            },
+            {
+              "t": "How do creative teams manage photography projects from planning to delivery?",
+              "b": "I’m curious how other creative teams manage photography projects when there are multiple steps involved.For example, a photography project can include client communication, planning the shoot, organizing locations and equipment, completing the shoot, selecting images, editing, getting client feedbac",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/How-do-creative-teams-manage-photography-projects-from-planning/qaq-p/3281940"
+            },
+            {
+              "t": "I am getting error while trying to create a site",
+              "b": "",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/I-am-getting-error-while-trying-to-create-a-site/qaq-p/3281906"
+            },
+            {
+              "t": "Using double Pipe - Jira Assets Import Application",
+              "b": "HI All,I was following the following thread on how to import and reference multiple objects during Jira Import but it seems to not work.https://community.atlassian.com/forums/Jira-questions/Jira-Assets-I-m-importing-a-CSV-any-way-to-map-multiple-objects/qaq-p/3068344 My CSV file is set up as follows",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Using-double-Pipe-Jira-Assets-Import-Application/qaq-p/3281882"
+            },
+            {
+              "t": "Need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV",
+              "b": "We need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV. Currently if a Jira issue is moved from one sprint to another, the more sprints it gets pushed through, the more columns I end up having when exporting my filter view to e.g. CSV, and I first need to cle",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/Need-ability-to-report-on-Current-Sprint-in-a-single-Sprint/qaq-p/3281856"
+            },
+            {
+              "t": "BUG - Issues Disappeared",
+              "b": "HelloI hope i can get through to someone at atlassian as i cant raise a support ticket for some odd reason..All the issues on my Jira space have disappeared.  Gone from backlog, boards and releases. I've got something in the order of 1400 issues.Its like they have been removed from the index used to",
+              "src": "Jira questions questions",
+              "u": "https://community.atlassian.com/forums/Jira-questions/BUG-Issues-Disappeared/qaq-p/3281792"
+            }
+          ]
+        },
+        {
+          "h": "Near Home",
+          "items": [
+            {
+              "t": "Tracking: Bremen, Germany",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            },
+            {
+              "t": "Tracking: Bhavnagar, India",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            },
+            {
+              "t": "Tracking: Surat, India",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "Norway mourns King Harald as Haakon VIII ascends throne",
+              "b": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Satellite images reveal scale of flood devastation in Nepal villages",
+              "b": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+              "b": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Violence breaks out in Ceuta as migrant crisis continues",
+              "b": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+              "b": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Two-year curfew lifted in Sudan's capital",
+              "b": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+              "b": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Shootings surge as drug gangs torment Brussels",
+              "b": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "Dutch court sentences man to life over Rwanda genocide",
+              "b": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "t": "World's youngest reigning traditional monarch dies aged 34",
+              "b": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "der Gehsteig (D",
+              "b": "<span class=\"jt\" data-g=\"lang_dergehsteigd\">der Gehsteig (D</span> — the sidewalk (D",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "das Geld",
+              "b": "<span class=\"jt\" data-g=\"lang_dasgeld\">das Geld</span> — the money",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "der Geldautomat",
+              "b": "<span class=\"jt\" data-g=\"lang_dergeldautomat\">der Geldautomat</span> — the ATM <span class=\"gram\">(plural: -en)</span>",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "die Geldbörse",
+              "b": "<span class=\"jt\" data-g=\"lang_diegeldbörse\">die Geldbörse</span> — the wallet <span class=\"gram\">(plural: -n)</span>",
+              "src": "Goethe B1 · p.44"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-28",
       "day": "Fri",
@@ -901,6 +1326,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "Belong",
       "w": "“Gehört Ihnen das Haus?”"
+    },
+    "lang_dergehsteigd": {
+      "t": "der Gehsteig (D",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The sidewalk (D",
+      "w": "“Das Fahrradfahren auf dem Gehsteig ist nicht erlaubt.”"
+    },
+    "lang_dasgeld": {
+      "t": "das Geld",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The money",
+      "w": "“Ich habe nicht genug Geld dabei.”"
+    },
+    "lang_dergeldautomat": {
+      "t": "der Geldautomat",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The ATM",
+      "w": "“Ich hole noch Geld vom Geldautomaten.”"
+    },
+    "lang_diegeldbörse": {
+      "t": "die Geldbörse",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The wallet",
+      "w": "“Ich habe nur Kleingeld in meiner Geldbörse.”"
     }
   },
   "charts": {
@@ -1031,6 +1488,11 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
+        },
+        {
+          "t": "The Hanseatic League, and why Bremen still says it",
+          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
+          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     }
