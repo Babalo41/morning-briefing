@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-28T21:20:24.220130+02:00",
+  "generated_at": "2026-08-28T21:50:24.262140+02:00",
   "editions": [
     {
       "id": "2026-08-28",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "28",
       "mon": "Aug",
       "date": "Friday 28 August 2026",
-      "headline": "Briefing refreshed 21:20 Berlin time",
-      "stand": "Automatically rebuilt at 21:20 — 11 sections tracked.",
+      "headline": "Briefing refreshed 21:50 Berlin time",
+      "stand": "Automatically rebuilt at 21:50 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "2rLxTOcNTTIMo2E7Nkf7n5xbRUHLafMAf0cXXkANUcYYU8kKEI6PVb2poMWY4hm0E9bv17/Fe3ZlD6RoXrB7ijQP+YCTMgVYBDHrtvTRim3rh5KLUyNfrwmE0jPs96gpfRN/K51O8xs3S4HG2i1ygJczyXyoHE3wem6uUcTaiBpTmBI+S2v0",
-          "iv": "w7+K2lCi6lfB6PjY",
-          "salt": "M7HiaOZyVslkqDkVuzuHiQ=="
+          "ciphertext": "W1KzHVT8h0n25itp+bpVFwUEJj/jYpAPXIkBHwkwMIFWJKSaE0d8m434WA1Etn5fVNkMPsV9Osz9Vtxmk/r4kbJ2SQW8bSHZTeanwVOIuBsrx50UalHAL82PGrA/tE0G1OrLNaX5kx2VNPTGVbo/Ks2yNGDe7vFwCoAEtmT06BmQ6UNqLwN5",
+          "iv": "odlPyL6DfgrGGswy",
+          "salt": "QOWnHaTy98ocIDJo2CE8cQ=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "dDXXJomcjFHfzyILWH1WVDLg7W8VZfQFNPNvKT+c0dENhG7kOC9zvMh/iKcxl1RwUQSh05K3BAqf4ro3aq6X4nAV6fbVdaxh6/yrX4ekeCMfqzd/7AFLecTdvtiWn14Fh3b4Yu+2K359i3plwAAYOB9nLysS23ohMDyA",
-          "iv": "S5r5U9/GZRVBGaEl",
-          "salt": "CvbWep2w0lYdqX9mXlgEyg=="
+          "ciphertext": "MWV9PBZtHXu81C2o87/mkKEXz2IGO99OVFFH5KUT/C+aYzElG2gtYkdv/ihHdheYxupqSGfjYjZryfsC3dm06Ux1urBcEzVEpYhfzJrW/vjHbref3Y6Ko4ugSIIDTxFaYT6EO66qoG2nnd2RJuHFpq3K5uEghrT5d42J",
+          "iv": "HA0mMrD2VHHZj5kR",
+          "salt": "SWnQGnax0cogzETOZ1nTCw=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "vNabXNtaQtmvrb9wAySh0yhgjQFZCsPBAfZHjNvxUAqhaICYcAsJQEpiiKaro1NbIj8pbjPmJrhN/IPcVkqVabvMsqD/r2P5NiRYi4ag5CHiGVYS/BBrkjkKNb2m218y+5UCkAVITN0kKH6ql5V3ysDasrHxmx52cKyPDSqT8px6mrpEU+nyfi8ZJ56eoInKDAisrRAthXSJsrZTNJEwDHIWEOdCBNXcGTc3P6Jkv1BPTBj3p0XVWFW1bWH7CBmuTtkqNAewSpThFnm0svB8w1vUBBlUTZ32U/NVDih0aiK48PguArhznRlV1niHp8unagRpHVTj",
-          "iv": "WAJZWcf5n2nS+RqB",
-          "salt": "+0QQA3lThwxudtBstb6Akw=="
+          "ciphertext": "qTDJyVHVtdDXRKuusdOcTAv3TxGa2+M9mPZdBq6udEZ8YNXF8xsPlJcRduzVmaLiW+x/+ah+yyYcgHzPLWUfHKurD3gHfGYviYSEG/WRpCizaD6ENVrs5iU4ePLkaEKJzalDoFjrNCJ5uTGCapuwVQ/QTjq3UexEr+uNzEG8wNR5b5GFw5GsSCmjstV7TWoTm2RnUcpdQq8duiRyuU/IbbvBU7nomS4I2f5P14Aq5KckZFCxcZlMl/FusLa+EZ1v2hIif8AUomGi9bCtBs9rZvZo++iAOA8yBR/0rlO7VfmTSrHZBJNWPm4wxIgHjUV2/f4IhQbZ",
+          "iv": "6PxuUAy/ZcYwX4hY",
+          "salt": "IyPsBw67lGurNNnvONQFCQ=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -188,6 +188,54 @@ window.EDITION_DATA = {
           "h": "Network & Systems Engineering",
           "items": [
             {
+              "t": "What do people use for labs these days?",
+              "b": "So, I have been at my current job for 6-7 years and I have become rusty on technologies and vendors I do not use daily and I got the itch to just run large complicated multivendor lab, try things and break things. Back in the day I was using EVE-NG to run Junos, IOS-XR, IOS-XE etc. Is this still the",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w10e8j/what_do_people_use_for_labs_these_days/"
+            },
+            {
+              "t": "I'm so tired of WiFi at my current job",
+              "b": "So I've been working as a network technician for the past 3 years and I've evolved so much these past years but certain parts of my job makes me wanna quit almost every day. I absolutely cannot stand WiFi issues, we have a few network technicians at my workplace but nobody can quite troubleshoot WiF",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0zszi/im_so_tired_of_wifi_at_my_current_job/"
+            },
+            {
+              "t": "Palo Alto n+1 deployment, 3-way handshake does not complete",
+              "b": "New Azure deployment. TCP traffic to an internet host is originating from a VM in a spoke VNet. The subnet to which the VM's NIC is attached has a UDR to the internal LB (version 2).  The SYN makes it to the internet host, the SYN ACK traverses the trusted side but never makes it to the VM to comple",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ywrv/palo_alto_n1_deployment_3way_handshake_does_not/"
+            },
+            {
+              "t": "Network Automation with NetBox + CI/CD - How?",
+              "b": "Hi r/networking, I am part of a small network team (4 people), having to manage and support a few hundred Cisco Catalyst switches/routers plus some Meraki gear, spread across ~100 sites. No budget for something like Catalyst Center, so we're working with what we've got:  NetBox (honestly pretty negl",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0q5bo/network_automation_with_netbox_cicd_how/"
+            },
+            {
+              "t": "question about stratoweave",
+              "b": "Hello everyone, just asking if anyone here used stratoweave ? how was your experience ? and how does it compare to NSO ?    submitted by    /u/NebulaLower5898   [link]   [comments]",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ogu1/question_about_stratoweave/"
+            },
+            {
+              "t": "iPhone 17 not connecting to 802.1be!?",
+              "b": "I don't usually touch wireless, but I got assigned to this ticket about my client having difficulty connecting to our secured network via 11be. He's using iPhone17 and its latest iOS version. I told him to forget the SSID and try to reconnect to the network, but it didn't work. One thing I haven't t",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0csjf/iphone_17_not_connecting_to_8021be/"
+            },
+            {
+              "t": "Blog/Project Post Friday!",
+              "b": "It's Read-only Friday! It is time to put your feet up, pour a nice dram and look through some of our member's new and shiny blog posts and projects. Feel free to submit your blog post or personal project and as well a nice description to this thread. Note: This post is created at 00:00 UTC. It may n",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w0ath3/blogproject_post_friday/"
+            },
+            {
+              "t": "Selector.ai - Anyone used this?",
+              "b": "Saw a demo recently of selector.ai The product makes a lot of claims and promises, but was curious if anyone had done a POC or deployed in the real world? How did it go? Hows it going? Curious on any feedback. TIA!    submitted by    /u/Commercial_Tone_3115   [link]   [comments]",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1w08kx5/selectorai_anyone_used_this/"
+            },
+            {
               "t": "Unable to hit subnet from VPN",
               "b": "This one has me pulling my hair out.  FG2600F-------------------VPN 192.168,66.1/27 | 10.250,0.10 | FG 600F------------New subnet 10.8,0.1/25 10.250,0.9  We added a network that we need access to on our vpn. -New subnet is accessible from networks that originate from the 2600F -Address object for ne",
               "src": "Enterprise Networking Design, Support, and Discussion",
@@ -198,54 +246,6 @@ window.EDITION_DATA = {
               "b": "I have a question regarding implementing a solution to a new problem I have. I've designed and will soon be launching a new product called the DigiBall, which is the worlds first smart cue ball for billiards (see digicue dot net). The ball advertises BLE packets with ball information around 10 times",
               "src": "Enterprise Networking Design, Support, and Discussion",
               "u": "https://www.reddit.com/r/networking/comments/1vzx6jx/multicast_for_new_product_solution/"
-            },
-            {
-              "t": "Automatic switch updates",
-              "b": "Had a discussion yesterday with IT director and others in our IT department. The IT director brought up automating switch updates so they wouldn’t have to have some one monitoring and performing the updates. Staging various locations on different evenings.  I’ve been doing networking for 30 years an",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzs367/automatic_switch_updates/"
-            },
-            {
-              "t": "Cisco ASA - Azure VPN gateway redundany",
-              "b": "Hey all, What is the recommended best practice for establishing a route-based Site-to-Site VPN connection between a single Cisco ASA and an Azure VPN Gateway when the Azure side is configured with two public IP addresses? My understanding is that Azure typically uses the tunnels in an Active-Active ",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzp2bi/cisco_asa_azure_vpn_gateway_redundany/"
-            },
-            {
-              "t": "How do we get 17 modbus address values from 1 network to another?",
-              "b": "Our munis is wanting to monitor/control 17 areas around the plant. We use modbus for our SCADA network on a 100.100.100.x network. We don't have enough 100.100.100.x addresses left to monitor 17 new sites. Our plan is to have: (17 new devices on 192.169.0.x) ->(router) -> (one device, modbus compata",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzfb0d/how_do_we_get_17_modbus_address_values_from_1/"
-            },
-            {
-              "t": "SCALANCE WUM763 Module stucks at loading when I try \"Write Startup Config\"",
-              "b": "Hello Everyone, As the title says whenever I try to change something (Doesn't matter how small the change is could be the device name or anything) the loading icon stalls and after some time it refreshes the page and the changes I made are not saved. Also another thing whenever I try to go to \"Infor",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vz6gyt/scalance_wum763_module_stucks_at_loading_when_i/"
-            },
-            {
-              "t": "storm control action shutdown - on uplinks/downlinks",
-              "b": "I'm dealing with network engineer, that insist on using storm control action shutdown on ports between switches.  Then when we get accidental looped ports from time to time, the whole network gets put down, then recovery timer is set, so it will come back up again, only to be shut down again. then t",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vz5fnf/storm_control_action_shutdown_on_uplinksdownlinks/"
-            },
-            {
-              "t": "RADIUS issues",
-              "b": "So for reference I have a freeradius server, ruckus R350 APs and On my network I have 5 VLANs, and what I want to achieve is that based on the username and password the user uses, the get thrown into a certain VLAN. I set it up everything and the the system authenticates users but it does not dynami",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyyfwe/radius_issues/"
-            },
-            {
-              "t": "PSA on syslog dedup: hashing the raw message doesn't work on most network gear",
-              "b": "Hi all, spent the last while dealing with this and figured it's worth writing up, since I've seen a few threads where people try to cut syslog volume with a dedup step and get basically nothing out of it.  The naive approach is to hash the message and drop repeats inside a time window. On applicatio",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyvxox/psa_on_syslog_dedup_hashing_the_raw_message/"
-            },
-            {
-              "t": "Rant Wednesday!",
-              "b": "It's Wednesday! Time to get that crap that's been bugging you off your chest! In the interests of spicing things up a bit around here, we're going to try out a Rant Wednesday thread for you all to vent your frustrations. Feel free to vent about vendors, co-workers, price of scotch or anything else n",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyfh2e/rant_wednesday/"
             }
           ]
         },
@@ -253,64 +253,64 @@ window.EDITION_DATA = {
           "h": "Jira, Xray & Confluence",
           "items": [
             {
-              "t": "Visualice the same subtask twice.",
-              "b": "I create a task, then I create a subtask and linked with mi task, but when i do a refresh, I visualice the same subtask twice, 1 linked in the task, and other in the main. Can you help me please? I only like visualice 1 task in list and cronogram at the same time.",
+              "t": "Has anyone found a workaround for the limitation that I cannot re-order either Filters or Shortcuts",
+              "b": "My shortcuts and Filters are constantly evolving . I  want the ability to re-order this without going through hoops like delete and re-adding, etc. Has anyone found a way around this? ",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Visualice-the-same-subtask-twice/qaq-p/3281480"
+              "u": "https://community.atlassian.com/forums/Jira-questions/Has-anyone-found-a-workaround-for-the-limitation-that-I-cannot/qaq-p/3281997"
             },
             {
-              "t": "should there be separate work item types to track bugs for QA Vs. Production",
-              "b": "What is the best practice - should there be separate work item types to track bugs for QA Vs. Production?We have a discussion going back and forth with the QA team. QA team is recommending to have a separate work item type for QA bugs (called issue) and  use the \"bug\" type for production issues.",
+              "t": "unable to connect my Jira cloud addon for Outlook to Jira",
+              "b": "Hello,I used to be able to add issues directly from my outlook inbox to an existing issue without leaving the inbox. but now i cannot even log into jira (connect now button is doing its job). how to fix this issue?Kindly advise!thanks.",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/should-there-be-separate-work-item-types-to-track-bugs-for-QA-Vs/qaq-p/3281471"
+              "u": "https://community.atlassian.com/forums/Jira-questions/unable-to-connect-my-Jira-cloud-addon-for-Outlook-to-Jira/qaq-p/3281995"
             },
             {
-              "t": "Jira Timeline shows parented Tasks and Sub-tasks as top-level rows (and duplicates them)",
-              "b": "On a team-managed business project (Jira Work Management), the Timeline view is rendering  issues TWICE at the same time: once correctly nested under their real parent, and once again as a top-level row, as siblings of the project's Epics. The flat copies have no expand chevron.Every one of those 22",
+              "t": "I created scrum board from filters and I have issue with creating and managing sprint its greyed out",
+              "b": "I have multiple spaces in Jira. We want to start using the Agile approach, so I created a board using a filter that includes all the spaces I need to plan on the board.After creating the board, the problem I ran into is that the Create Sprint button is greyed out; I can't create a sprint or add item",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Jira-Timeline-shows-parented-Tasks-and-Sub-tasks-as-top-level/qaq-p/3281464"
+              "u": "https://community.atlassian.com/forums/Jira-questions/I-created-scrum-board-from-filters-and-I-have-issue-with/qaq-p/3281972"
             },
             {
-              "t": "The organization's sole administrator left the company; we need to regain ownership of the site.",
-              "b": "To the Atlassian Support Team,I am reaching out to request an urgent Site Ownership Takeover for our Atlassian instance.The former primary administrator of our organization has recently departed the company without delegating site administrator privileges to anyone else. As a result, we are currentl",
+              "t": "Issue connecting Jira with GitHub",
+              "b": "We are having an issue connecting Jira with GitHub. We are no longer able to connect Jira with GitHub when the person doing the connection is not an owner in the GitHub organisation. In the past, when a non-owner of an GitHub organisation connected Jira with GitHub they would get a link to send to a",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/The-organization-s-sole-administrator-left-the-company-we-need/qaq-p/3281432"
+              "u": "https://community.atlassian.com/forums/Jira-questions/Issue-connecting-Jira-with-GitHub/qaq-p/3281966"
             },
             {
-              "t": "Export Jira Board to powerpoint",
-              "b": "What is the best or easiest way to export a Jira kanban board to a Microsoft PowerPoint slide?",
+              "t": "Automation: Creating a Variable with RegEx and using it inside another fuction",
+              "b": "Hello dear Atlassian-Community,I am currently trying to build something that would make an old automation of mine way shorter and incredibly more efficient, but the whole idea hinges on \"being able to create a RegEx dynamically and handing it over to another function\"Here is the functional part of m",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Export-Jira-Board-to-powerpoint/qaq-p/3281427"
+              "u": "https://community.atlassian.com/forums/Jira-questions/Automation-Creating-a-Variable-with-RegEx-and-using-it-inside/qaq-p/3281871"
             },
             {
-              "t": "How can I set up an inbox for CMS forwarding in a company managed business space?",
-              "b": "It does not seem it is possible to add the CSM Inbox to a business project, but I do not see anything in the docs that says this feature is limited to Software projects.",
+              "t": "How do creative teams manage photography projects from planning to delivery?",
+              "b": "I’m curious how other creative teams manage photography projects when there are multiple steps involved.For example, a photography project can include client communication, planning the shoot, organizing locations and equipment, completing the shoot, selecting images, editing, getting client feedbac",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/How-can-I-set-up-an-inbox-for-CMS-forwarding-in-a-company/qaq-p/3281424"
+              "u": "https://community.atlassian.com/forums/Jira-questions/How-do-creative-teams-manage-photography-projects-from-planning/qaq-p/3281940"
             },
             {
-              "t": "Why is there no indication on the app when a dashboard is unavailable?",
-              "b": "I used the app for quick access to information that I need on JIRA.I read online that some things like dashboards are unavailable on the JIRA app for viewability reasons or because the gadgets aren't ready for Android devices, which is fine whatever.But why is there no indication that is what is goi",
+              "t": "I am getting error while trying to create a site",
+              "b": "",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Why-is-there-no-indication-on-the-app-when-a-dashboard-is/qaq-p/3281333"
+              "u": "https://community.atlassian.com/forums/Jira-questions/I-am-getting-error-while-trying-to-create-a-site/qaq-p/3281906"
             },
             {
-              "t": "Which cert to register for",
-              "b": "Hello everyone.Im looking to transition into an analyst role,and I have noticed most of the roles require Jira but im unsure which cert to opursue as theres a number. Would really appreciate your input.Thank you",
+              "t": "Using double Pipe - Jira Assets Import Application",
+              "b": "HI All,I was following the following thread on how to import and reference multiple objects during Jira Import but it seems to not work.https://community.atlassian.com/forums/Jira-questions/Jira-Assets-I-m-importing-a-CSV-any-way-to-map-multiple-objects/qaq-p/3068344 My CSV file is set up as follows",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Which-cert-to-register-for/qaq-p/3281328"
+              "u": "https://community.atlassian.com/forums/Jira-questions/Using-double-Pipe-Jira-Assets-Import-Application/qaq-p/3281882"
             },
             {
-              "t": "What career opportunities are available after completing a digital marketing course?",
-              "b": "I’m exploring career options after completing a digital marketing course. What kind of roles can beginners apply for, such as SEO, PPC, social media, or content marketing? I’d also like to know which skills are most useful for getting started in this field. ",
+              "t": "Need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV",
+              "b": "We need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV. Currently if a Jira issue is moved from one sprint to another, the more sprints it gets pushed through, the more columns I end up having when exporting my filter view to e.g. CSV, and I first need to cle",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/What-career-opportunities-are-available-after-completing-a/qaq-p/3281273"
+              "u": "https://community.atlassian.com/forums/Jira-questions/Need-ability-to-report-on-Current-Sprint-in-a-single-Sprint/qaq-p/3281856"
             },
             {
-              "t": "Would like to assign QE contact to components",
-              "b": "Similarly to the functionality of Bugzilla, I am looking for a way to assign a QE contact to a component. I would like the QE contact field to be automatically populated when a work item is assigned the component. Does anyone have any suggestions?Thanks! ",
+              "t": "BUG - Issues Disappeared",
+              "b": "HelloI hope i can get through to someone at atlassian as i cant raise a support ticket for some odd reason..All the issues on my Jira space have disappeared.  Gone from backlog, boards and releases. I've got something in the order of 1400 issues.Its like they have been removed from the index used to",
               "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Would-like-to-assign-QE-contact-to-components/qaq-p/3281270"
+              "u": "https://community.atlassian.com/forums/Jira-questions/BUG-Issues-Disappeared/qaq-p/3281792"
             }
           ]
         },
