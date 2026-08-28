@@ -70,5 +70,37 @@
     "lang": "de-DE",
     "d": "The salary",
     "w": "“Ich bin mit meinem Gehalt zufrieden.”"
+  },
+  "lang_dasgeheimnis": {
+    "t": "das Geheimnis",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The secret",
+    "w": "“Das kann ich dir nicht sagen. Das ist ein Geheimnis.”"
+  },
+  "lang_geheim": {
+    "t": "geheim",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Secret",
+    "w": "“Das ist geheim. Du darfst es niemandem sagen.”"
+  },
+  "lang_gehen": {
+    "t": "gehen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Go",
+    "w": "“Ich gehe jeden Morgen zu Fuß zur Arbeit.”"
+  },
+  "lang_gehören": {
+    "t": "gehören",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Belong",
+    "w": "“Gehört Ihnen das Haus?”"
   }
 }
