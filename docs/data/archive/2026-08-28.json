@@ -4,16 +4,16 @@
   "dnum": "28",
   "mon": "Aug",
   "date": "Friday 28 August 2026",
-  "headline": "Briefing refreshed 16:20 Berlin time",
-  "stand": "Automatically rebuilt at 16:20 — 11 sections tracked.",
+  "headline": "Briefing refreshed 16:50 Berlin time",
+  "stand": "Automatically rebuilt at 16:50 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "sUx02/wHjbC69697hzwOHuiOFFWbAiSYAzbfPZ+0equH3fLMLfrV6l6cHhiN9cM07MY1tjdHpyeqqFWYIVRW3A9a4WrHRInfit2KdaczGIChtyaKowyFh9FF0dc2SY2UAjB6aOwQVFKXXtnqtRAHRwyUs6mpCayYwb+ULHiXuLcq9pQFsIoT",
-      "iv": "40oatGG8ywz2smZd",
-      "salt": "IMhhwSlx24BBnY+dD6Ib0w=="
+      "ciphertext": "VYyF8Wz34VDqxqVtsOKLlnncwEqtKXRRLFHqeeavVqyJVmsIy4CFmsqOXweSp/5wJkWodIxw2rSdceUsH/ragAtQyu13/d/CSJRYTZVCjZm3mCizipFSEaP19SwsUCg80LKHe09pBvpRgGvEAqvBDM85/ILT2b+VSdrpg2rpEAnIXjNUi1l1",
+      "iv": "tHko8BB/YbAjmKxr",
+      "salt": "/AH38Mr6gUTFBNNDjglRlQ=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "9BYNYoYxQHtfuek8s0m8Z62fmlML4OAcu8JAOVUu03aV2r5RiBxOpcAUblG5g1xWpN42lzGa8fxTNLLyHxbT6DnWDBi5f60JsWgSXet78US/vKZ1U8WXSHZiR2qGyytEDl0I4UshDXqYdv5ayeOyWnEVF5Ui7GnVGrFJ",
-      "iv": "4FZQWKr1Q9VzBD1R",
-      "salt": "Ii9NOTYxDiBcSv8YAQQIFQ=="
+      "ciphertext": "SvKYLAD2KFpvuNtHsmMjO38aPAjiu8pV0NP97K/mRlkb91uq8EHgNN74XXk/Czl6DOzizou3PH5ARki0glRWFv6SqfQ3M/xs0hXYCzGUKt79efR/6dP8koJt2wx4/DEl/u57GsetumQxhpTeKWgxK94INv+EbRvexXm7",
+      "iv": "C1Xwh7zRNKeSjJ/a",
+      "salt": "n2oIO+V5wBpgnykbrPY52g=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "+yKm34rz4SjIJm4KWACPFmkRKBDWBXaPh+qG5D8YWibfpbqq4K7gyW8KTry4O8kBtm3k/ptyQTs+o2mSheRr83h334DLdszZK2PtxGBxlpU9/PIKiDS/YH9mUkqB+v0siqopVimwgjG9B/67fT4i4GzWLVp7hbbyWpudePqAp7Ra7TBQPtcBh3YNy/WFPMfsPL4OPNjLscApGdGPERCTR0cU28VbQG1iSy5KWv3X/1Kurul55YepWiFWrANu2uVqQ2Hheqw8D1yWM5Rxmicwq49tMTJ+FDaTno1qcL4Bg0gP3BSfRr59PAtwDtqUdSe1++HsEFKF",
-      "iv": "zIvDHjs9E9GIaSsT",
-      "salt": "O7UXTQhbjmpL199hIPehbg=="
+      "ciphertext": "O4OZhUF2Qwq5hbmF+InKI3ZuCu/uJrJ+9+gA0WGY9+kdVLYQNVZo6lxWR8FwK6FZ/cnpuJGdIoOK3QFyAVD3rDAdLZYDR4Ql28I8flkTeP3GgLWim12I4PcLhiv2rNhYGGIzSeb/faDHfmDouekwl5RWBIVVgMWgop5RTtxoquQ7bAVgovIKB5jOMkMSQ/CForUbrPJaDVeoG05cR1btC4lW8ltNJqocdmYclL/sgtENmchyoQrmdejHtJLG0Cacn2y4VGedZdAm9E2AZCU/u5yzF7kJwcZTC6+lGOLg5tPvaazCw1euJCBv3Z64sNh8IzqXE6Yi",
+      "iv": "a8raG8HC0T74KVHk",
+      "salt": "OQxcpLVKbRUqc2pQpeQT7A=="
     },
     {
       "h": "ISTQB & Software Testing",
