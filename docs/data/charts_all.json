@@ -35,15 +35,15 @@
           ],
           [
             2,
-            23.8
+            23.5
           ],
           [
             3,
-            20.5
+            20.0
           ],
           [
             4,
-            18.7
+            20.5
           ],
           [
             5,
@@ -59,45 +59,45 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 87% this week in Bremen",
+    "title": "Rain chances peak at 90% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
         "k": "08-28",
-        "v": 80,
-        "lab": "80%",
+        "v": 88,
+        "lab": "88%",
         "hero": false,
         "tip": "24°C, Thunderstorm"
       },
       {
         "k": "08-29",
-        "v": 60,
-        "lab": "60%",
+        "v": 53,
+        "lab": "53%",
         "hero": false,
-        "tip": "22°C, Light rain"
+        "tip": "22°C, Rain showers"
       },
       {
         "k": "08-30",
-        "v": 74,
-        "lab": "74%",
+        "v": 68,
+        "lab": "68%",
         "hero": false,
-        "tip": "24°C, Rain"
+        "tip": "24°C, Rain showers"
       },
       {
         "k": "08-31",
-        "v": 87,
-        "lab": "87%",
+        "v": 90,
+        "lab": "90%",
         "hero": true,
-        "tip": "20°C, Thunderstorm"
+        "tip": "20°C, Rain showers"
       },
       {
         "k": "09-01",
-        "v": 25,
-        "lab": "25%",
+        "v": 31,
+        "lab": "31%",
         "hero": false,
-        "tip": "19°C, Overcast"
+        "tip": "20°C, Rain showers"
       },
       {
         "k": "09-02",

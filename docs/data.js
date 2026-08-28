@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-28T13:20:23.979944+02:00",
+  "generated_at": "2026-08-28T13:50:24.405788+02:00",
   "editions": [
     {
       "id": "2026-08-28",
@@ -7,29 +7,29 @@ window.EDITION_DATA = {
       "dnum": "28",
       "mon": "Aug",
       "date": "Friday 28 August 2026",
-      "headline": "Briefing refreshed 13:20 Berlin time",
-      "stand": "Automatically rebuilt at 13:20 — 11 sections tracked.",
+      "headline": "Briefing refreshed 13:50 Berlin time",
+      "stand": "Automatically rebuilt at 13:50 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "asPb1smBmDIcMqc30sv6hBG4XnSqUg1v5jeR97m2onjN5psP9tneOycWeShtzQnSWLrxn0wpOWv4BX+aHp488OUbDMwwJvq582AEWV2QYoY71rZaPIVFfVvrDn/NNs5N55apvrYjgaP4yEMvMd+a5bHQJMsvTUbZqi+dyQgYVjqegBdgbEev",
-          "iv": "YjSnH0DxIhCkMfS8",
-          "salt": "YroSpsO423+rHqPxkueF5A=="
+          "ciphertext": "GNrlM5no7hLL2d47ZY3rxR4FFx28gawXF+nG9NylyRZTM1om5JEdYeC3Pydsioqh2VZUs/ySRcL7d8c2uPXrvndwzwKlkQ/wadMzsJmpzMAYnhhra6lmOwYl8mN0UrVK3Dau2LD3/Cyw5mtPjtMTpzsXmRYIgiHs1D2PsL7XmPTSFH1QmnFU",
+          "iv": "KlReYiXO2mNa5wYx",
+          "salt": "2rKyV35rndEF6L19GxRNcA=="
         },
         {
           "h": "Weather",
           "stats": [
             {
-              "n": "19°",
+              "n": "22°",
               "l": "right now"
             }
           ],
           "items": [
             {
-              "t": "Bremen: light rain, high 24°C",
-              "b": "Low 17°C, gusts to 43 km/h. 7-day outlook below.",
+              "t": "Bremen: rain showers, high 24°C",
+              "b": "Low 18°C, gusts to 37 km/h. 7-day outlook below.",
               "src": "Open-Meteo"
             }
           ],
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "BcAgHLH656sRjCkdkwrW5IFyOpmtpzE+9Elxe85dvNtNXLsa0lLE55LRgo5shxlbIAsNP8NLLxbrJZUnFpo/BDuu/t3aiO54vFvnZBY+xWdtXj78uC/b3iLjaRXFou2BbzGdTjKAeZBzBbTSowNhCYbuL11DBahqHChn",
-          "iv": "EIOBYZjlyqpT2+fT",
-          "salt": "dMM/B2V28zXN9AEA1D3gqQ=="
+          "ciphertext": "aH1hYv01StJy/8vVrjfh6KSQLQ80rMQ5GLZdZ26Onhn2LHWfzhdSepGmS36/6mmwElApA3cw9gqvGI6ycrdm6sAtDTVQ7aydc+nboplOrwO8hXGxxhPQ/CCKy9WoDViQZVDDlBIP4RwQ3ozoo49D92b+TsEZiaBLNdVb",
+          "iv": "M5No8LFqH4W4J7WT",
+          "salt": "l4TwqIjPM+h/K0SXPqKjmw=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "41Wm+SxDEU527vu/Zw2WUP9qF5latBHLaMtprGTmHAl8e6QIpq88/h8N9FdwYJjxyx4VPPoeU5CVafdoltsue9RCwuIPNi2JuloP91IZNZ0Ja0QkYsd/CIsmaHZ4McwhPS6GnGu8zaeHcfyiFPV2h3CG1IGKHKmmbP67IxewzLvLh1zduiV4i9Pw4AHRk7bcgTmt8IYZMW8WIavg03xbh4Q0OtAT7aLMa+blrLJA02alSXprqgAKIZiKH33yHxEuh3IG09/mcw0huphvQQISmiopSzvO28aI1VsB0XkE45B+WnXCwHGhHln7SNrvJ5gGlrW555sb",
-          "iv": "pSunp7SMnCXBHvuW",
-          "salt": "sUEKTJdQymfBnLT+3zU71A=="
+          "ciphertext": "PjjaiTDEUCsCrbbv+IDS/9hljmsD3MRK2nVPix7nceyBaQbCvS0Kc9znVedRV32xm/WyWSKJIsujigOI7R00/gz9ODnVSdPaTePAE3PLqDsPlgvy9HNTiIqSkSHUHlxigrKOEh0GC58GQMraj9JaiEdRq2C/BLModciRxDTO5n0eKXp6FCy0rmM8x/qJI79duowlzBjvjfneUHdcjYr0uup5pvDDeSYosRwZsGnijRjMlcsbfs5o5VgVTiFgl6JnPe6YxHwNaAvlhe+YwWhuI5EbHVsGTqkUhi846GzlcZVTGW9X3djJ8NCaNG2sJylnmE1nj9p3",
+          "iv": "TbPZQhzyqe4xsMFR",
+          "salt": "HXIV7eAAOWnBF/kHMRPTIA=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -885,15 +885,15 @@ window.EDITION_DATA = {
             ],
             [
               2,
-              23.8
+              23.5
             ],
             [
               3,
-              20.5
+              20.0
             ],
             [
               4,
-              18.7
+              20.5
             ],
             [
               5,
@@ -909,45 +909,45 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 87% this week in Bremen",
+      "title": "Rain chances peak at 90% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
           "k": "08-28",
-          "v": 80,
-          "lab": "80%",
+          "v": 88,
+          "lab": "88%",
           "hero": false,
           "tip": "24°C, Thunderstorm"
         },
         {
           "k": "08-29",
-          "v": 60,
-          "lab": "60%",
+          "v": 53,
+          "lab": "53%",
           "hero": false,
-          "tip": "22°C, Light rain"
+          "tip": "22°C, Rain showers"
         },
         {
           "k": "08-30",
-          "v": 74,
-          "lab": "74%",
+          "v": 68,
+          "lab": "68%",
           "hero": false,
-          "tip": "24°C, Rain"
+          "tip": "24°C, Rain showers"
         },
         {
           "k": "08-31",
-          "v": 87,
-          "lab": "87%",
+          "v": 90,
+          "lab": "90%",
           "hero": true,
-          "tip": "20°C, Thunderstorm"
+          "tip": "20°C, Rain showers"
         },
         {
           "k": "09-01",
-          "v": 25,
-          "lab": "25%",
+          "v": 31,
+          "lab": "31%",
           "hero": false,
-          "tip": "19°C, Overcast"
+          "tip": "20°C, Rain showers"
         },
         {
           "k": "09-02",
