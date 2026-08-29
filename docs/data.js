@@ -1,6 +1,212 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-29T23:50:28.842579+02:00",
+  "generated_at": "2026-08-30T00:20:27.881379+02:00",
   "editions": [
+    {
+      "id": "2026-08-30",
+      "day": "Sun",
+      "dnum": "30",
+      "mon": "Aug",
+      "date": "Sunday 30 August 2026",
+      "headline": "Briefing refreshed 00:20 Berlin time",
+      "stand": "Automatically rebuilt at 00:20 — 11 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "LD3yJdigpTrq0IB/IDscmSIziOQqRdVBXpLAogHvVH54t+F0DJ5mZv6teeeGVgLRhomDFHHmkV4IlE8efP1E0J3soQJLsqcwxh7WKMLHeZuby8Z8vn8o9Iwrwrl5oDi4Jkm578c4I5rnUkXCSS6dh4vvmcpqSsAhMrZ8BQN2vLZ3YeWRiJJb",
+          "iv": "3CvQOuRX1DNE8h2l",
+          "salt": "kzRtyIyXtSi3WwPLv7XGsg=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "19°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 24°C",
+              "b": "Low 16°C, gusts to 50 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "krcKAILqZ05GYpfasfOSbcTf6nOglX0cOTock7OLp9I7SBBodhD9YaEh6sCAQGD3AZ6NJuqhF7fLKTWrNm1KrL6mQ/ys1BuAWDi37izYknRQ7t1n5nS28zaaNxpfTNUWcg3M2AgK1PaBlz2MN0Xj/jCWS34iI/1AxRSN",
+          "iv": "VihOR8H9BXmUElsd",
+          "salt": "cKoX7nHrq7mrljJt73eKLw=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "oPcwvp9GrBYO2Mkm+x7G9/7z9Rm36UI8oEI0E2KkO5kspn+52E08gt/vXnhTy+P7UxL7jSoCTC33R3foGEI1cGBrUQck/J51/AASvZkxVc4iG6NNiWad7i2ktXizFEkmkqZMh8NICljEGVjz64eigyEsLBJw0GMpYHTi4SlDV/GeVoGWncpUQPqHINFntrkiaA0MJ2LgOco5dtTZjL9mgputxS2DMJGHjXazYrOXm0xmCSphuX5lKLwAsuQzTfwunZiBAKvuFzODpsCTLKC2yYy/6OE+71OHKkwM/ijx4bSmt9UjIdHKrYE0G+rahJrEJ5xvy/Sz",
+          "iv": "WIS3Gc8Tw/1ZApG2",
+          "salt": "jM1+XmrJcZXgYoz1Eecf0A=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Trending: istqb® testing tester",
+              "b": "9 sources reporting on this topic",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            },
+            {
+              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            },
+            {
+              "t": "ISTQB® Recognizes Erik van Veenendaal as ISTQB® Fellow for Lifetime Impact on the Testing Profession",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is proud to announce that Erik van Veenendaal has been awarded the prestigious title of ISTQB® Fellow during the ISTQB® General Assembly held in Copenhagen. The ISTQB® Fellow Program recognizes individuals who have made an outstanding ",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-recognizes-erik-van-veenendaal-as-istqb-fellow-for-lifetime-impact-on-the-testing-profession/"
+            }
+          ]
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+              "b": "Beijing's botnets busted",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+            }
+          ]
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "Near Home",
+          "items": [
+            {
+              "t": "Tracking: Bremen, Germany",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            },
+            {
+              "t": "Tracking: Bhavnagar, India",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            },
+            {
+              "t": "Tracking: Surat, India",
+              "b": "No local news feed configured for this city yet.",
+              "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ]
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "monnaie/Portmonee",
+              "b": "<span class=\"jt\" data-g=\"lang_monnaieportmonee\">monnaie/Portmonee</span> — monnaie/wallet",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "die Gelegenheit",
+              "b": "<span class=\"jt\" data-g=\"lang_diegelegenheit\">die Gelegenheit</span> — the opportunity <span class=\"gram\">(plural: -en)</span>",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "gelingen",
+              "b": "<span class=\"jt\" data-g=\"lang_gelingen\">gelingen</span> — succeed <span class=\"gram\">(gelingt · gelang · ist gelungen)</span>",
+              "src": "Goethe B1 · p.44"
+            },
+            {
+              "t": "gelten",
+              "b": "<span class=\"jt\" data-g=\"lang_gelten\">gelten</span> — apply <span class=\"gram\">(gilt · galt · hat gegolten)</span>",
+              "src": "Goethe B1 · p.45"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-29",
       "day": "Sat",
@@ -1139,6 +1345,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The wallet",
       "w": "“Ich habe nur Kleingeld in meiner Geldbörse.”"
+    },
+    "lang_monnaieportmonee": {
+      "t": "monnaie/Portmonee",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Monnaie/wallet",
+      "w": "Goethe-Zertifikat B1 exam vocabulary."
+    },
+    "lang_diegelegenheit": {
+      "t": "die Gelegenheit",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The opportunity",
+      "w": "“Das Fest ist eine gute Gelegenheit, unsere Freunde zu sehen.”"
+    },
+    "lang_gelingen": {
+      "t": "gelingen",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Succeed",
+      "w": "“Es ist mir gelungen, meinen Chef zu überzeugen.”"
+    },
+    "lang_gelten": {
+      "t": "gelten",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Apply",
+      "w": "“Mein Pass gilt noch ein Jahr.”"
     }
   },
   "charts": {
@@ -1269,11 +1507,6 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
-        },
-        {
-          "t": "The Hanseatic League, and why Bremen still says it",
-          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
-          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     }

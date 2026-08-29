@@ -134,5 +134,37 @@
     "lang": "de-DE",
     "d": "The wallet",
     "w": "“Ich habe nur Kleingeld in meiner Geldbörse.”"
+  },
+  "lang_monnaieportmonee": {
+    "t": "monnaie/Portmonee",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Monnaie/wallet",
+    "w": "Goethe-Zertifikat B1 exam vocabulary."
+  },
+  "lang_diegelegenheit": {
+    "t": "die Gelegenheit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The opportunity",
+    "w": "“Das Fest ist eine gute Gelegenheit, unsere Freunde zu sehen.”"
+  },
+  "lang_gelingen": {
+    "t": "gelingen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Succeed",
+    "w": "“Es ist mir gelungen, meinen Chef zu überzeugen.”"
+  },
+  "lang_gelten": {
+    "t": "gelten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Apply",
+    "w": "“Mein Pass gilt noch ein Jahr.”"
   }
 }
