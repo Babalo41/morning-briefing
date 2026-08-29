@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T00:50:27.774698+02:00",
+  "generated_at": "2026-08-30T01:20:26.553171+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 00:50 Berlin time",
-      "stand": "Automatically rebuilt at 00:50 — 11 sections tracked.",
+      "headline": "Briefing refreshed 01:20 Berlin time",
+      "stand": "Automatically rebuilt at 01:20 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "rhT5Tt8N5CYrfAZsO5wHeqs5MGOX8ra+9jFgwaWNSCLPMAIe5OMOUXZyPhXHD3i8r88ZI0AtJsUXYkoEPr1VKjh/qcINga/SGaKJtWuXsM0LmIJ8WXXEGcF0jSwVDxwB+p4IdUNdseu7CyzmxLcpDI6f1u3xbC6g5GxtNH//LeMWZaAP+yj5",
-          "iv": "WFwusTwpyoeydcX2",
-          "salt": "uVkwlNc91Y2kP5C/uOy0Ww=="
+          "ciphertext": "/jDuk38o3hPdYa/WR8RNecbbEVAASupITs7kutqmGvPZw6BA7XVLs+e9w8mM5Wzryygm9cN1adUKH32qCcYsHdjun3ahGpyS76jleJrpEKypkD3pQE8rny53iVaOVItKUftKjAsS8PLu+o+mHHuXFgLWd5ZkDNgkddf8FQ0XBHNbObGJwgRh",
+          "iv": "J+6HxrKp1EBQ1A5p",
+          "salt": "fqQpq6fxLi0iBnDVTL+MFg=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "ijGhD1KuBHBH1ld4DzL1RbWtJNux70nWGV9qjDYHR+VQClrxckeJ+ddgrTn1npIkr5MR1cK4JNM/3zWyy38/OjjqD3QqmuR9UnZKIPqAa6OywLvd9vQdVVF3cJ+OYpyadHXF8vjIFXl0JaEySMubZ4hD2Ilc+15jTxsa",
-          "iv": "ohAcfIVNGsZulcou",
-          "salt": "j0CzkjLQmpDiqYTF6i78JQ=="
+          "ciphertext": "4Idrr7+CX0y+VX+37oFULK11x0D4LR5QPHKWiRuXjdBkPs9RlDwLzeKuH0vXel0GyjDF0R3pG7j5LcPhTC1iKWaRs5hGfgC89Hx1gvcUKb6s6R1/ELqauUogOo5EMZO+w4E3BjUZoZ5rtiUHcnPAaglkAHEY+AcKTpjT",
+          "iv": "/VyJ/0ialadrjAct",
+          "salt": "Lzs71ytLW8iROx7P5O/nkw=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "jqAi5ONLvlEPieFnJH6MLEx9EVuEXaA14dmK1uoB0avNTqpGRo21MBwwNEs0qDr6nk9NynADVb55r3TixOasNA8eer6LdR48xE8j2IhkrNd5U/SKvCusHoJkQvXyP7VjRPbkq/eDkm5UtV3NJYoSjekhnqc8O8j+5AxzhqjmCE8Uxt12mChO8zbChk2GTpUw4s+l8F4zvHesUSvBAM/QmcbqvWdqU/qwe/WTabE38Uk965fHh/oYxYhLYvqhIktG3Jd7msC+1HQmlvDZGw7KsxsK/rHTL6tJFobf2BI/Ct5X3+4u1mpCSTsoYjiri+fPB3cEpas8",
-          "iv": "hiMwO2ghMByAjK5l",
-          "salt": "otGQOXnYXggV9EqJISJrUA=="
+          "ciphertext": "8xYnOQEkNZs97pb2kGQ7ZsnT47UKHVNoWXumnpy/RrrCk/5q6HzatFsHxqrl1YveBqI/lwmCOg5Wc16gKQQ+GOgJBbtR1QpFeA9uy5iJ07K0bESj7XNRA/OGOJSQbx3FnrYrUDBy+uzaua7PV82eeE4hl2kzgSSRHLXE311UovjQcRIWYb2z71yU0N1G0kD7tE+Mq5cHMinLXiTtSafBsnQBf9qzt/cpTrMOpnq526B9YLZ8/kw+y4ZPoj3LVjD2tUcDt5uzu09DR4g16ZSZk8OWtPOhQcC18rFCWqIzWFK1Gti9LIKlBFWeEsatJp7Sv3mMRQKw",
+          "iv": "qXs3JxrAV4ELvLgc",
+          "salt": "nZRE7fasLbLzErizZKaZUA=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -1377,6 +1377,142 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "Apply",
       "w": "“Mein Pass gilt noch ein Jahr.”"
+    },
+    "maitraka": {
+      "t": "Maitraka",
+      "ipa": "/maɪˈtrɑːkə/",
+      "resp": "my-trah-kuh",
+      "lang": "en-GB",
+      "d": "The dynasty that ruled Saurashtra from Vallabhi, roughly 475-776 CE, beginning as Gupta generals and becoming independent kings as the Gupta empire fell apart.\n",
+      "w": "They funded Vallabhi into a university that rivalled Nalanda — the reason your wife's home region was, for three centuries, one of the intellectual capitals of Asia.\n"
+    },
+    "jyotirlinga": {
+      "t": "Jyotirlinga",
+      "ipa": "/ˌdʒoʊtɪrˈlɪŋɡə/",
+      "resp": "jyoh-tir-ling-guh",
+      "lang": "en-GB",
+      "d": "One of twelve shrines across India where Shiva is held to have manifested as a pillar of light; Somnath in Saurashtra is counted as the first.\n",
+      "w": "Explains why Somnath's repeated destruction and rebuilding carried (and still carries) stakes far beyond one building.\n"
+    },
+    "kathiawar": {
+      "t": "Kathiawar",
+      "ipa": "/ˌkɑːtiˈɑːwɑːr/",
+      "resp": "kah-tee-ah-wahr",
+      "lang": "en-GB",
+      "d": "The British-era name for the Saurashtra peninsula, administered as an Agency of over two hundred separate princely states before 1947.\n",
+      "w": "The reason dialects, dress and cuisine vary so sharply over short distances across the region your wife's family is from.\n"
+    },
+    "bandhani": {
+      "t": "Bandhani",
+      "ipa": "/bənˈdaːni/",
+      "resp": "bun-dah-nee",
+      "lang": "en-GB",
+      "d": "A tie-dye technique where cloth is tied into thousands of tiny points before dyeing, producing fine dotted patterns — a Saurashtra/Gujarat textile signature.\n",
+      "w": "One of the region's most recognizable cultural exports — worth being able to name when you see it.\n"
+    },
+    "baserate": {
+      "t": "Base rate",
+      "ipa": "/beɪs reɪt/",
+      "resp": "base rate",
+      "lang": "en-GB",
+      "d": "How common something actually is in the whole population being tested — the figure that determines whether a positive test result is likely to be a true or false positive.\n",
+      "w": "The single most-forgotten number in statistics; ignoring it is why a 99% accurate test for a rare condition is usually wrong when it says yes.\n"
+    },
+    "redsupergiant": {
+      "t": "Red supergiant",
+      "ipa": "/rɛd ˈsuːpərˌdʒaɪənt/",
+      "resp": "red soo-per-jy-ant",
+      "lang": "en-GB",
+      "d": "A star near the end of its life that has swollen to enormous size — Betelgeuse is roughly a thousand times the Sun's width.\n",
+      "w": "Red supergiants end their lives as supernovae — Betelgeuse's, whenever it happens, will be visible in daylight from Earth.\n"
+    },
+    "lateralmovement": {
+      "t": "Lateral movement",
+      "ipa": "/ˈlætərəl ˈmuːvmənt/",
+      "resp": "lat-er-ul moove-ment",
+      "lang": "en-GB",
+      "d": "The quiet phase of a real intrusion where an attacker who has already gained access sits still, harvests credentials, and works sideways toward something valuable, often for weeks or months.\n",
+      "w": "The part of a cyberattack that actually does the damage — and the part the \"someone types furiously\" media picture leaves out entirely.\n"
+    },
+    "hypothermia": {
+      "t": "Hypothermia",
+      "ipa": "/ˌhaɪpoʊˈθɜːrmiə/",
+      "resp": "hy-poh-ther-mee-uh",
+      "lang": "en-GB",
+      "d": "Dangerously low core body temperature, announcing itself in order — shivering, then clumsiness and slurred speech, then confusion.\n",
+      "w": "Kills in temperatures well above freezing given wet clothes and wind — the real cold-weather risk in northern Germany, not snow and ice.\n"
+    },
+    "crypto": {
+      "t": "Cryptosporidium",
+      "ipa": "/ˌkrɪptoʊspəˈrɪdiəm/",
+      "resp": "krip-toh-spor-id-ee-um",
+      "lang": "en-GB",
+      "d": "A thick-walled parasite cyst that survives normal chemical water disinfection (chlorine, iodine) far better than bacteria or viruses do.\n",
+      "w": "The reason boiling and filtering are both still needed alongside chemical treatment — no single water-purification method covers everything.\n"
+    },
+    "wgb": {
+      "t": "Wohnungsgeberbestätigung",
+      "ipa": "/ˈvoːnʊŋsˌɡeːbɐbəˌʃtɛːtɪɡʊŋ/",
+      "resp": "voh-nungs-gay-ber-be-shtay-ti-gung",
+      "lang": "de-DE",
+      "d": "Your landlord's signed confirmation of the date you moved in — mandatory since 2015 and required before any Anmeldung appointment can proceed.\n",
+      "w": "Without this exact document the registration counter cannot help you, no matter what else you bring.\n"
+    },
+    "meldebescheinigung": {
+      "t": "Meldebescheinigung",
+      "ipa": "/ˈmɛldəbəʃaɪnɪɡʊŋ/",
+      "resp": "mel-duh-buh-shy-ni-gung",
+      "lang": "de-DE",
+      "d": "The certificate of registration issued once your Anmeldung is complete — proof of your registered address for banks, employers and authorities.\n",
+      "w": "Ask for a couple of extra copies at the appointment; you will be asked for one again soon after.\n"
+    },
+    "swift": {
+      "t": "SWIFT",
+      "ipa": "/swɪft/",
+      "resp": "swift",
+      "lang": "en-GB",
+      "d": "The messaging network banks use to instruct each other to debit and credit accounts they already hold — no money physically crosses a border, only messages do.\n",
+      "w": "Explains why a traditional international transfer takes days and passes through several institutions, each potentially taking a fee.\n"
+    },
+    "neft": {
+      "t": "NEFT",
+      "ipa": "/ɛn.iː.ɛf.tiː/",
+      "resp": "en-ee-eff-tee",
+      "lang": "en-GB",
+      "d": "National Electronic Funds Transfer — one of India's domestic payment rails, settling in batches through the day with no upper limit.\n",
+      "w": "One of three rails (with RTGS and IMPS) a transfer to India lands on — knowing which one explains how fast it actually arrives.\n"
+    },
+    "spread": {
+      "t": "FX spread",
+      "ipa": "/ɛf.ɛks sprɛd/",
+      "resp": "eff-ex spred",
+      "lang": "en-GB",
+      "d": "The gap between the true mid-market exchange rate and the rate you're actually given on a transfer — usually the real cost, not the stated fee.\n",
+      "w": "Compare the rate you got against the mid-market rate that day; that gap plus the fee is what a transfer to India actually cost you.\n"
+    },
+    "transpiration": {
+      "t": "Transpiration",
+      "ipa": "/ˌtrænspəˈreɪʃən/",
+      "resp": "tran-spuh-ray-shun",
+      "lang": "en-GB",
+      "d": "Evaporation of water from leaf pores (stomata), which puts the whole water column from root to leaf under tension and pulls water upward.\n",
+      "w": "The mechanism behind how a tree lifts water a hundred metres with no moving parts — suction alone could never do it.\n"
+    },
+    "endosymbiosis": {
+      "t": "Endosymbiosis",
+      "ipa": "/ˌɛndoʊˌsɪmbaɪˈoʊsɪs/",
+      "resp": "en-doh-sim-by-oh-sis",
+      "lang": "en-GB",
+      "d": "The theory that mitochondria and chloroplasts began as free-living bacteria engulfed by another cell roughly two billion years ago, and kept rather than digested.\n",
+      "w": "Explains why mitochondria have their own bacterial-type DNA and divide on their own schedule — direct evidence sits inside every one of your cells.\n"
+    },
+    "ketoazidose": {
+      "t": "diabetische Ketoazidose",
+      "ipa": "/diaˈbeːtɪʃə ketoʔatsiˈdoːzə/",
+      "resp": "dee-ah-bay-tish-uh keh-toh-ah-tsee-doh-zuh",
+      "lang": "de-DE",
+      "d": "Diabetic ketoacidosis — a dangerous build-up of blood acid produced when the body, lacking insulin, burns fat for fuel and generates ketones faster than it can clear them.\n",
+      "w": "The single most important pump-related risk to understand: it can begin within hours of a cannula failure, and can occur even with a near-normal glucose reading.\n"
     }
   },
   "charts": {
@@ -1507,6 +1643,154 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "saurashtra",
+      "title": "Saurashtra",
+      "blurb": "The peninsula your wife's family comes from — 4,500 years of it, from the world's oldest dockyard to the last wild lions on earth.\n",
+      "lessons": [
+        {
+          "t": "The dockyard at Lothal",
+          "key": "Saurashtra was doing international trade 4,500 years ago.",
+          "b": "<p>Around 2400 BCE, while most of the world was still moving goods by hand along rivers, someone at Lothal — on the Gulf of Khambhat, at the neck of the peninsula — built a rectangular basin of kiln-fired brick roughly 37 metres by 22, with a sluice gate to hold water at low tide.</p> <p>Archaeologists argue about whether it was a true dockyard or a large water tank, but the surrounding evidence leans hard one way: a bead factory, a warehouse on a raised platform, stone anchors, and Persian Gulf seals of a type used to stamp cargo. Lothal was trading with Mesopotamia — cotton, carnelian beads, ivory — and Mesopotamian records mention a place called <i>Meluhha</i> that most scholars read as the Indus world.</p> <p>Lothal was part of the Indus Valley Civilisation, roughly 3300-1300 BCE, which also left sites across Saurashtra at Rangpur and Gola Dhoro. That is the deep floor under the region: not a backwater that later became important, but a maritime trading edge from the beginning.</p> <p class=\"rem\"><b>Worth holding onto</b>The Indus cities had grid streets, standardised brick sizes and covered drains — and a script nobody has deciphered. We can read their weights and measures but not a single sentence they wrote.</p>\n"
+        },
+        {
+          "t": "Vallabhi, the university that rivalled Nalanda",
+          "key": "For three centuries, one of Asia's great universities sat in Saurashtra.",
+          "b": "<p>From roughly 475 to 776 CE the peninsula was ruled by the <span class=\"jt\" data-g=\"maitraka\">Maitraka</span> dynasty from their capital at Vallabhi, near modern Bhavnagar. They began as generals for the Gupta empire and became independent kings as it fell apart.</p> <p>What makes them remarkable is what they funded. Vallabhi grew into a university drawing students from across India — the western counterpart to Nalanda in the east. The Chinese pilgrim Xuanzang, travelling in the 7th century, described several thousand monks studying there. It taught Buddhist philosophy alongside secular subjects, and the Maitrakas — Shaivite Hindus themselves — endowed Buddhist monasteries and Jain institutions without apparent conflict.</p> <p>Vallabhi's copper-plate land grants are one of the richest documentary sources for early medieval western India: hundreds survive, and they let historians reconstruct land tenure, taxation and religious patronage in unusual detail.</p> <p class=\"rem\"><b>Worth holding onto</b>Bhavnagar is not a modern city sitting on empty ground. It is twenty kilometres from what was, for three hundred years, one of the intellectual capitals of Asia.</p>\n"
+        },
+        {
+          "t": "Somnath, and the habit of rebuilding",
+          "key": "A temple destroyed at least six times and rebuilt every time.",
+          "b": "<p>On the southern coast at Veraval stands Somnath, counted as the first of the twelve <span class=\"jt\" data-g=\"jyotirlinga\">Jyotirlingas</span> — the shrines where Shiva is held to have manifested as a pillar of light.</p> <p>Its fame is inseparable from its destruction. Mahmud of Ghazni sacked it in 1026, and it was attacked and rebuilt repeatedly over the following centuries. The present temple is modern: reconstruction was driven by Sardar Vallabhbhai Patel after independence and completed in 1951, in the Chalukya style, on the original coastal site.</p> <p>Historians now read the medieval raids as being about wealth and prestige as much as religion — temples were treasuries — and note that the \"six destructions\" narrative was hardened considerably by colonial-era historiography. The temple matters as much for what people have made of its story as for the stone.</p> <p class=\"rem\"><b>Worth holding onto</b>Nothing stands between Somnath's shore and Antarctica — a pillar on the temple grounds marks the unbroken line of ocean south.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers & evidence",
+      "blurb": "How to read a statistic without being fooled by it — the handful of traps that catch almost everyone, including professionals.\n",
+      "lessons": [
+        {
+          "t": "The base rate is what everyone forgets",
+          "key": "A 99% accurate test for a rare condition is wrong most of the time it says yes.",
+          "b": "<p>Take a disease that one person in 10,000 has, and a test that is 99% accurate in both directions. You test positive. What is the chance you have it?</p> <p>Most people say 99%. The real answer is about 1%.</p> <p>Work it through with 10,000 people. One actually has the disease, and the test almost certainly catches them: 1 true positive. The other 9,999 do not — but the test is wrong 1% of the time, so it flags about 100 of them anyway. You now have 101 positive results and only one of them is real. Your odds are 1 in 101.</p> <p>Nothing about the test is bad. The <span class=\"jt\" data-g=\"baserate\">base rate</span> is simply so low that false positives swamp true ones. This is why screening the whole population for rare things causes so much harm, and why doctors re-test rather than acting on one result.</p> <p>The same arithmetic runs through your working life. If an automated test suite has a 2% flake rate and genuine regressions are rare, then most red builds are noise — and a team that treats every failure as real will burn itself out, while a team that ignores them all will eventually ship the one that mattered. The fix in both medicine and testing is identical: confirm before you act.</p> <p class=\"rem\"><b>Worth holding onto</b>Whenever someone quotes an accuracy figure, ask \"out of how many, and how common is the thing?\" Accuracy without a base rate is not information.</p>\n"
+        },
+        {
+          "t": "\"Average\" is the most misleading word in English",
+          "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
+          "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
+        },
+        {
+          "t": "Correlation, causation, and the third thing hiding behind both",
+          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
+          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "The human body",
+      "blurb": "How the machinery you live in actually works, starting with the parts that matter most to you.\n",
+      "lessons": [
+        {
+          "t": "Ketoacidosis: the emergency behind the newsletter",
+          "key": "It is not high sugar that kills. It is the acid produced when there is no insulin at all.",
+          "b": "<p>Abbott made <span class=\"jt\" data-g=\"ketoazidose\">diabetische Ketoazidose</span> their topic of the month yesterday, and it is worth understanding properly rather than as a vague warning.</p> <p><b>The mechanism.</b> Insulin is the key that lets glucose into cells. Without enough of it, glucose piles up in the blood while the cells starve. The body responds as it would to famine: it breaks down fat for fuel. That process produces ketones — and ketones are acids. Produce them faster than the body can buffer and clear them, and the blood itself turns acidic. That acidity, not the blood sugar figure, is what causes organ failure.</p> <p><b>Why pumps raise the stakes.</b> Someone on injections carries a depot of long-acting insulin that keeps working for many hours. A pump user has none — only a continuous trickle of rapid-acting insulin. If the cannula kinks, the site fails, or the reservoir empties, insulin delivery stops completely, and ketoacidosis can begin within a few hours rather than a day or two. This is the single most important difference in risk between the two methods.</p> <p><b>What it feels like, in order.</b> Heavy thirst and constant urination; nausea, vomiting and stomach pain that can convincingly imitate food poisoning; then deep, rapid, sighing breathing as the lungs try to blow off acid; breath smelling faintly of acetone or pear drops; and finally confusion and drowsiness.</p> <p><b>The trap worth knowing.</b> Ketoacidosis does not require a dramatic glucose reading. Euglycaemic DKA — with glucose near normal — happens during illness, with reduced carbohydrate intake, in pregnancy, and notably with SGLT2 inhibitor drugs. Judging safety by the sensor number alone is the mistake.</p> <p class=\"rem warn\"><b>The two rules that matter</b>Never stop basal insulin because you are ill and not eating — illness raises insulin needs, it does not lower them. And measure <i>ketones</i>, not just glucose, whenever you are unwell or running high: a blood ketone meter reads beta-hydroxybutyrate and is far more reliable than urine strips, which lag hours behind. Vomiting plus ketones is an emergency; in Germany the number is <b>112</b>.</p> <p class=\"rem\"><b>Orientation, not instruction</b>This explains the mechanism so the warnings make sense. Your own thresholds, correction doses and sick-day plan are for your diabetes team to set with you — and having that plan written down before you need it is the point.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "astro",
+      "title": "Astronomy & the sky above you",
+      "blurb": "What is actually happening in the objects you can see overhead, explained without hand-waving.\n",
+      "lessons": [
+        {
+          "t": "Betelgeuse's hidden companion, and why it took so long to find",
+          "key": "A star can hide another star for a century if the two are close enough and one is dazzling enough.",
+          "b": "<p>Betelgeuse, the bright reddish star marking Orion's shoulder, is a <span class=\"jt\" data-g=\"redsupergiant\">red supergiant</span> — a star near the end of its life, swollen to roughly a thousand times the Sun's width. Astronomers have suspected for over a century, from tiny irregularities in its brightness, that something else orbits close beside it. This week researchers finally captured a direct image of that companion.</p> <p><b>Why \"finally.\"</b> Betelgeuse is around 640 light-years away and, being a supergiant, is extraordinarily bright — roughly 100,000 times the Sun's luminosity. A smaller, fainter companion star sitting close to it is the astronomical equivalent of spotting a candle held next to a lighthouse: the glare from the main star swamps the faint one in almost any instrument. It took a specialised technique called speckle imaging, which freezes out the blurring caused by Earth's atmosphere by taking many extremely short exposures and combining them cleverly, to finally separate the two.</p> <p><b>Why it matters beyond the \"wow.\"</b> Confirming the companion answers a genuine open question about how Betelgeuse's brightness varies over multiple overlapping cycles — some of that variation is now attributable to the smaller star's orbit rather than to Betelgeuse pulsing on its own. It is also a preview of the star's future: red supergiants like Betelgeuse end their lives as supernovae, and how a close companion affects that explosion is still not fully understood. Betelgeuse's supernova, whenever it happens — anywhere from tomorrow to 100,000 years from now, on human timescales indistinguishable from \"not soon\" — will be bright enough to see in daylight from Earth.</p> <p><b>What you can actually do with this.</b> Orion is a winter constellation in the Northern Hemisphere, so from Bremen it will start rising in the eastern evening sky from around October. Betelgeuse itself is easily naked-eye visible — no telescope needed to find the star, just patience for the companion, which stays a professional-instrument target for now.</p> <p class=\"rem\"><b>Worth holding onto</b>Direct imaging in astronomy is fundamentally a problem of dynamic range — separating something faint from something overwhelmingly bright nearby — and that same problem, at a different scale, is why a sensor with poor dynamic range struggles to show both a car's headlights and the dark road beside it in one frame. It is the same physics of contrast either way.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Computers & security",
+      "blurb": "How systems actually get broken into, why the interesting part is never the break-in, and what any of it means for you.\n",
+      "lessons": [
+        {
+          "t": "What actually happens in a cyberattack",
+          "key": "Getting in is the easy part. The damage happens in the weeks nobody noticed.",
+          "b": "<p>The public picture of hacking — someone types furiously and a barrier falls — has almost nothing to do with how real intrusions work. The realistic version is slower, quieter, and mostly not technical at all.</p> <p><b>Initial access</b> is usually mundane: a phishing email, a reused password from an unrelated breach, or an unpatched server facing the internet. It is rarely clever, because it rarely needs to be.</p> <p>Then comes the part that matters. <span class=\"jt\" data-g=\"lateralmovement\">Lateral movement</span>: the attacker sits still, watches, harvests credentials, and works sideways toward something valuable — a domain controller, a backup server, a finance system. This phase routinely lasts weeks or months. The industry measure for it is dwell time, and the median has historically been counted in weeks rather than hours.</p> <p>Only at the end do they act. Modern ransomware crews use <b>double extortion</b>: first they quietly copy the data out, then they encrypt it. That way, backups do not save you — refusing to pay means the data gets published instead. It is why \"we have good backups\" stopped being a complete answer around 2019.</p> <p>Public bodies are disproportionately hit for unglamorous reasons: long-lived legacy systems that cannot be patched without breaking something, tight budgets, sprawling department boundaries that make a single security policy impossible, and data that is both sensitive and impossible to simply abandon. A city administration cannot decide to stop existing for three weeks.</p> <p class=\"rem\"><b>Worth holding onto</b>Almost everything that protects an individual is boring and works: unique passwords in a manager, two-factor or a passkey on anything that matters, and prompt updates. The exotic attacks make headlines; the reused password is what actually gets people.</p> <p class=\"rem warn\"><b>The professional version</b>If you ever move toward security testing, the shift in mindset is this: functional testing asks whether the system does what it should. Security testing asks what else it will do — and assumes someone patient and hostile is asking the same question.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "germanlife",
+      "title": "German life & systems",
+      "blurb": "How the machinery around you actually works — registration, insurance, taxes and the rules nobody explains to you when you arrive.\n",
+      "lessons": [
+        {
+          "t": "The Anmeldung is the key to everything else",
+          "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
+          "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "title": "Money & how it moves",
+      "blurb": "What actually happens when you send money across a border, and the handful of ideas that make financial news readable.\n",
+      "lessons": [
+        {
+          "t": "What happens when you send money to India",
+          "key": "Banks do not move money across borders. They move messages, and settle up separately.",
+          "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "botany",
+      "title": "Plants & biology",
+      "blurb": "How plants actually work, how to read one you've never seen before, and the handful of ideas that hold all of biology together.\n",
+      "lessons": [
+        {
+          "t": "A tree is mostly made of air",
+          "key": "The mass of a plant comes from carbon dioxide, not from soil.",
+          "b": "<p>In the 1600s Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, watering it only. The tree gained about 74 kilograms. The soil lost a few hundred grams. He concluded, wrongly, that the mass came from water — but the experiment was right, and the answer is stranger.</p> <p>Almost all the dry mass of a plant is carbon it pulled out of the air. Photosynthesis takes carbon dioxide and water, uses light energy captured by chlorophyll inside chloroplasts, and builds sugar, releasing oxygen as waste:</p> <p class=\"eq\">6 CO2 + 6 H2O + light -&gt; C6H12O6 + 6 O2</p> <p>The oxygen you are breathing right now is a by-product of that reaction. It was not in the early atmosphere; photosynthetic organisms put it there, and in doing so poisoned most of the life that existed before them.</p> <p class=\"rem\"><b>Worth holding onto</b>When you burn wood, you are releasing sunlight and air that a tree locked together. The ash left behind — a few per cent of the original mass — is roughly the part that really did come from the soil.</p>\n"
+        },
+        {
+          "t": "Water's impossible climb",
+          "key": "No pump lifts water up a tree. Evaporation pulls it, and the water column holds together.",
+          "b": "<p>A tall tree lifts water a hundred metres with no moving parts. Suction from below cannot do it — a perfect vacuum only raises water about ten metres before the column breaks.</p> <p>The mechanism is the cohesion-tension theory. Water evaporates from leaf pores called stomata — <span class=\"jt\" data-g=\"transpiration\">transpiration</span>. That evaporation puts the water in the leaf under tension. Because water molecules hydrogen-bond strongly to each other (cohesion) and to the walls of the narrow xylem vessels (adhesion), the whole column from root to leaf behaves like a rope being pulled from the top.</p> <p>Two tissues do the transport. <b>Xylem</b> carries water upward and is made of dead, hollow cells. <b>Phloem</b> carries dissolved sugar in any direction and must be alive to work.</p> <p>Every stoma the plant opens to admit CO2 also lets water escape. That trade-off — food against thirst — shapes almost everything about how plants look. Desert plants open their stomata at night; conifer needles have sunken pores and a waxy skin.</p>\n"
+        },
+        {
+          "t": "How to read a plant you've never seen",
+          "key": "Six features, checked in order, get you to a family.",
+          "b": "<p>Identification is not memorising species. It is running a checklist.</p> <p><b>1. Habit</b> — herb, shrub, tree, climber, grass.<br> <b>2. Leaf arrangement</b> — alternate, opposite, or whorled around the stem. Surprisingly few plants have opposite leaves; noticing it eliminates most families at a stroke.<br> <b>3. Leaf shape and margin</b> — simple or compound; edge smooth, toothed or lobed.<br> <b>4. Venation</b> — parallel veins point to monocots (grasses, lilies, orchids, palms); a branching net points to dicots (most other flowering plants).<br> <b>5. Flower parts</b> — count petals. Multiples of three suggest a monocot; four or five suggest a dicot.<br> <b>6. Fruit</b> — often the single most diagnostic feature, and the one beginners skip.</p> <p>Monocot versus dicot is the first big fork, and it is visible from a distance: a wheat field and an oak are on opposite sides of it.</p>\n"
+        }
+      ]
+    },
+    {
+      "id": "survival",
+      "title": "Survival skills",
+      "blurb": "What actually kills people, in the order it kills them — water, warmth, bleeding, and the decisions made in the first ten minutes.\n",
+      "lessons": [
+        {
+          "t": "The rule of threes",
+          "key": "Three minutes without air. Three hours without shelter. Three days without water. Three weeks without food.",
+          "b": "<p>It is a rough rule, not a law, but it fixes the single commonest survival mistake: worrying about food.</p> <p><b>Three minutes without air</b> — or with severe bleeding, which empties the system just as fast.<br> <b>Three hours without shelter</b> in harsh conditions. Exposure is the real killer in temperate places like northern Germany, and it works far faster than people expect.<br> <b>Three days without water.</b><br> <b>Three weeks without food.</b></p> <p>Almost nobody in a short emergency dies of hunger. They die of cold, of injury, or of a decision made in the first ten minutes. Order your actions in that sequence and you have already done most of the thinking correctly.</p> <p class=\"rem\"><b>Worth holding onto</b>Hypothermia does not need snow. Wet clothes at 10°C with wind will do it. Most people who die of exposure in Europe do so in temperatures well above freezing.</p>\n"
+        },
+        {
+          "t": "Water you can actually drink",
+          "key": "Boil one minute. Filters miss viruses. Chemicals miss Cryptosporidium.",
+          "b": "<p>Each method has a specific hole in it, and the holes do not overlap — which is the whole reason to know all three.</p> <p><b>Boiling</b> is the most reliable. The CDC's guidance is a rolling boil for <b>one minute</b>, or <b>three minutes above about 2,000 metres</b>, where water boils cooler. Boiling kills everything biological. It does not remove chemicals, heavy metals or salt.</p> <p><b>Filtering</b> depends entirely on pore size. A filter of 1 micron or smaller removes parasites. 0.3 micron or smaller removes bacteria as well. Neither removes <b>viruses</b> — those are far too small. Only reverse osmosis catches all three.</p> <p><b>Chemicals</b> — chlorine or iodine — kill bacteria and viruses reliably, but work poorly against parasites, and especially badly against <span class=\"jt\" data-g=\"crypto\">Cryptosporidium</span>, whose thick-walled cysts shrug off normal doses. Chlorine dioxide is better but slow.</p> <p>For cloudy water the order matters: let it settle, then filter, then disinfect. Particles physically shield organisms from both chemicals and UV light.</p> <p class=\"rem\"><b>Worth holding onto</b>Never ration water while you still have it. Dehydration impairs your judgement long before it threatens your life, and bad decisions kill faster than thirst. Drink it and go find more.</p>\n"
+        },
+        {
+          "t": "Staying warm is mostly staying dry",
+          "key": "You lose heat to the ground faster than to the air. Insulate underneath first.",
+          "b": "<p>Heat leaves you four ways: <b>conduction</b> (touching cold things — above all the ground), <b>convection</b> (wind stripping warmth away), <b>radiation</b> (mostly from the head and neck), and <b>evaporation</b> (sweat and wet clothing).</p> <p>People lying on cold ground lose heat to it far faster than to the air around them. A layer of leaves, branches, a pack or foam beneath you is worth more than another layer on top of you. This is the single most-missed point in cold weather.</p> <p>Dress in three layers: a base that moves sweat off the skin, a middle that traps air, an outer that blocks wind and rain. Wool and synthetics keep insulating when damp. <b>Cotton does not</b> — wet cotton actively drains heat, which is where the mountaineers' phrase \"cotton kills\" comes from.</p> <p>Sweating in the cold is dangerous. If you are working hard, remove a layer <i>before</i> you sweat through the ones underneath.</p> <p><span class=\"jt\" data-g=\"hypothermia\">Hypothermia</span> announces itself in order: shivering, then clumsiness and slurred speech, then confusion and — strangely — sometimes a feeling of being too hot. Someone who stops shivering while still cold is getting worse, not better.</p>\n"
         }
       ]
     }

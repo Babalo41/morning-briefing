@@ -166,5 +166,141 @@
     "lang": "de-DE",
     "d": "Apply",
     "w": "“Mein Pass gilt noch ein Jahr.”"
+  },
+  "maitraka": {
+    "t": "Maitraka",
+    "ipa": "/maɪˈtrɑːkə/",
+    "resp": "my-trah-kuh",
+    "lang": "en-GB",
+    "d": "The dynasty that ruled Saurashtra from Vallabhi, roughly 475-776 CE, beginning as Gupta generals and becoming independent kings as the Gupta empire fell apart.\n",
+    "w": "They funded Vallabhi into a university that rivalled Nalanda — the reason your wife's home region was, for three centuries, one of the intellectual capitals of Asia.\n"
+  },
+  "jyotirlinga": {
+    "t": "Jyotirlinga",
+    "ipa": "/ˌdʒoʊtɪrˈlɪŋɡə/",
+    "resp": "jyoh-tir-ling-guh",
+    "lang": "en-GB",
+    "d": "One of twelve shrines across India where Shiva is held to have manifested as a pillar of light; Somnath in Saurashtra is counted as the first.\n",
+    "w": "Explains why Somnath's repeated destruction and rebuilding carried (and still carries) stakes far beyond one building.\n"
+  },
+  "kathiawar": {
+    "t": "Kathiawar",
+    "ipa": "/ˌkɑːtiˈɑːwɑːr/",
+    "resp": "kah-tee-ah-wahr",
+    "lang": "en-GB",
+    "d": "The British-era name for the Saurashtra peninsula, administered as an Agency of over two hundred separate princely states before 1947.\n",
+    "w": "The reason dialects, dress and cuisine vary so sharply over short distances across the region your wife's family is from.\n"
+  },
+  "bandhani": {
+    "t": "Bandhani",
+    "ipa": "/bənˈdaːni/",
+    "resp": "bun-dah-nee",
+    "lang": "en-GB",
+    "d": "A tie-dye technique where cloth is tied into thousands of tiny points before dyeing, producing fine dotted patterns — a Saurashtra/Gujarat textile signature.\n",
+    "w": "One of the region's most recognizable cultural exports — worth being able to name when you see it.\n"
+  },
+  "baserate": {
+    "t": "Base rate",
+    "ipa": "/beɪs reɪt/",
+    "resp": "base rate",
+    "lang": "en-GB",
+    "d": "How common something actually is in the whole population being tested — the figure that determines whether a positive test result is likely to be a true or false positive.\n",
+    "w": "The single most-forgotten number in statistics; ignoring it is why a 99% accurate test for a rare condition is usually wrong when it says yes.\n"
+  },
+  "redsupergiant": {
+    "t": "Red supergiant",
+    "ipa": "/rɛd ˈsuːpərˌdʒaɪənt/",
+    "resp": "red soo-per-jy-ant",
+    "lang": "en-GB",
+    "d": "A star near the end of its life that has swollen to enormous size — Betelgeuse is roughly a thousand times the Sun's width.\n",
+    "w": "Red supergiants end their lives as supernovae — Betelgeuse's, whenever it happens, will be visible in daylight from Earth.\n"
+  },
+  "lateralmovement": {
+    "t": "Lateral movement",
+    "ipa": "/ˈlætərəl ˈmuːvmənt/",
+    "resp": "lat-er-ul moove-ment",
+    "lang": "en-GB",
+    "d": "The quiet phase of a real intrusion where an attacker who has already gained access sits still, harvests credentials, and works sideways toward something valuable, often for weeks or months.\n",
+    "w": "The part of a cyberattack that actually does the damage — and the part the \"someone types furiously\" media picture leaves out entirely.\n"
+  },
+  "hypothermia": {
+    "t": "Hypothermia",
+    "ipa": "/ˌhaɪpoʊˈθɜːrmiə/",
+    "resp": "hy-poh-ther-mee-uh",
+    "lang": "en-GB",
+    "d": "Dangerously low core body temperature, announcing itself in order — shivering, then clumsiness and slurred speech, then confusion.\n",
+    "w": "Kills in temperatures well above freezing given wet clothes and wind — the real cold-weather risk in northern Germany, not snow and ice.\n"
+  },
+  "crypto": {
+    "t": "Cryptosporidium",
+    "ipa": "/ˌkrɪptoʊspəˈrɪdiəm/",
+    "resp": "krip-toh-spor-id-ee-um",
+    "lang": "en-GB",
+    "d": "A thick-walled parasite cyst that survives normal chemical water disinfection (chlorine, iodine) far better than bacteria or viruses do.\n",
+    "w": "The reason boiling and filtering are both still needed alongside chemical treatment — no single water-purification method covers everything.\n"
+  },
+  "wgb": {
+    "t": "Wohnungsgeberbestätigung",
+    "ipa": "/ˈvoːnʊŋsˌɡeːbɐbəˌʃtɛːtɪɡʊŋ/",
+    "resp": "voh-nungs-gay-ber-be-shtay-ti-gung",
+    "lang": "de-DE",
+    "d": "Your landlord's signed confirmation of the date you moved in — mandatory since 2015 and required before any Anmeldung appointment can proceed.\n",
+    "w": "Without this exact document the registration counter cannot help you, no matter what else you bring.\n"
+  },
+  "meldebescheinigung": {
+    "t": "Meldebescheinigung",
+    "ipa": "/ˈmɛldəbəʃaɪnɪɡʊŋ/",
+    "resp": "mel-duh-buh-shy-ni-gung",
+    "lang": "de-DE",
+    "d": "The certificate of registration issued once your Anmeldung is complete — proof of your registered address for banks, employers and authorities.\n",
+    "w": "Ask for a couple of extra copies at the appointment; you will be asked for one again soon after.\n"
+  },
+  "swift": {
+    "t": "SWIFT",
+    "ipa": "/swɪft/",
+    "resp": "swift",
+    "lang": "en-GB",
+    "d": "The messaging network banks use to instruct each other to debit and credit accounts they already hold — no money physically crosses a border, only messages do.\n",
+    "w": "Explains why a traditional international transfer takes days and passes through several institutions, each potentially taking a fee.\n"
+  },
+  "neft": {
+    "t": "NEFT",
+    "ipa": "/ɛn.iː.ɛf.tiː/",
+    "resp": "en-ee-eff-tee",
+    "lang": "en-GB",
+    "d": "National Electronic Funds Transfer — one of India's domestic payment rails, settling in batches through the day with no upper limit.\n",
+    "w": "One of three rails (with RTGS and IMPS) a transfer to India lands on — knowing which one explains how fast it actually arrives.\n"
+  },
+  "spread": {
+    "t": "FX spread",
+    "ipa": "/ɛf.ɛks sprɛd/",
+    "resp": "eff-ex spred",
+    "lang": "en-GB",
+    "d": "The gap between the true mid-market exchange rate and the rate you're actually given on a transfer — usually the real cost, not the stated fee.\n",
+    "w": "Compare the rate you got against the mid-market rate that day; that gap plus the fee is what a transfer to India actually cost you.\n"
+  },
+  "transpiration": {
+    "t": "Transpiration",
+    "ipa": "/ˌtrænspəˈreɪʃən/",
+    "resp": "tran-spuh-ray-shun",
+    "lang": "en-GB",
+    "d": "Evaporation of water from leaf pores (stomata), which puts the whole water column from root to leaf under tension and pulls water upward.\n",
+    "w": "The mechanism behind how a tree lifts water a hundred metres with no moving parts — suction alone could never do it.\n"
+  },
+  "endosymbiosis": {
+    "t": "Endosymbiosis",
+    "ipa": "/ˌɛndoʊˌsɪmbaɪˈoʊsɪs/",
+    "resp": "en-doh-sim-by-oh-sis",
+    "lang": "en-GB",
+    "d": "The theory that mitochondria and chloroplasts began as free-living bacteria engulfed by another cell roughly two billion years ago, and kept rather than digested.\n",
+    "w": "Explains why mitochondria have their own bacterial-type DNA and divide on their own schedule — direct evidence sits inside every one of your cells.\n"
+  },
+  "ketoazidose": {
+    "t": "diabetische Ketoazidose",
+    "ipa": "/diaˈbeːtɪʃə ketoʔatsiˈdoːzə/",
+    "resp": "dee-ah-bay-tish-uh keh-toh-ah-tsee-doh-zuh",
+    "lang": "de-DE",
+    "d": "Diabetic ketoacidosis — a dangerous build-up of blood acid produced when the body, lacking insulin, burns fat for fuel and generates ketones faster than it can clear them.\n",
+    "w": "The single most important pump-related risk to understand: it can begin within hours of a cannula failure, and can occur even with a near-normal glucose reading.\n"
   }
 }
