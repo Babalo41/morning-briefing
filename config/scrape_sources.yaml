@@ -1,0 +1,91 @@
+# Web scraping configuration
+# Sources to supplement RSS feeds with intelligent web scraping via crawl4AI
+
+scrape_sources:
+  # Sites without RSS feeds that contain relevant content
+  # Note: crawl4ai with semantic instructions provides intelligent extraction
+  # Fallback to basic scraping if crawl4ai unavailable
+
+  - url: "https://www.reddit.com/r/QualityAssurance/new.json"
+    category: "profession_field"
+    name: "Reddit QA Community"
+    refresh_hours: 6
+    semantic_instructions: "Extract discussions about QA automation, testing frameworks, ISTQB certification, test tools"
+
+  - url: "https://github.com/topics/qa-automation"
+    category: "profession_field"
+    name: "GitHub QA Automation"
+    refresh_hours: 24
+    semantic_instructions: "Extract trending QA automation projects and tools"
+
+  - url: "https://www.reddit.com/r/networking/new.json"
+    category: "network_systems"
+    name: "Reddit Networking"
+    refresh_hours: 6
+    semantic_instructions: "Extract technical discussions about networking, switches, VLANs, subnetting, routing protocols"
+
+  - url: "https://github.com/topics/network-security"
+    category: "work_industry"
+    name: "GitHub Network Security"
+    refresh_hours: 24
+    semantic_instructions: "Extract trending network security projects and defense tools"
+
+  - url: "https://news.ycombinator.com/newest"
+    category: "world_and_knowledge"
+    name: "Hacker News"
+    refresh_hours: 4
+    semantic_instructions: "Extract technical and technology news relevant to software engineering, systems, and security"
+
+# Domain-specific keyword configuration for ranking and extraction
+domain_keywords:
+  istqb:
+    name: "ISTQB & Software Testing"
+    keywords:
+      - "istqb"
+      - "software testing"
+      - "test certification"
+      - "qa automation"
+      - "test management"
+      - "pytest"
+      - "xray"
+      - "jira"
+    boost: 1.3
+
+  defense_electronics:
+    name: "Defense Electronics & Secure Networking"
+    keywords:
+      - "defense"
+      - "secure network"
+      - "encryption"
+      - "cybersecurity"
+      - "infodas"
+      - "secunet"
+      - "sina box"
+      - "security gateway"
+      - "cross-domain"
+    boost: 1.3
+
+  networking:
+    name: "Network & Systems Engineering"
+    keywords:
+      - "networking"
+      - "switches"
+      - "vlan"
+      - "subnetting"
+      - "ip routing"
+      - "network admin"
+      - "linux"
+      - "windows"
+      - "system administration"
+    boost: 1.2
+
+  professional_development:
+    name: "Professional Development"
+    keywords:
+      - "certification"
+      - "training"
+      - "course"
+      - "workshop"
+      - "webinar"
+      - "conference"
+    boost: 1.1

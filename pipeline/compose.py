@@ -2,39 +2,86 @@
 exact EDITION_DATA shape docs/app.js expects (see docs/DATA_SCHEMA.md)."""
 from __future__ import annotations
 
+import logging
+import yaml
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from pipeline import enrich, normalize, rank, state
-from pipeline.config import Config
+from pipeline import enrich, normalize, rank, state, scrape, agents
+from pipeline.config import Config, CONFIG_DIR
 from pipeline.crypto_util import encrypt_value
 from pipeline.sources import health, rss, weather
+
+log = logging.getLogger("compose")
 
 
 def _now(cfg: Config) -> datetime:
     return datetime.now(ZoneInfo(cfg.timezone))
 
 
+def _load_scrape_config() -> dict:
+    """Load scraping configuration and domain keywords."""
+    scrape_config_path = CONFIG_DIR / "scrape_sources.yaml"
+    if scrape_config_path.exists():
+        with open(scrape_config_path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f) or {}
+    return {"scrape_sources": [], "domain_keywords": {}}
+
+
 def _rss_block(title: str, category: str, feeds: list[str], refresh_min: int,
-                glossary: dict, cap: int = 10) -> dict:
+                glossary: dict, orchestrator: agents.AgentOrchestrator = None, cap: int = 10) -> dict:
+    # Fetch RSS feeds
     raw, meta = state.get_or_fetch(
         f"rss_{category}", refresh_min, lambda: rss.fetch_many(feeds)
     )
     raw = raw or []
     items = [normalize.normalize_item(r, category) for r in raw]
     items = normalize.dedup(items)
-    items = rank.rank_and_cap(items, cap=cap)
+
+    # Supplement with scraped content from relevant sources
+    scrape_cfg = _load_scrape_config()
+    for source in scrape_cfg.get("scrape_sources", []):
+        if source.get("category") == category:
+            log.info(f"Scraping {source.get('name')} for {title}")
+            scraped = scrape.scrape_url(
+                source.get("url"),
+                source.get("semantic_instructions", "")
+            )
+            if scraped:
+                items.append(scraped.to_item())
+
+    # Dedup combined items
+    items = normalize.dedup(items)
+
+    # Run through agent orchestrator for intelligent ranking and insights
+    if orchestrator:
+        items = orchestrator.process(items)
+    else:
+        items = rank.rank_and_cap(items, cap=cap)
+
+    # Cap and enrich
+    items = items[:cap]
     items = [enrich.enrich_item(i, glossary) for i in items]
 
-    block_items = [
-        {
-            "t": i["title"],
-            "b": i.get("body", "")[:300],
-            "src": i.get("source", ""),
-            "u": i.get("url") or None,
-        }
-        for i in items
-    ]
+    # Format for rendering
+    block_items = []
+    for i in items:
+        if i.get("_is_insight"):
+            # Render insights with special styling
+            block_items.append({
+                "t": i["title"],
+                "b": i.get("body", ""),
+                "src": "insight",
+                "u": i.get("url") or None,
+            })
+        else:
+            block_items.append({
+                "t": i["title"],
+                "b": i.get("body", "")[:300],
+                "src": i.get("source", ""),
+                "u": i.get("url") or None,
+            })
+
     if not block_items:
         block_items = [{"t": "No fresh items this run", "b": f"'{title}' had nothing new to show — will keep checking.",
                          "src": "system"}]
@@ -97,7 +144,7 @@ def _calendar_block(cfg: Config) -> dict:
     return {"items": items}
 
 
-def _near_home_block(cfg: Config, glossary: dict) -> dict:
+def _near_home_block(cfg: Config, glossary: dict, orchestrator: agents.AgentOrchestrator = None) -> dict:
     owner = cfg.profile["owner"]
     cities = [owner["home_city"]] + [c["name"] for c in owner.get("linked_cities", [])]
     section_def = next((s for s in cfg.section_defs() if s["id"] == "near_home"), {})
@@ -105,7 +152,7 @@ def _near_home_block(cfg: Config, glossary: dict) -> dict:
     if not feeds:
         items = [{"t": f"Tracking: {c}", "b": "No local news feed configured for this city yet.", "src": "system"} for c in cities]
         return {"h": "Near Home", "items": items}
-    return _rss_block("Near Home", "near_home", feeds, cfg.refresh_minutes("news_rss", 1440), glossary)
+    return _rss_block("Near Home", "near_home", feeds, cfg.refresh_minutes("news_rss", 1440), glossary, orchestrator)
 
 
 def _language_block(cfg: Config, glossary: dict, day_index: int) -> dict:
@@ -162,6 +209,12 @@ def build_edition_data(cfg: Config) -> dict:
     charts: dict = {}
     day_index = now.timetuple().tm_yday
 
+    # Initialize agent orchestrator for intelligent content processing
+    scrape_cfg = _load_scrape_config()
+    domain_keywords = scrape_cfg.get("domain_keywords", {})
+    owner = cfg.profile.get("owner", {})
+    orchestrator = agents.create_default_orchestrator(glossary, owner, domain_keywords)
+
     blocks = []
     for section in cfg.section_defs():
         sid = section["id"]
@@ -177,9 +230,9 @@ def build_edition_data(cfg: Config) -> dict:
         elif sid in ("profession_field", "work_industry", "network_systems",
                      "test_tooling", "world_and_knowledge"):
             b = _rss_block(section["title"], sid, section.get("feeds", []),
-                            cfg.refresh_minutes("news_rss", 1440), glossary)
+                            cfg.refresh_minutes("news_rss", 1440), glossary, orchestrator)
         elif sid == "near_home":
-            b = _near_home_block(cfg, glossary)
+            b = _near_home_block(cfg, glossary, orchestrator)
         elif sid == "learn_library":
             continue  # rendered as top-level `learn`, not a block
         elif sid == "language_practice":
