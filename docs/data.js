@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-29T11:27:21.957078+02:00",
+  "generated_at": "2026-08-29T11:29:09.310965+02:00",
   "editions": [
     {
       "id": "2026-08-29",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "29",
       "mon": "Aug",
       "date": "Saturday 29 August 2026",
-      "headline": "Briefing refreshed 11:27 Berlin time",
-      "stand": "Automatically rebuilt at 11:27 — 11 sections tracked.",
+      "headline": "Briefing refreshed 11:29 Berlin time",
+      "stand": "Automatically rebuilt at 11:29 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "TjM6MfFglToK6CBdaZ3fmNGczxmqwTPCAVOJkAGdHOMWpOkoc0hhZQpDKekJpsc+eTZEgCguigCDPrZ1+KMj54tIdOoC1AqbjyB7bUKSNr7yGLyIZTfs5ofcK+UP5h4wcBt8890qO8vA+daiZnAR6J+6epQkopKK4LOZg8TERZ9QpBmF+Z//",
-          "iv": "2OPDWpEZ3CdSUK6d",
-          "salt": "/PG/uWtT21fSgI714neWbA=="
+          "ciphertext": "+xlfY1LaJfwRM4lQqLq7c8vWoMvlHADHjV7LvVrCR6mYrkCzOr0cCscODQLL+VFTcqs+TqEvsgnQkmpI11jG5D6aVTSHFOIjFuwbqqbpBnKbK7V9cLr7k9sBVV3yBKIkUGd/C5RDoCZ6KNcf1NGALJWW0u/Hk1vykRkoL9pc4El2nueRXUsF",
+          "iv": "uKneUKpDELGxE9Dd",
+          "salt": "mXylcHCECY6t/dXHDPtUNA=="
         },
         {
           "h": "Weather",
@@ -42,30 +42,24 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "NmrvqwOqEf4/42MsBpthbNXd2qs8Pog/QHzF15EDqZ7u3RJ7XzD+VwtBA0X228VSCgNGZbdoot0Wsdvfr5GVsPMq/ht8sdfap4iK5+O/sxdmXgY3UnmYKRqXI57ke37OIjEMvAH5ce5vz7CQzyqWNEQatgq1kYns6Lcz",
-          "iv": "eOPNFIO581TNpV53",
-          "salt": "oYG7DzdDnarhLeNDij6QvQ=="
+          "ciphertext": "hGbfM6QqNAqpneeCYmWGbX51bbFAqA87r3uDDyTmhnzXr3zV61OBCSl8AKFjUtNFAjCMNgljkEpKL5YwpWxMqC+zh9uH87nDtIs4Y2hwqy1FpqMDA1zLTMdD6MFA1bScy9J2qn++UYEG6+9KQkVTQUB+h9qP2Qfb64SS",
+          "iv": "ogbvU5gUiEG/5bRG",
+          "salt": "9EzN3pUCAW6/fs0bKl3cxA=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "z4MXB4XI2TWK00iJkQI4RkUy37ve6fydkTbMNG5+D7h+yf1OD5bfNoJpIA4if37cLBdZcbjiDWJeDSAfBH4XQvZFJSPKrhwe0/Sx9d+IulUCtN/x4sSdIbfh+OZUWyxkbz0SUK+Kz+302/U7BKY0vRrAaP+ifY6Qt9J6sQlqVHwN3MlPJd/wXKGte8ehvR4sNQEW5YaddhQm2xauYEZIQ7c6Rz5UGLZasrIaKTR66g8H7Lr8zHQ0p7eQU3+49S+kiW6+Ik91bVqwtw5s+rT4CiTUU3wNzZb8VcOyZ7jRQ4IiQY5oOKMFs1lgmZM2K59eVTQZLzXo",
-          "iv": "tH1UeHF+gDi0YVdA",
-          "salt": "Ef6zK+CrWY5OuvVMPV6t5w=="
+          "ciphertext": "Na2tanj6VnQ6QBuebRyuGakTVdCcyA2unz0/7/nqNPoTbev9asF+GSOMukQPAAk3bPA115Y6b7m0sGDNp/qN06CNXeXREStkFzml+KtvJKp4YEjszIdewxqdwPrs9YdY5B/v72SLJoQ9Z2vwxEa/946HPRUYhZMsSooeNkfW+JZye1yNu9V1j0injY/5W8OqQyUTlXaAMus7UKMFB3Qobwc63uS+UpkCeRBe4YIVrgse7jVzpNck0iy+Iw/9gHorVYIFewsjJ0eG3HC7ZOMl5bnUNzH6oUxHCEq79nYU98dPtRkwd1DWEDnyBgXhyap2IX9AN3OA",
+          "iv": "lgLbVB1eTAsRIOKe",
+          "salt": "MBDc4A/eWHDCzrFuBvx4tw=="
         },
         {
           "h": "ISTQB & Software Testing",
           "items": [
             {
-              "t": "News - International Software Testing Qualifications Board",
-              "b": "<!-- removed --> (function(html){html.className = html.className.replace(/\\bno-js\\b/,'js')})(document.documentElement);                             <!-- removed --> {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://istqb.org/#organization\",\"name\":\"International Softwa",
-              "src": "web_scrape_basic",
-              "u": "https://www.istqb.org/news"
-            },
-            {
               "t": "📌 Trending: istqb® testing tester",
-              "b": "11 sources reporting on this topic",
+              "b": "9 sources reporting on this topic",
               "src": "insight",
               "u": null
             },
@@ -116,6 +110,12 @@ window.EDITION_DATA = {
               "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
               "src": "International Software Testing Qualifications Board",
               "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            },
+            {
+              "t": "ISTQB® Recognizes Erik van Veenendaal as ISTQB® Fellow for Lifetime Impact on the Testing Profession",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is proud to announce that Erik van Veenendaal has been awarded the prestigious title of ISTQB® Fellow during the ISTQB® General Assembly held in Copenhagen. The ISTQB® Fellow Program recognizes individuals who have made an outstanding ",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-recognizes-erik-van-veenendaal-as-istqb-fellow-for-lifetime-impact-on-the-testing-profession/"
             }
           ]
         },
