@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T01:20:26.553171+02:00",
+  "generated_at": "2026-08-30T01:25:47.722239+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 01:20 Berlin time",
-      "stand": "Automatically rebuilt at 01:20 — 11 sections tracked.",
+      "headline": "Briefing refreshed 01:25 Berlin time",
+      "stand": "Automatically rebuilt at 01:25 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "/jDuk38o3hPdYa/WR8RNecbbEVAASupITs7kutqmGvPZw6BA7XVLs+e9w8mM5Wzryygm9cN1adUKH32qCcYsHdjun3ahGpyS76jleJrpEKypkD3pQE8rny53iVaOVItKUftKjAsS8PLu+o+mHHuXFgLWd5ZkDNgkddf8FQ0XBHNbObGJwgRh",
-          "iv": "J+6HxrKp1EBQ1A5p",
-          "salt": "fqQpq6fxLi0iBnDVTL+MFg=="
+          "ciphertext": "QyKuBM2GZ9z5cW6Aazwm6eCpqZQxLkVh40DN56tNeTpJo0SxgWGTTeB/JGbeDEDq0KZQpDAUaektwIkup9yHXazykDTzFL3FwHe6SUZ0ZW3sourG0Bx2wyEAhJq4AKXRhicwtUKC4RMOBoO/U2LfxUyQQDi6b3+g95Val0bucCdnyJCrggMD",
+          "iv": "XqpEdMnGM0Of5Zcm",
+          "salt": "JWomnG3buESBau3Ery8Iig=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "4Idrr7+CX0y+VX+37oFULK11x0D4LR5QPHKWiRuXjdBkPs9RlDwLzeKuH0vXel0GyjDF0R3pG7j5LcPhTC1iKWaRs5hGfgC89Hx1gvcUKb6s6R1/ELqauUogOo5EMZO+w4E3BjUZoZ5rtiUHcnPAaglkAHEY+AcKTpjT",
-          "iv": "/VyJ/0ialadrjAct",
-          "salt": "Lzs71ytLW8iROx7P5O/nkw=="
+          "ciphertext": "uWvO8SqaVCVa9qXhgRsosLOZ3kY1GcJ4kkRl5fA3AkJw1enKGAxhJlhSeGE6LfI2RvmnfSbBwtZiaGINhLnLIklBiPTB9zvneACeO79nON3t8KCIsXOBgG7C7NYf65QErIAUZ1rWP/XOdma6fnYXRoBte36kddKXB6y8",
+          "iv": "txoqDqgiuA6HPBUm",
+          "salt": "QdWPosBCrd+u4HvFJ3DOQA=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "8xYnOQEkNZs97pb2kGQ7ZsnT47UKHVNoWXumnpy/RrrCk/5q6HzatFsHxqrl1YveBqI/lwmCOg5Wc16gKQQ+GOgJBbtR1QpFeA9uy5iJ07K0bESj7XNRA/OGOJSQbx3FnrYrUDBy+uzaua7PV82eeE4hl2kzgSSRHLXE311UovjQcRIWYb2z71yU0N1G0kD7tE+Mq5cHMinLXiTtSafBsnQBf9qzt/cpTrMOpnq526B9YLZ8/kw+y4ZPoj3LVjD2tUcDt5uzu09DR4g16ZSZk8OWtPOhQcC18rFCWqIzWFK1Gti9LIKlBFWeEsatJp7Sv3mMRQKw",
-          "iv": "qXs3JxrAV4ELvLgc",
-          "salt": "nZRE7fasLbLzErizZKaZUA=="
+          "ciphertext": "kvQCrB0ktD1Xxbuog4fDNgoOdCw4mKbmHldjvpWxCKhfNdaOMsCIOTFsjobpglgRQGdyw0PbeU+qPQSgy0rJ6yts8OzjZKADCsEygydNIpqI5bkCVgejh3CdOel7icokUTzB3BUyWRwtk/8G3cncykHLUtER2v5798yF8XThV3p7c5D5SqNqyObj+3AglYeFRc/t5LyZfQ8K9G2Ut7jjrAx76sdw5L/UDY8kY6CXdVb9VX04Oj0HAHZIRyEy/8EzvueEsaYcev7hx7nMHZ2viIZVatcQ9Gx9Z4211DW1cpexZFn0dLa/jK5u1V2PlKw4qbx75Hke",
+          "iv": "yjNBJLR7lpLIZ4oQ",
+          "salt": "RL01/+hGUFAnIoOJhOisaw=="
         },
         {
           "h": "ISTQB & Software Testing",
