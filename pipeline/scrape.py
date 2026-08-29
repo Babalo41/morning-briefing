@@ -69,32 +69,51 @@ def _scrape_with_crawl4ai(url: str, semantic_instructions: str) -> Optional[Scra
         from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 
         async def crawl():
-            config = CrawlerRunConfig(
-                word_count_threshold=10,
-                fit_markdown=True,
-                cache_mode="bypass",  # Always fetch fresh
-            )
-            if semantic_instructions:
-                config.extraction_type = "llm-extraction"
-                config.extraction_config = {"instruction": semantic_instructions}
+            try:
+                config = CrawlerRunConfig(
+                    word_count_threshold=10,
+                    cache_mode="bypass",  # Always fetch fresh
+                )
 
-            async with AsyncWebCrawler() as crawler:
-                result = await crawler.arun(url, config=config)
-                return result
+                async with AsyncWebCrawler() as crawler:
+                    result = await crawler.arun(url, config=config)
+                    return result
+            except TypeError:
+                # Fallback if CrawlerRunConfig parameters don't match
+                async with AsyncWebCrawler() as crawler:
+                    result = await crawler.arun(url)
+                    return result
 
         result = asyncio.run(crawl())
-        if not result or not result.markdown:
+        if not result:
+            return None
+
+        # Extract content - handle different result structures
+        content = ""
+        if hasattr(result, 'markdown') and result.markdown:
+            content = result.markdown
+        elif hasattr(result, 'html') and result.html:
+            content = result.html[:500]
+        else:
             return None
 
         # Parse metadata from the crawled page
-        title = result.metadata.get("title", url.split("/")[-1]) if result.metadata else url
-        body = result.markdown[:500]
+        title = url.split("/")[-1]
+        if hasattr(result, 'metadata') and result.metadata:
+            if isinstance(result.metadata, dict) and 'title' in result.metadata:
+                title = result.metadata.get("title", title)
+        elif hasattr(result, 'title') and result.title:
+            title = result.title
+
+        body = content[:500] if content else ""
+        if not body:
+            return None
 
         return ScrapingResult(
             url=url,
             title=title,
             body=body,
-            source="web_scrape"
+            source="web_scrape_crawl4ai"
         )
     except Exception as e:
         log.error(f"crawl4ai scraping failed for {url}: {e}")
