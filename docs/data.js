@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-29T14:50:27.105113+02:00",
+  "generated_at": "2026-08-29T15:20:27.937035+02:00",
   "editions": [
     {
       "id": "2026-08-29",
@@ -7,29 +7,29 @@ window.EDITION_DATA = {
       "dnum": "29",
       "mon": "Aug",
       "date": "Saturday 29 August 2026",
-      "headline": "Briefing refreshed 14:50 Berlin time",
-      "stand": "Automatically rebuilt at 14:50 — 11 sections tracked.",
+      "headline": "Briefing refreshed 15:20 Berlin time",
+      "stand": "Automatically rebuilt at 15:20 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "EPeiNkPycfdfDmYktSuDvy8KL/rvaDCgv0ydPi+kFtkmAumgxYXO8c8ix2IpJXvS6mYJJQmHSvjWzJG9bsR6vwI3yiidqMTm7GDuOkY3FjlCXNtwNucC5xnzGjOTA4GaQDB4DavATSfPl/Zj0hU616PEP59lZONJyV7RmUaaQwBYOKi1MlYv",
-          "iv": "3JZF2UI8/EVTBmRH",
-          "salt": "w2vpq0aq+jdadzpmIXs3xg=="
+          "ciphertext": "da4Yv5yZduc0fnv8dZm/xA/GFGf4Lo1pL/21G35FtWWbMi9+q9OgHWK5hHI3MRmEkObeiFgvY6bBRbnBo35LXRKHUHITgKQ7ILr8MbX67WA/eFdqix7nOpHRxzKP6KrOGXDiM+JNrUfT5PsIQxiXsD8vb7zIZhHFl+E8Y5/0RgW1XHie9Th1",
+          "iv": "/lKDgv/sv+TrAspt",
+          "salt": "sum+zDGi24SdSuPHbOkO3w=="
         },
         {
           "h": "Weather",
           "stats": [
             {
-              "n": "17°",
+              "n": "22°",
               "l": "right now"
             }
           ],
           "items": [
             {
-              "t": "Bremen: light rain, high 23°C",
-              "b": "Low 16°C, gusts to 47 km/h. 7-day outlook below.",
+              "t": "Bremen: overcast, high 24°C",
+              "b": "Low 16°C, gusts to 50 km/h. 7-day outlook below.",
               "src": "Open-Meteo"
             }
           ],
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "nY8VoB1PguiHPcijQ5pvGUrfuLjc1KFaQfFhG/d9JFOR1Vu/nKVCQ1Tj4m5cjQ1NogIZGm7KRDVIS2YWGrekzhveE/3XwOQLMPPa6Vi91vQnJpJDLEWOMQu3iiblVMzKBVMlrEPoMShpQa1pow7EzGCKYoWEntlRBpjr",
-          "iv": "7RAqIlokGOHmru7p",
-          "salt": "ZrKh9tC3pG1eXQw+oRFL/g=="
+          "ciphertext": "qS1hZw0YQofj694km6v+Lr3KQV9LmHbCzWbLpJDsO+SJacI4eN4/5w8lcrK5Sqf21H+EMLQGHfoB1ZBsnQtPBCa4OtmZw43pVFBF9IQxqCMbCk8CGNdk8ERBseSnWx2//EfdLz9YL62cARHWieOcYD4Cc8RpPHLKwLnZ",
+          "iv": "JxgTFtzyll/6Oq0J",
+          "salt": "gdOXlv2Mzn2NzvfmJu+YPg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "rokaqiIAYNbZDqPMTwhNoqWnmB/EMK/N4QhsrCbxa6xeO4PnZJXbj+QnqKjI3C8xqDHIWAb8gtVVNSkb2A1hijVtpNTANN5ASOR2V7cAhUIQr8swtbO0rvSW+IrBRXl/NuBxqOToZBw9KLyTrBaQcLBSFIFy3U22wf0ytQXGe6CehrSMkjIgJG5l1QmneWADVFNHE1QMxKa94o23iE3ZscVFo+olsn65LxNzwlgaGCEb63MdGAAOXlJe80SuHzCDHuF6RnZG/TwQb2X/OBlLH14VKwWoaoX2JPh9Og1uwkiZGlca6PNzi0FANKITk3ja4Ws4ov9A",
-          "iv": "4NlThzFoqLiItu/R",
-          "salt": "vPe9kNJweUfjsCt9bUB0FA=="
+          "ciphertext": "9RSrrCET6IOscv7UeL5Eqcf51u9MaAxOzAcJw87jcdyfNJvZ2tCLOKu8hP0nugU3ITHp5jhyBCHIORjkIeaG7cjz0tlVlOxFxo/ar/NzE0yFs5ok1KSFeR8mqRlG+77EOR4L7s7kwHzrG6QCnfa+RyoiCQLNM7IZoWtmhn7zhHnMpJ3tU4gfe538niC3Ysn8uQe6g+k9By4BFSgjmON+Rezv0zqoxFh5BVK7f7GSO+BkyLXH5isjBsTWjMLwzD0CW1e8L+iFQ9ZC3EpVrbMGiWg1OP5Xzxh3d9tPtR1ZBeLXUZNTRAr/bxi7XLGCwlbyqeCk48WG",
+          "iv": "k/M4iUSpz3a6DkVk",
+          "salt": "L0PNcA3XBkwVBsR0FRC+5w=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -1144,7 +1144,7 @@ window.EDITION_DATA = {
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "23° is the high point this week in Bremen",
+      "title": "24° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
@@ -1170,7 +1170,7 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              23.4
+              23.5
             ],
             [
               1,
@@ -1178,15 +1178,15 @@ window.EDITION_DATA = {
             ],
             [
               2,
-              20.3
+              20.5
             ],
             [
               3,
-              19.6
+              19.5
             ],
             [
               4,
-              20.5
+              20.4
             ],
             [
               5,
@@ -1202,45 +1202,45 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 85% this week in Bremen",
+      "title": "Rain chances peak at 90% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
           "k": "08-29",
-          "v": 63,
-          "lab": "63%",
+          "v": 70,
+          "lab": "70%",
           "hero": false,
-          "tip": "23°C, Light rain"
+          "tip": "24°C, Light rain"
         },
         {
           "k": "08-30",
-          "v": 65,
-          "lab": "65%",
+          "v": 68,
+          "lab": "68%",
           "hero": false,
-          "tip": "22°C, Thunderstorm"
+          "tip": "22°C, Rain showers"
         },
         {
           "k": "08-31",
-          "v": 85,
-          "lab": "85%",
+          "v": 90,
+          "lab": "90%",
           "hero": true,
           "tip": "20°C, Rain showers"
         },
         {
           "k": "09-01",
-          "v": 30,
-          "lab": "30%",
+          "v": 28,
+          "lab": "28%",
           "hero": false,
-          "tip": "20°C, Overcast"
+          "tip": "20°C, Light rain"
         },
         {
           "k": "09-02",
-          "v": 48,
-          "lab": "48%",
+          "v": 50,
+          "lab": "50%",
           "hero": false,
-          "tip": "20°C, Overcast"
+          "tip": "20°C, Light rain"
         },
         {
           "k": "09-03",
