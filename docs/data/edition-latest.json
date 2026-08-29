@@ -4,29 +4,29 @@
   "dnum": "29",
   "mon": "Aug",
   "date": "Saturday 29 August 2026",
-  "headline": "Briefing refreshed 02:20 Berlin time",
-  "stand": "Automatically rebuilt at 02:20 — 11 sections tracked.",
+  "headline": "Briefing refreshed 02:50 Berlin time",
+  "stand": "Automatically rebuilt at 02:50 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "huarwjCagxWfM5Je1yQkreaEyWjBFzkfyrP8J64WYXJ578CtYQ7wxHW8f9r/IKFp6OzY6gaDQl2PcXdq3ZDbZeKuAlbdaiymcNQPBHRlLPSNKAibYDz83Qc0tGspxqt7Q5A92aukb8RXcDeBIhRw9OBIrVtdMf+NXMMED/hYZVUDnL/s2vll",
-      "iv": "CZeD0a5pYDobhx/8",
-      "salt": "HrPifD3UzNHfyU3yhg8eRw=="
+      "ciphertext": "/6cbFEkU949pwCdAv1z747fthe/XSjpfVs5ANfckHCvdbqZOnCSsigk1C81z6Zd9v6GHoD2gcpBdcGx5Ek8WlT3J9+RSA7O86Doiof4xnBmmKWtUQqRzcbII4pxtNaozgH0RjaMsgDIRteZOB+JVsXaLIrxvyfVqC6j0WuoXR0msBhezlieY",
+      "iv": "aH8ZkFFKb53bqHE6",
+      "salt": "weNHbaWHqPUoAx377+UUvw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "18°",
+          "n": "15°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 24°C",
-          "b": "Low 17°C, gusts to 42 km/h. 7-day outlook below.",
+          "t": "Bremen: mainly clear, high 23°C",
+          "b": "Low 15°C, gusts to 45 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "jQ+cDRjdQDfoyQQhK9PHaFTiB/4TODqYozV3poQpq0O+rKnklXeZakZTia0wKitS2cijIBH/g/ouuDec5CDUUta8yfp+WG0dvBK6kMDMlY3u50baBvXO7PJYSbcdF0cSsgSIeQbwEHNMxmcpVeHBstA2G59rLeQuJeV0",
-      "iv": "E2O7B9wm+nCvISe0",
-      "salt": "ern2EULQydaqBslRpq7PPQ=="
+      "ciphertext": "PYGPOf0fZ5NONICPGW9K4V6TMlGa2/AUKnYJp2BRW9n/DPiAS7WItm54/gE+JbcOz4KD2+ae8JIPscLlAJEVstETAN+Y6kUyUJLaamI+rjfLeOhfONRruNyXNg2eUaVEpslIkcfFS7MzUG02d66542ghxK9v63SqJmlY",
+      "iv": "9ex6r+RwoTMy8F+o",
+      "salt": "xep0PV8KxAHkvyB6q59raA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "GAL1dJFOFzKFfuGp9A4QKGAL+PtH6ofo16rhMyqPYBDtaC5DvKmsbKvvFRSC3SC4lqNDGKrv8T89hTki55b6daO6Iq63yfN8V2t9qI4CZQE79E8zuW+QT9ailTC7OSMTv4GI1iRAWkn3NRL6IvdI6kVwJWKg6sUAwILgjp3lnKF2+NmINT93A/hE0fMZ8OfiLqzCBqab6YCOyVvpvNgJFVvDH/Hiosmav7yO1J8pm6+ZBS5Hmi5X49I1mKW6rd2Z5TEPkYG3crwoYIiRs7MrBd02BwD0/IC8Jfnwb0i5ffFNwa68Pz2MmUqH642Fdtv29HarXzxE",
-      "iv": "7yov5jtPJNJvZdRa",
-      "salt": "NKzvAG1C/LlO0jJ9mtP9Wg=="
+      "ciphertext": "ccAERJyEP4ZfK8BrKYxHrymMbpFgLPGVrm2Ojn9zFgOhWcxQnOkL2yEf4iWPi8c7nyqytyr65NWqpbZmpQVDlyfvOaPrdkdR47oTSMoAZ8hpSxBaRcAT/ulvwxBcE9sBRKdM5m6ACO6tScKqfJ4Om9WtvFSGMmnOomN33hu6Du9SJbvr9E18d2+i2LwN014HK6KtVjxJZlqRPa7F7eWUh1JYTIDETMv8j9s8DvCGreSb77tmp0xfhMkUonEmEGdMwIqzQrXYtmO3HgyLDOtiS047NSNbpeRg1P7f14J3EHZWHVeSfVZvizkL4hdzIGaXw/HohrR0",
+      "iv": "USOS64DQokjUGxBi",
+      "salt": "uWYW6pmHsT5sX9sMDnehjg=="
     },
     {
       "h": "ISTQB & Software Testing",
