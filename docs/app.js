@@ -707,6 +707,16 @@ document.addEventListener("click",e=>{
     if(!reads.includes(id)){reads=[...reads,id];store.set("reads",reads);row.classList.add("done")}
     return}
 });
+// The section filter bar (.chips) scrolls horizontally, but a plain mouse
+// wheel only ever generates vertical delta — there was no way to reach the
+// later chips without a touchpad/touchscreen. Delegated (not bound per-
+// render) because .chips gets replaced wholesale on every paint().
+document.addEventListener("wheel",e=>{
+  const bar=e.target.closest(".chips");
+  if(!bar||e.deltaY===0)return;
+  bar.scrollLeft+=e.deltaY;
+  e.preventDefault();
+},{passive:false});
 $("#lockBtn").addEventListener("click",()=>{
   if($("#lockBtn").classList.contains("unlocked")) lockAll();
   else lockPrompt();
