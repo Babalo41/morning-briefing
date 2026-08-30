@@ -74,7 +74,13 @@
   </div>
 </div>
 
+<!-- data.local.js is gitignored, local-only, never in this repo on GitHub —
+     the 404 on the public site is expected and harmless (see
+     TAGGED_INTERESTS_ARCHITECTURE.md "Phase 7"). When it exists (written by
+     run_pipeline.py for local use) it silently overrides EDITION_DATA with
+     an unlocked version of today's edition. -->
 <script src="data.js"></script>
+<script src="data.local.js"></script>
 <script src="app.js"></script>
 <script>
 if ("serviceWorker" in navigator) {
