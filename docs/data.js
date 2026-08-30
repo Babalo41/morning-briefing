@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T05:19:38.517144+02:00",
+  "generated_at": "2026-08-30T13:51:56.440152+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,29 +7,29 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 05:19 Berlin time",
-      "stand": "Automatically rebuilt at 05:19 — 12 sections tracked.",
+      "headline": "Briefing refreshed 13:51 Berlin time",
+      "stand": "Automatically rebuilt at 13:51 — 12 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "pWE7trIsZ6jv93sxsyPMkeClM6sg7NjA9Cz/Gr9odQZAuyLSDePePtIVgtVZb9V3hGbrTIvvT1L+QJyETImHcjU3BOYUct7eadpOcEgFSO6L3B/MvWnvcEIK9hctF7M1k6RAkHR7HUMEYpRqn7hWuCXwzc2PuL7KDNpLjfwFqkNrjVW9ucwW",
-          "iv": "+CtnmcmP+BpSzFdt",
-          "salt": "BRWyAH+LQSKGSMWoqFThEQ=="
+          "ciphertext": "w2ToiAke4Y+EJ9DGrPDG0ITyllH//uIsDYVyhau1GDonqHAcBaQNLbIBkXz7i8fUbJa3ie2QEl/9pQ6v5l6yjRcjcgbPoFbC667QK5GossxVlPZlqcHQQkYveVo6CPaghNBRStu22IqD+O5zJ2bO/3YiZbuLLp+bIwyL0qFX54VMXoHfzIdm",
+          "iv": "1KygYr5VEUZUMPCD",
+          "salt": "VutNr6B5AHBz/PXb7KAW1Q=="
         },
         {
           "h": "Weather",
           "stats": [
             {
-              "n": "18°",
+              "n": "20°",
               "l": "right now"
             }
           ],
           "items": [
             {
-              "t": "Bremen: light rain, high 22°C",
-              "b": "Low 18°C, gusts to 61 km/h. 7-day outlook below.",
+              "t": "Bremen: overcast, high 20°C",
+              "b": "Low 17°C, gusts to 56 km/h. 7-day outlook below.",
               "src": "Open-Meteo"
             }
           ],
@@ -42,25 +42,25 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "I9jQQm0wwlIIaRNcW0zvCKi0cfhvW6bGx8yRP7IsBI1FVhCKJud4E7CO0cP8fnZEQ9gqYkRbcX1aRdd789hWiZnxwae1rseW2gufVjAp6t/d2Jajy4izQ8TNdu/gfKh4kYor108/tqwXl21XVy3CF9ydYFxW/5GUBZE7",
-          "iv": "BY+cwvzwqwEDP7FN",
-          "salt": "+mI2RUys2SkiVPaMClE8aA=="
+          "ciphertext": "0dk5V2ylbUhAIJN36RjJwOhI8pJfZ4mRycyXSuxITqpYtwsAQ0JFQPnl8cwvZQcWpCgYxS/gBU6ZnUookzEgcc0ZA3uelAEo4h6BguJtmDW9mwV6BIGtCj8h6fUT0xovLStITFz3KSv4mOuRGTDS9TvTg17RiOfFfmCw",
+          "iv": "yvo9c8156egqWjrD",
+          "salt": "WDDV01BnLSILNmgkEMy6fg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "5yebAv3FjACvS+Ax6js0DIUN59IovTRklc4XN6gbp3bzkPxHBxD0MgZa+sfiTYdSI5wNijmL/4bIs+8h9wzZPkDx6vm/hPNacrTD0mtyHvoj/W65kTWzzr+Vn1v5FZ9e7ULd5v5pLkklhthikvE8VV9/OZ5GZMjkR9GxPn6SpB9XvYsvaHJ7SaKvtTmvRDjD6PJjTqUsGyKMLA6butjScJxf4u0gaZHKSD164Ak/TtZ8gmCOjsDr2oR7Gia40DFH+3K7WEygRU7g7HXtMNBaK3NXj7AXU0oWl+fCdprs/BU89FwGx08y2sg/XEQSEWFfwQbkufLX",
-          "iv": "srnAQUXd/22N6wxn",
-          "salt": "rk4Ua7VowjOWmoWuB7GStQ=="
+          "ciphertext": "TdciVH2tZRIwHDXKk83AUIp9EYiMtMa9wbADOP+HGzEj+1luFKa2UPQWYYRHNOHi8IDib1mGVYtlUQfW2rFDFFc9CKs4ij+h0TG0OHl79m5uxfOMPvtbOEvmp6nJ8tAbIlkPp6yBIw4512rduxEM1Ocv78zpNDs/KOvy5Z2i31y4GL6Ul+/WsEOG5Pu++/uQkagv3FSu1y5y7EB38EysOTf7tF1UNzRsBDIIgj4HnF4oR4Du9KBN8aF2Z2YViYH4Ra+fF1LQ2lzyPfgKAIdE7/jQ/Dd/CQuaLJsTo0vkGVaJi7NoOYiCbjndTP5h1uoVmqxhk6DN",
+          "iv": "EZOACbOMz4QNj1im",
+          "salt": "Dcdchdk/Vod6euIBA7weJg=="
         },
         {
           "h": "Spending",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "vmxc1gjBlfCZnMBdpd7s2oxVxhARFunvI7HQ5FiPLGbza2RN5G3QCkPgIOAWnHflO6xMD8QttlP1/Shoo6qODIG+U+5Vi1bucD+WHPKiAQ4v6VwbvF7fLQB+XmYhCjScrtNFpdO3FpPsmeeaQcBXbqlJ6YvIPcottIANkXHuVjFcrBG3Wugpuu9AoMHmVZO+wLWrlkGM5+B0hAc/",
-          "iv": "mZnIE0jnNTRQEeGX",
-          "salt": "9HKRYJccjnHMzyxbKYLb5g=="
+          "ciphertext": "P4UztmxhBstcj/cp38RT8UV8/h0uXkxwrjesI6HJuX+JXNWJ6ZH+PqDtnTCYg5vqp8beng7rYjthgM/tq2jcsKLU2yS/JXsiIKrA3oWhdzINTikC9hTlSLaW5OSTNCe98Igd7n/tCtANP9cWBRTjlIq8QKTmK4XkEk1ZxnebGuF7zxc9w8kOaVrF95FeRPNDw7nSHCFHyWrNmCLv",
+          "iv": "Eu9NjoYlvCM6+xhd",
+          "salt": "UwUO1EFT3WAlFdVgERvRXQ=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -1624,31 +1624,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              21.9
+              20.2
             ],
             [
               1,
-              19.9
-            ],
-            [
-              2,
               20.1
             ],
             [
-              3,
+              2,
               20.4
             ],
             [
+              3,
+              21.3
+            ],
+            [
               4,
-              22.1
+              22.4
             ],
             [
               5,
-              20.9
+              20.5
             ],
             [
               6,
-              21.6
+              18.7
             ]
           ]
         }
@@ -1666,49 +1666,49 @@ window.EDITION_DATA = {
           "v": 88,
           "lab": "88%",
           "hero": true,
-          "tip": "22°C, Rain showers"
+          "tip": "20°C, Rain showers"
         },
         {
           "k": "08-31",
-          "v": 68,
-          "lab": "68%",
+          "v": 83,
+          "lab": "83%",
           "hero": false,
-          "tip": "20°C, Rain showers"
+          "tip": "20°C, Thunderstorm"
         },
         {
           "k": "09-01",
-          "v": 19,
-          "lab": "19%",
+          "v": 31,
+          "lab": "31%",
           "hero": false,
-          "tip": "20°C, Rain showers"
+          "tip": "20°C, Overcast"
         },
         {
           "k": "09-02",
-          "v": 33,
-          "lab": "33%",
-          "hero": false,
-          "tip": "20°C, Rain showers"
-        },
-        {
-          "k": "09-03",
-          "v": 40,
-          "lab": "40%",
-          "hero": false,
-          "tip": "22°C, Overcast"
-        },
-        {
-          "k": "09-04",
-          "v": 43,
-          "lab": "43%",
+          "v": 31,
+          "lab": "31%",
           "hero": false,
           "tip": "21°C, Rain showers"
         },
         {
-          "k": "09-05",
-          "v": 40,
-          "lab": "40%",
+          "k": "09-03",
+          "v": 35,
+          "lab": "35%",
           "hero": false,
-          "tip": "22°C, Overcast"
+          "tip": "22°C, Light rain"
+        },
+        {
+          "k": "09-04",
+          "v": 49,
+          "lab": "49%",
+          "hero": false,
+          "tip": "20°C, Thunderstorm"
+        },
+        {
+          "k": "09-05",
+          "v": 45,
+          "lab": "45%",
+          "hero": false,
+          "tip": "19°C, Overcast"
         }
       ]
     },
