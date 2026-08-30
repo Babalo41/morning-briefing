@@ -4,16 +4,16 @@
   "dnum": "30",
   "mon": "Aug",
   "date": "Sunday 30 August 2026",
-  "headline": "Briefing refreshed 02:52 Berlin time",
-  "stand": "Automatically rebuilt at 02:52 — 11 sections tracked.",
+  "headline": "Briefing refreshed 02:53 Berlin time",
+  "stand": "Automatically rebuilt at 02:53 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "KFIASIfKkErjFf0tkk8qqDBO4bF2QZm0kTPEr/I1/HFCNGnhI5D2EjPdV1fEEp8dHQPBXTxEi+BRUnrIf9gogN6+5pum9LwCPU0du4VceMuBs5vXXSNCIV9SlAFyBkvR0h5UpJ1CCPP/p+kQt6OQLwXk0fYL7/eTWfY4x8wymqdCD+WI18qh",
-      "iv": "75f4t3dxP/q9Hfo1",
-      "salt": "8MA9Xw5TKrnk2gfju22U1A=="
+      "ciphertext": "6BSfVIjakH5k1ZBbl9dsPzv+7hDPSx43+4LrbimQcQQxD0dP/XhYOgEyDpTG40WoM56cNK9vqaEJgTWRNX/Z07DEoFwJ3OF+iaUFpRpJaHRDmP8IsyDAeRQV8f3vnUcGk0nl6e8lLb/XQgTlK8rEcEojbOGzTebF8J1kLSaxTYnRydplztcO",
+      "iv": "ycYm4UXT/qLhuzjC",
+      "salt": "b4AgL6+6fJURE3TjARqIGg=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "oVyLPI1bvyehwqxrMt0jQ8DGCwoFgvA3vGaUeNcArIhgmnpwPxryGz30mMKqLihBk/LPxxuV44CWiqqCP67/vuRe7z0m6BnvTc6v4/Qd+DGKJawzdiSOey0Z5L2r7WQnqOoDruCICmSplMSKrIf6QWtmBcUO10Aw8yBk",
-      "iv": "a/i2b74UYVu9KBik",
-      "salt": "CvCmN3cfSWiUKRJLGnLPDA=="
+      "ciphertext": "1ugu86VUBfPii0isb36x8swEfFXDtNfYFtYn+Jbodq7PvCkSdt8x7iH5n34AdXI3yupoomBea1kUxQJGYdSboZ6GFr2HG3nHivA9nowNuZYYrXXxMg9tVbINup6durhcuD0YoD/QliT6v5V7y0JwTennL2+9aXvFW4dK",
+      "iv": "jHX53V3r3/aySa0Q",
+      "salt": "N1ZBwWy+nYXX6Y0T2Frimg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "oVhs1c5YXQ/T22xwJilOMuV6xse3pYKNLEAt28VDB9yuOSQog4OMI6R47/kGcf1thrVsiej2jPsxYDIa2T2EG+1LAZvzB13UXmk3/yEumXmofkFnqblRswyn+KDJ64MgZTtmWyGLNcBTgWtQVsrxpX2AImsMdfX4GCzIrO8ijTSl8xeqKSGa5jsDqE9xPNwRxiSRhLU0htBOBzOr80+co13DN5WIq/NRWCjMfnTWNrE5Ph41F5kTAgizntw6H4qc9fzJMmJtyF4aTCscSAE2YvEdcKFEgq2ZcZqwxWZhKfY6qEPMIsu91jCidZD9cxCvBNrb8VoW",
-      "iv": "FU2+s//9ll2bRM/Q",
-      "salt": "+PrsmfQVPZxpQzwh58d8sA=="
+      "ciphertext": "D1HDzfRVJtbWSN//GkWE134D8ueZBBuI16pZUuVWBtILT7vuKn0B1heWJWw5tIN/hpIJpfVBy0MF9v4ENdOKKos8LEpLvAPrEHm4Q3SHebk/DCLdnnngl2hlK4DUxAudAIcPhynGCkEst0WFRuewM3Gp2SDxKW9KoyrR1MiH3InxHwo2oBMv9My6YvyxRntFLXbvw1NU7bfM4HADMnco0HskSPGxAyxwphXekFqfw16ls6blRQDvQvktE7VNvXdkxokn+NBYCQwumbMJflpStyX24cezDXndELcKPV0eM5Jsrnq9Z7yA7IjuTIpADULJS8UnNEY3",
+      "iv": "QJX6hZnr8ZH04x3r",
+      "salt": "6ronGWlMh2bpjcltX2/99Q=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -156,87 +156,30 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Canada installs large Lake Ontario sign in latest jab at US",
-          "b": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "b": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "b": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Former Ecuadorian president imprisoned for corruption",
-          "b": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Haakon hält erste emotionale Ansprache als König von Norwegen",
-          "b": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. Harald V. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
-          "src": "tagesschau.de - Die Nachrichten der ARD",
-          "u": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
           "tag": "Bhavnagar",
           "rel": "family"
         },
         {
-          "t": "Norway's new king remembers 'my dear father' in first speech",
-          "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "t": "Tracking: Bremen",
+          "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
-          "b": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet.",
-          "src": "tagesschau.de - Die Nachrichten der ARD",
-          "u": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
-          "tag": "Bhavnagar",
-          "rel": "family"
-        },
-        {
-          "t": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-          "b": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
-          "b": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
-          "src": "tagesschau.de - Die Nachrichten der ARD",
-          "u": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
-          "tag": "Bhavnagar",
-          "rel": "family"
-        },
-        {
-          "t": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-          "b": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
-          "src": "tagesschau.de - Die Nachrichten der ARD",
-          "u": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
-          "tag": "Bhavnagar",
-          "rel": "family"
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
         }
-      ],
-      "chart": "near_home_flow"
+      ]
     },
     {
       "h": "World & Knowledge",
