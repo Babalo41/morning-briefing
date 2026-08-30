@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T04:07:25.206918+02:00",
+  "generated_at": "2026-08-30T04:35:57.605952+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 04:07 Berlin time",
-      "stand": "Automatically rebuilt at 04:07 — 11 sections tracked.",
+      "headline": "Briefing refreshed 04:35 Berlin time",
+      "stand": "Automatically rebuilt at 04:35 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "Xkx9TtBc1ImNnv/IdUB6hgRtOnUcaQQImSI/pJivunvHNmuhMM7URpY2qM3U3ief7ITJscPFC2jW1BkBETuRp1yM5e2/lXFGQzrU8dIkRlbchkBEVqWZBfN08axFMeFZ8TBZU3WMbML1ZSOrgcBSrWX5rOe4KI6F+Ldf4nJixbFV6VvAqvLO",
-          "iv": "YmHxirBofUItwFd6",
-          "salt": "FdByCM0LZUEa0/AV1zAMQw=="
+          "ciphertext": "MzqvUk0/ifYa3b7B3inwwcNIqi91m3ATf54JTyWk3elcw+haSHPnP/eZWRWCcnLmKNXFsVWeNl9u1fDDGB9wqNw6zx5emQFP9K1fiIPA7OyAQqX7aY7HLcBuUv6+WmoR2vTnMI61WSIEd6kRk3Xu2oX1d2Yx7l+DflsMsD6QLKUYLWrr9rIY",
+          "iv": "UY0lyK94oAruPk2O",
+          "salt": "H8bBC6klE0an8m/5gqTNFA=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "2mhdy21DFsN6wEpPnvLm5ha4UhXHBOCcQkZ73aiMmjkLjuI/9QiYFPvGCWlg0527Jec/GFgNAOLjP7teUIyWVjRW8enp+qatY0zemlfwR1iw850ZSLGWUNJoJsJeBGmBY9BPyj07l2UWuGEoqKYfv84VgoRWo1t+MU3D",
-          "iv": "wLeG3X1AAWRVYUBn",
-          "salt": "vggdqL1MsyBG2stH/Hw+aQ=="
+          "ciphertext": "pbA7OmrHppJQWDG5dqrihDB6l/duMNlO/NhWd2wVmDgqxcDuY01v2qZ5zqJBQ7hF0e3H+zv2GFJbvqLKqc48DywQZVS2zzlROzb0sUvy6x/6mGk/0D113P291mUPjhYtnFX9dUjFfi4g/VmZ3G/6c5D8Bzrg2rHntH3r",
+          "iv": "zV9PUNMtwPdvV1+k",
+          "salt": "dZRJhb7fplN8v5yWgrc5xg=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "jyqo+NelUrt2nTq9UwbQ6rIivSpyBVvKPQJoQovI3H/KQDLRCBtG9FaKHinicM/Ysj7j+ZvyRHQEE52Y3MjeN3tG+k27l4/HwxU2VssKBpan6eR/kUnjL2CQM6tpc153xi/Q2uuzwfvkqJXI4ICQTVOUUdC1HM4UmX+vRVh1XXnD0UQLgtsWhqgHKnrRiXmVanud/ZHt51hcBoWMtDaSyGEYC6CgxP2XMGpXDPVlmYGAPQPrr2C4pnkdriY7uw4K8AwACMotGUN5gBtfYEUhcbti9A9D6iAaDPpoiRYz+jVDiL9m79PCYAaMvOk+55oGXQesTae6",
-          "iv": "1ma1az1f6wP2eRZm",
-          "salt": "iEYB4rTM5fIEfyOPMxOsaw=="
+          "ciphertext": "XZdIk6u+YLRekrjoAehpIX8uyGc5Ztag+E+pk4BW1rtd7gYSSJQCrdJOLILCYk3v9vW46KNRGHWjp9Gi5mnlWdHqldlr+pkKWtF2OC2i296FCRnVv7wBk/qNrwpnzYjLiUUa6Yi1182spq1Fq3lH4/DZ3MwTeD7L8tTpClbQBdJm1dUHjX4SANTSy8zk1zMS4j381uHSQO51Xa8DICJmSYhqeb7N0Q3mZab7LOg3CnodRi71CRXhxjebB1PGHFALL1xzv5Hahk6cN+EXtUfdusMY4QM0eSsdHTU9Sz1GXLKLGuJJ9TXHmx5yGpdANrm/JaB83dKM",
+          "iv": "yJDysN3ikU4PDI79",
+          "salt": "clOnufmKPmsj3pps+LUnuw=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -159,20 +159,20 @@ window.EDITION_DATA = {
           "tags_section": "near_home",
           "items": [
             {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bhavnagar",
-              "rel": "family"
-            },
-            {
               "t": "Tracking: Bremen",
               "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
               "src": "system",
               "u": null,
               "tag": "Bremen",
               "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
             },
             {
               "t": "Tracking: Surat",

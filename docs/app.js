@@ -545,11 +545,14 @@ function renderInterests(){
     sec.tags.forEach(t=>{
       const feedBtn=local?`<button class="addtagbtn" data-act="addtagfeed" data-section="${esc(sec.section_id)}"
         data-label="${esc(t.label)}" data-relation="${esc(t.relation)}" data-area="${esc(t.area||"")}">+ feed</button>`:"";
+      const suggestBtn=local?`<button class="addtagbtn" data-act="suggest" data-istag="1" data-section="${esc(sec.section_id)}"
+        data-label="${esc(t.label)}" data-relation="${esc(t.relation)}" data-area="${esc(t.area||"")}"
+        data-keywords="${esc(t.keywords.join(","))}">Suggest</button>`:"";
       h+=`<div class="ovrow">
         <span class="tagbadge" data-rel="${esc(t.relation)}">${esc(t.label)} · ${REL_LABEL[t.relation]||"Interest"}</span>
         ${t.area?`<span class="ovmeta">${esc(t.area)}</span>`:""}
         <span class="ovmeta">${t.feed_count} source${t.feed_count===1?"":"s"}${t.keywords.length?" · "+esc(t.keywords.join(", ")):""}</span>
-        ${feedBtn}
+        ${feedBtn}${suggestBtn}
         ${t.feeds.length?`<ul class="ovfeeds">${t.feeds.map(f=>`<li><a href="${esc(f)}" target="_blank" rel="noopener">${esc(f)}</a></li>`).join("")}</ul>`:""}
       </div>`;
     });
@@ -560,7 +563,9 @@ function renderInterests(){
   h+=`<div class="group"><div class="ghead"><h3>Topic sections</h3><span class="n">${ov.topics.length}</span></div>`;
   ov.topics.forEach(sec=>{
     const addBtn=local?`<button class="addtagbtn" data-act="addfeed" data-section="${esc(sec.section_id)}">+ Add</button>`:"";
-    h+=`<div class="ovsec"><div class="ovsechead"><h4>${esc(sec.title)}</h4>${addBtn}</div>
+    const suggestBtn=local?`<button class="addtagbtn" data-act="suggest" data-istag="0" data-section="${esc(sec.section_id)}"
+      data-sectiontitle="${esc(sec.title)}">Suggest</button>`:"";
+    h+=`<div class="ovsec"><div class="ovsechead"><h4>${esc(sec.title)}</h4>${addBtn}${suggestBtn}</div>
       <div class="ovrow"><span class="ovmeta">${sec.feed_count} source${sec.feed_count===1?"":"s"}</span></div>
       ${sec.feeds.length?`<ul class="ovfeeds">${sec.feeds.map(f=>`<li><a href="${esc(f)}" target="_blank" rel="noopener">${esc(f)}</a></li>`).join("")}</ul>`:""}
     </div>`;
@@ -644,7 +649,7 @@ function addTagPrompt(sectionId,msg,prefill){
       <label for="atKw">Keywords (optional, comma-separated — leave blank for no filter)</label>
       <input id="atKw" placeholder="e.g. flood, election">
       <label for="atFeed">Feed URL (optional — verified before anything is saved)</label>
-      <input id="atFeed" placeholder="https://example.com/feed">
+      <input id="atFeed" placeholder="https://example.com/feed" value="${esc(p.feed||"")}">
       <div class="row2" style="margin-top:12px"><button id="atGo">Add</button></div>
       ${msg?`<div class="${msg.ok?"ok":"err"}">${esc(msg.text)}</div>`:""}
     </div>`;
@@ -675,7 +680,7 @@ function addTagPrompt(sectionId,msg,prefill){
     }
   };
 }
-function addFeedPrompt(sectionId,msg){
+function addFeedPrompt(sectionId,msg,prefillUrl){
   // Simpler counterpart to addTagPrompt: plain topic sections (Phase 4)
   // have no relation/tag concept — just a feed URL, verified the same way.
   $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
@@ -683,7 +688,7 @@ function addFeedPrompt(sectionId,msg){
     <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
       <p>Verified before anything is saved. Only visible on your local WiFi server.</p>
       <label for="afFeed">Feed URL</label>
-      <input id="afFeed" placeholder="https://example.com/feed">
+      <input id="afFeed" placeholder="https://example.com/feed" value="${esc(prefillUrl||"")}">
       <div class="row2" style="margin-top:12px"><button id="afGo">Add</button></div>
       ${msg?`<div class="${msg.ok?"ok":"err"}">${esc(msg.text)}</div>`:""}
     </div>`;
@@ -695,7 +700,7 @@ function addFeedPrompt(sectionId,msg){
       const res=await fetch("/api/add-feed",{method:"POST",headers:{"Content-Type":"application/json"},
         body:JSON.stringify({section:sectionId,feed_url:$("#afFeed").value})});
       const data=await res.json();
-      if(!data.ok){addFeedPrompt(sectionId,{ok:false,text:data.message});return}
+      if(!data.ok){addFeedPrompt(sectionId,{ok:false,text:data.message},$("#afFeed").value);return}
       btn.textContent="Refreshing…";
       const res2=await fetch("/api/run-pipeline",{method:"POST"});
       const data2=await res2.json();
@@ -705,6 +710,57 @@ function addFeedPrompt(sectionId,msg){
       addFeedPrompt(sectionId,{ok:false,text:"Could not reach the local server — is it still running?"});
     }
   };
+}
+function suggestFeedPrompt(sectionId,ctx){
+  // Phase 8: suggests a real, verified feed using whatever's already
+  // configured (a tag's keywords/label, or a topic section's title) —
+  // degrades from most to least specific server-side, no search-API key
+  // (Google News' public RSS search), see TAGGED_INTERESTS_ARCHITECTURE.md.
+  const heading=`Suggest a feed${ctx.label?` for ${esc(ctx.label)}`:""}`;
+  $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+    <div class="mk"></div><h5>${heading}</h5>
+    <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+      <p>Searching for a real, working feed using what's already configured here — no API key, just a
+        public search feed, verified before it's shown.</p>
+      <p class="ovmeta">Looking…</p>
+    </div>`;
+  $("#sheet").classList.add("on");$("#scrim").classList.add("on");
+  $("#shx").onclick=closeSheet;
+
+  fetch("/api/suggest-feed",{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({label:ctx.label||"",keywords:ctx.keywords||[],section_title:ctx.sectionTitle||""})})
+    .then(res=>res.json())
+    .then(data=>{
+      if(!data.ok){
+        $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+          <div class="mk"></div><h5>${heading}</h5>
+          <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+            <div class="err">${esc(data.message)}</div>
+          </div>`;
+        $("#shx").onclick=closeSheet;
+        return;
+      }
+      $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+        <div class="mk"></div><h5>Suggested, searching "${esc(data.query_used)}"</h5>
+        <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+          <p>What this feed actually delivers right now:</p>
+          <ul class="ovfeeds">${data.sample_titles.map(t=>`<li>${esc(t)}</li>`).join("")}</ul>
+          <div class="row2" style="margin-top:12px"><button id="sfUse">Use this feed</button></div>
+        </div>`;
+      $("#shx").onclick=closeSheet;
+      $("#sfUse").onclick=()=>{
+        if(ctx.isTag)addTagPrompt(sectionId,null,{label:ctx.label,relation:ctx.relation,area:ctx.area,feed:data.feed_url});
+        else addFeedPrompt(sectionId,null,data.feed_url);
+      };
+    })
+    .catch(()=>{
+      $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+        <div class="mk"></div><h5>${heading}</h5>
+        <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+          <div class="err">Could not reach the local server — is it still running?</div>
+        </div>`;
+      $("#shx").onclick=closeSheet;
+    });
 }
 
 /* ── chart tooltips ── */
@@ -741,6 +797,13 @@ document.addEventListener("click",e=>{
   const addtagfeed=e.target.closest('[data-act="addtagfeed"]');
   if(addtagfeed){addTagPrompt(addtagfeed.dataset.section,null,{label:addtagfeed.dataset.label,
     relation:addtagfeed.dataset.relation,area:addtagfeed.dataset.area});return}
+  const suggest=e.target.closest('[data-act="suggest"]');
+  if(suggest){suggestFeedPrompt(suggest.dataset.section,{
+    isTag:suggest.dataset.istag==="1", label:suggest.dataset.label||"",
+    relation:suggest.dataset.relation||"", area:suggest.dataset.area||"",
+    keywords:(suggest.dataset.keywords||"").split(",").filter(Boolean),
+    sectionTitle:suggest.dataset.sectiontitle||"",
+  });return}
   const st=e.target.closest('[data-act="star"]');
   if(st){const id=st.closest(".row").dataset.id;
     stars=stars.includes(id)?stars.filter(x=>x!==id):[...stars,id];
