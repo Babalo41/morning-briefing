@@ -4,16 +4,16 @@
   "dnum": "30",
   "mon": "Aug",
   "date": "Sunday 30 August 2026",
-  "headline": "Briefing refreshed 02:26 Berlin time",
-  "stand": "Automatically rebuilt at 02:26 — 11 sections tracked.",
+  "headline": "Briefing refreshed 02:27 Berlin time",
+  "stand": "Automatically rebuilt at 02:27 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "wwaGn4g+Xp/VxBrL4ZJOxav6Q/314/3MMiZtzcHOZyuVjTOLmk5R7o4Go0Fsn7t6yiwy7iGlfNtIMfroTLooKbnVfI2mmnvuYoswV7Mi2YCxDgdCL51fWZucPOEtWGxLbxTJK+RXe1pD79ejmxiGHdFJYXWVzux52z9HkxlCyepFJGRiabha",
-      "iv": "U2kpZaGj+R9ORmrk",
-      "salt": "CcOywBlSyF/C875Qnl4x0Q=="
+      "ciphertext": "vmmRJSQ/rHA4fHXEDQ0pAL0AUNIEFIP8O9sH/PkVITFuHmLPsE/7FClgwsjV59Y6mc1408GECbb1GbBbSwV+ByhWcGlXFLhpKPaTCC5PL1oMM5BorSY7V+pTXc7X/EJTPJfh2wWdRaMinDxejQArv+G4l2V7uFIZSZjv/faHMxfKVNYF7xBU",
+      "iv": "9c7Va9V5IVUdh7es",
+      "salt": "7/O8VWFFhJPXE05Bu9qN8A=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "gcwF/NzWWHUtuqiUT9Dp0B0pwNMXQae+49cuTS/diQdxPRiyGPKWoXE//S0o8VPGyMbeKngQh2erQFQW8Wuv6tQWMMaM/U/DqUPZXKvfbrVSJO/eMQBlGT4FGMLgvrCy8TO8VNjuz3dss2HHrYwqnMmVepSozP7lw+bm",
-      "iv": "R/S2iZT/YF+XRzFY",
-      "salt": "gCqWCcfy7lPoWqC9yEJr7A=="
+      "ciphertext": "6bXMrDmgkM54SKs9OiUYqFuX5mmy4Q3CNHxPijM7OZyFQTh0EkujLvyRuQfFDCaiNY7tjBgBUPmzfkAlTTWJyuxVxOhf0VOnxzyfvfXj1lVNa2rylCLEcPhqOG4czhZBKout2/W/WpdbRzEZ9FcJikHVY+QZyVl4b1qw",
+      "iv": "TuXv016P0xaTHucc",
+      "salt": "wBJQjXeAG3l1xjoUGd6J1w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "C7PX5DQrHlY9RVSABplOrp4IYw5zIB7oPQmcIWW5GyV4aBodpG9zjdFAUzfAhnZkDEyZHfBWmKCt5kLyH1jnGnqtLuadwXDdG85ephrUKKHEE2j0QCEv27MAwY2Na/DeS1kz5x/IxkYNoLSrXXczm6w4uebEXscBH/TBP5MQthyG5amfgHs44aXDH/0dQEi2Auvt61m7IGw5Ya0JkkvHOVlceZYJua73YDBSz8k86bkqkaH7V1cDLAlNu0Af7KnI5La6rMX4A6qcm1uIi41yHKMkrtHT8Hp1b3YsQm4RctzWRKSvqlfyz8BqcggWOKv9Vdr5KfiU",
-      "iv": "VBi6fjAcoyKg83tV",
-      "salt": "//IYEb8GMI44eDRHSkLMIQ=="
+      "ciphertext": "iW3Q03vmTlRRIEN0Txv/u8mNmYv2gFB3e4FsSX2rI2Rd47F5jthC+7SpJOjthXHAXiuriYV19etiqNW5yB+Vd6xavI9AfieZf9PUF7HWc8GVdNWrD5d6kEocDHwPJ6wGYomFJSIUyEmZAI0nKLx5IuyZqqThhtCb+Y/eSXgirgsndca6XP/u7agqwBlrX+C6GwIYZvO/kNJm0ri7CmEqxbMoVMGBNhlNA86Tk6dn/zL3uZgEI5THKZ0U2ixZEljg8lWLB33Kpdt0y68PAUhdr3Dn88x5T6uheIytj6SsBX80uFTmxblMN1mIS5s6/vqT/hsMEnYn",
+      "iv": "CXfTEOvw9He/o6sc",
+      "salt": "8YPghMkfKQpPNbUI3slIuA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -173,12 +173,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "📌 Tracking: Bremen Bhavnagar",
-          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "insight",
-          "u": null
         }
       ]
     },
