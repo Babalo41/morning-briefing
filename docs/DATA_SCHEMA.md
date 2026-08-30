@@ -63,6 +63,8 @@ The decrypted JSON must be `{ pri, stats, items, chart, go }` (any subset — sa
   src: "string",             // short source label, e.g. "per wetter.com" or "in your inbox"
   u: "https://...",          // optional — if present, src becomes a link
   teach: { s: "string", b: "string (HTML, one or more <p>)" }  // optional expandable "learn more" block
+  tag: "string",              // optional — Tagged Interests label (e.g. "Bhavnagar"), see config/interests.yaml
+  rel: "home|family|friend|interest"  // optional — accompanies `tag`, drives the relation badge
 }
 ```
 
