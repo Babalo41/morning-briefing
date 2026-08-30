@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T02:46:33.135968+02:00",
+  "generated_at": "2026-08-30T02:50:27.075292+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 02:46 Berlin time",
-      "stand": "Automatically rebuilt at 02:46 — 11 sections tracked.",
+      "headline": "Briefing refreshed 02:50 Berlin time",
+      "stand": "Automatically rebuilt at 02:50 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "dskap8mQamvFAgZmd7vi0nLy4/wVUGBdAJLxcVO/TwergvzPU2cHEJ1AnDpYPy5W/8AzP/WTrBS1slEK2aqnJ3xkdC7uleBHgGfoSE5fzPukp21UWjq+DhCKiI9Khkx5sw9RM5kFpV8Pih3BUOzo0MgCxB2jpxD4OhmsyUkGvSQezot6R/KA",
-          "iv": "4hWi0+aNfSy8swxW",
-          "salt": "ZFP0gJ47X6XeLfUuqxME6Q=="
+          "ciphertext": "86nf+1K8HZ0TYXSzZl1WUc9loR2LaFAsvJyuivMOqzUlSrZx4UAJtsoPH5BdOw03mDaGTUAu5+HonOyGpKuJv/7CGPBThxFNpg7g0rftuyGngqPTdp19mp0Wz/h83X7hwzv5LeD7qYYQ86IKS5RkRgEjFeefS8R6huFvakMKmVPV/CxgfNL+",
+          "iv": "lB2d54/La3YlZI30",
+          "salt": "B8f/z92DnnWkNzPeZTWU6Q=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "jBpKvArLQfFVX0VcCc7VU/D6sPJwy0bU4oHG5dXW/34+mOBO3t+uCOaKSMhMIKidMavuS4rP5YqC4ZPwmm+oSGyplYaFXl8Vx+SN4FnndBQorg2M2PwyMh/Vycw7e70EmUr1RDTyEaAEE54U/JqNVeutxXzipLiDw4oG",
-          "iv": "gsNTiC09f2P5+k7f",
-          "salt": "PdK+jWBALyS0KZQYfiyjEw=="
+          "ciphertext": "vXhgiJCN8Q7+kYYC0NB/xe6nM+weZFWMPn8QVYjui9EB6U7XDCje24JfKCMvBuY3gpEleojVs5fVhDhLouyWn+XFzKGVX0Togrx2MuSuDF4+BFoLjs5AbmHuDn2YbInBqcOLk4vh0tqHsuaCUNOSCAyBUzodRWzC0tPk",
+          "iv": "f1XoNi1uFM1Mz/KQ",
+          "salt": "doYbQR9CsCCkXj5ZwpZVFQ=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "vS+b1rmKBhyvyQGLpusLoX37XgYXBWKWHYqQzCLuyMQIZxD53ZYYuiJqCobJonHzsYnlzkdEV5+00YNt7kuwwx1zi+s0qlYTpPfb1K8YRe/EAesA1hVDhc2FezHky0gHLsbgwlhp1NmVqof7OPQrGpRN6fyYmfvveLD9HYc1kLTSV4DrYapTpjGUqdE1I61VmYMHCBNaqw2WLSpSNlawpu3jMlpgHW7wedvzHziBDopZunheAHuNEetApwUGREfU4245T+h6XKXdWr1l2CryB+DIbb20KWVnv4vB3w6FEoKCMoCwd8w9CSLib1XDzazyil1Rg7uu",
-          "iv": "RgKJhWtQKxYvv2Xt",
-          "salt": "u+OjtafkaQxrjrHpmm+A2A=="
+          "ciphertext": "n7+NUoMYZS9ChxBXYhXHSZYrxoEDXiYdDnFe+JMpXBQZatJd40I8kJMEaKaEKPjDlTAr1hxrbBtBkgI8c54/BkokggT4y8TNDN6jtKjDvuE3MJr6JO1Wj2Rqp0zo5E/3/XrDl3wYJidnvo75odm2ZI4WEEYhb/VXaSvuPTENgOt5VusOuMeKB5JAAnj311Onh8htAzVe9X3vCICBF6vWJB36loQkFT6Y7ios1E+g0gHnC3hxtTsCxSRtAtW0Hm931F2HiKPjshtWHXm02enkRuXhYJ8zlkbACx4OxD2fa5tqZeUgY0f0G4VJY9EldPrHlha0+XKb",
+          "iv": "IWGgUig353i/xESB",
+          "salt": "tumI3pr4mQnqr2sc33BVbA=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -159,30 +159,87 @@ window.EDITION_DATA = {
           "tags_section": "near_home",
           "items": [
             {
-              "t": "Tracking: Bremen",
-              "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
+              "t": "Canada installs large Lake Ontario sign in latest jab at US",
+              "b": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
               "tag": "Bremen",
               "rel": "home"
             },
             {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
+              "t": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+              "b": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+              "b": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Former Ecuadorian president imprisoned for corruption",
+              "b": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Norway's new king remembers 'my dear father' in first speech",
+              "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Haakon hält erste emotionale Ansprache als König von Norwegen",
+              "b": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. Harald V. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
+              "src": "tagesschau.de - Die Nachrichten der ARD",
+              "u": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
               "tag": "Bhavnagar",
               "rel": "family"
             },
             {
-              "t": "Tracking: Surat",
-              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Surat",
-              "rel": "interest"
+              "t": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
+              "b": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet.",
+              "src": "tagesschau.de - Die Nachrichten der ARD",
+              "u": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+              "b": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
+              "b": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
+              "src": "tagesschau.de - Die Nachrichten der ARD",
+              "u": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
+              "b": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
+              "src": "tagesschau.de - Die Nachrichten der ARD",
+              "u": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
+              "tag": "Bhavnagar",
+              "rel": "family"
             }
-          ]
+          ],
+          "chart": "near_home_flow"
         },
         {
           "h": "World & Knowledge",
@@ -1644,6 +1701,46 @@ window.EDITION_DATA = {
           "lab": "43%",
           "hero": false,
           "tip": "21°C, Rain showers"
+        }
+      ]
+    },
+    "near_home_flow": {
+      "kind": "flow",
+      "title": "Where Near Home content comes from",
+      "sub": "Line thickness = how many items that tag/source pair contributed this run.",
+      "source": "Tagged Interests",
+      "left": [
+        {
+          "id": "bremen",
+          "label": "Bremen",
+          "rel": "home"
+        },
+        {
+          "id": "bhavnagar",
+          "label": "Bhavnagar",
+          "rel": "family"
+        }
+      ],
+      "right": [
+        {
+          "id": "src_bbc_news",
+          "label": "BBC News"
+        },
+        {
+          "id": "src_tagesschau_de_die_nachrichten_der_ard",
+          "label": "tagesschau.de - Die Nachrichten der ARD"
+        }
+      ],
+      "links": [
+        {
+          "from": "bremen",
+          "to": "src_bbc_news",
+          "v": 20
+        },
+        {
+          "from": "bhavnagar",
+          "to": "src_tagesschau_de_die_nachrichten_der_ard",
+          "v": 20
         }
       ]
     }

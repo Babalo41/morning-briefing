@@ -114,5 +114,45 @@
         "tip": "21°C, Rain showers"
       }
     ]
+  },
+  "near_home_flow": {
+    "kind": "flow",
+    "title": "Where Near Home content comes from",
+    "sub": "Line thickness = how many items that tag/source pair contributed this run.",
+    "source": "Tagged Interests",
+    "left": [
+      {
+        "id": "bremen",
+        "label": "Bremen",
+        "rel": "home"
+      },
+      {
+        "id": "bhavnagar",
+        "label": "Bhavnagar",
+        "rel": "family"
+      }
+    ],
+    "right": [
+      {
+        "id": "src_bbc_news",
+        "label": "BBC News"
+      },
+      {
+        "id": "src_tagesschau_de_die_nachrichten_der_ard",
+        "label": "tagesschau.de - Die Nachrichten der ARD"
+      }
+    ],
+    "links": [
+      {
+        "from": "bremen",
+        "to": "src_bbc_news",
+        "v": 20
+      },
+      {
+        "from": "bhavnagar",
+        "to": "src_tagesschau_de_die_nachrichten_der_ard",
+        "v": 20
+      }
+    ]
   }
 }

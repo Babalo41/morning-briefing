@@ -171,9 +171,62 @@ function lineChart(d){
       <text class="lbl" x="${X(p[0])}" y="${Y(0)+16}" text-anchor="middle">${esc(d.xlabels[i])}</text>`});
   return s+`<line class="base" x1="${pL}" y1="${Y(0)}" x2="${W-pR}" y2="${Y(0)}"/></svg>`;
 }
+const FLOW_REL_COLOR={home:"--blue",family:"--red",friend:"--cyan",interest:"--rec"};
+function flowChart(d){
+  // Sankey-style flow: left column = tags, right column = sources, link
+  // thickness proportional to item count — the "money flow" visual the
+  // tag/criteria system feeds once real content is flowing (Phase 5, see
+  // TAGGED_INTERESTS_ARCHITECTURE.md). Renders nothing misleading when
+  // there's no real content yet — compose.py omits `chart` entirely in
+  // that case rather than sending an empty flow.
+  const W=520,pT=14,pB=14,pL=108,pR=108,nodeW=6,gap=10,minH=14,maxH=140;
+  const leftTot={},rightTot={};
+  d.links.forEach(l=>{leftTot[l.from]=(leftTot[l.from]||0)+l.v;rightTot[l.to]=(rightTot[l.to]||0)+l.v});
+  const maxTot=Math.max(1,...Object.values(leftTot),...Object.values(rightTot));
+  // Single px-per-unit scale for both nodes and links — this is what makes
+  // a node's height exactly equal the sum of its links' widths (the
+  // defining property of a real Sankey diagram), not two independently
+  // re-scaled numbers that only coincidentally look related.
+  const pxPerUnit=maxH/maxTot;
+  const nodeH=v=>Math.max(minH,v*pxPerUnit);
+
+  let y=pT;const leftY={};
+  d.left.forEach(n=>{const h=nodeH(leftTot[n.id]||0);leftY[n.id]={y,h};y+=h+gap});
+  const leftH=y-gap;
+  y=pT;const rightY={};
+  d.right.forEach(n=>{const h=nodeH(rightTot[n.id]||0);rightY[n.id]={y,h};y+=h+gap});
+  const rightH=y-gap;
+
+  const H=pT+Math.max(leftH,rightH)-pT+pB;
+  const x0=pL,x1=W-pR,midX=(x0+x1)/2;
+  const leftCursor={},rightCursor={};
+  d.left.forEach(n=>leftCursor[n.id]=leftY[n.id].y);
+  d.right.forEach(n=>rightCursor[n.id]=rightY[n.id].y);
+
+  let s=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="max-width:${W}px;height:auto">`;
+  d.links.forEach(l=>{
+    const lw=Math.max(2,l.v*pxPerUnit);
+    const ly=leftCursor[l.from]+lw/2;leftCursor[l.from]+=lw;
+    const ry=rightCursor[l.to]+lw/2;rightCursor[l.to]+=lw;
+    const leftNode=d.left.find(n=>n.id===l.from);
+    const rightNode=d.right.find(n=>n.id===l.to);
+    const c=cv(FLOW_REL_COLOR[leftNode&&leftNode.rel]||"--rec");
+    s+=`<path class="hit" d="M${x0},${ly} C${midX},${ly} ${midX},${ry} ${x1},${ry}"
+      fill="none" stroke="${c}" stroke-opacity=".35" stroke-width="${Math.max(2,lw)}"
+      data-tip="${esc((leftNode?leftNode.label:l.from)+' → '+(rightNode?rightNode.label:l.to)+': '+l.v+' item'+(l.v===1?'':'s'))}"/>`});
+  d.left.forEach(n=>{
+    const{y,h}=leftY[n.id];
+    s+=`<rect x="${x0-nodeW}" y="${y}" width="${nodeW}" height="${h}" fill="${cv(FLOW_REL_COLOR[n.rel]||'--rec')}" rx="1.5"/>
+      <text class="lbl" x="${x0-nodeW-8}" y="${y+h/2+4}" text-anchor="end">${esc(n.label)}</text>`});
+  d.right.forEach(n=>{
+    const{y,h}=rightY[n.id];
+    s+=`<rect x="${x1}" y="${y}" width="${nodeW}" height="${h}" fill="${cv('--faint')}" rx="1.5"/>
+      <text class="lbl" x="${x1+nodeW+8}" y="${y+h/2+4}">${esc(n.label)}</text>`});
+  return s+`</svg>`;
+}
 function chartCard(k){
   const d=CHARTS[k]; if(!d)return"";
-  const svg=d.kind==='bar'?barChart(d):d.kind==='range'?rangeChart(d):lineChart(d);
+  const svg=d.kind==='bar'?barChart(d):d.kind==='range'?rangeChart(d):d.kind==='flow'?flowChart(d):lineChart(d);
   return `<div class="cc"><div class="mk"></div><h4>${esc(d.title)}</h4>
     <p class="sb">${esc(d.sub)}</p><div class="sc">${svg}</div>
     <p class="sr">Source: ${esc(d.source)}</p></div>`;

@@ -99,7 +99,7 @@ The decrypted JSON must be a plain `Item` (`{ t, b, src, u, teach }`).
 
 ## Chart
 
-Three kinds, all keyed by id under `charts`:
+Four kinds, all keyed by id under `charts`:
 
 ```js
 // kind: "bar"
@@ -114,6 +114,17 @@ Three kinds, all keyed by id under `charts`:
 { kind:"line", title:"string", sub:"string", source:"string",
   xlabels:["27","28","29"], yticks:[0,10,20,30],
   series:[ { name:"Max °C", hero:true, pts:[[0,27],[1,24],[2,23]] } ] }
+
+// kind: "flow" (Sankey-style — see TAGGED_INTERESTS_ARCHITECTURE.md "Phase 5")
+// left = tag nodes, right = source nodes, links[].v = item count; link/node
+// size is proportional to v, colored by the left node's `rel`
+// (home/family/friend/interest). Only emitted when there's real content —
+// never sent (block omits `chart` entirely) when every tag is still an
+// empty stub, since an empty flow would mislead rather than inform.
+{ kind:"flow", title:"string", sub:"string", source:"string",
+  left:[ { id:"bremen_home", label:"Bremen", rel:"home" } ],
+  right:[ { id:"src_weser_kurier", label:"Weser Kurier" } ],
+  links:[ { from:"bremen_home", to:"src_weser_kurier", v:3 } ] }
 ```
 
 `hero: true` on a row/series renders it in the house red instead of the neutral/blue tone — use it for the one
