@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T04:38:39.928979+02:00",
+  "generated_at": "2026-08-30T04:39:17.296068+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 04:38 Berlin time",
-      "stand": "Automatically rebuilt at 04:38 — 11 sections tracked.",
+      "headline": "Briefing refreshed 04:39 Berlin time",
+      "stand": "Automatically rebuilt at 04:39 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "WZq+9zRt/IBEZWwV9dfF90fAlTJLEx9afGUK8pyWrMMx/9qNpjR2D1rInURgeGvxG+CBnESbAEC+g7T92MQXJcrfVd+YMDd9K432O/A+o6lO0BnE9AcXfiUG5Tr27VseyyDAlujW6WNbpHxB2C99L4aLTPytUT8Ql94W2p269J9JhglreK7Q",
-          "iv": "/lhe8rEx/ZZoTWcG",
-          "salt": "zU8n2yJq05dDh7s++uR5UQ=="
+          "ciphertext": "dsDPkmpqO1H/sl/uOvmvvtOkZSmuYDKYcjHzH35jlMsS3e8+7ZFrrMB7Iz5oHEvy58FP2Leq2apSEg1k4AIHPHIVYVdyRBUg11bWDsFpFbCrYVHiU6uEz7lDgHRrO9LIHikxp3ER3g+ecHainRETwitM93gBor+FrVDRPbUR/DmxUbLtqB/d",
+          "iv": "BynW8yVzNskfgTtX",
+          "salt": "E8QmBzUOOwA3IWLsNciQtA=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "iBZZuKmOmf85x+fUH0EOl7W6UX6DQohqqYl3FK/bJo5LajTc9uTjwBCqoHD5Nn5+ctLOyjsQYuqfsY5WQUGE1J0z/NsO4xEUkW1XS6ljZMYt49mv/4sk0kAI6hvzzHMS/I3AzCwEsJi2KdEkaZsefmkLm6dkk25pMv3s",
-          "iv": "lQnsCTVrFjA2vnd3",
-          "salt": "E5f5JizbEBTJyE2u4J1hBQ=="
+          "ciphertext": "uDMrhae+cJK3b2R3izgT6e0VL+PKokvGEHQ1GI+/BdhfjfqFpNwZZtgygsnro6ZjMAGoQIbWsKxqo6sx+c5qYoQukobGNS4T9OAo5TUOQcOf9Zj8La8oyqBPTO03PjboKY8l/izvKRwO+9W0Swp6GTxlFWRPHNQIWtzc",
+          "iv": "fMMJ4zMbxz+nhbU3",
+          "salt": "qalRBGZ75+/ISrViCO9n+Q=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "s2U2NCjVVDt4c6Dq3xyXNuxe51zOG1hzDddqNR5D2QHpuNdKBm/l4/8fL/NQsIMNRseMYNV67cOoAm4sZW/z7lSWCOLv1oiK0s69wH32/cshE/5z9pQKXXqyFvVzEa7z/RsOaUXhx+3d9CI0gK9/j+XURuhH1/NnI6JioQ3/6KAV5MMp7muivJYcOqRXhyzmKCQkrfE7dE67w1itY6CfQ5nxPyngk9wg6dteq+W9JuCSULtQawmH0MZlM5b3SvAh1udhSf2F03SVeMsN9ySr+V70xYxh/gJ3SUtEEKgv2ZjbFQsokClBQ5qXjBeikKMQYmBEshdK",
-          "iv": "9HoRzKdIdXxM4Nnc",
-          "salt": "vo7CW83yqbr1TbysDF/86A=="
+          "ciphertext": "mSpGyrOXYXiHq1jOhCwXPXvjUW4LdjEXYfjfGcV5BIcUv55EyROF5QDHY1j7jSpTDaC9q2qdqf5a12GqiQYHpQKwJC8+oJNsS+MCe7sfh25LGShSNOXA0H1qQJOOsWbrrzd10xsVbGcIFHLZQOAA+m2QKM+p5pHTYvKvv/7Ag9qYDcCdGMn283eJQ8NWeHlaR5zpXKHO2Q5Jbvfs83G5LgOXiPVivShjiKFAL0emZMZY/CAxuMUOmsjviHNopiTh58tk4Yni37WXgvWvjOTEA4JLvY5FLafGaSNxtVUNjKfq+DtGQaNeQHO4pSxsrwjlRys3VqTT",
+          "iv": "BiDaRdSi4BQhBTZJ",
+          "salt": "7a9Um/7NqXHlJkCZNfeU8g=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -159,20 +159,20 @@ window.EDITION_DATA = {
           "tags_section": "near_home",
           "items": [
             {
-              "t": "Tracking: Bremen",
-              "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
               "t": "Tracking: Bhavnagar",
               "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
               "src": "system",
               "u": null,
               "tag": "Bhavnagar",
               "rel": "family"
+            },
+            {
+              "t": "Tracking: Bremen",
+              "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bremen",
+              "rel": "home"
             },
             {
               "t": "Tracking: Surat",
