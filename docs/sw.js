@@ -1,4 +1,4 @@
-const SHELL_CACHE = "bb-shell-f10d485487";
+const SHELL_CACHE = "bb-shell-4c5b4b426a";
 const DATA_CACHE = "bb-data-v1";
 const SHELL_FILES = ["./index.html", "./style.css", "./app.js", "./manifest.json"];
 

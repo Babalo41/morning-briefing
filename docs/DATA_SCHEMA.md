@@ -122,7 +122,7 @@ The decrypted JSON must be a plain `Item` (`{ t, b, src, u, teach }`).
 
 ## Chart
 
-Four kinds, all keyed by id under `charts`:
+Five kinds, all keyed by id under `charts`:
 
 ```js
 // kind: "bar"
@@ -148,6 +148,15 @@ Four kinds, all keyed by id under `charts`:
   left:[ { id:"bremen_home", label:"Bremen", rel:"home" } ],
   right:[ { id:"src_weser_kurier", label:"Weser Kurier" } ],
   links:[ { from:"bremen_home", to:"src_weser_kurier", v:3 } ] }
+
+// kind: "ribbon" (elegant variable-width line, e.g. cumulative monthly spending)
+// series[].widths[i] is the same length as pts and drives the line's local
+// thickness — rendered as a filled tapering ribbon polygon, not a stroked
+// polyline (see docs/app.js:ribbonChart). Units are arbitrary (whatever the
+// producing stage uses, e.g. currency amount); only relative width matters.
+{ kind:"ribbon", title:"string", sub:"string", source:"string",
+  xlabels:["start","Rent","Groceries"], yticks:[0,10,20],
+  series:[ { name:"Spending", hero:true, pts:[[0,0],[1,850],[2,1160]], widths:[0,850,310] } ] }
 ```
 
 `hero: true` on a row/series renders it in the house red instead of the neutral/blue tone — use it for the one

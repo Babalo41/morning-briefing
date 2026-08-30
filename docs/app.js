@@ -172,6 +172,43 @@ function lineChart(d){
       <text class="lbl" x="${X(p[0])}" y="${Y(0)+16}" text-anchor="middle">${esc(d.xlabels[i])}</text>`});
   return s+`<line class="base" x1="${pL}" y1="${Y(0)}" x2="${W-pR}" y2="${Y(0)}"/></svg>`;
 }
+function ribbonChart(d){
+  // Elegant thick/thin line: a filled ribbon polygon, not a stroked
+  // polyline (plain SVG can't vary a <polyline>'s stroke-width along its
+  // length). At each point, offset perpendicular to the local direction by
+  // half that point's width — the top offsets walked forward then the
+  // bottom offsets walked back form one closed path that reads as a single
+  // continuous, tapering line.
+  const W=520,H=200,pT=12,pB=28,pL=36,pR=50;
+  const base=d.series[0];
+  const xs=base.pts.map(p=>p[0]),xmin=Math.min(...xs),xmax=Math.max(...xs);
+  const ymax=Math.max(...d.series.flatMap(s=>s.pts.map(p=>p[1])))*1.15||1;
+  const X=v=>pL+((v-xmin)/(xmax-xmin||1))*(W-pL-pR), Y=v=>pT+(1-v/ymax)*(H-pT-pB);
+  let s=`<svg viewBox="0 0 ${W} ${H}" width="100%" style="max-width:${W}px;height:auto">`;
+  d.series.forEach(se=>{
+    const c=se.hero?cv('--red'):cv('--blue');
+    const widths=se.widths||se.pts.map(()=>4);
+    const maxW=Math.max(...widths,1);
+    const pxW=w=>2+(w/maxW)*16;
+    const pts=se.pts.map(p=>[X(p[0]),Y(p[1])]);
+    const top=[],bot=[];
+    pts.forEach((p,i)=>{
+      const prev=pts[i-1]||p, next=pts[i+1]||p;
+      const dx=next[0]-prev[0], dy=next[1]-prev[1], len=Math.hypot(dx,dy)||1;
+      const nx=-dy/len, ny=dx/len, hw=pxW(widths[i])/2;
+      top.push([p[0]+nx*hw,p[1]+ny*hw]); bot.push([p[0]-nx*hw,p[1]-ny*hw]);
+    });
+    const path=`M${top.map(p=>p.join(',')).join('L')}L${bot.slice().reverse().map(p=>p.join(',')).join('L')}Z`;
+    s+=`<path d="${path}" fill="${c}" fill-opacity=".85"/>`;
+    const L=pts[pts.length-1];
+    s+=`<text class="dlbl" x="${L[0]-6}" y="${L[1]-11}" fill="${c}" text-anchor="end">${esc(se.name)}</text>`;
+  });
+  base.pts.forEach((p,i)=>{
+    s+=`<rect class="hit" x="${X(p[0])-17}" y="${pT}" width="34" height="${H-pT-pB}"
+      data-tip="${esc((d.xlabels[i]||'')+': '+d.series.map(se=>se.name+' '+se.pts[i][1]).join(' · '))}"/>
+      <text class="lbl" x="${X(p[0])}" y="${Y(0)+16}" text-anchor="middle">${esc(d.xlabels[i]||'')}</text>`});
+  return s+`<line class="base" x1="${pL}" y1="${Y(0)}" x2="${W-pR}" y2="${Y(0)}"/></svg>`;
+}
 const FLOW_REL_COLOR={home:"--blue",family:"--red",friend:"--cyan",interest:"--rec"};
 function flowChart(d){
   // Sankey-style flow: left column = tags, right column = sources, link
@@ -227,7 +264,7 @@ function flowChart(d){
 }
 function chartCard(k){
   const d=CHARTS[k]; if(!d)return"";
-  const svg=d.kind==='bar'?barChart(d):d.kind==='range'?rangeChart(d):d.kind==='flow'?flowChart(d):lineChart(d);
+  const svg=d.kind==='bar'?barChart(d):d.kind==='range'?rangeChart(d):d.kind==='flow'?flowChart(d):d.kind==='ribbon'?ribbonChart(d):lineChart(d);
   return `<div class="cc"><div class="mk"></div><h4>${esc(d.title)}</h4>
     <p class="sb">${esc(d.sub)}</p><div class="sc">${svg}</div>
     <p class="sr">Source: ${esc(d.source)}</p></div>`;
