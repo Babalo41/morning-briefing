@@ -518,12 +518,62 @@ function renderTabs(){
 }
 function paint(){
   renderTabs();
-  renderToday();renderLearn();renderSaved();renderArchive();renderGlossary();
+  renderToday();renderLearn();renderSaved();renderArchive();renderGlossary();renderInterests();
   TABS.forEach(t=>$("#p-"+t.k).classList.toggle("on",curTab===t.k));
   wireTerms();wireTips();updateLockButton();
   $("#stamp").textContent=EDITIONS.length?EDITIONS[0].dnum+" "+EDITIONS[0].mon:"";
 }
 function go(t){curTab=t;store.set("tab",t);paint();scrollTo({top:0,behavior:"smooth"})}
+
+/* ── interests overview (see TAGGED_INTERESTS_ARCHITECTURE.md "Phase 6") ──
+   The one page that answers "what am I tracking, and where can I add
+   more" without hunting through each section's block in the daily feed.
+   Read-only content renders everywhere; "+ Add" only on the local server. */
+function renderInterests(){
+  const ov=DATA.interests_overview||{tagged:[],topics:[]};
+  const local=isLocalServer();
+  let h="";
+
+  const tagCount=ov.tagged.reduce((n,s)=>n+s.tags.length,0);
+  h+=`<div class="group"><div class="ghead"><h3>Tagged places & topics</h3><span class="n">${tagCount}</span></div>`;
+  if(!ov.tagged.length){
+    h+=`<p class="empty">Nothing tagged yet.</p>`;
+  }
+  ov.tagged.forEach(sec=>{
+    const addBtn=local?`<button class="addtagbtn" data-act="addtag" data-section="${esc(sec.section_id)}">+ Add</button>`:"";
+    h+=`<div class="ovsec"><div class="ovsechead"><h4>${esc(sec.title)}</h4>${addBtn}</div>`;
+    sec.tags.forEach(t=>{
+      const feedBtn=local?`<button class="addtagbtn" data-act="addtagfeed" data-section="${esc(sec.section_id)}"
+        data-label="${esc(t.label)}" data-relation="${esc(t.relation)}" data-area="${esc(t.area||"")}">+ feed</button>`:"";
+      h+=`<div class="ovrow">
+        <span class="tagbadge" data-rel="${esc(t.relation)}">${esc(t.label)} · ${REL_LABEL[t.relation]||"Interest"}</span>
+        ${t.area?`<span class="ovmeta">${esc(t.area)}</span>`:""}
+        <span class="ovmeta">${t.feed_count} source${t.feed_count===1?"":"s"}${t.keywords.length?" · "+esc(t.keywords.join(", ")):""}</span>
+        ${feedBtn}
+        ${t.feeds.length?`<ul class="ovfeeds">${t.feeds.map(f=>`<li><a href="${esc(f)}" target="_blank" rel="noopener">${esc(f)}</a></li>`).join("")}</ul>`:""}
+      </div>`;
+    });
+    h+=`</div>`;
+  });
+  h+=`</div>`;
+
+  h+=`<div class="group"><div class="ghead"><h3>Topic sections</h3><span class="n">${ov.topics.length}</span></div>`;
+  ov.topics.forEach(sec=>{
+    const addBtn=local?`<button class="addtagbtn" data-act="addfeed" data-section="${esc(sec.section_id)}">+ Add</button>`:"";
+    h+=`<div class="ovsec"><div class="ovsechead"><h4>${esc(sec.title)}</h4>${addBtn}</div>
+      <div class="ovrow"><span class="ovmeta">${sec.feed_count} source${sec.feed_count===1?"":"s"}</span></div>
+      ${sec.feeds.length?`<ul class="ovfeeds">${sec.feeds.map(f=>`<li><a href="${esc(f)}" target="_blank" rel="noopener">${esc(f)}</a></li>`).join("")}</ul>`:""}
+    </div>`;
+  });
+  h+=`</div>`;
+
+  if(!local){
+    h+=`<p class="empty">Viewing the public site — "+ Add" only works on your local WiFi server.
+      Run <code>run_local.bat</code> and open the address it prints.</p>`;
+  }
+
+  $("#p-interests").innerHTML=h;
+}
 
 /* ── glossary sheet ── */
 function wireTerms(){
@@ -576,23 +626,21 @@ function isLocalServer(){
     /^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$/.test(h)||
     /^172\.(1[6-9]|2\d|3[01])\.\d{1,3}\.\d{1,3}$/.test(h);
 }
-function addTagPrompt(sectionId,msg){
+function addTagPrompt(sectionId,msg,prefill){
+  const p=prefill||{};
+  const relOpt=r=>["home","family","friend","interest"].map(v=>
+    `<option value="${v}"${(p.relation||"interest")===v?" selected":""}>${REL_LABEL[v]}</option>`).join("");
   $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
-    <div class="mk"></div><h5>Add to ${esc(sectionId)}</h5>
+    <div class="mk"></div><h5>${p.label?`Add a feed to ${esc(p.label)}`:`Add to ${esc(sectionId)}`}</h5>
     <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
       <p>Adds a new tag, or a verified feed to an existing one with the same name. Only visible on your local
         WiFi server — never on the public site.</p>
       <label for="atLabel">Name</label>
-      <input id="atLabel" placeholder="e.g. Bhavnagar, or a topic name">
+      <input id="atLabel" placeholder="e.g. Bhavnagar, or a topic name" value="${esc(p.label||"")}" ${p.label?"readonly":""}>
       <label for="atRel">Relation</label>
-      <select id="atRel">
-        <option value="home">Home</option>
-        <option value="family">Family</option>
-        <option value="friend">Friend</option>
-        <option value="interest" selected>Interest</option>
-      </select>
+      <select id="atRel" ${p.label?"disabled":""}>${relOpt()}</select>
       <label for="atArea">Area (optional, narrower than the city)</label>
-      <input id="atArea" placeholder="e.g. a neighborhood">
+      <input id="atArea" placeholder="e.g. a neighborhood" value="${esc(p.area||"")}" ${p.label?"readonly":""}>
       <label for="atKw">Keywords (optional, comma-separated — leave blank for no filter)</label>
       <input id="atKw" placeholder="e.g. flood, election">
       <label for="atFeed">Feed URL (optional — verified before anything is saved)</label>
@@ -616,14 +664,14 @@ function addTagPrompt(sectionId,msg){
       const res=await fetch("/api/add-tag",{method:"POST",headers:{"Content-Type":"application/json"},
         body:JSON.stringify(payload)});
       const data=await res.json();
-      if(!data.ok){addTagPrompt(sectionId,{ok:false,text:data.message});return}
+      if(!data.ok){addTagPrompt(sectionId,{ok:false,text:data.message},p);return}
       btn.textContent="Refreshing…";
       const res2=await fetch("/api/run-pipeline",{method:"POST"});
       const data2=await res2.json();
       if(data2.ok){location.reload()}
-      else addTagPrompt(sectionId,{ok:true,text:data.message+" "+data2.message+" (reload manually once it finishes)"});
+      else addTagPrompt(sectionId,{ok:true,text:data.message+" "+data2.message+" (reload manually once it finishes)"},p);
     }catch(e){
-      addTagPrompt(sectionId,{ok:false,text:"Could not reach the local server — is it still running?"});
+      addTagPrompt(sectionId,{ok:false,text:"Could not reach the local server — is it still running?"},p);
     }
   };
 }
@@ -690,6 +738,9 @@ document.addEventListener("click",e=>{
   const unlock=e.target.closest('[data-act="unlock"]'); if(unlock){lockPrompt();return}
   const addtag=e.target.closest('[data-act="addtag"]'); if(addtag){addTagPrompt(addtag.dataset.section);return}
   const addfeed=e.target.closest('[data-act="addfeed"]'); if(addfeed){addFeedPrompt(addfeed.dataset.section);return}
+  const addtagfeed=e.target.closest('[data-act="addtagfeed"]');
+  if(addtagfeed){addTagPrompt(addtagfeed.dataset.section,null,{label:addtagfeed.dataset.label,
+    relation:addtagfeed.dataset.relation,area:addtagfeed.dataset.area});return}
   const st=e.target.closest('[data-act="star"]');
   if(st){const id=st.closest(".row").dataset.id;
     stars=stars.includes(id)?stars.filter(x=>x!==id):[...stars,id];
