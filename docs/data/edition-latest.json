@@ -11,9 +11,9 @@
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "tqlbXhwbAlvOgzfr0zzeAybM6J/26sDM8iwHGAoNZFXweC+WdyP6PB7aQtUXvgoBfRArplyv9VSMm1GtS5qFN/JgHivTGPAagxQmD/5p36GGYWxTlTDrAguuvoXc52de3kC2AYcs9CTzx5nEjdXMIguk1nMw6sK/7wyzm1WISPlzzQvzuVJ2",
-      "iv": "ZMT64igCaGAHY7ec",
-      "salt": "Fr/x4lu4aVS8km3A2FwpXQ=="
+      "ciphertext": "bAVE+JMBgOZ9DyiWB24CofRC7Q/RyTCiTzy78HYrOLDAfucgIkN7Gt/2/M2ZLVnoYJVc8Euy60qxwXDsDA2pHpyOghdKZ3P5I/+jUVEPUr1ttiMtVcb33urQkBpXVPmzTioJ5Tew+8ds/aBYf4DKdnqsgyaeSM1hdZ6zMyoGOaGJaSYOvtgu",
+      "iv": "sHmgN2uogSr2DmMu",
+      "salt": "BH6AURaRHeZtnOCU5gbBDg=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "DJw4NmhJh1+2NfOp27tDzH5Y5Ue0AoR2yUimVbLkyVfvprowuf+hVn2+qc4Xx9aPcSZEHx3KrsNQrxHg35G3O1AY7mHEGZGyHdM9b2Xzw5FMqzH/SJDdxmdJew8AdS0omrgmdkHvmD0sUAmWB9M78Q5OEXk/HZRM+Azx",
-      "iv": "CzX0J7q1t+Fmdwja",
-      "salt": "z7ZyOi87HWhV4AuwMdRGNQ=="
+      "ciphertext": "6nMXFtvC0cUUGkiLWIIZv/EZYa+BgrulHNfaeh5PylNd2dyqVod5Y6W06KHhZWcadd/nRlt+yXu7XNfaMpFJJC5R/ig/GLW77hDjCOqhg1X8rtfqzwtRfzoIbow5lKXD0s9Tqh+jLFcvq9OJu9Ekmh0mL/v9SGdyPI2Z",
+      "iv": "jlpMqVr2QHLIuI2d",
+      "salt": "CbdDaouF/Q0af3EnkyS0wQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "vnzK++kH3RfyRnUSXj2IgoxC30D/9GBGzcXZe/3bnGc1Qn0IdcBuNL6BqdrKIbmAC1Jo1o4+vcxexgqem2NZgIhjUgD04gI9SxJ620LpoRwJ9ikC95awxrI/RZaF3oaAJTPOrCzGCPA8cbCZGLApgVGpof2Q6yyNKH1NoAt785g1+qFgmUph+Y9l/E8LXqC8MJttnAoS/XeOYHjSseRhlBq5QKaZJ+cr7f1QStLNPXh5UiFjcl86Jblz4e7nfFNurC0p8gDA/CgK/sJhrq8ygd0W6HSlrP2SfXEGYfwcQFV2tJtRF82VKcn05PpSo/eCPdPhiCIQ",
-      "iv": "pQ9B2w6oc867nKyQ",
-      "salt": "ggDhUib49/SZbbVoOVUe2w=="
+      "ciphertext": "Gs0rikFGOTbEKCidxCBLSSbgmf4MYaeHQ11BSxolm3T0e0yMnxdW0xMI6Sh5/H7t0MyofLZ2c6VvYQkq1BWoHL7GPbzWNBJuqbHdxVSr8RR6+/45/d9tr8YYLubExenLm8PHwDbJFfC+ML0oSja3wjH7Q9n2Sik5QaUeuDuH1pWtamICsr9LMDxfvZc106AxLQkZG/BED44MphxzHJaqPZ9S9nPTWzMi9Bs5zH3eoYuY2sXSL7LFstb8NkMjsFMxWVrqCdi8BiYrUYDnR+uGkPFSxSoWAPwurleXDAWkZLgM12kSsrFDLpxrCgN9ZSgHp7RObAXn",
+      "iv": "bYuRtDEw+5V6Pp4k",
+      "salt": "ht6W6rubkhN0nPpLgCAFxg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -174,14 +174,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Tracking: Test Friend City",
-          "b": "No source added yet for Test Friend City (friend). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Test Friend City",
-          "rel": "friend"
         }
       ]
     },
