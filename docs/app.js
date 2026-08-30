@@ -366,8 +366,10 @@ function renderToday(){
     }
     const its=b.items.map((it,ii)=>({it,ii})).filter(o=>match(o.it,b,ed));
     if(!its.length)return; any=true;
-    const addBtn=(b.tags_section&&isLocalServer())
-      ?`<button class="addtagbtn" data-act="addtag" data-section="${esc(b.tags_section)}">+ Add</button>`:"";
+    const addBtn=!isLocalServer()?"":b.tags_section
+      ?`<button class="addtagbtn" data-act="addtag" data-section="${esc(b.tags_section)}">+ Add</button>`
+      :b.feed_section
+      ?`<button class="addtagbtn" data-act="addfeed" data-section="${esc(b.feed_section)}">+ Add</button>`:"";
     h+=`<section class="group"><div class="ghead"><h3>${esc(b.h)}</h3>
       <span class="n">${its.length}</span>${addBtn}</div>`;
     if(b.stats&&!query) h+=`<div class="stats">${b.stats.map(s=>
@@ -570,6 +572,37 @@ function addTagPrompt(sectionId,msg){
     }
   };
 }
+function addFeedPrompt(sectionId,msg){
+  // Simpler counterpart to addTagPrompt: plain topic sections (Phase 4)
+  // have no relation/tag concept — just a feed URL, verified the same way.
+  $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+    <div class="mk"></div><h5>Add a feed to ${esc(sectionId)}</h5>
+    <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+      <p>Verified before anything is saved. Only visible on your local WiFi server.</p>
+      <label for="afFeed">Feed URL</label>
+      <input id="afFeed" placeholder="https://example.com/feed">
+      <div class="row2" style="margin-top:12px"><button id="afGo">Add</button></div>
+      ${msg?`<div class="${msg.ok?"ok":"err"}">${esc(msg.text)}</div>`:""}
+    </div>`;
+  $("#sheet").classList.add("on");$("#scrim").classList.add("on");
+  $("#shx").onclick=closeSheet;
+  $("#afGo").onclick=async()=>{
+    const btn=$("#afGo");btn.disabled=true;btn.textContent="Checking…";
+    try{
+      const res=await fetch("/api/add-feed",{method:"POST",headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({section:sectionId,feed_url:$("#afFeed").value})});
+      const data=await res.json();
+      if(!data.ok){addFeedPrompt(sectionId,{ok:false,text:data.message});return}
+      btn.textContent="Refreshing…";
+      const res2=await fetch("/api/run-pipeline",{method:"POST"});
+      const data2=await res2.json();
+      if(data2.ok){location.reload()}
+      else addFeedPrompt(sectionId,{ok:true,text:data.message+" "+data2.message+" (reload manually once it finishes)"});
+    }catch(e){
+      addFeedPrompt(sectionId,{ok:false,text:"Could not reach the local server — is it still running?"});
+    }
+  };
+}
 
 /* ── chart tooltips ── */
 function wireTips(){
@@ -601,6 +634,7 @@ document.addEventListener("click",e=>{
   const gl=e.target.closest(".glrow"); if(gl){openTerm(gl.dataset.term);return}
   const unlock=e.target.closest('[data-act="unlock"]'); if(unlock){lockPrompt();return}
   const addtag=e.target.closest('[data-act="addtag"]'); if(addtag){addTagPrompt(addtag.dataset.section);return}
+  const addfeed=e.target.closest('[data-act="addfeed"]'); if(addfeed){addFeedPrompt(addfeed.dataset.section);return}
   const st=e.target.closest('[data-act="star"]');
   if(st){const id=st.closest(".row").dataset.id;
     stars=stars.includes(id)?stars.filter(x=>x!==id):[...stars,id];

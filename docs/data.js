@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T02:41:59.185872+02:00",
+  "generated_at": "2026-08-30T02:45:32.727370+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 02:41 Berlin time",
-      "stand": "Automatically rebuilt at 02:41 — 11 sections tracked.",
+      "headline": "Briefing refreshed 02:45 Berlin time",
+      "stand": "Automatically rebuilt at 02:45 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "bAVE+JMBgOZ9DyiWB24CofRC7Q/RyTCiTzy78HYrOLDAfucgIkN7Gt/2/M2ZLVnoYJVc8Euy60qxwXDsDA2pHpyOghdKZ3P5I/+jUVEPUr1ttiMtVcb33urQkBpXVPmzTioJ5Tew+8ds/aBYf4DKdnqsgyaeSM1hdZ6zMyoGOaGJaSYOvtgu",
-          "iv": "sHmgN2uogSr2DmMu",
-          "salt": "BH6AURaRHeZtnOCU5gbBDg=="
+          "ciphertext": "RuGFUOBHpM3FPiYxMgaZ5PJkbz4lSD+vsol7IIWMBfUiEDUHxgdmygot1IosM8G/1M3ctLqp/hPIxHizlS8obXwI9ePn7JoLR1qyq4MowQ+h41sMYSNxbieoTJHhD+l/XSgxqJykyRCG78e7VViCGbwiidaBDBzZ6Grd856W5CW3Zy/3h89S",
+          "iv": "qZ8sYqtaF+EZkrre",
+          "salt": "ObC/wfN7NXSHFXYYdaaQfQ=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "6nMXFtvC0cUUGkiLWIIZv/EZYa+BgrulHNfaeh5PylNd2dyqVod5Y6W06KHhZWcadd/nRlt+yXu7XNfaMpFJJC5R/ig/GLW77hDjCOqhg1X8rtfqzwtRfzoIbow5lKXD0s9Tqh+jLFcvq9OJu9Ekmh0mL/v9SGdyPI2Z",
-          "iv": "jlpMqVr2QHLIuI2d",
-          "salt": "CbdDaouF/Q0af3EnkyS0wQ=="
+          "ciphertext": "mqooyLjHI3YY1IcJONygl1e7x15ELE59n2jSfmaJcm5XJCAAXwsxwf/I7utywTBE35ZoO6xtujkRpDD52aiwS2JKWcU+0T2bC8Y5/lIKLfH5the7MkOnq/Pd2rcTyIKUCoLEWq51WTRWMz+jMbESSg6JE87yz/ffbA1Y",
+          "iv": "x1lv3VKdcgwxrY9F",
+          "salt": "iShcuqlbHifAWJg4I2aSWA=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "Gs0rikFGOTbEKCidxCBLSSbgmf4MYaeHQ11BSxolm3T0e0yMnxdW0xMI6Sh5/H7t0MyofLZ2c6VvYQkq1BWoHL7GPbzWNBJuqbHdxVSr8RR6+/45/d9tr8YYLubExenLm8PHwDbJFfC+ML0oSja3wjH7Q9n2Sik5QaUeuDuH1pWtamICsr9LMDxfvZc106AxLQkZG/BED44MphxzHJaqPZ9S9nPTWzMi9Bs5zH3eoYuY2sXSL7LFstb8NkMjsFMxWVrqCdi8BiYrUYDnR+uGkPFSxSoWAPwurleXDAWkZLgM12kSsrFDLpxrCgN9ZSgHp7RObAXn",
-          "iv": "bYuRtDEw+5V6Pp4k",
-          "salt": "ht6W6rubkhN0nPpLgCAFxg=="
+          "ciphertext": "vDuGlNaey2vgUu7iIzOexeuXv8ZO0YnI5WhGZgmakLmoadybfzE6AdecQvls7rj4sSEMmDVpNzBFfCXLRw66J+agxmkaQdVDJNAiaIHPIha2m6y/ZKTKxgUsjWjlULXpqlk3lv/pkSF+Q1UuiaOUxVnpS3LUuhS1P/shjxPKflZ19DHlCm6JVQB1UUc+dFvTc3zTKrKDkSN+zEloLIinAfNeNf502E8QPOOIx9OiDAaeus6wKCpGl6Q/onsCMN2qiynrd58btNGUPnGneoNQaa1pCC5t4XR3q6HCcy6faaBRPFyZCse3omo+k22kA1b2ADn5FAWI",
+          "iv": "u7pdlDwO4vVizr/5",
+          "salt": "smOLscwdYKnxRZQlx1uOng=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -117,7 +117,8 @@ window.EDITION_DATA = {
               "src": "International Software Testing Qualifications Board",
               "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
             }
-          ]
+          ],
+          "feed_section": "profession_field"
         },
         {
           "h": "Defense Electronics & Secure Networking",
@@ -128,7 +129,8 @@ window.EDITION_DATA = {
               "src": "www.theregister.com - Articles",
               "u": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
             }
-          ]
+          ],
+          "feed_section": "work_industry"
         },
         {
           "h": "Network & Systems Engineering",
@@ -138,7 +140,8 @@ window.EDITION_DATA = {
               "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
               "src": "system"
             }
-          ]
+          ],
+          "feed_section": "network_systems"
         },
         {
           "h": "Jira, Xray & Confluence",
@@ -148,7 +151,8 @@ window.EDITION_DATA = {
               "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
               "src": "system"
             }
-          ]
+          ],
+          "feed_section": "test_tooling"
         },
         {
           "h": "Near Home",
@@ -188,7 +192,8 @@ window.EDITION_DATA = {
               "b": "'World & Knowledge' had nothing new to show — will keep checking.",
               "src": "system"
             }
-          ]
+          ],
+          "feed_section": "world_and_knowledge"
         },
         {
           "h": "Language Practice",

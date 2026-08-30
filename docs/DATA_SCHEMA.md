@@ -45,6 +45,8 @@ One block = one section of an edition (e.g. "Weather", "Needs attention").
   tags_section: "near_home"  // optional — presence marks this block as Tagged-Interests-capable; drives the
                              // "+ Add" button (only shown when the page detects it's on the local server, see
                              // TAGGED_INTERESTS_ARCHITECTURE.md "Phase 3"); the value is the section id to POST to
+  feed_section: "world_and_knowledge"  // optional — the plain-RSS-section counterpart to tags_section (Phase 4):
+                             // a simpler "+ Add feed" form with no tag/relation concept. A block never has both.
 }
 ```
 
