@@ -1,4 +1,4 @@
-const SHELL_CACHE = "bb-shell-v2";
+const SHELL_CACHE = "bb-shell-v3";
 const DATA_CACHE = "bb-data-v1";
 const SHELL_FILES = ["./index.html", "./style.css", "./app.js", "./manifest.json"];
 
@@ -18,8 +18,9 @@ self.addEventListener("activate", e => {
 
 self.addEventListener("fetch", e => {
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith("data.js")) {
+  if (url.pathname.endsWith("data.js") || url.pathname.endsWith("data.local.js")) {
     // network-first, fall back to cache, so the phone always tries for fresh content
+    // (data.local.js included: it changes every local pipeline run just like data.js)
     e.respondWith(
       fetch(e.request).then(res => {
         const copy = res.clone();
