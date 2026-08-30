@@ -7,7 +7,8 @@
   need to change when tonight's content changes — only data.js does.
 ═══════════════════════════════════════════════════════════════════*/
 
-const DATA = window.EDITION_DATA || { editions: [], glossary: {}, charts: {}, learn: [], generated_at: null };
+const DATA = window.EDITION_DATA || { editions: [], glossary: {}, charts: {}, learn: [], generated_at: null,
+  interests_overview: { tagged: [], topics: [] } };
 const EDITIONS = DATA.editions || [];
 const G = DATA.glossary || {};
 const CHARTS = DATA.charts || {};
@@ -504,7 +505,8 @@ const TABS=[
  {k:"learn",l:"Learn",i:'<path d="M4 5h7a2 2 0 0 1 2 2v13a2 2 0 0 0-2-2H4Z"/><path d="M20 5h-7a2 2 0 0 0-2 2v13a2 2 0 0 1 2-2h7Z"/>'},
  {k:"saved",l:"Saved",i:'<path d="m12 3 2.7 5.8 6.3.8-4.6 4.4 1.2 6.2L12 17.3 6.4 20.2l1.2-6.2L3 9.6l6.3-.8Z"/>'},
  {k:"archive",l:"Archive",i:'<path d="M3 7h18v13H3z"/><path d="M3 7l2-3h14l2 3M8 12h8"/>'},
- {k:"glossary",l:"Words",i:'<path d="M4 4h11a3 3 0 0 1 3 3v13H7a3 3 0 0 1-3-3Z"/><path d="M8 9h6M8 13h6"/>'}
+ {k:"glossary",l:"Words",i:'<path d="M4 4h11a3 3 0 0 1 3 3v13H7a3 3 0 0 1-3-3Z"/><path d="M8 9h6M8 13h6"/>'},
+ {k:"interests",l:"Interests",i:'<circle cx="12" cy="12" r="3"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2 2M16.4 16.4l2 2M5.6 18.4l2-2M16.4 7.6l2-2"/>'}
 ];
 function renderTabs(){
   $("#tabsTop").innerHTML=TABS.map(t=>

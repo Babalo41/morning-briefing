@@ -10,7 +10,30 @@ window.EDITION_DATA = {
   glossary: { /* termId: GlossaryTerm */ },
   charts:   { /* chartId: Chart */ },
   learn:    [ /* Course */ ],
+  interests_overview: { /* InterestsOverview, see below */ },
 };
+```
+
+## InterestsOverview
+
+Powers the "Interests" tab (`docs/app.js:renderInterests`) — everything trackable across the whole
+site in one place, read-only content generated fresh every pipeline run; the "+ Add" actions that
+write to it live only on the local server (see TAGGED_INTERESTS_ARCHITECTURE.md "Phase 6").
+
+```js
+{
+  tagged: [ {
+    section_id: "near_home", title: "Near Home",
+    tags: [ {
+      id: "bremen_home", label: "Bremen", relation: "home", area: null,
+      keywords: [], freshness_days: 3, feed_count: 0, feeds: [ "https://..." ],
+    } ],
+  } ],
+  topics: [ {
+    section_id: "world_and_knowledge", title: "World & Knowledge",
+    feed_count: 3, feeds: [ "https://..." ],
+  } ],
+}
 ```
 
 ## Edition

@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T03:19:52.170763+02:00",
+  "generated_at": "2026-08-30T03:41:07.845284+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 03:19 Berlin time",
-      "stand": "Automatically rebuilt at 03:19 — 11 sections tracked.",
+      "headline": "Briefing refreshed 03:41 Berlin time",
+      "stand": "Automatically rebuilt at 03:41 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "ls7WWyY5a+haOOXTXkBbv3/VQs6hK9VEtPsBYb350QQpfj4AAndCJms2UztMC27O8Zi8jyfVXo6wS9M9BPU3FqSyg8/BiDL+BB8KbVWuZ/YCu2T40O37MtHtUT/FM5s6YtC7+dauvzLcD7sWzBlB9iKGIpQIEk9zDuN0xTNFGhwPbuWJf/eg",
-          "iv": "lPVRWzG0eKgZYCHs",
-          "salt": "LONpkCMEifGV6bn2hRMQWg=="
+          "ciphertext": "T5rxPGuf55I7jE92ZbiczyaucE1lq/kXGZCmN03PSxIPNMKWtpRGqSbPtsGzVRHO1IwVzGzN9v8hM7G27QxK079APNo1FhPy4Eo0blwtHqDdL/VBmvsnDiLnjmkeH42EYwqM4wb1m3fxQjmFd3MkJB655hwuuCN62Chho4Alr0ZawxRH/tA4",
+          "iv": "V4F183ZAbiXBzXD+",
+          "salt": "XvNk50Cu7ek3EiImsTENzg=="
         },
         {
           "h": "Weather",
@@ -42,17 +42,17 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "CnUBxQhShRZZj8qsop7N9EUI1eV1E6cb4HPiofpVuL+IlpuHpFvEpoF7hajFcPHhihOhvmkjcv3jB0gPXyMwBsKIcTtL00QtZstYKkWzwSDpC1jRA3+J3rV1kfo0LWrw6tD26P1+C3Yh7fD21waXru0NS3oYMTFco1Bx",
-          "iv": "yWS/2GdZZb3CjoT8",
-          "salt": "IDbT+X4e1vNa6rcxR1F1Sw=="
+          "ciphertext": "Whi/Rzwe9ZwdsC/2Hvpbhm7v9Cpag4K8zaDufwWtHG0F0b+MQlZvaUOd4rXH32cdKgMbez30J04XejAIDCA5KrFXSFrlp1HxT2VUquq2DuDy9w7ZAtdYKx/sPjN2ow5/s8txSbalx+BRfrpieOgjVPmvCBbqLkXaZNbp",
+          "iv": "C6Rt5csmLMGaklrD",
+          "salt": "r9JGYkW/kP++psR3O+6i9Q=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "6vw4QYh93mxdGMvsbF77HuVkj7xM4VPEORu9IY8IV08z5LCc1yWmT9SHWJBV/eOe4FA9fCKAFxQikA+yCn8VUtTduEkpSmYhA9Q7KTWR5pcLmwvbZrzu8kLg1vZpEAtUn315D5LBL4dzc2r7O830df0joAFKAAvxqS14JJ79WpCDJCHoFIHglowHDXZC8l7oyBx7zCQ10Plg6hf+sbzkJpMbZNsFb5nfRaagHenFsaWFxSBWDQR+K5TUMsx1Mll3hOr/C5rFY0yTVxZekxwtyGOpL9FAPbSboUAViyKJHVA3d4WMCjHBIaVQjr2xgkiNvqCFhl5S",
-          "iv": "CWpL697BOW0XCNbc",
-          "salt": "GS5iA0iDePb0ZYXmBNTSnw=="
+          "ciphertext": "I0KNp2fNksDKqNfp0vIT+whloa0bIAOlQJjBN3N77v5MhPySjVR8/imXPR6GacWiENasUeRmGBHicFCmVTfv8Wo4Vgo7iCQ4YsNZBIR5hzp/WKGyVpdGPkNG67KU13DkBCUoY5AJ5iMIG3COItggehUaGvLGmJ5BH68C1awPkYP5yHrjbzEi0WGHsqrablzN+MNYdh9ns4zcORs9qaE/4x5VQq/AS9ONkWh+qGO8s6qRvBN+K2FanKIoZyR+E/SMlmTnIYTOPz475//1K1BlBDiFmGaPkQGfHeaWr9cOCYhrk0to4Fmx3AZ+jH+rNobWm7pdMEjK",
+          "iv": "T2nhcypSVU5irLAz",
+          "salt": "TCTXXAT1jnhBqoQ4cXiaeg=="
         },
         {
           "h": "ISTQB & Software Testing",
@@ -1849,5 +1849,92 @@ window.EDITION_DATA = {
         }
       ]
     }
-  ]
+  ],
+  "interests_overview": {
+    "tagged": [
+      {
+        "section_id": "near_home",
+        "title": "Near Home",
+        "tags": [
+          {
+            "id": "bremen_home",
+            "label": "Bremen",
+            "relation": "home",
+            "area": null,
+            "keywords": [],
+            "freshness_days": 3,
+            "feed_count": 0,
+            "feeds": []
+          },
+          {
+            "id": "bhavnagar_family",
+            "label": "Bhavnagar",
+            "relation": "family",
+            "area": null,
+            "keywords": [],
+            "freshness_days": 3,
+            "feed_count": 0,
+            "feeds": []
+          },
+          {
+            "id": "surat_interest",
+            "label": "Surat",
+            "relation": "interest",
+            "area": null,
+            "keywords": [],
+            "freshness_days": 3,
+            "feed_count": 0,
+            "feeds": []
+          }
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "section_id": "profession_field",
+        "title": "ISTQB & Software Testing",
+        "feed_count": 3,
+        "feeds": [
+          "https://www.ministryoftesting.com/rss",
+          "https://reddit.com/r/QualityAssurance/.rss",
+          "https://istqb.org/feed"
+        ]
+      },
+      {
+        "section_id": "work_industry",
+        "title": "Defense Electronics & Secure Networking",
+        "feed_count": 3,
+        "feeds": [
+          "https://www.infodas.com/en/rss",
+          "https://www.bleepingcomputer.com/feed/",
+          "https://www.theregister.com/security/headlines.atom"
+        ]
+      },
+      {
+        "section_id": "network_systems",
+        "title": "Network & Systems Engineering",
+        "feed_count": 1,
+        "feeds": [
+          "https://www.reddit.com/r/networking/.rss"
+        ]
+      },
+      {
+        "section_id": "test_tooling",
+        "title": "Jira, Xray & Confluence",
+        "feed_count": 1,
+        "feeds": [
+          "https://community.atlassian.com/t5/s/rss/board?board.id=jira-questions"
+        ]
+      },
+      {
+        "section_id": "world_and_knowledge",
+        "title": "World & Knowledge",
+        "feed_count": 2,
+        "feeds": [
+          "https://feeds.reuters.com/reuters/worldNews",
+          "https://feeds.bbci.co.uk/news/world/rss.xml"
+        ]
+      }
+    ]
+  }
 };
