@@ -182,6 +182,15 @@ function chartCard(k){
 /* ── item rendering ── */
 const starSvg=`<svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.8 6.3.8-4.6 4.4 1.2 6.2L12 17.3 6.4 20.2l1.2-6.2L3 9.6l6.3-.8Z"/></svg>`;
 const lockSvg=`<svg viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>`;
+const REL_LABEL={home:"Home",family:"Family",friend:"Friend",interest:"Interest"};
+function tagBadgeHTML(it){
+  // it.tag/it.rel come from Tagged Interests (config/interests.yaml) —
+  // only present on items a tag-aware section (e.g. Near Home) produced.
+  // See TAGGED_INTERESTS_ARCHITECTURE.md.
+  if(!it.tag)return"";
+  const rel=it.rel||"interest";
+  return `<span class="tagbadge" data-rel="${esc(rel)}">${esc(it.tag)} · ${REL_LABEL[rel]||"Interest"}</span>`;
+}
 function itemHTML(it,id,pri){
   if (it.encrypted) {
     return `<div class="row" data-id="${id}">
@@ -193,7 +202,7 @@ function itemHTML(it,id,pri){
                 :`<span class="src">${esc(it.src)}</span>`;
   return `<div class="row${pri?" pri":""}${rd?" done":""}" data-id="${id}">
       <button class="rowbtn" data-act="open"><span class="dot"></span><span class="rowtx">
-        <h4>${esc(it.t)}</h4><p class="pv">${esc(strip(it.b))}</p></span></button>
+        <h4>${esc(it.t)}</h4>${tagBadgeHTML(it)}<p class="pv">${esc(strip(it.b))}</p></span></button>
       <button class="star" data-act="star" aria-pressed="${on}" aria-label="Save">${starSvg}</button>
     </div>
     <div class="body"><p class="tx">${it.b} ${src}</p>
