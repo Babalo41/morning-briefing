@@ -122,12 +122,12 @@
     "source": "Tagged Interests",
     "left": [
       {
-        "id": "bremen_home",
+        "id": "tag_bremen",
         "label": "Bremen",
         "rel": "home"
       },
       {
-        "id": "bhavnagar_family",
+        "id": "tag_bhavnagar",
         "label": "Bhavnagar",
         "rel": "family"
       }
@@ -144,14 +144,14 @@
     ],
     "links": [
       {
-        "from": "bremen_home",
+        "from": "tag_bremen",
         "to": "src_bbc_news",
-        "v": 20
+        "v": 6
       },
       {
-        "from": "bhavnagar_family",
+        "from": "tag_bhavnagar",
         "to": "src_tagesschau_de_die_nachrichten_der_ard",
-        "v": 20
+        "v": 4
       }
     ]
   }

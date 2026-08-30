@@ -4,16 +4,16 @@
   "dnum": "30",
   "mon": "Aug",
   "date": "Sunday 30 August 2026",
-  "headline": "Briefing refreshed 02:51 Berlin time",
-  "stand": "Automatically rebuilt at 02:51 — 11 sections tracked.",
+  "headline": "Briefing refreshed 02:52 Berlin time",
+  "stand": "Automatically rebuilt at 02:52 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "nBZoLczOzi0shmQTjRB7hfCfZX75nmJyA5bu+5eOhT59+gP4aKoipPc3OGj9cpgpnTiR/6gqQ4sb2+hJlTbXjIOdLcrA8kZcHLO/GaEF7TYtWJVjybsUboQTxACKCkZ5Hcu6DfPFa7XdWtF+rQM3Fps0aGxhe5D6vednTtrf3h/MlWF9krR2",
-      "iv": "+DoxfcoVcHwNDd7x",
-      "salt": "wO49MwNvNVTYswyIMcN2Wg=="
+      "ciphertext": "KFIASIfKkErjFf0tkk8qqDBO4bF2QZm0kTPEr/I1/HFCNGnhI5D2EjPdV1fEEp8dHQPBXTxEi+BRUnrIf9gogN6+5pum9LwCPU0du4VceMuBs5vXXSNCIV9SlAFyBkvR0h5UpJ1CCPP/p+kQt6OQLwXk0fYL7/eTWfY4x8wymqdCD+WI18qh",
+      "iv": "75f4t3dxP/q9Hfo1",
+      "salt": "8MA9Xw5TKrnk2gfju22U1A=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "j/bJleOql4FbiG68vJYyIKHMtDKzDcIZuHBIt/gZuJZOKnnMB/05K0JNmljJy48mapueuiXW89USQO1fR9h7Q31AvSsEcKjnFLIUz+eTr2J8epC8OBKE3FhKPoAOoSdwAIX6ulzuwIj1DO6e6yAMZqNQjNHf/xKIzx5V",
-      "iv": "Gb79Gpb0/nsn3MU5",
-      "salt": "VEFf9x4M/4WfysR6yf/pcA=="
+      "ciphertext": "oVyLPI1bvyehwqxrMt0jQ8DGCwoFgvA3vGaUeNcArIhgmnpwPxryGz30mMKqLihBk/LPxxuV44CWiqqCP67/vuRe7z0m6BnvTc6v4/Qd+DGKJawzdiSOey0Z5L2r7WQnqOoDruCICmSplMSKrIf6QWtmBcUO10Aw8yBk",
+      "iv": "a/i2b74UYVu9KBik",
+      "salt": "CvCmN3cfSWiUKRJLGnLPDA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "4/ymBYFAgzdsV1xglI7q0fRHHf5OoFNs8PY93nY6sd9G+o+XBfhbSyfkJG3gqTUstaZ/tsAafAXq952gixOIB47lnIldJJpAUtaWUJ84hcNjPelDeN45v3CRJHQfNQF5Gz9LCl+ePOeSQrlFearev4ER3m86sYnP1OwRwdhTJeDK9zdftZr6BbNwyl2kyYOoyaI8A8tjFHqF8enQ24rqEXfkeQa4IejuZexFWLJq83Vwj3/y2WZoOG9DLtLd7/64qyh+zpmSu0ArZBVjpqrIFuKfZLpy2ATWImNrYR15OdyYwSDJ2OX83xvmpFLtjncDe/mvc58c",
-      "iv": "3AfwBobbcS9kIKcn",
-      "salt": "YvGeZGLFGOHOzsZ5MEjm3w=="
+      "ciphertext": "oVhs1c5YXQ/T22xwJilOMuV6xse3pYKNLEAt28VDB9yuOSQog4OMI6R47/kGcf1thrVsiej2jPsxYDIa2T2EG+1LAZvzB13UXmk3/yEumXmofkFnqblRswyn+KDJ64MgZTtmWyGLNcBTgWtQVsrxpX2AImsMdfX4GCzIrO8ijTSl8xeqKSGa5jsDqE9xPNwRxiSRhLU0htBOBzOr80+co13DN5WIq/NRWCjMfnTWNrE5Ph41F5kTAgizntw6H4qc9fzJMmJtyF4aTCscSAE2YvEdcKFEgq2ZcZqwxWZhKfY6qEPMIsu91jCidZD9cxCvBNrb8VoW",
+      "iv": "FU2+s//9ll2bRM/Q",
+      "salt": "+PrsmfQVPZxpQzwh58d8sA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -188,20 +188,20 @@
           "rel": "home"
         },
         {
-          "t": "Norway's new king remembers 'my dear father' in first speech",
-          "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Haakon hält erste emotionale Ansprache als König von Norwegen",
           "b": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. Harald V. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
           "src": "tagesschau.de - Die Nachrichten der ARD",
           "u": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
           "tag": "Bhavnagar",
           "rel": "family"
+        },
+        {
+          "t": "Norway's new king remembers 'my dear father' in first speech",
+          "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
         },
         {
           "t": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
