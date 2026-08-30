@@ -420,10 +420,14 @@ function renderToday(){
     }
     const its=b.items.map((it,ii)=>({it,ii})).filter(o=>match(o.it,b,ed));
     if(!its.length)return; any=true;
-    const addBtn=!isLocalServer()?"":b.tags_section
-      ?`<button class="addtagbtn" data-act="addtag" data-section="${esc(b.tags_section)}">+ Add</button>`
-      :b.feed_section
-      ?`<button class="addtagbtn" data-act="addfeed" data-section="${esc(b.feed_section)}">+ Add</button>`:"";
+    const trackedSection=b.tags_section||b.feed_section;
+    let addBtn="";
+    if(isLocalServer()&&trackedSection){
+      const addAct=b.tags_section?"addtag":"addfeed";
+      addBtn=`<span class="ghbtns"><button class="addtagbtn" data-act="${addAct}" data-section="${esc(trackedSection)}">+ Add</button>
+        <button class="addtagbtn" data-act="suggest" data-istag="${b.tags_section?"1":"0"}"
+          data-section="${esc(trackedSection)}" data-sectiontitle="${esc(b.h)}">Suggest</button></span>`;
+    }
     h+=`<section class="group"><div class="ghead"><h3>${esc(b.h)}</h3>
       <span class="n">${its.length}</span>${addBtn}</div>`;
     if(b.stats&&!query) h+=`<div class="stats">${b.stats.map(s=>
