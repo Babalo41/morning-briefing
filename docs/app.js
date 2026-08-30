@@ -366,8 +366,10 @@ function renderToday(){
     }
     const its=b.items.map((it,ii)=>({it,ii})).filter(o=>match(o.it,b,ed));
     if(!its.length)return; any=true;
+    const addBtn=(b.tags_section&&isLocalServer())
+      ?`<button class="addtagbtn" data-act="addtag" data-section="${esc(b.tags_section)}">+ Add</button>`:"";
     h+=`<section class="group"><div class="ghead"><h3>${esc(b.h)}</h3>
-      <span class="n">${its.length}</span></div>`;
+      <span class="n">${its.length}</span>${addBtn}</div>`;
     if(b.stats&&!query) h+=`<div class="stats">${b.stats.map(s=>
       `<div class="st"><div class="n">${esc(s.n)}</div><div class="l">${esc(s.l)}</div></div>`).join("")}</div>`;
     h+=`<div class="list">${its.map(o=>itemHTML(o.it,uid(ed.id,bi,o.ii),b.pri)).join("")}</div>`;
@@ -506,6 +508,69 @@ function say(g,btn){
 function closeSheet(){$("#sheet").classList.remove("on");$("#scrim").classList.remove("on");
   try{speechSynthesis.cancel()}catch(_){}}
 
+/* ── Tagged Interests: local-only add flow (Phase 3, see
+   TAGGED_INTERESTS_ARCHITECTURE.md). The /api/* endpoints only exist on
+   scripts/serve_local.py — never on the public GitHub Pages site, which is
+   why this checks the hostname before ever showing the "+ Add" button. */
+function isLocalServer(){
+  const h=location.hostname;
+  return h==="localhost"||h==="127.0.0.1"||
+    /^192\.168\.\d{1,3}\.\d{1,3}$/.test(h)||
+    /^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$/.test(h)||
+    /^172\.(1[6-9]|2\d|3[01])\.\d{1,3}\.\d{1,3}$/.test(h);
+}
+function addTagPrompt(sectionId,msg){
+  $("#sheetIn").innerHTML=`<button class="shx" id="shx" aria-label="Close">✕</button>
+    <div class="mk"></div><h5>Add to ${esc(sectionId)}</h5>
+    <div class="lockform" style="box-shadow:none;border:0;padding:0;margin:0">
+      <p>Adds a new tag, or a verified feed to an existing one with the same name. Only visible on your local
+        WiFi server — never on the public site.</p>
+      <label for="atLabel">Name</label>
+      <input id="atLabel" placeholder="e.g. Bhavnagar, or a topic name">
+      <label for="atRel">Relation</label>
+      <select id="atRel">
+        <option value="home">Home</option>
+        <option value="family">Family</option>
+        <option value="friend">Friend</option>
+        <option value="interest" selected>Interest</option>
+      </select>
+      <label for="atArea">Area (optional, narrower than the city)</label>
+      <input id="atArea" placeholder="e.g. a neighborhood">
+      <label for="atKw">Keywords (optional, comma-separated — leave blank for no filter)</label>
+      <input id="atKw" placeholder="e.g. flood, election">
+      <label for="atFeed">Feed URL (optional — verified before anything is saved)</label>
+      <input id="atFeed" placeholder="https://example.com/feed">
+      <div class="row2" style="margin-top:12px"><button id="atGo">Add</button></div>
+      ${msg?`<div class="${msg.ok?"ok":"err"}">${esc(msg.text)}</div>`:""}
+    </div>`;
+  $("#sheet").classList.add("on");$("#scrim").classList.add("on");
+  $("#shx").onclick=closeSheet;
+  $("#atGo").onclick=async()=>{
+    const btn=$("#atGo");btn.disabled=true;btn.textContent="Checking…";
+    const payload={
+      section:sectionId,
+      label:$("#atLabel").value,
+      relation:$("#atRel").value,
+      area:$("#atArea").value,
+      keywords:$("#atKw").value,
+      feed_url:$("#atFeed").value,
+    };
+    try{
+      const res=await fetch("/api/add-tag",{method:"POST",headers:{"Content-Type":"application/json"},
+        body:JSON.stringify(payload)});
+      const data=await res.json();
+      if(!data.ok){addTagPrompt(sectionId,{ok:false,text:data.message});return}
+      btn.textContent="Refreshing…";
+      const res2=await fetch("/api/run-pipeline",{method:"POST"});
+      const data2=await res2.json();
+      if(data2.ok){location.reload()}
+      else addTagPrompt(sectionId,{ok:true,text:data.message+" "+data2.message+" (reload manually once it finishes)"});
+    }catch(e){
+      addTagPrompt(sectionId,{ok:false,text:"Could not reach the local server — is it still running?"});
+    }
+  };
+}
+
 /* ── chart tooltips ── */
 function wireTips(){
   const tip=$("#tip");
@@ -535,6 +600,7 @@ document.addEventListener("click",e=>{
   const arc=e.target.closest(".arcrow"); if(arc){curEd=arc.dataset.ed;store.set("ed",curEd);go("today");return}
   const gl=e.target.closest(".glrow"); if(gl){openTerm(gl.dataset.term);return}
   const unlock=e.target.closest('[data-act="unlock"]'); if(unlock){lockPrompt();return}
+  const addtag=e.target.closest('[data-act="addtag"]'); if(addtag){addTagPrompt(addtag.dataset.section);return}
   const st=e.target.closest('[data-act="star"]');
   if(st){const id=st.closest(".row").dataset.id;
     stars=stars.includes(id)?stars.filter(x=>x!==id):[...stars,id];

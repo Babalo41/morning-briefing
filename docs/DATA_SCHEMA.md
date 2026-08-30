@@ -42,6 +42,9 @@ One block = one section of an edition (e.g. "Weather", "Needs attention").
   items: [ /* Item */ ],
   chart: "wxtemp",           // optional — a chart id, or an array of chart ids, rendered after the item list
   go: { label: "string", q: "string" }  // optional CTA button; q is a prompt seeded into a "go" link
+  tags_section: "near_home"  // optional — presence marks this block as Tagged-Interests-capable; drives the
+                             // "+ Add" button (only shown when the page detects it's on the local server, see
+                             // TAGGED_INTERESTS_ARCHITECTURE.md "Phase 3"); the value is the section id to POST to
 }
 ```
 
