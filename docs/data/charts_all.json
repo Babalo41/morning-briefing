@@ -125,33 +125,19 @@
         "id": "tag_bremen",
         "label": "Bremen",
         "rel": "home"
-      },
-      {
-        "id": "tag_bhavnagar",
-        "label": "Bhavnagar",
-        "rel": "family"
       }
     ],
     "right": [
       {
         "id": "src_bbc_news",
         "label": "BBC News"
-      },
-      {
-        "id": "src_tagesschau_de_die_nachrichten_der_ard",
-        "label": "tagesschau.de - Die Nachrichten der ARD"
       }
     ],
     "links": [
       {
         "from": "tag_bremen",
         "to": "src_bbc_news",
-        "v": 6
-      },
-      {
-        "from": "tag_bhavnagar",
-        "to": "src_tagesschau_de_die_nachrichten_der_ard",
-        "v": 4
+        "v": 10
       }
     ]
   }

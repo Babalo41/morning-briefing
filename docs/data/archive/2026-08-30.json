@@ -4,16 +4,16 @@
   "dnum": "30",
   "mon": "Aug",
   "date": "Sunday 30 August 2026",
-  "headline": "Briefing refreshed 04:39 Berlin time",
-  "stand": "Automatically rebuilt at 04:39 — 11 sections tracked.",
+  "headline": "Briefing refreshed 04:40 Berlin time",
+  "stand": "Automatically rebuilt at 04:40 — 11 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "dsDPkmpqO1H/sl/uOvmvvtOkZSmuYDKYcjHzH35jlMsS3e8+7ZFrrMB7Iz5oHEvy58FP2Leq2apSEg1k4AIHPHIVYVdyRBUg11bWDsFpFbCrYVHiU6uEz7lDgHRrO9LIHikxp3ER3g+ecHainRETwitM93gBor+FrVDRPbUR/DmxUbLtqB/d",
-      "iv": "BynW8yVzNskfgTtX",
-      "salt": "E8QmBzUOOwA3IWLsNciQtA=="
+      "ciphertext": "7P7MmTKhUa80is2xRYingohzaL2E2cKNsrIZ0y1AcOU6VWMveko2tPTCYwZsIeWSc+SZRocUm/DNh52TE/6G9Pybye1bpyuyojro+8S3PVtxJp5hlojmHMzb11k67DdAGIxab+vb2rNrx53N0/r+S/6QwymcHFcu9XOAGWg9AYnDb1xWkLcC",
+      "iv": "hAtLNucafj0A3j+v",
+      "salt": "IK2ssKn2CxPh96yTir3oyA=="
     },
     {
       "h": "Weather",
@@ -39,17 +39,17 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "uDMrhae+cJK3b2R3izgT6e0VL+PKokvGEHQ1GI+/BdhfjfqFpNwZZtgygsnro6ZjMAGoQIbWsKxqo6sx+c5qYoQukobGNS4T9OAo5TUOQcOf9Zj8La8oyqBPTO03PjboKY8l/izvKRwO+9W0Swp6GTxlFWRPHNQIWtzc",
-      "iv": "fMMJ4zMbxz+nhbU3",
-      "salt": "qalRBGZ75+/ISrViCO9n+Q=="
+      "ciphertext": "z6Du+BXGPjpqgDNNW3+Rjn/iK134wNJjxIAs/CG+EN2VIjXT5ttyEEPKjFyLOQQ0SIHO1blh+m/75Fui1xKeOdpYQTb1cjUYW3oqIt1CA6VkWzvjfO6Db1Du1f0QoEup3bpN+fFGpIualxFxM2Lwk/lFLSnLWCu1L+jN",
+      "iv": "uKjxI03vePJF2nMy",
+      "salt": "Ah7M1rDYTUt0cpXBmbEqdA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "mSpGyrOXYXiHq1jOhCwXPXvjUW4LdjEXYfjfGcV5BIcUv55EyROF5QDHY1j7jSpTDaC9q2qdqf5a12GqiQYHpQKwJC8+oJNsS+MCe7sfh25LGShSNOXA0H1qQJOOsWbrrzd10xsVbGcIFHLZQOAA+m2QKM+p5pHTYvKvv/7Ag9qYDcCdGMn283eJQ8NWeHlaR5zpXKHO2Q5Jbvfs83G5LgOXiPVivShjiKFAL0emZMZY/CAxuMUOmsjviHNopiTh58tk4Yni37WXgvWvjOTEA4JLvY5FLafGaSNxtVUNjKfq+DtGQaNeQHO4pSxsrwjlRys3VqTT",
-      "iv": "BiDaRdSi4BQhBTZJ",
-      "salt": "7a9Um/7NqXHlJkCZNfeU8g=="
+      "ciphertext": "u5ViFO1OmjgkZEhTSeuVCZ5tBhxlWawOtTbEgFW9/Op+D0IFeO3w0rKLFZ0W+v4KrUtz3ZPw4+jOcHvi2i+kcSXsCiFY0fTG4sMZAZ2web5XRLbMsrgoimcoApLBsTHLi/xG8+EYl1+llqmIgn6ApAs3S3NaVyIbJdh/RBTiPVcnC28HWlIXqo4VUPJjj5APm5+4zp+tm/sIZZL0e7SjvFF5Sggbt0ixgqhj9v5vIYtuGFESY9nu1pFF4Ih3lkcSQ5EZSb0DwdHOc4Ym+lZoyYjDfc9pnPsYqTpwy3V5PRSpigUCKG6Jnbf1PAvb0kdustHmY436",
+      "iv": "I3FF9JVu4WcBEIG2",
+      "salt": "0BCVFaOPA7dXxGHXKwkdgw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -156,30 +156,87 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Tracking: Bhavnagar",
-          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Bhavnagar",
-          "rel": "family"
-        },
-        {
-          "t": "Tracking: Bremen",
-          "b": "No source added yet for Bremen (home). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
+          "t": "Canada installs large Lake Ontario sign in latest jab at US",
+          "b": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Tracking: Surat",
-          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Surat",
-          "rel": "interest"
+          "t": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "b": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "b": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Former Ecuadorian president imprisoned for corruption",
+          "b": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Norway's new king remembers 'my dear father' in first speech",
+          "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+          "b": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+          "b": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+          "b": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "b": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Close race as Iceland votes on whether to restart talks on joining EU",
+          "b": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+          "tag": "Bremen",
+          "rel": "home"
         }
-      ]
+      ],
+      "chart": "near_home_flow"
     },
     {
       "h": "World & Knowledge",
