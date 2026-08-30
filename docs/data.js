@@ -1,5 +1,5 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T02:27:18.962479+02:00",
+  "generated_at": "2026-08-30T02:29:00.122005+02:00",
   "editions": [
     {
       "id": "2026-08-30",
@@ -7,16 +7,16 @@ window.EDITION_DATA = {
       "dnum": "30",
       "mon": "Aug",
       "date": "Sunday 30 August 2026",
-      "headline": "Briefing refreshed 02:27 Berlin time",
-      "stand": "Automatically rebuilt at 02:27 — 11 sections tracked.",
+      "headline": "Briefing refreshed 02:29 Berlin time",
+      "stand": "Automatically rebuilt at 02:29 — 11 sections tracked.",
       "blocks": [
         {
           "h": "Needs Attention",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "vmmRJSQ/rHA4fHXEDQ0pAL0AUNIEFIP8O9sH/PkVITFuHmLPsE/7FClgwsjV59Y6mc1408GECbb1GbBbSwV+ByhWcGlXFLhpKPaTCC5PL1oMM5BorSY7V+pTXc7X/EJTPJfh2wWdRaMinDxejQArv+G4l2V7uFIZSZjv/faHMxfKVNYF7xBU",
-          "iv": "9c7Va9V5IVUdh7es",
-          "salt": "7/O8VWFFhJPXE05Bu9qN8A=="
+          "ciphertext": "YNhC4Uv4JY8dU26eSDtyWe9Es1FWh2rIMwkceaaLVF/aVvEk2KNXNO23MmLRXOCKgOJ6LASfB8MV4ylz6ik0JK/cfmTinY2adJgT+91vFsWyXLSTWMZKotHAV+foJ7htj5aJUKwijFMPmZ/J1FDmBWbI3sLMXlzYQuNLjb55+GlZchn0GPYO",
+          "iv": "pnby295jsjyBHAaS",
+          "salt": "rc5GIWeYqOwVAUYI4pRS7g=="
         },
         {
           "h": "Weather",
@@ -42,30 +42,30 @@ window.EDITION_DATA = {
           "h": "Week & Month Ahead",
           "count": 1,
           "encrypted": true,
-          "ciphertext": "6bXMrDmgkM54SKs9OiUYqFuX5mmy4Q3CNHxPijM7OZyFQTh0EkujLvyRuQfFDCaiNY7tjBgBUPmzfkAlTTWJyuxVxOhf0VOnxzyfvfXj1lVNa2rylCLEcPhqOG4czhZBKout2/W/WpdbRzEZ9FcJikHVY+QZyVl4b1qw",
-          "iv": "TuXv016P0xaTHucc",
-          "salt": "wBJQjXeAG3l1xjoUGd6J1w=="
+          "ciphertext": "FmIET2sdZv/RkkTvl8kmeJCA/Ys1qtCODfwvBMtTLQad+R7n20QgjwWpidt6JtkJq7REFY2C8w2wn1xi5u/f6xvmX0pqHGzg3y3xd9tOylGOuVhwWaPteWjYNzatcK1mxEXXCRUwjCgikYcAMCMhjXEHRIaw5BD/rnzk",
+          "iv": "W9BEKA6o6XFazUQt",
+          "salt": "QtQ6lxhnHg/dp3ihBPX2jA=="
         },
         {
           "h": "Diabetes & Supplies",
           "count": 2,
           "encrypted": true,
-          "ciphertext": "iW3Q03vmTlRRIEN0Txv/u8mNmYv2gFB3e4FsSX2rI2Rd47F5jthC+7SpJOjthXHAXiuriYV19etiqNW5yB+Vd6xavI9AfieZf9PUF7HWc8GVdNWrD5d6kEocDHwPJ6wGYomFJSIUyEmZAI0nKLx5IuyZqqThhtCb+Y/eSXgirgsndca6XP/u7agqwBlrX+C6GwIYZvO/kNJm0ri7CmEqxbMoVMGBNhlNA86Tk6dn/zL3uZgEI5THKZ0U2ixZEljg8lWLB33Kpdt0y68PAUhdr3Dn88x5T6uheIytj6SsBX80uFTmxblMN1mIS5s6/vqT/hsMEnYn",
-          "iv": "CXfTEOvw9He/o6sc",
-          "salt": "8YPghMkfKQpPNbUI3slIuA=="
+          "ciphertext": "uCF6jGBpSKJxS7IVU9x87XG+YfpAKfZAVbUZQvZpS9CN6TpXcLPj1Afsv/73fjEGjKoMEhKbCA0/cT8DgU1K6xNNywRWLgNMXS2CkK3Q9V2LFAPwWh23Wa04R2LCAJ8incOfnLYEZLxnUDvqyefI4ZO9viFjmaebdor/hNEfNQ0dgCcNLzxkF3y0CJ34h8STocuuqZ5hHPH6jQ4etzNJfOInRUAj+4TicvJGin2o8U5+YseIvrZDk+htnaT7Ag3R8zbablJJvccdT27XdFwh92kuivdzr3NUJy8t80nSm6eZsev9L6urOI/w7MNXOvyvCUIEz/CI",
+          "iv": "Y1OfLmrunoAirG6h",
+          "salt": "LuyV0U02zRXmgmESbD/LuA=="
         },
         {
           "h": "ISTQB & Software Testing",
           "items": [
             {
-              "t": "📌 Istqb® Launches Certified",
-              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain. Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO).",
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
               "src": "insight",
               "u": null
             },
             {
-              "t": "📌 Istqb® Certified Tester",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
               "src": "insight",
               "u": null
             },
