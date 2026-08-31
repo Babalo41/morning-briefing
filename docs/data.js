@@ -1,6 +1,283 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-08-30T13:51:56.440152+02:00",
+  "generated_at": "2026-08-31T20:34:56.624395+02:00",
   "editions": [
+    {
+      "id": "2026-08-31",
+      "day": "Mon",
+      "dnum": "31",
+      "mon": "Aug",
+      "date": "Monday 31 August 2026",
+      "headline": "Briefing refreshed 20:34 Berlin time",
+      "stand": "Automatically rebuilt at 20:34 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "r4nHEbPr7hI5lPfDcnt2JryziSiR0aqC2WesVV54ovg5Di2gDDg4yOwSkifUOsFdbnzWEYPLSpdrx4aJ9lmqoaNTmqi8JCXblsRXnTXpZfK2EI7NF3jxVsC6t3L9wApwlg1M/CWd/4OFfo6AvrFhT1K0HH30EQkmJsEUBcgO0qMQOvTzLHo5",
+          "iv": "ey29YMmDx+QhceXp",
+          "salt": "B7HGGQ09FuQl12DxdMzDEw=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "17°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 21°C",
+              "b": "Low 16°C, gusts to 56 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "nJ2arUyNYu/CfTquU2qnlyOaHNraw0XFcKGc8sI1Ohnjx89rC8nXPnXQGMxx2mn6iRBd5C6Pz2E4szcXS8JQ4ImXVhw9jswMa171LVqiHPB1mUxAvptgHyt0JVPSxustuSXNGDhPZJdDEbd2RGee7pEzWUQ+mZPbAS26",
+          "iv": "N3FEo6Qx29oQfrXy",
+          "salt": "54tjdlrr2RHVltr6MrX6bw=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "maquWh4PvoEGaw9F0IohUQyyuEGUKHbl6Bt4751j4oUlfAc7VGcoVPOVq1C6FO59cWFTmTgknDoc/dnryuNYmLn7u+xhUTJ3/XTZVD2BbKddz7RbuKWlrq4UMemGOrTrTGqM5oXUE+XVvpzsHZoUvM4lIGB7aWcqj6iTFYGhpAwoLUYDBqtvEiNlogTeOt20KsmoG8XWw8lYAl7rUoLMhzYqGR1ai7bXlOIR0XpBedHOGNFebWHs6QfdJoRcTShTg+k1eZkWb9Qlko3IjM5aY6QdkzX1AuHY9OTcCoHz+yJOsZFoESQQ54Pfgu5FYfwswOq2Fben",
+          "iv": "Jd/waGmFCmsZ8IKI",
+          "salt": "KjY0NgBwdao2f52Rfw98xw=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "GTZ5nLzC+Xz52+iV7LCMigk97IX68STNc2ZPFuxF8DAbL31x9z3gy8rc/cZP2z/xSvyPr9WC8HgfZT6Uv7++mQekl0q2zxoLOpy6cUhxU6lmUKMoh2Vjsyogwiri1iwZab486fUdKPuk67z4dkyxEvp0Kc3P3O5gOe8X2nUkzIBW76InSVdoZYAUfpTOsG2mfEIseOY7FhxqEeDG",
+          "iv": "gZ4+fIxkw24pM03M",
+          "salt": "Mwu+GvkA0ROSSos1N6BVtw=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "I just had an interview last week",
+              "b": "I have more than 10 years experience in QA, and I just got humbled by.... theoretical knowledge. Absolutely no practical test involved. Listen... I may have focused in my career on the practical testing: how to test, how to think about breaking the software and so on, and less on \"the theory\" of it ",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w39ovc/i_just_had_an_interview_last_week/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+              "b": "Beijing's botnets busted",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Werder Bremen’s Samuel Mbangula headed to Bologna on loan - Get German Football News",
+              "b": "Werder Bremen’s Samuel Mbangula headed to Bologna on loan  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWhCTm01ZHlKYzFUSDZST0NaNUxqcGJwM0E1VDhOVGRfWl85OWFmMVhTZjNHSFhRdHdDM04wc01ua0h4Ty1kZnR2ejlFVHJkSVd4a3F4VDJzRnBVX0FHVzdXTHVDUGtwaTdfZDBvQkEwN21EaDRXblNRS1pEQQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen prepare for hectic close to summer 2026 transfer window - Get German Football News",
+              "b": "Werder Bremen prepare for hectic close to summer 2026 transfer window  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OQTU1Z0xUeHVnUEI1eFhxbHprZVp6dkV1Z0l0LUZvZVlxUkRiUFFaLU1EaGg5OXlscHBaTzUxOTVldjE4UnAyZWRieV9OMHUtY3h4dlpBZFF2Z2VxT1JJNzRDV1VZaUdfSTlBbG5GTTcwNWs?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Freiburg beat rivals in Germany opener as Suzuki nets hat-trick - The Assam Tribune",
+              "b": "Freiburg beat rivals in Germany opener as Suzuki nets hat-trick  The Assam Tribune",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEZOb2VlTlJQSWItYVZIUmMxc0pXcWwyZjRPMHhrTjExc2JzWllBcloxNkFYTTRfeWJ3QnhqNC1jNmxDRlpISGloTURNb1JuZngtakhwdmFjQXpDN0tpbEV5YUFpLXlSTUZxU0I1RDEzSlozU0ZDcldDZ2ZLbTIyN3ZzUzNvdzZtaUFGbnZFMEthaDRsT2d3djljZlBCNDdXdXJJYkZB0gGrAUFVX3lxTE9ZVHlzT2ZCOV9TOGhVZGltWDV6Q3RzN19NUVkxRTNRbVVZOGdBOE5tOFB1bl9rcFVQUzFLR1BHWjI3OFRFVkU0U0lfZFZBeWV5NFdfY21pTHR5OVJBSHNIUlJsVXZXaV8wS1BhYzIxRXFSMGljVUtPWHc5QThMNFRRSXRROXhvLUFFbk5UN0FnUGVHRmRYYzJHbk5PZW5HSUZlNzZDUEpNZGx5Yw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "SV Hemelingen - FC Union 60 Bremen, 30/08/2026 - Bremenliga - Match sheet - Transfermarkt",
+              "b": "SV Hemelingen - FC Union 60 Bremen, 30/08/2026 - Bremenliga - Match sheet  Transfermarkt",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3NvNDV5ejFUNkVHRFd1cW9wYzduSnlJSWRwUWxmcWlqT1dWbHF4LW4ya1ZIRk54U1l5TGloZzQzOURMeHB2TEpMZTVPbVhlcHRMNWVycld1aEtpOTNlVjViTE9GSG0tV3FjaFN1ZUVuRFpOWUpDTg?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen dealt crushing injury blow with leading goalscorer Jens Stage sidelined until 2027 - Get German Football News",
+              "b": "Werder Bremen dealt crushing injury blow with leading goalscorer Jens Stage sidelined until 2027  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ODM2NGhKTk12QVR5b0JOdnd6c09uU3RHNlhENFR0WmJwdFY5ZV83eVl0S3hqMDFIbEhHc2o4SVF6QjkzVk9rZGdFb1JXQzlQdTJTZHBveGJobDY1UG1UREtMSnlab1c1dzdhdkpvclVMS0l0MFE?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Atalanta in discussions for ex-Juventus talent Mbangula - Football Italia",
+              "b": "Atalanta in discussions for ex-Juventus talent Mbangula  Football Italia",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DN0VQTk1UeEw5OXJNRWdxdk5odV9LenhiV2cwMnRUbk15cVVXVGhVOElxLXBBZ1dRazRYVFMxazQwbkNlclgzWjlKb1JiZWNlaEZsaTR3QXFFU3lZczJja0o0ZF9xeVhhYmNGMzc3SHB2eFg4RVhIc3JXUdIBgAFBVV95cUxNUjdNcXNKVWJlTFJwbXRpTndyN2ZCVzRQSG15YVd5ZERvR2JzTDFpaTNlREdlWGdKV2ZocVFILTVWLURvVDFPRExFYVNSR2ZBTnk1ak1pVTF6c0xxN2ZDMmh6em5nR2tjV2pwLVBqbU1hWVh0VzExR05ONUJUU0txVQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            },
+            {
+              "t": "📌 Werder German Football",
+              "b": "Werder Bremen prepare for hectic close to summer 2026 transfer window  Get German Football News Werder Bremen’s Samuel Mbangula headed to Bologna on loan  Get German Football News",
+              "src": "insight",
+              "u": null
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "Dolly Parton laid to rest alongside husband in Nashville",
+              "b": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+              "src": "BBC News",
+              "u": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "gemeinsam",
+              "b": "<span class=\"jt\" data-g=\"lang_gemeinsam\">gemeinsam</span> — together",
+              "src": "Goethe B1 · p.45"
+            },
+            {
+              "t": "die Gemeinschaft",
+              "b": "<span class=\"jt\" data-g=\"lang_diegemeinschaft\">die Gemeinschaft</span> — the community <span class=\"gram\">(plural: -en)</span>",
+              "src": "Goethe B1 · p.45"
+            },
+            {
+              "t": "das Gemüse",
+              "b": "<span class=\"jt\" data-g=\"lang_dasgemüse\">das Gemüse</span> — the vegetables",
+              "src": "Goethe B1 · p.45"
+            },
+            {
+              "t": "gemütlich",
+              "b": "<span class=\"jt\" data-g=\"lang_gemütlich\">gemütlich</span> — cozy",
+              "src": "Goethe B1 · p.45"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-08-30",
       "day": "Sun",
@@ -1593,22 +1870,54 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "Diabetic ketoacidosis — a dangerous build-up of blood acid produced when the body, lacking insulin, burns fat for fuel and generates ketones faster than it can clear them.\n",
       "w": "The single most important pump-related risk to understand: it can begin within hours of a cannula failure, and can occur even with a near-normal glucose reading.\n"
+    },
+    "lang_gemeinsam": {
+      "t": "gemeinsam",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Together",
+      "w": "“Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.”"
+    },
+    "lang_diegemeinschaft": {
+      "t": "die Gemeinschaft",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The community",
+      "w": "“Rauchen ist in den Gemeinschafts-räumen nicht erlaubt.”"
+    },
+    "lang_dasgemüse": {
+      "t": "das Gemüse",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The vegetables",
+      "w": "“Wir kaufen das Gemüse direkt beim Bauern.”"
+    },
+    "lang_gemütlich": {
+      "t": "gemütlich",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Cozy",
+      "w": "“Wir haben eine sehr gemütliche Wohnung.”"
     }
   },
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "22° is the high point this week in Bremen",
+      "title": "23° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "08-30",
         "08-31",
         "09-01",
         "09-02",
         "09-03",
         "09-04",
-        "09-05"
+        "09-05",
+        "09-06"
       ],
       "yticks": [
         0,
@@ -1624,31 +1933,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              20.2
+              21.4
             ],
             [
               1,
-              20.1
+              21.2
             ],
             [
               2,
-              20.4
+              22.6
             ],
             [
               3,
-              21.3
-            ],
-            [
-              4,
               22.4
             ],
             [
+              4,
+              22.6
+            ],
+            [
               5,
-              20.5
+              19.6
             ],
             [
               6,
-              18.7
+              22.5
             ]
           ]
         }
@@ -1656,59 +1965,59 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 88% this week in Bremen",
+      "title": "Rain chances peak at 95% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "08-30",
-          "v": 88,
-          "lab": "88%",
-          "hero": true,
-          "tip": "20°C, Rain showers"
-        },
-        {
           "k": "08-31",
-          "v": 83,
-          "lab": "83%",
-          "hero": false,
-          "tip": "20°C, Thunderstorm"
+          "v": 95,
+          "lab": "95%",
+          "hero": true,
+          "tip": "21°C, Thunderstorm"
         },
         {
           "k": "09-01",
-          "v": 31,
-          "lab": "31%",
-          "hero": false,
-          "tip": "20°C, Overcast"
-        },
-        {
-          "k": "09-02",
-          "v": 31,
-          "lab": "31%",
+          "v": 20,
+          "lab": "20%",
           "hero": false,
           "tip": "21°C, Rain showers"
         },
         {
+          "k": "09-02",
+          "v": 16,
+          "lab": "16%",
+          "hero": false,
+          "tip": "23°C, Light rain"
+        },
+        {
           "k": "09-03",
-          "v": 35,
-          "lab": "35%",
+          "v": 28,
+          "lab": "28%",
           "hero": false,
           "tip": "22°C, Light rain"
         },
         {
           "k": "09-04",
-          "v": 49,
-          "lab": "49%",
+          "v": 78,
+          "lab": "78%",
           "hero": false,
-          "tip": "20°C, Thunderstorm"
+          "tip": "23°C, Rain showers"
         },
         {
           "k": "09-05",
-          "v": 45,
-          "lab": "45%",
+          "v": 49,
+          "lab": "49%",
           "hero": false,
-          "tip": "19°C, Overcast"
+          "tip": "20°C, Overcast"
+        },
+        {
+          "k": "09-06",
+          "v": 0,
+          "lab": "0%",
+          "hero": false,
+          "tip": "22°C, Overcast"
         }
       ]
     },
@@ -1726,15 +2035,15 @@ window.EDITION_DATA = {
       ],
       "right": [
         {
-          "id": "src_bbc_news",
-          "label": "BBC News"
+          "id": "src_bremen_germany_google_news",
+          "label": "\"Bremen, Germany\" - Google News"
         }
       ],
       "links": [
         {
           "from": "tag_bremen",
-          "to": "src_bbc_news",
-          "v": 10
+          "to": "src_bremen_germany_google_news",
+          "v": 6
         }
       ]
     }
@@ -1749,6 +2058,11 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
+        },
+        {
+          "t": "The Hanseatic League, and why Bremen still says it",
+          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
+          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     },
@@ -1771,6 +2085,11 @@ window.EDITION_DATA = {
           "t": "Somnath, and the habit of rebuilding",
           "key": "A temple destroyed at least six times and rebuilt every time.",
           "b": "<p>On the southern coast at Veraval stands Somnath, counted as the first of the twelve <span class=\"jt\" data-g=\"jyotirlinga\">Jyotirlingas</span> — the shrines where Shiva is held to have manifested as a pillar of light.</p> <p>Its fame is inseparable from its destruction. Mahmud of Ghazni sacked it in 1026, and it was attacked and rebuilt repeatedly over the following centuries. The present temple is modern: reconstruction was driven by Sardar Vallabhbhai Patel after independence and completed in 1951, in the Chalukya style, on the original coastal site.</p> <p>Historians now read the medieval raids as being about wealth and prestige as much as religion — temples were treasuries — and note that the \"six destructions\" narrative was hardened considerably by colonial-era historiography. The temple matters as much for what people have made of its story as for the stone.</p> <p class=\"rem\"><b>Worth holding onto</b>Nothing stands between Somnath's shore and Antarctica — a pillar on the temple grounds marks the unbroken line of ocean south.</p>\n"
+        },
+        {
+          "t": "Junagadh, Girnar, and an emperor's rock",
+          "key": "An edict carved by Ashoka in 250 BCE still sits by the road to Girnar.",
+          "b": "<p>Junagadh — literally \"old fort\" — sits under Girnar, a volcanic massif sacred to both Jains and Hindus, climbed by a stone stairway of roughly ten thousand steps.</p> <p>Beside the path lies a granite boulder carrying fourteen Rock Edicts of the emperor Ashoka, carved around 250 BCE. They are not conquest inscriptions. They instruct officials on medical care for people and animals, the planting of shade trees and wells along roads, and restraint toward other sects. The same rock was reused twice more: by the Western Kshatrapa king Rudradaman in about 150 CE, and later by a Gupta ruler — three empires' worth of writing on one stone.</p> <p>From the 9th to 15th centuries the Chudasama dynasty ruled here, and the fort's later layers include Gujarat Sultanate and Mughal work. It is a single site where you can stand between the Mauryan empire and the British Raj.</p>\n"
         }
       ]
     },
@@ -1793,6 +2112,11 @@ window.EDITION_DATA = {
           "t": "Correlation, causation, and the third thing hiding behind both",
           "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
           "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
+        },
+        {
+          "t": "Why small samples lie louder than large ones",
+          "key": "A small study is not just less certain — it is far more likely to show an impressively large effect that is pure noise.",
+          "b": "<p>Flip a fair coin four times and getting three heads (75%) is unremarkable — it happens nearly a quarter of the time. Flip it four hundred times and getting 300 heads (also 75%) would be extraordinary, essentially impossible for a fair coin. Same percentage, wildly different meaning, because sample size changes everything about how much a given result should move your belief.</p> <p>This is why small studies routinely produce the flashiest headlines. A study of twelve people finding a supplement \"boosts memory by 40%\" sounds dramatic. A study of twelve thousand people finding a 2% effect sounds boring. The twelve-person study is almost always the less trustworthy one, precisely because small samples have enormous random swing built in — and a result only makes it into a headline if it happened to swing far from zero. This is one root of the <b>replication crisis</b> that has hit psychology and nutrition science particularly hard over the past fifteen years: striking small-sample results got published and publicised, then quietly failed to reproduce at scale.</p> <p>There is a direct analogue in test engineering. Running a flaky test three times and seeing it pass all three tells you almost nothing about its real pass rate — three data points cannot distinguish a 95%-reliable test from a 70%-reliable one. Confidence in a pass rate requires enough runs that the noise has a chance to average out, which is precisely why CI systems that track flake rate use rolling windows of hundreds of runs rather than a handful.</p> <p>The general rule, sometimes called the <b>law of large numbers</b> when stated properly: as a sample grows, its average gets closer and more reliably close to the true underlying value. Small samples do not just have wider error bars — they are disproportionately likely to be the ones you hear about, because extreme results are the ones that get shared.</p> <p class=\"rem warn\"><b>The tell</b>Whenever a striking result comes with an oddly specific but small sample size — \"in a study of 14 participants\" — treat the size itself as the headline, and the effect as provisional until someone runs it on hundreds.</p>\n"
         }
       ]
     },
@@ -1841,6 +2165,11 @@ window.EDITION_DATA = {
           "t": "The Anmeldung is the key to everything else",
           "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
           "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
+        },
+        {
+          "t": "How German health insurance actually works",
+          "key": "It is not one system but two, and which one you are in shapes your finances for decades.",
+          "b": "<p>Germany runs statutory insurance (gesetzliche Krankenversicherung, GKV) alongside private insurance (private Krankenversicherung, PKV). Roughly nine in ten people are in the statutory system.</p> <p><b>GKV</b> charges a percentage of gross income up to a ceiling, split roughly evenly between you and your employer, plus a supplementary rate that varies by fund. The important consequence: your contribution has nothing to do with your health, age or risk. It is a solidarity system — the healthy subsidise the sick, and the well-paid subsidise everyone else.</p> <p>The feature that matters most for you personally is <b>Familienversicherung</b>. A spouse without their own significant income is covered under your membership at no additional premium. Not a discount — no extra contribution at all. For a couple where one partner has newly arrived and is not yet working, this is a substantial piece of financial machinery, and it needs to be actively applied for rather than granted automatically.</p> <p><b>PKV</b> prices by individual risk instead. It is frequently cheaper for a young, healthy, well-paid person, and it covers each person separately — a spouse and each child needs their own policy and premium. Premiums also rise with age rather than falling. Switching back to GKV later is difficult by design, and generally impossible after 55.</p> <p>You are only permitted to choose PKV if you are self-employed, a civil servant, or earning above the annual compulsory insurance threshold. Below that, GKV is not optional.</p> <p class=\"rem warn\"><b>The decision that is hard to undo</b>PKV looks attractive when you are young, single and healthy, and expensive when you are older with a family. The one-way door — the difficulty of returning to GKV — is the part people underweight, and it is the reason to think about family plans before switching, not after.</p>\n"
         }
       ]
     },
@@ -1853,6 +2182,11 @@ window.EDITION_DATA = {
           "t": "What happens when you send money to India",
           "key": "Banks do not move money across borders. They move messages, and settle up separately.",
           "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
+        },
+        {
+          "t": "Inflation is not the same as prices being high",
+          "key": "Inflation falling does not mean anything gets cheaper. It means it is getting dearer more slowly.",
+          "b": "<p>This confusion runs through almost every news report on the subject. Inflation is the <i>rate of change</i> of prices, not their level. If inflation falls from 6% to 2%, prices are still rising — just more slowly. For prices to actually fall you need deflation, which sounds appealing and is in practice a disaster: people delay purchases because things will be cheaper next month, demand collapses, and the economy stalls.</p> <p>Central banks target roughly 2% rather than 0% precisely to keep a safe distance from that edge, and to leave room to cut interest rates in a downturn.</p> <p>The main tool is the interest rate. Raising rates makes borrowing dearer and saving more attractive, so spending and investment fall, so demand cools, so prices rise more slowly. The cost is real: higher mortgage payments, weaker hiring, sometimes a recession. This is a deliberate trade, not a side effect.</p> <p>Two things worth knowing when you read the numbers. First, the published rate is an average over a basket of goods; your personal inflation depends entirely on what you buy, which is why official figures so often feel wrong. Second, wages matter more than prices — what determines whether you are better off is whether your pay is rising faster than the basket, which is exactly what pay rounds like the IG Metall negotiations are arguing about.</p> <p>Exchange rates respond to the same forces. Higher rates in a currency tend to attract money seeking better returns, pushing that currency up. For someone sending euros to rupees, the euro-rupee rate is being shifted by decisions taken in Frankfurt and Mumbai for reasons that have nothing to do with either of you.</p> <p class=\"rem\"><b>Worth holding onto</b>\"Inflation is coming down\" and \"the cost of living is falling\" are entirely different claims. The first is usually true when reported. The second almost never is.</p>\n"
         }
       ]
     },
@@ -1875,6 +2209,11 @@ window.EDITION_DATA = {
           "t": "How to read a plant you've never seen",
           "key": "Six features, checked in order, get you to a family.",
           "b": "<p>Identification is not memorising species. It is running a checklist.</p> <p><b>1. Habit</b> — herb, shrub, tree, climber, grass.<br> <b>2. Leaf arrangement</b> — alternate, opposite, or whorled around the stem. Surprisingly few plants have opposite leaves; noticing it eliminates most families at a stroke.<br> <b>3. Leaf shape and margin</b> — simple or compound; edge smooth, toothed or lobed.<br> <b>4. Venation</b> — parallel veins point to monocots (grasses, lilies, orchids, palms); a branching net points to dicots (most other flowering plants).<br> <b>5. Flower parts</b> — count petals. Multiples of three suggest a monocot; four or five suggest a dicot.<br> <b>6. Fruit</b> — often the single most diagnostic feature, and the one beginners skip.</p> <p>Monocot versus dicot is the first big fork, and it is visible from a distance: a wheat field and an oak are on opposite sides of it.</p>\n"
+        },
+        {
+          "t": "Six families you will actually meet",
+          "key": "Learn six families and you can place a large share of the plants around you.",
+          "b": "<p><b>Poaceae</b> — grasses. Hollow jointed stems, parallel veins, wind-pollinated flowers with no petals. Wheat, rice, maize, barley, bamboo, sugarcane. This one family feeds humanity.</p> <p><b>Fabaceae</b> — legumes. Pea-shaped flowers, seeds in a pod. Their roots host bacteria that fix nitrogen from air into usable form, which is why they restore soil and why crop rotation works. Beans, lentils, groundnut, clover, acacia.</p> <p><b>Asteraceae</b> — the daisy family, one of the largest. What looks like one flower is a dense head of many tiny ones. Sunflower, marigold, lettuce, dandelion.</p> <p><b>Rosaceae</b> — five petals, many stamens. Apple, pear, cherry, plum, almond, strawberry, rose.</p> <p><b>Lamiaceae</b> — mints. Square stems, opposite leaves, aromatic. Basil, tulsi, mint, rosemary, sage, oregano.</p> <p><b>Apiaceae</b> — carrot family. Tiny flowers in flat umbrella-shaped umbels, hollow grooved stems. Carrot, coriander, cumin, fennel, dill.</p> <p class=\"rem warn\"><b>A warning that matters</b>Apiaceae contains both your spice rack and hemlock, water hemlock and giant hogweed — among the most toxic plants in Europe. Never eat a wild umbellifer on family resemblance. This family is exactly why \"it looks like a carrot\" has killed people.</p>\n"
         }
       ]
     },
@@ -1897,6 +2236,11 @@ window.EDITION_DATA = {
           "t": "Staying warm is mostly staying dry",
           "key": "You lose heat to the ground faster than to the air. Insulate underneath first.",
           "b": "<p>Heat leaves you four ways: <b>conduction</b> (touching cold things — above all the ground), <b>convection</b> (wind stripping warmth away), <b>radiation</b> (mostly from the head and neck), and <b>evaporation</b> (sweat and wet clothing).</p> <p>People lying on cold ground lose heat to it far faster than to the air around them. A layer of leaves, branches, a pack or foam beneath you is worth more than another layer on top of you. This is the single most-missed point in cold weather.</p> <p>Dress in three layers: a base that moves sweat off the skin, a middle that traps air, an outer that blocks wind and rain. Wool and synthetics keep insulating when damp. <b>Cotton does not</b> — wet cotton actively drains heat, which is where the mountaineers' phrase \"cotton kills\" comes from.</p> <p>Sweating in the cold is dangerous. If you are working hard, remove a layer <i>before</i> you sweat through the ones underneath.</p> <p><span class=\"jt\" data-g=\"hypothermia\">Hypothermia</span> announces itself in order: shivering, then clumsiness and slurred speech, then confusion and — strangely — sometimes a feeling of being too hot. Someone who stops shivering while still cold is getting worse, not better.</p>\n"
+        },
+        {
+          "t": "Shelter, fast and small",
+          "key": "A shelter you can build in an hour beats a good one you never finish.",
+          "b": "<p>Choose the site before the design. You want to be out of the wind, off the low ground where cold air pools and water runs, away from dead branches overhead, and near — but not in — a water source.</p> <p><b>Small is warm.</b> The instinct is to build something roomy. Resist it: your body is the heat source, and a space barely larger than you warms up and stays warm. A cavity you fill is worth more than a hall you cannot heat.</p> <p>The generic pattern is a debris shelter: a ridgepole propped at one end, ribs leaned against it, then piled leaves and vegetation — a lot of it, thicker than seems reasonable, ideally an arm's depth. Stuff the inside with dry material too, so you are lying in insulation rather than on soil.</p> <p>In an urban emergency the same logic applies indoors: close off one small room rather than heating a flat, block draughts at the doors, and put something insulating between you and the floor.</p>\n"
         }
       ]
     }

@@ -302,5 +302,37 @@
     "lang": "de-DE",
     "d": "Diabetic ketoacidosis — a dangerous build-up of blood acid produced when the body, lacking insulin, burns fat for fuel and generates ketones faster than it can clear them.\n",
     "w": "The single most important pump-related risk to understand: it can begin within hours of a cannula failure, and can occur even with a near-normal glucose reading.\n"
+  },
+  "lang_gemeinsam": {
+    "t": "gemeinsam",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Together",
+    "w": "“Du musst die Wohnung renovieren? Ich helfe dir. Wir können das gemeinsam machen.”"
+  },
+  "lang_diegemeinschaft": {
+    "t": "die Gemeinschaft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The community",
+    "w": "“Rauchen ist in den Gemeinschafts-räumen nicht erlaubt.”"
+  },
+  "lang_dasgemüse": {
+    "t": "das Gemüse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The vegetables",
+    "w": "“Wir kaufen das Gemüse direkt beim Bauern.”"
+  },
+  "lang_gemütlich": {
+    "t": "gemütlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Cozy",
+    "w": "“Wir haben eine sehr gemütliche Wohnung.”"
   }
 }
