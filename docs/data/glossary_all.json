@@ -334,5 +334,37 @@
     "lang": "de-DE",
     "d": "Cozy",
     "w": "“Wir haben eine sehr gemütliche Wohnung.”"
+  },
+  "lang_genau": {
+    "t": "genau",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Exactly",
+    "w": "“Haben Sie die genaue Zeit?”"
+  },
+  "lang_genauso": {
+    "t": "genauso",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Exactly the same",
+    "w": "“Katarina sieht genauso aus wie ihre Schwester.”"
+  },
+  "lang_genehmigen": {
+    "t": "genehmigen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Approve",
+    "w": "“Mein Chef hat mir sechs Wochen Urlaub genehmigt.”"
+  },
+  "lang_diegeneration": {
+    "t": "die Generation",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The generation",
+    "w": "“In diesem Haus wohnen drei Generationen zusammen.”"
   }
 }
