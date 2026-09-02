@@ -366,5 +366,37 @@
     "lang": "de-DE",
     "d": "The generation",
     "w": "“In diesem Haus wohnen drei Generationen zusammen.”"
+  },
+  "lang_genießen": {
+    "t": "genießen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Enjoy",
+    "w": "“Er kann das Essen leider nicht genießen, weil es zu scharf ist.”"
+  },
+  "lang_genug": {
+    "t": "genug",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Enough",
+    "w": "“Es ist noch genug Suppe da.”"
+  },
+  "lang_genügen": {
+    "t": "genügen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Suffice",
+    "w": "“Wie viele Zimmer brauchen Sie? – Mir genügt eine 2-Zimmer-Wohnung.”"
+  },
+  "lang_dasgepäck": {
+    "t": "das Gepäck",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The luggage",
+    "w": "“Ich habe mein Gepäck am Bahnhof gelassen.”"
   }
 }
