@@ -398,5 +398,37 @@
     "lang": "de-DE",
     "d": "The luggage",
     "w": "“Ich habe mein Gepäck am Bahnhof gelassen.”"
+  },
+  "lang_gerade": {
+    "t": "gerade",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Straight",
+    "w": "“Das Bild hängt nicht gerade.”"
+  },
+  "lang_geradeaus": {
+    "t": "geradeaus",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Straight ahead",
+    "w": "“Fahren Sie geradeaus bis zur nächsten Kreuzung.”"
+  },
+  "lang_dasgerät": {
+    "t": "das Gerät",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The device",
+    "w": "“Ich kaufe meine Elektrogeräte immer gebraucht. Das ist viel billiger.”"
+  },
+  "lang_gerecht": {
+    "t": "gerecht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Fair",
+    "w": "“Lass uns den Kuchen gerecht verteilen.”"
   }
 }
