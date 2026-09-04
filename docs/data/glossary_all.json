@@ -430,5 +430,37 @@
     "lang": "de-DE",
     "d": "Fair",
     "w": "“Lass uns den Kuchen gerecht verteilen.”"
+  },
+  "lang_dasgericht": {
+    "t": "das Gericht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The court",
+    "w": "“Ich habe heute Vormittag einen Termin beim Gericht.”"
+  },
+  "lang_gering": {
+    "t": "gering",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Low",
+    "w": "“Unsere Mannschaft hatte nur eine geringe Chance.”"
+  },
+  "lang_gerngerne": {
+    "t": "gern/gerne",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Gladly/gladly",
+    "w": "“Ich helfe Ihnen gern.”"
+  },
+  "lang_dasgeschäft": {
+    "t": "das Geschäft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The business",
+    "w": "“Die Geschäfte schließen um 18.30 Uhr.”"
   }
 }
