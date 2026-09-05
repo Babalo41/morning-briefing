@@ -462,5 +462,37 @@
     "lang": "de-DE",
     "d": "The business",
     "w": "“Die Geschäfte schließen um 18.30 Uhr.”"
+  },
+  "lang_geschehen": {
+    "t": "geschehen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Happen",
+    "w": "“Vielen Dank für Ihre Hilfe. – Gern geschehen.”"
+  },
+  "lang_dasgeschenk": {
+    "t": "das Geschenk",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The gift",
+    "w": "“Vielen Dank für das Geschenk.”"
+  },
+  "lang_diegeschichte": {
+    "t": "die Geschichte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The story",
+    "w": "“Ich interessiere mich nicht für Geschichte.”"
+  },
+  "lang_geschieden": {
+    "t": "geschieden",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Divorced",
+    "w": "“Ich bin seit drei Jahren geschieden.”"
   }
 }
