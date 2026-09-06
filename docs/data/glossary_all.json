@@ -494,5 +494,37 @@
     "lang": "de-DE",
     "d": "Divorced",
     "w": "“Ich bin seit drei Jahren geschieden.”"
+  },
+  "lang_dasgeschirr": {
+    "t": "das Geschirr",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The dishes",
+    "w": "“Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.”"
+  },
+  "lang_dasgeschlecht": {
+    "t": "das Geschlecht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The gender",
+    "w": "“Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.”"
+  },
+  "lang_dergeschmack": {
+    "t": "der Geschmack",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The taste",
+    "w": "“Ich möchte bitte Kaugummi mit Erdbeergeschmack.”"
+  },
+  "lang_diegeschwindigkeit": {
+    "t": "die Geschwindigkeit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The speed",
+    "w": "“Das Auto fuhr mit zu hoher Geschwindigkeit.”"
   }
 }
