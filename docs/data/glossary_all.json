@@ -526,5 +526,37 @@
     "lang": "de-DE",
     "d": "The speed",
     "w": "“Das Auto fuhr mit zu hoher Geschwindigkeit.”"
+  },
+  "lang_diegeschwindigkeitsbeschränkung": {
+    "t": "die Geschwindigkeitsbeschränkung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The speed limit",
+    "w": "“Bitte beachten Sie die Geschwindigkeitsbeschränkungen.”"
+  },
+  "lang_diegeschwister": {
+    "t": "die Geschwister",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The siblings",
+    "w": "“Die Geschwister sehen sich nur selten.”"
+  },
+  "lang_diegesellschaft": {
+    "t": "die Gesellschaft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The society",
+    "w": "“Er will die Gesellschaft verändern.”"
+  },
+  "lang_dasgesetz": {
+    "t": "das Gesetz",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The law",
+    "w": "“Das Parlament hat ein neues Gesetz beschlossen.”"
   }
 }
