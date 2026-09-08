@@ -558,5 +558,37 @@
     "lang": "de-DE",
     "d": "The law",
     "w": "“Das Parlament hat ein neues Gesetz beschlossen.”"
+  },
+  "lang_dasgesicht": {
+    "t": "das Gesicht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The face",
+    "w": "“Wasch dir bitte das Gesicht.”"
+  },
+  "lang_gespannt": {
+    "t": "gespannt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Excited",
+    "w": "“Ich bin gespannt, wer bei diesem Spiel gewinnt.”"
+  },
+  "lang_dasgespräch": {
+    "t": "das Gespräch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The conversation",
+    "w": "“Herr Müller ist gerade in einem Gespräch.”"
+  },
+  "lang_gestern": {
+    "t": "gestern",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Yesterday",
+    "w": "“Ich bin erst gestern zurückgekommen.”"
   }
 }
