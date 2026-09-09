@@ -1,6 +1,227 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-09-08T19:47:55.921908+02:00",
+  "generated_at": "2026-09-09T17:35:32.341601+02:00",
   "editions": [
+    {
+      "id": "2026-09-09",
+      "day": "Wed",
+      "dnum": "09",
+      "mon": "Sep",
+      "date": "Wednesday 09 September 2026",
+      "headline": "Briefing refreshed 17:35 Berlin time",
+      "stand": "Automatically rebuilt at 17:35 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "H76CSnzFwYOtTmwxFALPy2TPk2UiYD/IwqjkzJ1YMIGxjp907hVzH2eZL0Ejbyop99WGgHrtqCTXDFKcOgk0dzfqsaHNNgIgFcg1kcLng1/PZyYJqgo4eRafZkYaGkWEFl+yIzxjR44p6/2PQS8E3htUA9fSfIoIolkT57qZ+cgSMDSoIK4H",
+          "iv": "YS7mo2fBOMJcYe4J",
+          "salt": "n/wAWipv8ec1N0a2KZ3RMg=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "16°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: rain showers, high 18°C",
+              "b": "Low 14°C, gusts to 42 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "gPNyV9daExyb+GdVP5fjzZDkG/lwRYlPjmWDJAkZizqzwQLcwEhYSvGHsjnn8+mA+REm5LFsN4rSqQmSahIAcJ8tdr/xryKa74Tt25H+4QFNSmx2wlyBZd+5qQP/LtX3++kVS+an4FqwADsZbbQt2rvZSupK5tMkZ9pU",
+          "iv": "YUN7yfn93kWDYck1",
+          "salt": "r8XHD9NJR3mj4UCsCEc4dA=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "3B2oA4AQnMg8DNk1ARNUKmcd0y/Yr6J1NdYhKb74XpsIMVn+5vxWwu8aPEsoDOulZAU55aYL8Bf7yed1ZbXMWwxfaqr7FENZWFo6KBtDt+1r/Rp3YHWgSxNncx3kp1E9Cy9DlrYsdrfPVUeV4KP31s3xoWoVNUmAaVvKmuOWu3lHmg4oXqOryH3D4xLGbGpjsJglOg+3UyRyIjNmhL7wb1NL5t7Ojf/b3xw0Sq9aEEscv3WGG/PLAQFnHkuVQFxtBhgmOzH2CdYOHFkqm99D9bu2z3jcA4vN+Se0IFVTibzQOSWog91egWl0i8ZY1k342OlkEP9c",
+          "iv": "yQpUpvnqV49RD67l",
+          "salt": "AJwA0FBUmdXdwNmHI3TCPA=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "hBzzEF6cMeYxtqmJ7GF/sDCA3mB8AWoF86XOjI67ke4on6oF0wChMDTnmm2RwPCjwRMCYdJWKAcHBVcit3k+PleYb3mQyZekYTJxVCei2XlRUiOjx2GkSWcqoeqRmVM0QyEsZSQzoQ0e5luzlWd3jCqYJfPzVJ9IdbzcGGSeEMO5L5YPF+or6Yrs7O1yxHUkT+Of/LmJ9Gz3UH+q",
+          "iv": "MiyBYz3+nZBco15I",
+          "salt": "1q/GzE640V7iGLSDNWASEw=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            },
+            {
+              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "NX-OS configure session for no ip access-list",
+              "b": "configure session 4444 no ip access-list TEST ip acces-list TEST commit is this atomic Cisco NX-OS operation ? Do someone would feel the impact acl being removed and added if the acl is already attached to interface/SVI ?    submitted by    /u/kajatonas   [link]   [comments]",
+              "src": "Enterprise Networking Design, Support, and Discussion",
+              "u": "https://www.reddit.com/r/networking/comments/1wair01/nxos_configure_session_for_no_ip_accesslist/"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            }
+          ]
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "gesund",
+              "b": "<span class=\"jt\" data-g=\"lang_gesund\">gesund</span> — healthy",
+              "src": "Goethe B1 · p.46"
+            },
+            {
+              "t": "die Gesundheit",
+              "b": "<span class=\"jt\" data-g=\"lang_diegesundheit\">die Gesundheit</span> — the health",
+              "src": "Goethe B1 · p.46"
+            },
+            {
+              "t": "das Getränk",
+              "b": "<span class=\"jt\" data-g=\"lang_dasgetränk\">das Getränk</span> — the drink <span class=\"gram\">(plural: -e)</span>",
+              "src": "Goethe B1 · p.46"
+            },
+            {
+              "t": "die Gewalt",
+              "b": "<span class=\"jt\" data-g=\"lang_diegewalt\">die Gewalt</span> — the violence <span class=\"gram\">(plural: -en)</span>",
+              "src": "Goethe B1 · p.46"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-08",
       "day": "Tue",
@@ -4172,6 +4393,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "Yesterday",
       "w": "“Ich bin erst gestern zurückgekommen.”"
+    },
+    "lang_gesund": {
+      "t": "gesund",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Healthy",
+      "w": "“Ich hatte Grippe. Jetzt bin ich wieder gesund.”"
+    },
+    "lang_diegesundheit": {
+      "t": "die Gesundheit",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The health",
+      "w": "“Sie müssen mehr auf Ihre Gesundheit achten.”"
+    },
+    "lang_dasgetränk": {
+      "t": "das Getränk",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The drink",
+      "w": "“Besorgst du bitte die Getränke?”"
+    },
+    "lang_diegewalt": {
+      "t": "die Gewalt",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The violence",
+      "w": "“Ich mag keine Filme, in denen Gewalt vorkommt.”"
     }
   },
   "charts": {
@@ -4181,13 +4434,13 @@ window.EDITION_DATA = {
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "09-08",
         "09-09",
         "09-10",
         "09-11",
         "09-12",
         "09-13",
-        "09-14"
+        "09-14",
+        "09-15"
       ],
       "yticks": [
         0,
@@ -4203,31 +4456,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              23.5
-            ],
-            [
-              1,
-              18.5
-            ],
-            [
-              2,
-              19.2
-            ],
-            [
-              3,
-              19.2
-            ],
-            [
-              4,
-              20.7
-            ],
-            [
-              5,
               18.2
             ],
             [
+              1,
+              18.7
+            ],
+            [
+              2,
+              18.6
+            ],
+            [
+              3,
+              20.4
+            ],
+            [
+              4,
+              19.1
+            ],
+            [
+              5,
+              23.6
+            ],
+            [
               6,
-              24.3
+              21.8
             ]
           ]
         }
@@ -4235,23 +4488,16 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 100% this week in Bremen",
+      "title": "Rain chances peak at 98% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "09-08",
-          "v": 100,
-          "lab": "100%",
-          "hero": true,
-          "tip": "24°C, Rain showers"
-        },
-        {
           "k": "09-09",
-          "v": 83,
-          "lab": "83%",
-          "hero": false,
+          "v": 98,
+          "lab": "98%",
+          "hero": true,
           "tip": "18°C, Rain showers"
         },
         {
@@ -4263,31 +4509,38 @@ window.EDITION_DATA = {
         },
         {
           "k": "09-11",
-          "v": 17,
-          "lab": "17%",
+          "v": 14,
+          "lab": "14%",
           "hero": false,
-          "tip": "19°C, Overcast"
+          "tip": "19°C, Light rain"
         },
         {
           "k": "09-12",
-          "v": 4,
-          "lab": "4%",
+          "v": 9,
+          "lab": "9%",
           "hero": false,
-          "tip": "21°C, Overcast"
+          "tip": "20°C, Overcast"
         },
         {
           "k": "09-13",
-          "v": 41,
-          "lab": "41%",
+          "v": 84,
+          "lab": "84%",
           "hero": false,
-          "tip": "18°C, Light rain"
+          "tip": "19°C, Rain showers"
         },
         {
           "k": "09-14",
-          "v": 26,
-          "lab": "26%",
+          "v": 27,
+          "lab": "27%",
           "hero": false,
           "tip": "24°C, Overcast"
+        },
+        {
+          "k": "09-15",
+          "v": 25,
+          "lab": "25%",
+          "hero": false,
+          "tip": "22°C, Rain showers"
         }
       ]
     },
@@ -4328,11 +4581,6 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
-        },
-        {
-          "t": "The Hanseatic League, and why Bremen still says it",
-          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
-          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     },
@@ -4360,6 +4608,11 @@ window.EDITION_DATA = {
           "t": "Junagadh, Girnar, and an emperor's rock",
           "key": "An edict carved by Ashoka in 250 BCE still sits by the road to Girnar.",
           "b": "<p>Junagadh — literally \"old fort\" — sits under Girnar, a volcanic massif sacred to both Jains and Hindus, climbed by a stone stairway of roughly ten thousand steps.</p> <p>Beside the path lies a granite boulder carrying fourteen Rock Edicts of the emperor Ashoka, carved around 250 BCE. They are not conquest inscriptions. They instruct officials on medical care for people and animals, the planting of shade trees and wells along roads, and restraint toward other sects. The same rock was reused twice more: by the Western Kshatrapa king Rudradaman in about 150 CE, and later by a Gupta ruler — three empires' worth of writing on one stone.</p> <p>From the 9th to 15th centuries the Chudasama dynasty ruled here, and the fort's later layers include Gujarat Sultanate and Mughal work. It is a single site where you can stand between the Mauryan empire and the British Raj.</p>\n"
+        },
+        {
+          "t": "Two hundred princely states",
+          "key": "Before 1947, Saurashtra was not one place but hundreds.",
+          "b": "<p>Under the British, the peninsula was not a province. It was the <span class=\"jt\" data-g=\"kathiawar\">Kathiawar</span> Agency: over two hundred princely states, from substantial kingdoms with their own railways and ports down to estates of a few villages, each with a treaty relationship to the Crown and internal autonomy.</p> <p>Bhavnagar was among the largest and most reform-minded — it built one of India's earliest state railways and developed its port heavily. Porbandar, on the west coast, was a maritime trading state; in 1869 a boy was born there to the state's diwan, and named Mohandas Karamchand Gandhi.</p> <p>This fragmentation is why the region's dialects, dress and cuisine vary so sharply over short distances. Rulers competed in temple-building, schooling and civic works, and a great deal of what looks like ancient tradition is in fact 19th-century princely patronage.</p>\n"
         }
       ]
     },
@@ -4377,6 +4630,11 @@ window.EDITION_DATA = {
           "t": "\"Average\" is the most misleading word in English",
           "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
           "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
+        },
+        {
+          "t": "Correlation, causation, and the third thing hiding behind both",
+          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
+          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
         }
       ]
     },
@@ -4425,11 +4683,6 @@ window.EDITION_DATA = {
           "t": "The Anmeldung is the key to everything else",
           "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
           "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
-        },
-        {
-          "t": "How German health insurance actually works",
-          "key": "It is not one system but two, and which one you are in shapes your finances for decades.",
-          "b": "<p>Germany runs statutory insurance (gesetzliche Krankenversicherung, GKV) alongside private insurance (private Krankenversicherung, PKV). Roughly nine in ten people are in the statutory system.</p> <p><b>GKV</b> charges a percentage of gross income up to a ceiling, split roughly evenly between you and your employer, plus a supplementary rate that varies by fund. The important consequence: your contribution has nothing to do with your health, age or risk. It is a solidarity system — the healthy subsidise the sick, and the well-paid subsidise everyone else.</p> <p>The feature that matters most for you personally is <b>Familienversicherung</b>. A spouse without their own significant income is covered under your membership at no additional premium. Not a discount — no extra contribution at all. For a couple where one partner has newly arrived and is not yet working, this is a substantial piece of financial machinery, and it needs to be actively applied for rather than granted automatically.</p> <p><b>PKV</b> prices by individual risk instead. It is frequently cheaper for a young, healthy, well-paid person, and it covers each person separately — a spouse and each child needs their own policy and premium. Premiums also rise with age rather than falling. Switching back to GKV later is difficult by design, and generally impossible after 55.</p> <p>You are only permitted to choose PKV if you are self-employed, a civil servant, or earning above the annual compulsory insurance threshold. Below that, GKV is not optional.</p> <p class=\"rem warn\"><b>The decision that is hard to undo</b>PKV looks attractive when you are young, single and healthy, and expensive when you are older with a family. The one-way door — the difficulty of returning to GKV — is the part people underweight, and it is the reason to think about family plans before switching, not after.</p>\n"
         }
       ]
     },
@@ -4442,11 +4695,6 @@ window.EDITION_DATA = {
           "t": "What happens when you send money to India",
           "key": "Banks do not move money across borders. They move messages, and settle up separately.",
           "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
-        },
-        {
-          "t": "Inflation is not the same as prices being high",
-          "key": "Inflation falling does not mean anything gets cheaper. It means it is getting dearer more slowly.",
-          "b": "<p>This confusion runs through almost every news report on the subject. Inflation is the <i>rate of change</i> of prices, not their level. If inflation falls from 6% to 2%, prices are still rising — just more slowly. For prices to actually fall you need deflation, which sounds appealing and is in practice a disaster: people delay purchases because things will be cheaper next month, demand collapses, and the economy stalls.</p> <p>Central banks target roughly 2% rather than 0% precisely to keep a safe distance from that edge, and to leave room to cut interest rates in a downturn.</p> <p>The main tool is the interest rate. Raising rates makes borrowing dearer and saving more attractive, so spending and investment fall, so demand cools, so prices rise more slowly. The cost is real: higher mortgage payments, weaker hiring, sometimes a recession. This is a deliberate trade, not a side effect.</p> <p>Two things worth knowing when you read the numbers. First, the published rate is an average over a basket of goods; your personal inflation depends entirely on what you buy, which is why official figures so often feel wrong. Second, wages matter more than prices — what determines whether you are better off is whether your pay is rising faster than the basket, which is exactly what pay rounds like the IG Metall negotiations are arguing about.</p> <p>Exchange rates respond to the same forces. Higher rates in a currency tend to attract money seeking better returns, pushing that currency up. For someone sending euros to rupees, the euro-rupee rate is being shifted by decisions taken in Frankfurt and Mumbai for reasons that have nothing to do with either of you.</p> <p class=\"rem\"><b>Worth holding onto</b>\"Inflation is coming down\" and \"the cost of living is falling\" are entirely different claims. The first is usually true when reported. The second almost never is.</p>\n"
         }
       ]
     },
@@ -4474,6 +4722,11 @@ window.EDITION_DATA = {
           "t": "Six families you will actually meet",
           "key": "Learn six families and you can place a large share of the plants around you.",
           "b": "<p><b>Poaceae</b> — grasses. Hollow jointed stems, parallel veins, wind-pollinated flowers with no petals. Wheat, rice, maize, barley, bamboo, sugarcane. This one family feeds humanity.</p> <p><b>Fabaceae</b> — legumes. Pea-shaped flowers, seeds in a pod. Their roots host bacteria that fix nitrogen from air into usable form, which is why they restore soil and why crop rotation works. Beans, lentils, groundnut, clover, acacia.</p> <p><b>Asteraceae</b> — the daisy family, one of the largest. What looks like one flower is a dense head of many tiny ones. Sunflower, marigold, lettuce, dandelion.</p> <p><b>Rosaceae</b> — five petals, many stamens. Apple, pear, cherry, plum, almond, strawberry, rose.</p> <p><b>Lamiaceae</b> — mints. Square stems, opposite leaves, aromatic. Basil, tulsi, mint, rosemary, sage, oregano.</p> <p><b>Apiaceae</b> — carrot family. Tiny flowers in flat umbrella-shaped umbels, hollow grooved stems. Carrot, coriander, cumin, fennel, dill.</p> <p class=\"rem warn\"><b>A warning that matters</b>Apiaceae contains both your spice rack and hemlock, water hemlock and giant hogweed — among the most toxic plants in Europe. Never eat a wild umbellifer on family resemblance. This family is exactly why \"it looks like a carrot\" has killed people.</p>\n"
+        },
+        {
+          "t": "How life is filed",
+          "key": "Every organism has a two-word name, and the names change as DNA rewrites the tree.",
+          "b": "<p>The hierarchy runs Domain -&gt; Kingdom -&gt; Phylum -&gt; Class -&gt; Order -&gt; Family -&gt; Genus -&gt; Species. Bread wheat is Eukarya -&gt; Plantae -&gt; Angiosperms -&gt; Monocots -&gt; Poales -&gt; Poaceae -&gt; <i>Triticum</i> -&gt; <i>aestivum</i>.</p> <p>Linnaeus's binomial system gives each species a genus name and a species epithet, italicised, genus capitalised: <i>Panthera leo</i>. It works because it is universal — <i>Ocimum tenuiflorum</i> means the same plant to a botanist in Bremen and one in Bhavnagar, where \"tulsi\" and \"holy basil\" would not.</p> <p>A species is usually defined as a group that interbreeds and produces fertile offspring, which is why a horse and a donkey are separate species: the mule is sterile. The definition breaks down for organisms that reproduce asexually, and for fossils.</p> <p>Names change because classification now follows ancestry rather than appearance. DNA sequencing has repeatedly shown that things which look alike are unrelated, and things which look nothing alike are cousins — birds sit inside the dinosaurs, and fungi are closer to animals than to plants.</p>\n"
         }
       ]
     },
@@ -4501,6 +4754,11 @@ window.EDITION_DATA = {
           "t": "Shelter, fast and small",
           "key": "A shelter you can build in an hour beats a good one you never finish.",
           "b": "<p>Choose the site before the design. You want to be out of the wind, off the low ground where cold air pools and water runs, away from dead branches overhead, and near — but not in — a water source.</p> <p><b>Small is warm.</b> The instinct is to build something roomy. Resist it: your body is the heat source, and a space barely larger than you warms up and stays warm. A cavity you fill is worth more than a hall you cannot heat.</p> <p>The generic pattern is a debris shelter: a ridgepole propped at one end, ribs leaned against it, then piled leaves and vegetation — a lot of it, thicker than seems reasonable, ideally an arm's depth. Stuff the inside with dry material too, so you are lying in insulation rather than on soil.</p> <p>In an urban emergency the same logic applies indoors: close off one small room rather than heating a flat, block draughts at the doors, and put something insulating between you and the floor.</p>\n"
+        },
+        {
+          "t": "Fire, in the right order",
+          "key": "Fires fail from impatience — jumping to big fuel before the small stuff is burning.",
+          "b": "<p>Fire needs three things at once: fuel, oxygen and heat. Remove any one and it stops — which is also how you put one out.</p> <p>Prepare all three sizes of material <i>before</i> striking anything, and prepare more than you think you need:</p> <p><b>Tinder</b> catches a spark — birch bark, dry grass, cotton wool, char cloth, resinous shavings.<br> <b>Kindling</b> — twigs from matchstick to finger thickness.<br> <b>Fuel</b> — wrist thickness and up.</p> <p>Build so air can move through: a teepee or lean-to over the tinder. A pile pressed flat suffocates. Light from the upwind side, and feed it gradually — the commonest failure is dumping a log on a flame that is not established.</p> <p>In wet conditions, standing dead wood is drier than anything on the ground, and the inside of a split branch is dry even when the outside is soaked. Always lay a platform of sticks under the fire so it is not sitting on wet earth or snow.</p> <p class=\"rem warn\"><b>Safety</b>Never burn anything inside an enclosed space without ventilation. Carbon monoxide is odourless, and it kills people in tents, cars and closed rooms every winter.</p>\n"
         }
       ]
     }

@@ -590,5 +590,37 @@
     "lang": "de-DE",
     "d": "Yesterday",
     "w": "“Ich bin erst gestern zurückgekommen.”"
+  },
+  "lang_gesund": {
+    "t": "gesund",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Healthy",
+    "w": "“Ich hatte Grippe. Jetzt bin ich wieder gesund.”"
+  },
+  "lang_diegesundheit": {
+    "t": "die Gesundheit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The health",
+    "w": "“Sie müssen mehr auf Ihre Gesundheit achten.”"
+  },
+  "lang_dasgetränk": {
+    "t": "das Getränk",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The drink",
+    "w": "“Besorgst du bitte die Getränke?”"
+  },
+  "lang_diegewalt": {
+    "t": "die Gewalt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The violence",
+    "w": "“Ich mag keine Filme, in denen Gewalt vorkommt.”"
   }
 }
