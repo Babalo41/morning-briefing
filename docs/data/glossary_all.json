@@ -622,5 +622,37 @@
     "lang": "de-DE",
     "d": "The violence",
     "w": "“Ich mag keine Filme, in denen Gewalt vorkommt.”"
+  },
+  "lang_diegewerkschaft": {
+    "t": "die Gewerkschaft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The union",
+    "w": "“Die Gewerkschaft vertritt die Interessen der Arbeitnehmer.”"
+  },
+  "lang_dasgewicht": {
+    "t": "das Gewicht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The weight",
+    "w": "“Wie teuer ist das Päckchen? – Das hängt vom Gewicht ab.”"
+  },
+  "lang_gewinnen": {
+    "t": "gewinnen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Win",
+    "w": "“Ich möchte so gern einmal im Lotto gewinnen.”"
+  },
+  "lang_dergewinn": {
+    "t": "der Gewinn",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The profit",
+    "w": "“Ich habe bei einem Ratespiel mitge macht. Der Hauptgewinn ist ein Auto.”"
   }
 }
