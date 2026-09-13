@@ -686,5 +686,37 @@
     "lang": "de-DE",
     "d": "Pour",
     "w": "“Es hat nicht geregnet. Ich muss meine Blumen gießen. Vorsicht, das Gift dieser Pflanze ist für Menschen gefährlich! Vorsicht, das ist giftig! Ich spiele seit drei Jahren Gitarre. Zum Dessert gibt es Schokoladenglace.”"
+  },
+  "lang_dasglas": {
+    "t": "das Glas",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The glass",
+    "w": "“Vorsicht, die Kanne ist aus Glas!”"
+  },
+  "lang_glatt": {
+    "t": "glatt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Smooth",
+    "w": "“Fahr vorsichtig! Es ist glatt.”"
+  },
+  "lang_glauben": {
+    "t": "glauben",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Believe",
+    "w": "“Ich glaube, der Chef ist heute nicht im Büro.”"
+  },
+  "lang_gleich": {
+    "t": "gleich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Same",
+    "w": "“Ich komme gleich.”"
   }
 }
