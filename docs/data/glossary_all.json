@@ -718,5 +718,37 @@
     "lang": "de-DE",
     "d": "Same",
     "w": "“Ich komme gleich.”"
+  },
+  "lang_gleichfalls": {
+    "t": "gleichfalls",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Likewise",
+    "w": "“Schöne Feiertage! – Danke, gleichfalls.”"
+  },
+  "lang_gleichberechtigt": {
+    "t": "gleichberechtigt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Equal",
+    "w": "“Mann und Frau sind gleichberechtigt.”"
+  },
+  "lang_gleichzeitig": {
+    "t": "gleichzeitig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "At the same time",
+    "w": "“Ich kann nicht alles gleichzeitig machen.”"
+  },
+  "lang_dasgleis": {
+    "t": "das Gleis",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The track",
+    "w": "“Der Zug fährt heute von Gleis 7 ab.”"
   }
 }
