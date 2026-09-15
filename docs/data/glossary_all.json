@@ -750,5 +750,37 @@
     "lang": "de-DE",
     "d": "The track",
     "w": "“Der Zug fährt heute von Gleis 7 ab.”"
+  },
+  "lang_dasglück": {
+    "t": "das Glück",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The happiness",
+    "w": "“Du hast dich nicht verletzt. Da hast du Glück gehabt.”"
+  },
+  "lang_glücklich": {
+    "t": "glücklich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Happy",
+    "w": "“Meine Schwester hat geheiratet und ist sehr glücklich.”"
+  },
+  "lang_derglückwunsch": {
+    "t": "der Glückwunsch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The congratulations",
+    "w": "“Herzlichen Glückwunsch zum Geburtstag!”"
+  },
+  "lang_dasgoldgolf": {
+    "t": "das Gold Golf",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The gold golf",
+    "w": "“Ist der Ring aus Gold? Nein, der sieht nur so aus. Kannst du Golf spielen?”"
   }
 }

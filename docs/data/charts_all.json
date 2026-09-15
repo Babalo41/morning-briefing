@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "26° is the high point this week in Bremen",
+    "title": "27° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "09-14",
       "09-15",
       "09-16",
       "09-17",
       "09-18",
       "09-19",
-      "09-20"
+      "09-20",
+      "09-21"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            20.6
+            26.8
           ],
           [
             1,
-            25.6
+            20.4
           ],
           [
             2,
-            20.3
-          ],
-          [
-            3,
-            17.8
-          ],
-          [
-            4,
-            18.8
-          ],
-          [
-            5,
             17.4
           ],
           [
+            3,
+            17.9
+          ],
+          [
+            4,
+            16.3
+          ],
+          [
+            5,
+            18.4
+          ],
+          [
             6,
-            17.0
+            17.9
           ]
         ]
       }
@@ -59,59 +59,59 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 83% this week in Bremen",
+    "title": "Rain chances peak at 95% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
-        "k": "09-14",
-        "v": 0,
-        "lab": "0%",
-        "hero": false,
-        "tip": "21°C, Overcast"
-      },
-      {
         "k": "09-15",
-        "v": 83,
-        "lab": "83%",
-        "hero": true,
-        "tip": "26°C, Light rain"
+        "v": 55,
+        "lab": "55%",
+        "hero": false,
+        "tip": "27°C, Overcast"
       },
       {
         "k": "09-16",
-        "v": 70,
-        "lab": "70%",
+        "v": 88,
+        "lab": "88%",
         "hero": false,
-        "tip": "20°C, Rain showers"
+        "tip": "20°C, Thunderstorm"
       },
       {
         "k": "09-17",
-        "v": 62,
-        "lab": "62%",
-        "hero": false,
-        "tip": "18°C, Light rain"
+        "v": 95,
+        "lab": "95%",
+        "hero": true,
+        "tip": "17°C, Light rain"
       },
       {
         "k": "09-18",
-        "v": 73,
-        "lab": "73%",
+        "v": 76,
+        "lab": "76%",
         "hero": false,
-        "tip": "19°C, Overcast"
+        "tip": "18°C, Overcast"
       },
       {
         "k": "09-19",
-        "v": 32,
-        "lab": "32%",
+        "v": 38,
+        "lab": "38%",
         "hero": false,
-        "tip": "17°C, Light rain"
+        "tip": "16°C, Light rain"
       },
       {
         "k": "09-20",
-        "v": 35,
-        "lab": "35%",
+        "v": 42,
+        "lab": "42%",
         "hero": false,
-        "tip": "17°C, Light rain"
+        "tip": "18°C, Overcast"
+      },
+      {
+        "k": "09-21",
+        "v": 10,
+        "lab": "10%",
+        "hero": false,
+        "tip": "18°C, Overcast"
       }
     ]
   },
