@@ -782,5 +782,37 @@
     "lang": "de-DE",
     "d": "The gold golf",
     "w": "“Ist der Ring aus Gold? Nein, der sieht nur so aus. Kannst du Golf spielen?”"
+  },
+  "lang_dergott": {
+    "t": "der Gott",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The god",
+    "w": "“Glaubst du an Gott?”"
+  },
+  "lang_diegrafik": {
+    "t": "die Grafik",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The graphic",
+    "w": "“Die Grafik zeigt die Temperaturen im letzten Jahr.”"
+  },
+  "lang_dasgras": {
+    "t": "das Gras",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The grass",
+    "w": "“Wir lagen den ganzen Tag im Gras.”"
+  },
+  "lang_gratulieren": {
+    "t": "gratulieren",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Congratulate",
+    "w": "“Ich gratuliere euch zur Geburt eurer Tochter.”"
   }
 }
