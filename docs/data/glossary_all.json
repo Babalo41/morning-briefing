@@ -814,5 +814,37 @@
     "lang": "de-DE",
     "d": "Congratulate",
     "w": "“Ich gratuliere euch zur Geburt eurer Tochter.”"
+  },
+  "lang_diegratulation": {
+    "t": "die Gratulation",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The congratulations",
+    "w": "“Herzliche Gratulation! Sie haben gewonnen!”"
+  },
+  "lang_gratis": {
+    "t": "gratis",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Free",
+    "w": "“Diese Reparatur kostet Sie gar nichts, wir machen das gratis für Sie.”"
+  },
+  "lang_greifen": {
+    "t": "greifen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Grab",
+    "w": "“Greifen Sie doch zu!”"
+  },
+  "lang_diegrenze": {
+    "t": "die Grenze",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The border",
+    "w": "“An der Grenze musst du deinen Ausweis zeigen.”"
   }
 }
