@@ -846,5 +846,37 @@
     "lang": "de-DE",
     "d": "The border",
     "w": "“An der Grenze musst du deinen Ausweis zeigen.”"
+  },
+  "lang_groß": {
+    "t": "groß",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Big",
+    "w": "“Wir haben einen großen Garten.”"
+  },
+  "lang_diegröße": {
+    "t": "die Größe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The size",
+    "w": "“Welche Größe haben Sie?”"
+  },
+  "lang_gründen": {
+    "t": "gründen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Establish",
+    "w": "“Frau Bauer hat eine eigene Firma gegründet.”"
+  },
+  "lang_dergrund": {
+    "t": "der Grund",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The reason",
+    "w": "“Sie haben Ihre Stelle gekündigt. Aus welchem Grund?”"
   }
 }

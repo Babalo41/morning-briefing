@@ -1,6 +1,289 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-09-17T06:00:28.649467+02:00",
+  "generated_at": "2026-09-19T06:00:21.855589+02:00",
   "editions": [
+    {
+      "id": "2026-09-19",
+      "day": "Sat",
+      "dnum": "19",
+      "mon": "Sep",
+      "date": "Saturday 19 September 2026",
+      "headline": "Briefing refreshed 06:00 Berlin time",
+      "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "4jibpqhsP63xbG/jBEdeaQA4E69AlebKBJNwDwCijtDKSL+60ejfI2DPcCpJaySMmapEn5zUbxGEYL5ND0hi9/oJuwQ8K2v83QZlqRZ+jNyZsb+HSq5YDh6UrSmKfgXcoVAxMT4wQZZY7R5iUIcys75pMSlwPDFxortgoDZYZCMaFaETI0Gk",
+          "iv": "k8Qo4BaKcijtNrkK",
+          "salt": "xm9tFQnWDKB4t6PEB/Vyvw=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "14°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 20°C",
+              "b": "Low 14°C, gusts to 45 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "daEAW/IPZireYWcAE3yXP+Il2hs97kMkXQRGCks2d18nRZ1KsK3FmlGM/DHFPZBFxkyfY+jPlslyLmpZhRMNJf2Wju5+ksZfh4TR+Ux+gPLqbDfBhkjufZ3qWQMW2Y+SfHh4xxEyu1YnCI//8nKHgl5myF2PCjdYPvfb",
+          "iv": "1Sb+YlWUHraPE94d",
+          "salt": "SGEdXEbp+56WWLc81UAHWQ=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "RXOzFHE2GIo0jjja9gsalU1u4kT+rvhzAYmOThts8kBdwTw//w7PcmQJA+cFQKX6fnoRZpJJHr3fu8CvhzkLxlwIrmtmz6+c1dfZmfwJQ/vPbHUhuFP66AmczYmFOFekKTKvxAlSBluupvhJtR4ChuxWsRBvZIIoQK7nraP23S5RSmdJKRPpObJGNE5CrHrBnBIqKR7VGM5EH0rt8XGts0kkfDDTMoI2VJjkjqY/nBSsCt1cmFCk011+M7+7ev6g+UCTYTM3HDA0vUiFIARgv4QvxHRysfR8CER6HpiZ92CKzst6sEHsXqA6eXTzgryj6wl89riW",
+          "iv": "wfeyBEOhKDL66jXF",
+          "salt": "guTcwciUQ6l0L5xXLaAwVQ=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "wKLHGpgWikY/yJA6f83VtSicbcYc8BacXQ+ylopTBMsoZQRFPjNsY4LjXeJHwUIzuwNBmYFeOqL9cNf1nvJPcG+6KYZvVyw0968g3XC5qywWTz3NFhcD9IczBVImzxLV89qZYPGvaZTa2PjW9IzL/FXIopl24hsKnOw8QW4ObnEiFxlZJs460kp4m8q+SewdnH6YWzunZRRRCLd9",
+          "iv": "VSF13GEspTzn6FU9",
+          "salt": "EtnpVkiYkhcW3wmXKdQOHw=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            },
+            {
+              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "A5ENMU Bond Yield and Price Chart - TradingView",
+              "b": "A5ENMU Bond Yield and Price Chart  TradingView",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuazd5ajByYm9JSzd1UkNqZHJ6N3g2LTcwQ0M1YjJLeEM3bFZsZmxiNFZHMFp5Nmc2cmV6MjI5Z0pvNUpkU2tfMDA3UG1VeEtjcl9jZVZybmtvdEk?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders - coe.int",
+              "b": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders  coe.int",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVU5lWm1hNmRpVGlQOTF6NkNTUmNyTFZLa2tmZ3BHeG1FUGxNRHRTYVlhSFhjU3hHdlR5RHV2RmNSaGFncmpobGNyNFg3bVhfRHVqRUI1UWk5Z19UNTJpSWIxZ2Z2SlZ6YlU2RmI2SHViNzZhMTk0dGRIbjl2QnFmOEtublVPd2VhSXBkbEhWbEhXbzcxSDZMVnVoSlNudm5ZZmRrOXdXZm9OSGxVUnRuMldBNkpmbGZHQndiZ0F1T2ZWU3BmYkwzOVJFUERCREhfSE5jWDdja2NhbTZ3T25haGtNU3g1ejVnVFFIaWthVHRhTGU2dXprQXhxYzRWV3ZPNkZwUkpFbFpxck1xR2xZb1FMMlR0Uy04eHAwUWp0U2RYYW9KODcwZHBVTmhNcExZRU5zYUN3?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+              "b": "Werder Bremen - Hoffenheim  Flashscore.com",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head - BBC",
+              "b": "Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head  BBC",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53T2RYS3ZDbUQzckpKTGFVakdnc1FQcXFQOTBsQlNRZ3NQQlRNemhZeklHYkNURG5XQk96bFRRWlZicGI4X0lKZndXMW9sSF9CSUhscll0T0UwRVY4UWxDSW5mSQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Weserstars Bremen - Elite Prospects",
+              "b": "Weserstars Bremen  Elite Prospects",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeXRzYUVRYXI3Y3VNNjVPTEttVm5ud3B2UW1HS0RJQnJ2ZTdKVm9nSW03dXhKNzdNb1E0S253UFR0d0NRQTNLSlVjQTJLMnYweGVPTUpaUUNYc0lWRU9jQ0c0YW5UMkV4eHc?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            },
+            {
+              "t": "Bremen, Germany Air Quality & Pollen - Weather Underground",
+              "b": "Bremen, Germany Air Quality & Pollen  Weather Underground",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0EzekZmeWZwNjBGdXQwYXhRMXpGZGxfMm5hblpkTlA3WGlWOTJjVlMyZ05xU1NBamZzNE54RG9udWJUSmVmZmRuOVd3NWthLXhLYjFmY2ptTVRUZ1RUUTNBTlJGdk9IS0lWZXFjY1pjV1pFX1J2c2VrOUcyel9Ob2pn?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Saxony tops education ranking in Germany, Bremen comes last - UA.NEWS",
+              "b": "Saxony tops education ranking in Germany, Bremen comes last  UA.NEWS",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDQwYU11MU1wdmJCMlhjeWl3NFJxRVhfejVwaVd4WG96QW1YaTJ2UEZLdk04V1BfNUF1QktmV0hqUWJWSUZpS0lVRmEyY1hXdUoxemVkVnJqNFRhSU94dE53dWZlSTVuWFo1OUlRZWEzcUd3ZlpLdHpNcmc5NHJHOHdzRjVnWGt6bWJIaVVJVUUtUQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "📌 Werder Bremen Hoffenheim",
+              "b": "Werder Bremen - Hoffenheim  Flashscore.com Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head  BBC",
+              "src": "insight",
+              "u": null
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "groß",
+              "b": "<span class=\"jt\" data-g=\"lang_groß\">groß</span> — big",
+              "src": "Goethe B1 · p.47"
+            },
+            {
+              "t": "die Größe",
+              "b": "<span class=\"jt\" data-g=\"lang_diegröße\">die Größe</span> — the size <span class=\"gram\">(plural: -n)</span>",
+              "src": "Goethe B1 · p.47"
+            },
+            {
+              "t": "gründen",
+              "b": "<span class=\"jt\" data-g=\"lang_gründen\">gründen</span> — establish <span class=\"gram\">(gründet · gründete · hat gegründet)</span>",
+              "src": "Goethe B1 · p.47"
+            },
+            {
+              "t": "der Grund",
+              "b": "<span class=\"jt\" data-g=\"lang_dergrund\">der Grund</span> — the reason <span class=\"gram\">(plural: ¨-e)</span>",
+              "src": "Goethe B1 · p.47"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-17",
       "day": "Thu",
@@ -6472,22 +6755,54 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The border",
       "w": "“An der Grenze musst du deinen Ausweis zeigen.”"
+    },
+    "lang_groß": {
+      "t": "groß",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Big",
+      "w": "“Wir haben einen großen Garten.”"
+    },
+    "lang_diegröße": {
+      "t": "die Größe",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The size",
+      "w": "“Welche Größe haben Sie?”"
+    },
+    "lang_gründen": {
+      "t": "gründen",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Establish",
+      "w": "“Frau Bauer hat eine eigene Firma gegründet.”"
+    },
+    "lang_dergrund": {
+      "t": "der Grund",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The reason",
+      "w": "“Sie haben Ihre Stelle gekündigt. Aus welchem Grund?”"
     }
   },
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "19° is the high point this week in Bremen",
+      "title": "22° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "09-17",
-        "09-18",
         "09-19",
         "09-20",
         "09-21",
         "09-22",
-        "09-23"
+        "09-23",
+        "09-24",
+        "09-25"
       ],
       "yticks": [
         0,
@@ -6503,11 +6818,11 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              17.9
+              19.7
             ],
             [
               1,
-              18.5
+              18.3
             ],
             [
               2,
@@ -6515,19 +6830,19 @@ window.EDITION_DATA = {
             ],
             [
               3,
-              18.5
+              18.0
             ],
             [
               4,
-              17.5
+              19.3
             ],
             [
               5,
-              18.2
+              21.7
             ],
             [
               6,
-              19.2
+              18.6
             ]
           ]
         }
@@ -6535,59 +6850,59 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 90% this week in Bremen",
+      "title": "Rain chances peak at 63% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "09-17",
-          "v": 90,
-          "lab": "90%",
-          "hero": true,
-          "tip": "18°C, Light rain"
-        },
-        {
-          "k": "09-18",
-          "v": 33,
-          "lab": "33%",
-          "hero": false,
-          "tip": "18°C, Overcast"
-        },
-        {
           "k": "09-19",
-          "v": 33,
-          "lab": "33%",
-          "hero": false,
-          "tip": "18°C, Light rain"
+          "v": 63,
+          "lab": "63%",
+          "hero": true,
+          "tip": "20°C, Light rain"
         },
         {
           "k": "09-20",
-          "v": 78,
-          "lab": "78%",
+          "v": 43,
+          "lab": "43%",
           "hero": false,
           "tip": "18°C, Rain showers"
         },
         {
           "k": "09-21",
-          "v": 5,
-          "lab": "5%",
+          "v": 8,
+          "lab": "8%",
           "hero": false,
           "tip": "18°C, Overcast"
         },
         {
           "k": "09-22",
-          "v": 3,
-          "lab": "3%",
+          "v": 0,
+          "lab": "0%",
           "hero": false,
           "tip": "18°C, Overcast"
         },
         {
           "k": "09-23",
-          "v": 18,
-          "lab": "18%",
+          "v": 34,
+          "lab": "34%",
           "hero": false,
           "tip": "19°C, Overcast"
+        },
+        {
+          "k": "09-24",
+          "v": 36,
+          "lab": "36%",
+          "hero": false,
+          "tip": "22°C, Overcast"
+        },
+        {
+          "k": "09-25",
+          "v": 9,
+          "lab": "9%",
+          "hero": false,
+          "tip": "19°C, Light rain"
         }
       ]
     },
@@ -6613,7 +6928,7 @@ window.EDITION_DATA = {
         {
           "from": "tag_bremen",
           "to": "src_bremen_germany_google_news",
-          "v": 5
+          "v": 7
         }
       ]
     }
@@ -6660,6 +6975,16 @@ window.EDITION_DATA = {
           "t": "Two hundred princely states",
           "key": "Before 1947, Saurashtra was not one place but hundreds.",
           "b": "<p>Under the British, the peninsula was not a province. It was the <span class=\"jt\" data-g=\"kathiawar\">Kathiawar</span> Agency: over two hundred princely states, from substantial kingdoms with their own railways and ports down to estates of a few villages, each with a treaty relationship to the Crown and internal autonomy.</p> <p>Bhavnagar was among the largest and most reform-minded — it built one of India's earliest state railways and developed its port heavily. Porbandar, on the west coast, was a maritime trading state; in 1869 a boy was born there to the state's diwan, and named Mohandas Karamchand Gandhi.</p> <p>This fragmentation is why the region's dialects, dress and cuisine vary so sharply over short distances. Rulers competed in temple-building, schooling and civic works, and a great deal of what looks like ancient tradition is in fact 19th-century princely patronage.</p>\n"
+        },
+        {
+          "t": "1947: the state that voted",
+          "key": "Junagadh's ruler chose Pakistan. The people were asked, and chose otherwise.",
+          "b": "<p>At independence the princely states had to accede to India or Pakistan. Junagadh's Nawab, ruling a Hindu-majority state with no land border with Pakistan, acceded to Pakistan in August 1947.</p> <p>The decision collapsed. Neighbouring states objected, an alternative provisional government formed, administration broke down, and the Nawab left for Karachi. Indian forces moved in, and in February 1948 a plebiscite was held: the vote for India was overwhelming, reported at over 99 per cent.</p> <p>The princely states were then merged into a new Saurashtra State in 1948, with Rajkot as its capital. That state was absorbed into Bombay State in 1956, and when Bombay was split on linguistic lines in 1960, Saurashtra became part of the new state of Gujarat — where it remains.</p> <p class=\"rem\"><b>Worth holding onto</b>Junagadh is one of the very few accession disputes settled by an actual popular vote, which is why it still gets cited in arguments about Kashmir.</p>\n"
+        },
+        {
+          "t": "The last lions on earth",
+          "key": "Every wild Asiatic lion alive is descended from a Saurashtra population that fell to a few dozen.",
+          "b": "<p>Lions once ranged from Greece through Mesopotamia to eastern India. By the late 19th century hunting had reduced the Asiatic lion to a single population in the Gir forest of Saurashtra, at one point down to a few dozen animals — saved largely because the Nawab of Junagadh banned hunting them on his land.</p> <p>The recovery has been remarkable. The 16th census in 2025 counted 891 lions in Gujarat, up from 674 five years earlier — a rise of about 32 per cent. But the striking finding is distribution: the majority now live <i>outside</i> the protected areas, in farmland, coastal scrub and near villages across the peninsula.</p> <p>That success creates its own problem. A single population in one region is one epidemic or one cyclone away from catastrophe — a canine distemper outbreak killed lions here in 2018 — and coexistence with farmers is now the central management question rather than poaching.</p>\n"
         }
       ]
     },
@@ -6672,6 +6997,16 @@ window.EDITION_DATA = {
           "t": "The base rate is what everyone forgets",
           "key": "A 99% accurate test for a rare condition is wrong most of the time it says yes.",
           "b": "<p>Take a disease that one person in 10,000 has, and a test that is 99% accurate in both directions. You test positive. What is the chance you have it?</p> <p>Most people say 99%. The real answer is about 1%.</p> <p>Work it through with 10,000 people. One actually has the disease, and the test almost certainly catches them: 1 true positive. The other 9,999 do not — but the test is wrong 1% of the time, so it flags about 100 of them anyway. You now have 101 positive results and only one of them is real. Your odds are 1 in 101.</p> <p>Nothing about the test is bad. The <span class=\"jt\" data-g=\"baserate\">base rate</span> is simply so low that false positives swamp true ones. This is why screening the whole population for rare things causes so much harm, and why doctors re-test rather than acting on one result.</p> <p>The same arithmetic runs through your working life. If an automated test suite has a 2% flake rate and genuine regressions are rare, then most red builds are noise — and a team that treats every failure as real will burn itself out, while a team that ignores them all will eventually ship the one that mattered. The fix in both medicine and testing is identical: confirm before you act.</p> <p class=\"rem\"><b>Worth holding onto</b>Whenever someone quotes an accuracy figure, ask \"out of how many, and how common is the thing?\" Accuracy without a base rate is not information.</p>\n"
+        },
+        {
+          "t": "\"Average\" is the most misleading word in English",
+          "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
+          "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
+        },
+        {
+          "t": "Correlation, causation, and the third thing hiding behind both",
+          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
+          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
         }
       ]
     },
@@ -6764,6 +7099,16 @@ window.EDITION_DATA = {
           "t": "How life is filed",
           "key": "Every organism has a two-word name, and the names change as DNA rewrites the tree.",
           "b": "<p>The hierarchy runs Domain -&gt; Kingdom -&gt; Phylum -&gt; Class -&gt; Order -&gt; Family -&gt; Genus -&gt; Species. Bread wheat is Eukarya -&gt; Plantae -&gt; Angiosperms -&gt; Monocots -&gt; Poales -&gt; Poaceae -&gt; <i>Triticum</i> -&gt; <i>aestivum</i>.</p> <p>Linnaeus's binomial system gives each species a genus name and a species epithet, italicised, genus capitalised: <i>Panthera leo</i>. It works because it is universal — <i>Ocimum tenuiflorum</i> means the same plant to a botanist in Bremen and one in Bhavnagar, where \"tulsi\" and \"holy basil\" would not.</p> <p>A species is usually defined as a group that interbreeds and produces fertile offspring, which is why a horse and a donkey are separate species: the mule is sterile. The definition breaks down for organisms that reproduce asexually, and for fossils.</p> <p>Names change because classification now follows ancestry rather than appearance. DNA sequencing has repeatedly shown that things which look alike are unrelated, and things which look nothing alike are cousins — birds sit inside the dinosaurs, and fungi are closer to animals than to plants.</p>\n"
+        },
+        {
+          "t": "The cell that swallowed another cell",
+          "key": "Your mitochondria used to be free-living bacteria. So did every chloroplast.",
+          "b": "<p>Two membranes separate the living world. Prokaryotes — bacteria and archaea — have no nucleus. Eukaryotes — everything else, including you and every plant — package their DNA in one.</p> <p>The best explanation for how eukaryotes arose is <span class=\"jt\" data-g=\"endosymbiosis\">endosymbiosis</span>: roughly two billion years ago one cell engulfed another and, instead of digesting it, kept it. The swallowed bacterium became the mitochondrion. Later, a similar event with a photosynthetic cyanobacterium produced the chloroplast, and with it every plant and alga on earth.</p> <p>The evidence is hard to argue with. Mitochondria and chloroplasts have their own circular DNA, of bacterial type. They have double membranes, as you would expect from being engulfed. They divide by splitting, on their own schedule, not by being manufactured by the cell. And their ribosomes are bacterial — which is precisely why some antibiotics have side effects in humans.</p> <p class=\"rem\"><b>Worth holding onto</b>You inherit mitochondrial DNA only from your mother. It never recombines, so it mutates at a steady rate — which is how \"mitochondrial Eve\" and most deep human migration maps were reconstructed.</p>\n"
+        },
+        {
+          "t": "Inheritance in one page",
+          "key": "DNA is an instruction tape; genes are the sentences; proteins do the work.",
+          "b": "<p>DNA is a four-letter code — A, T, G, C — paired in a double helix, A always with T and G always with C. That pairing is why it can be copied: split the helix and each strand specifies the other.</p> <p>The flow is DNA -&gt; RNA -&gt; protein. A gene is transcribed into messenger RNA, which is read three letters at a time; each triplet specifies one amino acid, and the chain of amino acids folds into a protein. Proteins are the machinery — enzymes, structure, signals.</p> <p>You carry two copies of most genes, one from each parent. Different versions are alleles. A dominant allele shows its effect with one copy; a recessive one needs both. Mendel worked this out from pea plants in a monastery garden in the 1860s, counting thousands of offspring, and his paper sat essentially ignored for thirty-five years.</p> <p>Most traits are not one gene. Height and skin colour involve many genes plus environment, which is why they vary continuously rather than falling into neat categories.</p>\n"
         }
       ]
     },
@@ -6796,6 +7141,16 @@ window.EDITION_DATA = {
           "t": "Fire, in the right order",
           "key": "Fires fail from impatience — jumping to big fuel before the small stuff is burning.",
           "b": "<p>Fire needs three things at once: fuel, oxygen and heat. Remove any one and it stops — which is also how you put one out.</p> <p>Prepare all three sizes of material <i>before</i> striking anything, and prepare more than you think you need:</p> <p><b>Tinder</b> catches a spark — birch bark, dry grass, cotton wool, char cloth, resinous shavings.<br> <b>Kindling</b> — twigs from matchstick to finger thickness.<br> <b>Fuel</b> — wrist thickness and up.</p> <p>Build so air can move through: a teepee or lean-to over the tinder. A pile pressed flat suffocates. Light from the upwind side, and feed it gradually — the commonest failure is dumping a log on a flame that is not established.</p> <p>In wet conditions, standing dead wood is drier than anything on the ground, and the inside of a split branch is dry even when the outside is soaked. Always lay a platform of sticks under the fire so it is not sitting on wet earth or snow.</p> <p class=\"rem warn\"><b>Safety</b>Never burn anything inside an enclosed space without ventilation. Carbon monoxide is odourless, and it kills people in tents, cars and closed rooms every winter.</p>\n"
+        },
+        {
+          "t": "Lost: stop moving",
+          "key": "STOP — Stop, Think, Observe, Plan. Most people who die lost, died walking.",
+          "b": "<p>The instinct on realising you are lost is to keep going and hope the ground becomes familiar. It is almost always wrong. Walking spreads your possible locations over a wider and wider area, which is exactly what makes searchers fail.</p> <p><b>S</b>top — sit down. Do not take another step for a few minutes.<br> <b>T</b>hink — when were you last certain of your position? What have you got?<br> <b>O</b>bserve — weather, light left, terrain, water, your own condition.<br> <b>P</b>lan — and only then move, if moving is genuinely better than staying.</p> <p>If anyone knows roughly where you were going, staying put is usually correct. A stationary person in an open place with a signal is far easier to find than a moving one under trees.</p> <p><b>Signalling</b> follows the rule of three: three whistle blasts, three fires in a triangle, three of anything means distress. A whistle carries much further than a voice and costs almost no energy — a shout exhausts you in minutes. A mirror flash is visible for kilometres.</p> <p>Downhill and downstream generally leads to people, since settlements follow water. That is a tendency, not a guarantee — in mountains it can lead into a gorge you cannot climb out of.</p>\n"
+        },
+        {
+          "t": "Bleeding and breathing",
+          "key": "The two things that kill in minutes, and the two you can actually fix.",
+          "b": "<p><b>Severe bleeding.</b> Press hard, directly on the wound, with whatever you have, and do not let go to peek. If blood soaks through, add material on top rather than removing it. If direct pressure fails on a limb, a tourniquet goes <b>high and tight</b> above the wound, tightened until the bleeding stops — it will hurt. Write down the time. A tourniquet correctly applied saves a life; hesitation is what costs limbs, not the tourniquet.</p> <p><b>Not breathing.</b> Check responsiveness and breathing. If they are breathing but unconscious, roll them into the recovery position on their side so the tongue and vomit cannot block the airway. If they are not breathing normally, start chest compressions: centre of the chest, hard, about 5-6 cm deep, at 100-120 per minute — the tempo of \"Stayin' Alive\". Push fast, let the chest come all the way back up, and do not stop until help takes over.</p> <p><b>Choking.</b> Encourage coughing. If they cannot, five sharp back blows between the shoulder blades, then five abdominal thrusts, alternating.</p> <p class=\"rem warn\"><b>Read this as orientation, not training</b>These are the principles, not a substitute for a hands-on first aid course — and in Germany, an Erste-Hilfe-Kurs is a cheap half-day and is required for your driving licence anyway. Emergency number across the EU is <b>112</b>.</p>\n"
         }
       ]
     }
