@@ -878,5 +878,37 @@
     "lang": "de-DE",
     "d": "The reason",
     "w": "“Sie haben Ihre Stelle gekündigt. Aus welchem Grund?”"
+  },
+  "lang_gründlich": {
+    "t": "gründlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Thoroughly",
+    "w": "“Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt.”"
+  },
+  "lang_dasgrundstück": {
+    "t": "das Grundstück",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The property",
+    "w": "“Wir wollen ein Haus bauen und suchen ein günstiges Grundstück.”"
+  },
+  "lang_diegruppe": {
+    "t": "die Gruppe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The group",
+    "w": "“Für Gruppen gibt es eine Ermäßigung.”"
+  },
+  "lang_grüßen": {
+    "t": "grüßen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Greet",
+    "w": "“Wer war die Frau, die du eben gegrüßt hast?”"
   }
 }
