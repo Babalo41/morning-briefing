@@ -910,5 +910,37 @@
     "lang": "de-DE",
     "d": "Greet",
     "w": "“Wer war die Frau, die du eben gegrüßt hast?”"
+  },
+  "lang_dergruß": {
+    "t": "der Gruß",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The greeting",
+    "w": "“Schönen Gruß an Ihren Mann.”"
+  },
+  "lang_gucken": {
+    "t": "gucken",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Look",
+    "w": "“Guck doch mal! Es schneit.”"
+  },
+  "lang_gültig": {
+    "t": "gültig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Valid",
+    "w": "“Mein Pass ist nur noch zwei Monate gültig.”"
+  },
+  "lang_günstig": {
+    "t": "günstig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Cheap",
+    "w": "“Ich suche eine günstige Ferienwohnung.”"
   }
 }
