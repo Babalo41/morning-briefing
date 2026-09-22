@@ -942,5 +942,37 @@
     "lang": "de-DE",
     "d": "Cheap",
     "w": "“Ich suche eine günstige Ferienwohnung.”"
+  },
+  "lang_gut": {
+    "t": "gut",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Good",
+    "w": "“Ich kenne ein gutes Lokal.”"
+  },
+  "lang_diegymnastik": {
+    "t": "die Gymnastik",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The gymnastics",
+    "w": "“Ich mache jeden Morgen Gymnastik.”"
+  },
+  "lang_dashaar": {
+    "t": "das Haar",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hair",
+    "w": "“Meine Freundin hat langes schwarzes Haar.”"
+  },
+  "lang_haben": {
+    "t": "haben",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Have",
+    "w": "“Wir haben Hunger.”"
   }
 }
