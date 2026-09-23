@@ -974,5 +974,37 @@
     "lang": "de-DE",
     "d": "Have",
     "w": "“Wir haben Hunger.”"
+  },
+  "lang_dashackfleischd": {
+    "t": "das Hackfleisch (D",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The minced meat (D",
+    "w": "“Geben Sie mir bitte 500g Hackfleisch.”"
+  },
+  "lang_derhafen": {
+    "t": "der Hafen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The port",
+    "w": "“Wenn du in Hamburg bist, musst du dir unbedingt den Hafen ansehen.”"
+  },
+  "lang_hageln": {
+    "t": "hageln",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hail",
+    "w": "“Bei Gewitter kann es auch hageln.”"
+  },
+  "lang_dashähnchenhühnchen": {
+    "t": "das Hähnchen/Hühnchen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The chicken/chicken",
+    "w": "“Zum Mittagessen gibt es Hühnchen mit”"
   }
 }
