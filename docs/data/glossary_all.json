@@ -1006,5 +1006,37 @@
     "lang": "de-DE",
     "d": "The chicken/chicken",
     "w": "“Zum Mittagessen gibt es Hühnchen mit”"
+  },
+  "lang_poulet": {
+    "t": "Poulet",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Chicken",
+    "w": "Goethe-Zertifikat B1 exam vocabulary."
+  },
+  "lang_halb": {
+    "t": "halb",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Half",
+    "w": "“Treffen wir uns um halb neun?”"
+  },
+  "lang_diehalbpension": {
+    "t": "die Halbpension",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The half board",
+    "w": "“Wir möchten ein Hotel mit Halbpension.”"
+  },
+  "lang_halbtags": {
+    "t": "halbtags",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Half day",
+    "w": "“Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten. Deshalb möchte ich halbtags arbeiten.”"
   }
 }
