@@ -1038,5 +1038,37 @@
     "lang": "de-DE",
     "d": "Half day",
     "w": "“Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten. Deshalb möchte ich halbtags arbeiten.”"
+  },
+  "lang_diehälfte": {
+    "t": "die Hälfte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Half",
+    "w": "“Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.”"
+  },
+  "lang_diehalle": {
+    "t": "die Halle",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hall",
+    "w": "“Die Stadt baut eine neue Sporthalle.”"
+  },
+  "lang_dashallenbad": {
+    "t": "das Hallenbad",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The indoor swimming pool",
+    "w": "“Sie geht jeden Tag zum Schwimmen ins Hallenbad.”"
+  },
+  "lang_hallo": {
+    "t": "hallo",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hello",
+    "w": "“Hallo, wie geht’s? − Danke, gut, und dir?”"
   }
 }
