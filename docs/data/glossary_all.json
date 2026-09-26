@@ -1070,5 +1070,37 @@
     "lang": "de-DE",
     "d": "Hello",
     "w": "“Hallo, wie geht’s? − Danke, gut, und dir?”"
+  },
+  "lang_derhals": {
+    "t": "der Hals",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The neck",
+    "w": "“Mir tut der Hals weh.”"
+  },
+  "lang_halt": {
+    "t": "halt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Stop",
+    "w": "“Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen. Das ist halt so.”"
+  },
+  "lang_haltbar": {
+    "t": "haltbar",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Durable",
+    "w": "“Diese Tomaten sind mindestens 2 Wochen haltbar.”"
+  },
+  "lang_halten": {
+    "t": "halten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hold",
+    "w": "“Kannst du mal kurz meine Handtasche halten?”"
   }
 }
