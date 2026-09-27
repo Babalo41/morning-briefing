@@ -1102,5 +1102,37 @@
     "lang": "de-DE",
     "d": "Hold",
     "w": "“Kannst du mal kurz meine Handtasche halten?”"
+  },
+  "lang_derhalt": {
+    "t": "der Halt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The stop",
+    "w": "“Halt, Polizei! Fahren Sie bitte an den Straßenrand.”"
+  },
+  "lang_diehaltestelle": {
+    "t": "die Haltestelle",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The stop",
+    "w": "“An der nächsten Haltestelle müssen wir aussteigen.”"
+  },
+  "lang_derhammer": {
+    "t": "der Hammer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hammer",
+    "w": "“Ich möchte ein Bild aufhängen. Hast du einen Hammer für mich?”"
+  },
+  "lang_diehand": {
+    "t": "die Hand",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hand",
+    "w": "“Wasch dir bitte die Hände vor dem Essen.”"
   }
 }
