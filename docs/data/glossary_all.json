@@ -1134,5 +1134,37 @@
     "lang": "de-DE",
     "d": "The hand",
     "w": "“Wasch dir bitte die Hände vor dem Essen.”"
+  },
+  "lang_derhandwerker": {
+    "t": "der Handwerker",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The craftsman",
+    "w": "“Morgen sind bei uns die Handwerker.”"
+  },
+  "lang_diehandwerkerin": {
+    "t": "die Handwerkerin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The craftswoman",
+    "w": "“Wir bekommen eine neue Badewanne.”"
+  },
+  "lang_handeln": {
+    "t": "handeln",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Act",
+    "w": "“Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.”"
+  },
+  "lang_derhandel": {
+    "t": "der Handel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The trade",
+    "w": "“Der Handel mit Computern ist ein gutes Geschäft.”"
   }
 }

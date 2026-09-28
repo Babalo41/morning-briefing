@@ -1,6 +1,226 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-09-27T09:38:38.793627+02:00",
+  "generated_at": "2026-09-28T06:01:18.365650+02:00",
   "editions": [
+    {
+      "id": "2026-09-28",
+      "day": "Mon",
+      "dnum": "28",
+      "mon": "Sep",
+      "date": "Monday 28 September 2026",
+      "headline": "Briefing refreshed 06:01 Berlin time",
+      "stand": "Automatically rebuilt at 06:01 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "vM0XV1aMUjHJ7ORJYO7mfOvs6KGWnYOZyt0l/9vED6cCS22c0W1IX3gHiiQ0jG1K6s6TvQS16t7QdQXsYMSTLP2AWdr71xzJ+MIC8TVIr8JFJmbh5rycZiCQukWd0zv7L3JRRjAUeMefJHhRvyBNNAxHtB/yXD76GcFRvH7AxKyFc4uvxd0l",
+          "iv": "w9XCvgreT+1hEc2Q",
+          "salt": "HizsXs5m7vb2ovXsrA80lA=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "14°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 25°C",
+              "b": "Low 14°C, gusts to 21 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "pl0dDHv2BTR+voztkh42zzrP9KWAK9ubpN+EbIt4ITKkEGILIVzmvr6J4u/4yRYmRMrR/hNyrSXyUz95A11mJfGyxpd+ANOkygqM+p0mDjPqUBGThH+Y3ziI+xxwnoc+t3J2cxzKJGO0ALw3hTkUusUbAJz3tArjcbQd",
+          "iv": "cpjULQf7mmWHcNo4",
+          "salt": "KXDNlLftl9fzkTOttvQcnQ=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "USUouZacHv79RkE5mFsSN9IgsNMAQFCDUGeUHiC+5lQiZ4NdTFolEfN7LYJqIxEHrOB1oky3rVaoCKTPFcamP0tUGQEH+R+tYP4tE8nC/HMCJS5Ep0SlJizDU6Xz5rKUnovpIB988R02nc0DLzEPIg3F8ADisH4lZjcQ204aMwJmztrLfpFaVDcyV4kK0GxVlyq/9sUHZmPR2i5ZBZ9zJ1FuK8dWH1l3y8HibNepiAG5OHM0WdCVUjlfmc8dQ3zPWKJJnxYM+SwuEe/Z3A0YXA1NBefyQXX9H0crmHo3bz81QVReFbLIJBjXjm15itYVRVbd7lv3",
+          "iv": "3lP/lwGcSkdDyxQK",
+          "salt": "M+xMMsiLHXCNUUWtK7+Wvw=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "/FYVdkVzExLZDm7OvwdDckSeblzscVVJrJmTORvjE1j/QvDJyrme2aSMD91TrGiSAjAvsScGoeixPAMEV5vOmJry1vJgOBWUqQG2cLcwtLmdOjS4CBeQmHtI38L0PXoXd+4KoLD9sSCa0i0npHm3H6zt/6NfOQTDrCdj5sBjEO9g0GjSLDNXf/WEm/DOOk29Zvibiw+Oiggr91q4",
+          "iv": "6130Gp8KmmmEamyJ",
+          "salt": "IdMffRT6YZHVUZAPU+kEWg=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            },
+            {
+              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            }
+          ]
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "der Handwerker",
+              "b": "<span class=\"jt\" data-g=\"lang_derhandwerker\">der Handwerker</span> — the craftsman <span class=\"gram\">(plural: -)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "die Handwerkerin",
+              "b": "<span class=\"jt\" data-g=\"lang_diehandwerkerin\">die Handwerkerin</span> — the craftswoman <span class=\"gram\">(plural: -nen)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "handeln",
+              "b": "<span class=\"jt\" data-g=\"lang_handeln\">handeln</span> — act <span class=\"gram\">(handelt · handelte · hat gehandelt)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "der Handel",
+              "b": "<span class=\"jt\" data-g=\"lang_derhandel\">der Handel</span> — the trade",
+              "src": "Goethe B1 · p.48"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-27",
       "day": "Sun",
@@ -7504,376 +7724,6 @@ window.EDITION_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "2026-08-27",
-      "day": "Thu",
-      "dnum": "27",
-      "mon": "Aug",
-      "date": "Thursday 27 August 2026",
-      "headline": "Briefing refreshed 23:20 Berlin time",
-      "stand": "Automatically rebuilt at 23:20 — 11 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "uF6HrdxqeKLXrNTN1zOOZ5h/IUGC2WMG015ni2215FguQsldYhS0RZYg7Q4RH8mE1RdFXtQy3hULBTRW9jdEoy/+KnStTnTPoxweCwf0/LpSouw8TMj6usShTfkwnXJ7B61e9viCj7zK25+cSv/q2+IPWeJ7ig2gf5gKGJo+xrS/qAxWCFKH",
-          "iv": "y52yQlUlgpDryWVE",
-          "salt": "ekrol2R5sJdKPkpTaK/5ng=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "26°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: overcast, high 29°C",
-              "b": "Low 16°C, gusts to 44 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "gENmU0WmnjpcJzy/ESI3PI2psmoPzZYK3Yfgw7/gHxU+MVDaBXcDmNleCeBavp4JUBXwjQw7ZEqOGAlfJ5ZWBlSf2h1mRUxFXXr5z6ykB8cTKW09yxMsnaj99Mdq/8F/Nq8J9cCXHKjK154Csc4JMLan5lDqD8lqL3Ne",
-          "iv": "0jiBV/RA3RpWA5w1",
-          "salt": "HmDNRT35SZQNzjIPEpSjkg=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "zRhWvs78+I1jdfJ1ITxaGh26R72rPRccu6z6KUl3WAPRUGN3x3n2F0+OEyVZQ79xo1Jv4WfNGhKc8HKWmZi2jIALIT+iDUTnUJuufdoN3SqleiM+wZvqB0iAPci0ciB3hS1RyOUwmWp/HiQkPF5WwT2DjnED3N0c3XUl7e2yaK4ojsWuniSZ4vQH2PCtMDEqKLHUH7/YhMX1CpQIBCOu1H69RpffsTM/TxuRRCDAOY8+E7+5IobIFuHDljmYZW58siRch07YO93ROvcKE7AEowtjgXv9Ye3RuR5cDekGEy5ULLcpCK4Gt1TKBnzki2ubzZKhHr5H",
-          "iv": "Po8DTHbMoxNuhI0S",
-          "salt": "s5KG0U+bFdSTNxB2DzwO0g=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "How do you handle manual testing + test automation at the same time?",
-              "b": "In my previous company, manual and automation teams are separate. My lead made sure that would be the case, and I was part of the automation team. However, I heard that it’s now expected for a tester to be both. So in my current company, I tried to do that. I am burnt out. I don’t know how to proper",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w038z0/how_do_you_handle_manual_testing_test_automation/"
-            },
-            {
-              "t": "Is Automation Testing a Good Career for a Fresher in India?",
-              "b": "&#x200B; I’m a fresher who has received an offer for a Verification & Validation (V&V) Test Engineer / Automation Testing role at a service-based company. During training, I was taught Java, Selenium, TestNG, Cucumber/BDD, Jenkins, Git, SQL, JIRA, and SonarQube. I’m not sure yet how much of this I’l",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w00h4u/is_automation_testing_a_good_career_for_a_fresher/"
-            },
-            {
-              "t": "Scrum process in your project",
-              "b": "How is the scrum process in your project? Does your project have story points equivalent to some hours? Does QA go on until the end of the sprint while the devs do get some breathing space at the end of the sprint to look into next sprint stories?    submitted by    /u/pnitish93   [link]   [comments",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzylgk/scrum_process_in_your_project/"
-            },
-            {
-              "t": "QA roles has changed",
-              "b": "Companies no longer hire team of SDETs ir QA. They hire just one that does everything along with AI and right set of tools. this person is responsible picking the right tools, setting up AI agent’s, cross team collab. Essentially you are an orchestrator. With that in mind you need to figure out how ",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzso59/qa_roles_has_changed/"
-            },
-            {
-              "t": "QA Intern to DevOps: Is Switching After 2 Months a Good Decision?",
-              "b": "I'm currently working as a QA Intern and have about 2 months of experience. The more I work in QA, the more I find myself interested in the technical side of systems: Linux, servers, networking, troubleshooting, deployments, automation, and understanding what happens behind the application. Because ",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzrobo/qa_intern_to_devops_is_switching_after_2_months_a/"
-            },
-            {
-              "t": "Looking for a website for manual testing practice",
-              "b": "I’m doing manual testing as part of my software testing course and need a real, working website where I can write test cases, test different functionalities, and report bugs. I’m not looking for a demo/practice site. Any suggestions would be really helpful!    submitted by    /u/Ok-Plastic-1578   [l",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzk8jx/looking_for_a_website_for_manual_testing_practice/"
-            },
-            {
-              "t": "Need your help negotiating for job offer SQA",
-              "b": "Hi all, a fee months ago I had asked for help cracking an SQA internship.. and I got it. The talks about making me permanent are ongoing and they are going to propose an offer to me my other colleagues told me to negotiate. I haven’t gotten the OL but I need to prepared. I don’t know what are the cu",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzj3r4/need_your_help_negotiating_for_job_offer_sqa/"
-            },
-            {
-              "t": "Performance Testing Help",
-              "b": "I’m a Performance Test Engineer at a service-based MNC with ~2 years of experience. I’ve recently been assigned a project where I’m the only performance tester, so I have to handle planning, LoadRunner scripting, execution, analysis, etc. independently. I accepted the project because I didn’t want t",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzhoh5/performance_testing_help/"
-            },
-            {
-              "t": "VETS, any advice for future QAs?",
-              "b": "Hello, I have just started my career in QA, it's my first day of school and I would like to read from you, seasoned people, what are some things you wish you knew when you started this career or if you have any useful wizards knowledge that can be helpful in this journey?    submitted by    /u/Sea-C",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vyte2x/vets_any_advice_for_future_qas/"
-            },
-            {
-              "t": "How are you using AI in your day-to-day QA/testing work? Looking for feedback on my approach",
-              "b": "Since the rise of AI, many of us have started using AI heavily in our day-to-day work, especially in tech. I assume QA/SDETs are no different. I'm working as a Senior SDET in a backend focused team. My title says Senior, but I'm currently working as an individual contributor. We don't have any front",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vysv8w/how_are_you_using_ai_in_your_daytoday_qatesting/"
-            }
-          ]
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ]
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "Unable to hit subnet from VPN",
-              "b": "This one has me pulling my hair out.  FG2600F-------------------VPN 192.168,66.1/27 | 10.250,0.10 | FG 600F------------New subnet 10.8,0.1/25 10.250,0.9  We added a network that we need access to on our vpn. -New subnet is accessible from networks that originate from the 2600F -Address object for ne",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w01gqb/unable_to_hit_subnet_from_vpn/"
-            },
-            {
-              "t": "Multicast for new product solution",
-              "b": "I have a question regarding implementing a solution to a new problem I have. I've designed and will soon be launching a new product called the DigiBall, which is the worlds first smart cue ball for billiards (see digicue dot net). The ball advertises BLE packets with ball information around 10 times",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzx6jx/multicast_for_new_product_solution/"
-            },
-            {
-              "t": "Automatic switch updates",
-              "b": "Had a discussion yesterday with IT director and others in our IT department. The IT director brought up automating switch updates so they wouldn’t have to have some one monitoring and performing the updates. Staging various locations on different evenings.  I’ve been doing networking for 30 years an",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzs367/automatic_switch_updates/"
-            },
-            {
-              "t": "Cisco ASA - Azure VPN gateway redundany",
-              "b": "Hey all, What is the recommended best practice for establishing a route-based Site-to-Site VPN connection between a single Cisco ASA and an Azure VPN Gateway when the Azure side is configured with two public IP addresses? My understanding is that Azure typically uses the tunnels in an Active-Active ",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzp2bi/cisco_asa_azure_vpn_gateway_redundany/"
-            },
-            {
-              "t": "How do we get 17 modbus address values from 1 network to another?",
-              "b": "Our munis is wanting to monitor/control 17 areas around the plant. We use modbus for our SCADA network on a 100.100.100.x network. We don't have enough 100.100.100.x addresses left to monitor 17 new sites. Our plan is to have: (17 new devices on 192.169.0.x) ->(router) -> (one device, modbus compata",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzfb0d/how_do_we_get_17_modbus_address_values_from_1/"
-            },
-            {
-              "t": "SCALANCE WUM763 Module stucks at loading when I try \"Write Startup Config\"",
-              "b": "Hello Everyone, As the title says whenever I try to change something (Doesn't matter how small the change is could be the device name or anything) the loading icon stalls and after some time it refreshes the page and the changes I made are not saved. Also another thing whenever I try to go to \"Infor",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vz6gyt/scalance_wum763_module_stucks_at_loading_when_i/"
-            },
-            {
-              "t": "storm control action shutdown - on uplinks/downlinks",
-              "b": "I'm dealing with network engineer, that insist on using storm control action shutdown on ports between switches.  Then when we get accidental looped ports from time to time, the whole network gets put down, then recovery timer is set, so it will come back up again, only to be shut down again. then t",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vz5fnf/storm_control_action_shutdown_on_uplinksdownlinks/"
-            },
-            {
-              "t": "RADIUS issues",
-              "b": "So for reference I have a freeradius server, ruckus R350 APs and On my network I have 5 VLANs, and what I want to achieve is that based on the username and password the user uses, the get thrown into a certain VLAN. I set it up everything and the the system authenticates users but it does not dynami",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyyfwe/radius_issues/"
-            },
-            {
-              "t": "PSA on syslog dedup: hashing the raw message doesn't work on most network gear",
-              "b": "Hi all, spent the last while dealing with this and figured it's worth writing up, since I've seen a few threads where people try to cut syslog volume with a dedup step and get basically nothing out of it.  The naive approach is to hash the message and drop repeats inside a time window. On applicatio",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyvxox/psa_on_syslog_dedup_hashing_the_raw_message/"
-            },
-            {
-              "t": "Rant Wednesday!",
-              "b": "It's Wednesday! Time to get that crap that's been bugging you off your chest! In the interests of spicing things up a bit around here, we're going to try out a Rant Wednesday thread for you all to vent your frustrations. Feel free to vent about vendors, co-workers, price of scotch or anything else n",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vyfh2e/rant_wednesday/"
-            }
-          ]
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "Visualice the same subtask twice.",
-              "b": "I create a task, then I create a subtask and linked with mi task, but when i do a refresh, I visualice the same subtask twice, 1 linked in the task, and other in the main. Can you help me please? I only like visualice 1 task in list and cronogram at the same time.",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Visualice-the-same-subtask-twice/qaq-p/3281480"
-            },
-            {
-              "t": "should there be separate work item types to track bugs for QA Vs. Production",
-              "b": "What is the best practice - should there be separate work item types to track bugs for QA Vs. Production?We have a discussion going back and forth with the QA team. QA team is recommending to have a separate work item type for QA bugs (called issue) and  use the \"bug\" type for production issues.",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/should-there-be-separate-work-item-types-to-track-bugs-for-QA-Vs/qaq-p/3281471"
-            },
-            {
-              "t": "Jira Timeline shows parented Tasks and Sub-tasks as top-level rows (and duplicates them)",
-              "b": "On a team-managed business project (Jira Work Management), the Timeline view is rendering  issues TWICE at the same time: once correctly nested under their real parent, and once again as a top-level row, as siblings of the project's Epics. The flat copies have no expand chevron.Every one of those 22",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Jira-Timeline-shows-parented-Tasks-and-Sub-tasks-as-top-level/qaq-p/3281464"
-            },
-            {
-              "t": "The organization's sole administrator left the company; we need to regain ownership of the site.",
-              "b": "To the Atlassian Support Team,I am reaching out to request an urgent Site Ownership Takeover for our Atlassian instance.The former primary administrator of our organization has recently departed the company without delegating site administrator privileges to anyone else. As a result, we are currentl",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/The-organization-s-sole-administrator-left-the-company-we-need/qaq-p/3281432"
-            },
-            {
-              "t": "Export Jira Board to powerpoint",
-              "b": "What is the best or easiest way to export a Jira kanban board to a Microsoft PowerPoint slide?",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Export-Jira-Board-to-powerpoint/qaq-p/3281427"
-            },
-            {
-              "t": "How can I set up an inbox for CMS forwarding in a company managed business space?",
-              "b": "It does not seem it is possible to add the CSM Inbox to a business project, but I do not see anything in the docs that says this feature is limited to Software projects.",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/How-can-I-set-up-an-inbox-for-CMS-forwarding-in-a-company/qaq-p/3281424"
-            },
-            {
-              "t": "Why is there no indication on the app when a dashboard is unavailable?",
-              "b": "I used the app for quick access to information that I need on JIRA.I read online that some things like dashboards are unavailable on the JIRA app for viewability reasons or because the gadgets aren't ready for Android devices, which is fine whatever.But why is there no indication that is what is goi",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Why-is-there-no-indication-on-the-app-when-a-dashboard-is/qaq-p/3281333"
-            },
-            {
-              "t": "Which cert to register for",
-              "b": "Hello everyone.Im looking to transition into an analyst role,and I have noticed most of the roles require Jira but im unsure which cert to opursue as theres a number. Would really appreciate your input.Thank you",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Which-cert-to-register-for/qaq-p/3281328"
-            },
-            {
-              "t": "What career opportunities are available after completing a digital marketing course?",
-              "b": "I’m exploring career options after completing a digital marketing course. What kind of roles can beginners apply for, such as SEO, PPC, social media, or content marketing? I’d also like to know which skills are most useful for getting started in this field. ",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/What-career-opportunities-are-available-after-completing-a/qaq-p/3281273"
-            },
-            {
-              "t": "Would like to assign QE contact to components",
-              "b": "Similarly to the functionality of Bugzilla, I am looking for a way to assign a QE contact to a component. I would like the QE contact field to be automatically populated when a work item is assigned the component. Does anyone have any suggestions?Thanks! ",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Would-like-to-assign-QE-contact-to-components/qaq-p/3281270"
-            }
-          ]
-        },
-        {
-          "h": "Near Home",
-          "items": [
-            {
-              "t": "Tracking: Bremen, Germany",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            },
-            {
-              "t": "Tracking: Bhavnagar, India",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            },
-            {
-              "t": "Tracking: Surat, India",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            }
-          ]
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
-              "b": "A jury is deliberating in the trial of the Massachusetts mother charged with murdering her three small children",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-              "b": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Norwegians lay flowers at palace as King Harald's condition worsens",
-              "b": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Two killed in 'domestic violence incident' at school near Berlin",
-              "b": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-              "b": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "What we should make of CIA boss's secret trip to Moscow",
-              "b": "There is nothing routine about John Ratcliffe making a secret, 10,000-mile return dash to Moscow, writes Frank Gardner.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cx2z8l8xdg2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Tracing the deadly path of the Nepal-Tibet flash flood",
-              "b": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-              "b": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Jellyfish force partial shutdown of French nuclear plant",
-              "b": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-              "b": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "der Gegenstand",
-              "b": "<span class=\"jt\" data-g=\"lang_dergegenstand\">der Gegenstand</span> — the object <span class=\"gram\">(plural: ¨-e)</span>",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "das Gegenteil",
-              "b": "<span class=\"jt\" data-g=\"lang_dasgegenteil\">das Gegenteil</span> — the opposite <span class=\"gram\">(plural: -e)</span>",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "gegenüber",
-              "b": "<span class=\"jt\" data-g=\"lang_gegenüber\">gegenüber</span> — opposite",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "das Gehalt",
-              "b": "<span class=\"jt\" data-g=\"lang_dasgehalt\">das Gehalt</span> — the salary <span class=\"gram\">(plural: ¨-er)</span>",
-              "src": "Goethe B1 · p.44"
-            }
-          ]
-        }
-      ]
     }
   ],
   "glossary": {
@@ -9012,6 +8862,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The hand",
       "w": "“Wasch dir bitte die Hände vor dem Essen.”"
+    },
+    "lang_derhandwerker": {
+      "t": "der Handwerker",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The craftsman",
+      "w": "“Morgen sind bei uns die Handwerker.”"
+    },
+    "lang_diehandwerkerin": {
+      "t": "die Handwerkerin",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The craftswoman",
+      "w": "“Wir bekommen eine neue Badewanne.”"
+    },
+    "lang_handeln": {
+      "t": "handeln",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Act",
+      "w": "“Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.”"
+    },
+    "lang_derhandel": {
+      "t": "der Handel",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The trade",
+      "w": "“Der Handel mit Computern ist ein gutes Geschäft.”"
     }
   },
   "charts": {
@@ -9021,13 +8903,13 @@ window.EDITION_DATA = {
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "09-27",
         "09-28",
         "09-29",
         "09-30",
         "10-01",
         "10-02",
-        "10-03"
+        "10-03",
+        "10-04"
       ],
       "yticks": [
         0,
@@ -9043,31 +8925,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              24.6
-            ],
-            [
-              1,
-              24.7
-            ],
-            [
-              2,
               24.8
             ],
             [
+              1,
+              24.4
+            ],
+            [
+              2,
+              24.1
+            ],
+            [
               3,
-              22.5
+              18.8
             ],
             [
               4,
-              19.5
+              19.7
             ],
             [
               5,
-              20.2
+              20.3
             ],
             [
               6,
-              20.6
+              18.1
             ]
           ]
         }
@@ -9075,59 +8957,59 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 43% this week in Bremen",
+      "title": "Rain chances peak at 71% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "09-27",
-          "v": 3,
-          "lab": "3%",
-          "hero": false,
-          "tip": "25°C, Overcast"
-        },
-        {
           "k": "09-28",
-          "v": 13,
-          "lab": "13%",
+          "v": 65,
+          "lab": "65%",
           "hero": false,
-          "tip": "25°C, Overcast"
+          "tip": "25°C, Light rain"
         },
         {
           "k": "09-29",
-          "v": 13,
-          "lab": "13%",
+          "v": 18,
+          "lab": "18%",
           "hero": false,
-          "tip": "25°C, Overcast"
+          "tip": "24°C, Rain showers"
         },
         {
           "k": "09-30",
-          "v": 2,
-          "lab": "2%",
+          "v": 3,
+          "lab": "3%",
           "hero": false,
-          "tip": "22°C, Overcast"
+          "tip": "24°C, Overcast"
         },
         {
           "k": "10-01",
-          "v": 43,
-          "lab": "43%",
+          "v": 71,
+          "lab": "71%",
           "hero": true,
-          "tip": "20°C, Light rain"
+          "tip": "19°C, Rain"
         },
         {
           "k": "10-02",
-          "v": 37,
-          "lab": "37%",
+          "v": 33,
+          "lab": "33%",
           "hero": false,
-          "tip": "20°C, Light rain"
+          "tip": "20°C, Fog"
         },
         {
           "k": "10-03",
-          "v": 11,
-          "lab": "11%",
+          "v": 8,
+          "lab": "8%",
           "hero": false,
-          "tip": "21°C, Fog"
+          "tip": "20°C, Fog"
+        },
+        {
+          "k": "10-04",
+          "v": 10,
+          "lab": "10%",
+          "hero": false,
+          "tip": "18°C, Rain showers"
         }
       ]
     },
@@ -9168,6 +9050,11 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
+        },
+        {
+          "t": "The Hanseatic League, and why Bremen still says it",
+          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
+          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     },
@@ -9210,6 +9097,11 @@ window.EDITION_DATA = {
           "t": "The last lions on earth",
           "key": "Every wild Asiatic lion alive is descended from a Saurashtra population that fell to a few dozen.",
           "b": "<p>Lions once ranged from Greece through Mesopotamia to eastern India. By the late 19th century hunting had reduced the Asiatic lion to a single population in the Gir forest of Saurashtra, at one point down to a few dozen animals — saved largely because the Nawab of Junagadh banned hunting them on his land.</p> <p>The recovery has been remarkable. The 16th census in 2025 counted 891 lions in Gujarat, up from 674 five years earlier — a rise of about 32 per cent. But the striking finding is distribution: the majority now live <i>outside</i> the protected areas, in farmland, coastal scrub and near villages across the peninsula.</p> <p>That success creates its own problem. A single population in one region is one epidemic or one cyclone away from catastrophe — a canine distemper outbreak killed lions here in 2018 — and coexistence with farmers is now the central management question rather than poaching.</p>\n"
+        },
+        {
+          "t": "Garba, bandhani, and a language 2,000 km away",
+          "key": "Some Saurashtrians migrated south centuries ago and still speak their own language.",
+          "b": "<p>The peninsula's cultural signature is dense: <span class=\"jt\" data-g=\"bandhani\">bandhani</span> tie-dye, where cloth is tied in thousands of tiny points before dyeing; heavy mirror-work embroidery; and Garba and Dandiya Raas, the circular dances performed through the nine nights of Navratri.</p> <p>Uttarayan, the kite festival in mid-January, effectively shuts Gujarat down for two days and fills the sky over every town.</p> <p>The strangest thread runs south. Centuries ago, groups of Saurashtrian silk weavers migrated to Tamil Nadu, largely settling around Madurai. Their descendants still speak Saurashtra — an Indo-Aryan language, related to Gujarati, marooned in a Dravidian-speaking region and written in Tamil script. Several hundred thousand speakers remain.</p>\n"
         }
       ]
     },
@@ -9222,6 +9114,11 @@ window.EDITION_DATA = {
           "t": "The base rate is what everyone forgets",
           "key": "A 99% accurate test for a rare condition is wrong most of the time it says yes.",
           "b": "<p>Take a disease that one person in 10,000 has, and a test that is 99% accurate in both directions. You test positive. What is the chance you have it?</p> <p>Most people say 99%. The real answer is about 1%.</p> <p>Work it through with 10,000 people. One actually has the disease, and the test almost certainly catches them: 1 true positive. The other 9,999 do not — but the test is wrong 1% of the time, so it flags about 100 of them anyway. You now have 101 positive results and only one of them is real. Your odds are 1 in 101.</p> <p>Nothing about the test is bad. The <span class=\"jt\" data-g=\"baserate\">base rate</span> is simply so low that false positives swamp true ones. This is why screening the whole population for rare things causes so much harm, and why doctors re-test rather than acting on one result.</p> <p>The same arithmetic runs through your working life. If an automated test suite has a 2% flake rate and genuine regressions are rare, then most red builds are noise — and a team that treats every failure as real will burn itself out, while a team that ignores them all will eventually ship the one that mattered. The fix in both medicine and testing is identical: confirm before you act.</p> <p class=\"rem\"><b>Worth holding onto</b>Whenever someone quotes an accuracy figure, ask \"out of how many, and how common is the thing?\" Accuracy without a base rate is not information.</p>\n"
+        },
+        {
+          "t": "\"Average\" is the most misleading word in English",
+          "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
+          "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
         }
       ]
     },
@@ -9270,6 +9167,11 @@ window.EDITION_DATA = {
           "t": "The Anmeldung is the key to everything else",
           "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
           "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
+        },
+        {
+          "t": "How German health insurance actually works",
+          "key": "It is not one system but two, and which one you are in shapes your finances for decades.",
+          "b": "<p>Germany runs statutory insurance (gesetzliche Krankenversicherung, GKV) alongside private insurance (private Krankenversicherung, PKV). Roughly nine in ten people are in the statutory system.</p> <p><b>GKV</b> charges a percentage of gross income up to a ceiling, split roughly evenly between you and your employer, plus a supplementary rate that varies by fund. The important consequence: your contribution has nothing to do with your health, age or risk. It is a solidarity system — the healthy subsidise the sick, and the well-paid subsidise everyone else.</p> <p>The feature that matters most for you personally is <b>Familienversicherung</b>. A spouse without their own significant income is covered under your membership at no additional premium. Not a discount — no extra contribution at all. For a couple where one partner has newly arrived and is not yet working, this is a substantial piece of financial machinery, and it needs to be actively applied for rather than granted automatically.</p> <p><b>PKV</b> prices by individual risk instead. It is frequently cheaper for a young, healthy, well-paid person, and it covers each person separately — a spouse and each child needs their own policy and premium. Premiums also rise with age rather than falling. Switching back to GKV later is difficult by design, and generally impossible after 55.</p> <p>You are only permitted to choose PKV if you are self-employed, a civil servant, or earning above the annual compulsory insurance threshold. Below that, GKV is not optional.</p> <p class=\"rem warn\"><b>The decision that is hard to undo</b>PKV looks attractive when you are young, single and healthy, and expensive when you are older with a family. The one-way door — the difficulty of returning to GKV — is the part people underweight, and it is the reason to think about family plans before switching, not after.</p>\n"
         }
       ]
     },
@@ -9282,6 +9184,11 @@ window.EDITION_DATA = {
           "t": "What happens when you send money to India",
           "key": "Banks do not move money across borders. They move messages, and settle up separately.",
           "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
+        },
+        {
+          "t": "Inflation is not the same as prices being high",
+          "key": "Inflation falling does not mean anything gets cheaper. It means it is getting dearer more slowly.",
+          "b": "<p>This confusion runs through almost every news report on the subject. Inflation is the <i>rate of change</i> of prices, not their level. If inflation falls from 6% to 2%, prices are still rising — just more slowly. For prices to actually fall you need deflation, which sounds appealing and is in practice a disaster: people delay purchases because things will be cheaper next month, demand collapses, and the economy stalls.</p> <p>Central banks target roughly 2% rather than 0% precisely to keep a safe distance from that edge, and to leave room to cut interest rates in a downturn.</p> <p>The main tool is the interest rate. Raising rates makes borrowing dearer and saving more attractive, so spending and investment fall, so demand cools, so prices rise more slowly. The cost is real: higher mortgage payments, weaker hiring, sometimes a recession. This is a deliberate trade, not a side effect.</p> <p>Two things worth knowing when you read the numbers. First, the published rate is an average over a basket of goods; your personal inflation depends entirely on what you buy, which is why official figures so often feel wrong. Second, wages matter more than prices — what determines whether you are better off is whether your pay is rising faster than the basket, which is exactly what pay rounds like the IG Metall negotiations are arguing about.</p> <p>Exchange rates respond to the same forces. Higher rates in a currency tend to attract money seeking better returns, pushing that currency up. For someone sending euros to rupees, the euro-rupee rate is being shifted by decisions taken in Frankfurt and Mumbai for reasons that have nothing to do with either of you.</p> <p class=\"rem\"><b>Worth holding onto</b>\"Inflation is coming down\" and \"the cost of living is falling\" are entirely different claims. The first is usually true when reported. The second almost never is.</p>\n"
         }
       ]
     },
@@ -9324,6 +9231,11 @@ window.EDITION_DATA = {
           "t": "Inheritance in one page",
           "key": "DNA is an instruction tape; genes are the sentences; proteins do the work.",
           "b": "<p>DNA is a four-letter code — A, T, G, C — paired in a double helix, A always with T and G always with C. That pairing is why it can be copied: split the helix and each strand specifies the other.</p> <p>The flow is DNA -&gt; RNA -&gt; protein. A gene is transcribed into messenger RNA, which is read three letters at a time; each triplet specifies one amino acid, and the chain of amino acids folds into a protein. Proteins are the machinery — enzymes, structure, signals.</p> <p>You carry two copies of most genes, one from each parent. Different versions are alleles. A dominant allele shows its effect with one copy; a recessive one needs both. Mendel worked this out from pea plants in a monastery garden in the 1860s, counting thousands of offspring, and his paper sat essentially ignored for thirty-five years.</p> <p>Most traits are not one gene. Height and skin colour involve many genes plus environment, which is why they vary continuously rather than falling into neat categories.</p>\n"
+        },
+        {
+          "t": "Why there are so many kinds of things",
+          "key": "Natural selection needs only four conditions, and you can watch it happen.",
+          "b": "<p>Evolution by natural selection follows whenever four things are true: individuals <b>vary</b>; some of that variation is <b>heritable</b>; more offspring are produced than can <b>survive</b>; and some variants survive and reproduce better in that environment. Given those, the population must change over generations. It is less a theory about the past than an inevitability.</p> <p>Selection has no goal and no foresight. It cannot plan, so it works with what is already there — which is why the vertebrate eye has its wiring in front of the light-sensitive cells, and why the nerve to the larynx in a giraffe runs all the way down the neck and back up.</p> <p>You can watch it operate on human timescales. Antibiotic resistance is natural selection in a hospital: the few bacteria that happen to survive the drug are the ones that reproduce, and within months the population is dominated by their descendants. Finishing a course of antibiotics matters for exactly this reason.</p> <p>Speciation usually needs isolation. Split a population — a mountain range, an island, a river — and the two halves accumulate different changes until they can no longer interbreed. Islands are evolution's laboratories, which is why Darwin's finches and Wallace's Indonesian travels mattered so much.</p>\n"
         }
       ]
     },
@@ -9366,6 +9278,11 @@ window.EDITION_DATA = {
           "t": "Bleeding and breathing",
           "key": "The two things that kill in minutes, and the two you can actually fix.",
           "b": "<p><b>Severe bleeding.</b> Press hard, directly on the wound, with whatever you have, and do not let go to peek. If blood soaks through, add material on top rather than removing it. If direct pressure fails on a limb, a tourniquet goes <b>high and tight</b> above the wound, tightened until the bleeding stops — it will hurt. Write down the time. A tourniquet correctly applied saves a life; hesitation is what costs limbs, not the tourniquet.</p> <p><b>Not breathing.</b> Check responsiveness and breathing. If they are breathing but unconscious, roll them into the recovery position on their side so the tongue and vomit cannot block the airway. If they are not breathing normally, start chest compressions: centre of the chest, hard, about 5-6 cm deep, at 100-120 per minute — the tempo of \"Stayin' Alive\". Push fast, let the chest come all the way back up, and do not stop until help takes over.</p> <p><b>Choking.</b> Encourage coughing. If they cannot, five sharp back blows between the shoulder blades, then five abdominal thrusts, alternating.</p> <p class=\"rem warn\"><b>Read this as orientation, not training</b>These are the principles, not a substitute for a hands-on first aid course — and in Germany, an Erste-Hilfe-Kurs is a cheap half-day and is required for your driving licence anyway. Emergency number across the EU is <b>112</b>.</p>\n"
+        },
+        {
+          "t": "Urban survival, Bremen edition",
+          "key": "The realistic emergencies here are a blackout, a storm and a flood — and Germany has a system for them.",
+          "b": "<p>Wilderness skills are satisfying to learn. The emergency you are actually likely to meet in northern Germany is a multi-day power cut, a winter storm, or flooding.</p> <p><b>The German warning system.</b> Alerts run through Cell Broadcast to every phone, plus the <b>NINA</b> app from the federal civil protection office. There is a nationwide test — Warntag — and the next is <b>10 September at 11:00</b>. If your phone stays silent that morning, your emergency alerts are switched off; fix them that day.</p> <p><b>The Notvorrat.</b> German civil protection recommends households keep about ten days of food and drinking water. The figure usually quoted is <b>2 litres of drinking water per person per day</b>, plus more for cooking and washing. Also: a battery or crank radio, torches, a first aid kit, and cash — card terminals and ATMs stop working in a blackout, which catches people out immediately.</p> <p><b>Flooding.</b> Never drive or walk into moving water. Thirty centimetres will float most cars, and you cannot see what the road underneath has become. Move upward, not outward.</p> <p><b>Heat.</b> Northern German flats are built to keep heat in. In a heatwave, shutter the windows during the day and ventilate hard at night — the opposite of the instinct.</p>\n"
         }
       ]
     }
