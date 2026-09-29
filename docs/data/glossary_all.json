@@ -1166,5 +1166,37 @@
     "lang": "de-DE",
     "d": "The trade",
     "w": "“Der Handel mit Computern ist ein gutes Geschäft.”"
+  },
+  "lang_derhändler": {
+    "t": "der Händler",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The dealer",
+    "w": "“Ich gehe zum Gemüsehändler, soll ich”"
+  },
+  "lang_diehändlerin": {
+    "t": "die Händlerin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The dealer",
+    "w": "“dir etwas mitbringen?”"
+  },
+  "lang_dashandy": {
+    "t": "das Handy",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cell phone",
+    "w": "“Ich habe kein Festnetztelefon, aber ein Handy.”"
+  },
+  "lang_hängen": {
+    "t": "hängen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hang",
+    "w": "“Das Bild hängt schief.”"
   }
 }

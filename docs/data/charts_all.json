@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "25° is the high point this week in Bremen",
+    "title": "26° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "09-28",
       "09-29",
       "09-30",
       "10-01",
       "10-02",
       "10-03",
-      "10-04"
+      "10-04",
+      "10-05"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            24.8
+            25.6
           ],
           [
             1,
-            24.4
+            25.0
           ],
           [
             2,
-            24.1
+            21.4
           ],
           [
             3,
-            18.8
+            19.2
           ],
           [
             4,
-            19.7
+            20.6
           ],
           [
             5,
-            20.3
+            17.9
           ],
           [
             6,
-            18.1
+            17.8
           ]
         ]
       }
@@ -65,53 +65,53 @@
     "catW": 76,
     "rows": [
       {
-        "k": "09-28",
-        "v": 65,
-        "lab": "65%",
-        "hero": false,
-        "tip": "25°C, Light rain"
-      },
-      {
         "k": "09-29",
-        "v": 18,
-        "lab": "18%",
-        "hero": false,
-        "tip": "24°C, Rain showers"
-      },
-      {
-        "k": "09-30",
         "v": 3,
         "lab": "3%",
         "hero": false,
-        "tip": "24°C, Overcast"
+        "tip": "26°C, Overcast"
+      },
+      {
+        "k": "09-30",
+        "v": 0,
+        "lab": "0%",
+        "hero": false,
+        "tip": "25°C, Overcast"
       },
       {
         "k": "10-01",
         "v": 71,
         "lab": "71%",
         "hero": true,
-        "tip": "19°C, Rain"
+        "tip": "21°C, Light rain"
       },
       {
         "k": "10-02",
-        "v": 33,
-        "lab": "33%",
+        "v": 51,
+        "lab": "51%",
         "hero": false,
-        "tip": "20°C, Fog"
+        "tip": "19°C, Rain showers"
       },
       {
         "k": "10-03",
         "v": 8,
         "lab": "8%",
         "hero": false,
-        "tip": "20°C, Fog"
+        "tip": "21°C, Overcast"
       },
       {
         "k": "10-04",
-        "v": 10,
-        "lab": "10%",
+        "v": 13,
+        "lab": "13%",
         "hero": false,
-        "tip": "18°C, Rain showers"
+        "tip": "18°C, Overcast"
+      },
+      {
+        "k": "10-05",
+        "v": 15,
+        "lab": "15%",
+        "hero": false,
+        "tip": "18°C, Overcast"
       }
     ]
   },

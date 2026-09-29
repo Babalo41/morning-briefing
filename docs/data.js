@@ -1,6 +1,251 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-09-28T06:01:18.365650+02:00",
+  "generated_at": "2026-09-29T06:00:23.182794+02:00",
   "editions": [
+    {
+      "id": "2026-09-29",
+      "day": "Tue",
+      "dnum": "29",
+      "mon": "Sep",
+      "date": "Tuesday 29 September 2026",
+      "headline": "Briefing refreshed 06:00 Berlin time",
+      "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "gPUoLLz0Om6w9vh+sNXxnRD8RoS7WrSvmgpbj7UUEQm0/+7UaZD/hHfT3wThP9F7pdDefbjKiCdehdIDMRR/o9bpewXenaH08mS0yUnz1k+UxL+7dtmrLO15h8HCYAq5h9imh6+rlEiB8+HwMzNtUJSDWo6o/ZJhjmhS8n8SG4Ua6TZJ2cgd",
+          "iv": "W8dFciQD3vssv3k2",
+          "salt": "wRhWkPzCLolPILIMnztYWw=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "16°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 26°C",
+              "b": "Low 16°C, gusts to 30 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "HIlOVHyKP5/fTCajMV+9QhzlRFsAA+rzk7DeLyed7ITO8PTY3LEttFzJ+kay/Nv7sJ45GcQTBPNCky21XnPEXuyZIESKoXj1G8FDPFubJDo3I0zPbuwsFjnonAV9U6YKig1s/Rfw53Cpv1HoXo7JKic22Lnw/+p0hoV7",
+          "iv": "wefwXBjh1Ld/CQAa",
+          "salt": "O5OO94NQejXWow6mT39d9w=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "sPps28MLGEIo6O8oIPxZDXEZfH9fJyrHWOy3Te8TVEi8W67CTJ79nRTgnt0Uu2SlUrmscJ0+kMwbaTSqaOWagl0tEpF96BAu3NDGTHnTqm3Khb8j/iqULIQkJgHq4AD8VJ2OTXhWJfJTTXkyX+Uwpu0UY2S44pQjYpzK1KlRoerE5EWZzpUUXMWyktpjviNthbg1hN7C4BuRGoj8U6vBGkE0BYTBejLDSKYtgHUlCMLUp0T0sU01yCkalK8IXAemPdNIDfvLVBA8MexsD9tqNR8IJPATN9FFDaMxHApRR73t9vwM7TmJ+vSdquXnKLjMQu9NIl9H",
+          "iv": "GmKniCrPdEVdPrwL",
+          "salt": "5hl/cu+2jEb8wj7bprVA1A=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "DHCTDFmwZ9D7yevnQLl9ON9Y2kndIMrzWw9fjHzmLE+ZKKn1FVgohA4qKiWUxexnAOxCj8nKCDXuFMV+RQb1Nu6QhIqh1srXV1YLp5EF0cYfFz+D3TiCynysYEmxIEa92YTLneK1ZIUVQpVXvAWooW2yjUlt7VmmX7bnvkAKFyvx+1k41QbkNLHiE3KB2qo4X5KycUcvkApanc4A",
+          "iv": "rr5sn73az4RtdsDB",
+          "salt": "WeQg/CPsy4ukq3xhkcRMCQ=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "Software QA Lead sjobs in middle east region",
+              "b": "Hi Guys, Hope you're all doing well. I'm really in need of job for senior software qa lead related jobs. Have 15 years of experience in QA. Experience with Selenium, Appium, Cucumber, Robot Framework, API Testing, CI/CD, Agile. ISTQB Certified. Appreciate any leads, referrals, or hiring contacts. Th",
+              "src": "Quality Assurance : articles and news about software testing",
+              "u": "https://www.reddit.com/r/QualityAssurance/comments/1wsp11q/software_qa_lead_sjobs_in_middle_east_region/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries - Global South Opportunities",
+              "b": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLUZYZlM4c2hoOWdWNnI2Y1lFQjdpa3IyZWZYMW13QlZYSkxHakJBdnFnVVVuUm5xSWVJOWUyUk8tLWZTQ1BHT0psRzdzVDV6NE03ODNvYnlSSEhKS0VyZXNFUGYzNnliWFJQVQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Unification minister to visit Ireland, Northern Ireland, Germany from this week - The Korea Times",
+              "b": "Unification minister to visit Ireland, Northern Ireland, Germany from this week  The Korea Times",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTEzVGMwcm1ITEpsTVdMTGhmVUx4YW55Q0g5cGZpQlBWNWlHYVlEdDhpeUZ1XzNoejZyZHFPdHlWN2J6WGdJNy1JQ3A3OWxScUk5Vmx0UXVEVVYtZXZIWEtZZHBSWkxnVUxMNjJxWVZrWkZhTFJtS29ueUlwTV9DZkxxWndGa25icHpCbU52R2hfZEQzYTJpaEkwZEtET1YtVi1OQVVXdHUzOWdRZUlQVTdxNl9nMW5hUFZNRjVjcFJVTlkwdlRMcjBR0gHPAUFVX3lxTE94LVo0eFJaeDNYbWdkSmF0RXh2aVhUV2FXeU1qTVBydndaVkVrX0ZNZlhoR2dsYkJ1SGhFaVhKTTdPblNkUl9feVJfYTZwM3ZEOC1nc3RRdHJSa0ZCSm1LOHVNSUwycmRKMFotR01KSzZ0ekxGS2VTd1ljOVI4eUs3VHFuMjFOUjNjUEJJVWRTNkZDMU5BS2tsQnNaT2FDRFZjVzRwUnBmZEYtLWdpU0ItaEtuaEExdEZpNTlUZ0Z6dmZhSHdHXzF0MFZJN3g2MA?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "'Kind of hydration break I can get behind' - Real Madrid Legends clash interrupted as players served BEER & A SHOT - The Sun",
+              "b": "'Kind of hydration break I can get behind' - Real Madrid Legends clash interrupted as players served BEER & A SHOT  The Sun",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemlwR0pRel94cGpRR2V0NExTWXZCdjVSdy14eWY0b0JJLTZJTEdFUno0bFRTZ1A3bmVBVVY2RXBKQ0RFcDFSWFJoay1OSkkyMUsxQU5JdTVsaWxjOFJFN0tBOVF3WVZUZ0FXX0tVOENNdHJWbnVGZ04tcHRadUZkQ1RiT1hZRzZFT3MtT1VWTVBidmd4VHRR?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "der Händler",
+              "b": "<span class=\"jt\" data-g=\"lang_derhändler\">der Händler</span> — the dealer <span class=\"gram\">(plural: -)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "die Händlerin",
+              "b": "<span class=\"jt\" data-g=\"lang_diehändlerin\">die Händlerin</span> — the dealer <span class=\"gram\">(plural: -nen)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "das Handy",
+              "b": "<span class=\"jt\" data-g=\"lang_dashandy\">das Handy</span> — the cell phone <span class=\"gram\">(plural: -s)</span>",
+              "src": "Goethe B1 · p.48"
+            },
+            {
+              "t": "hängen",
+              "b": "<span class=\"jt\" data-g=\"lang_hängen\">hängen</span> — hang <span class=\"gram\">(hängt · hing/hängte · hat gehangen/gehängt)</span>",
+              "src": "Goethe B1 · p.48"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-09-28",
       "day": "Mon",
@@ -7299,431 +7544,6 @@ window.EDITION_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "2026-08-28",
-      "day": "Fri",
-      "dnum": "28",
-      "mon": "Aug",
-      "date": "Friday 28 August 2026",
-      "headline": "Briefing refreshed 23:50 Berlin time",
-      "stand": "Automatically rebuilt at 23:50 — 11 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "fK9lHXy6sQn6vDQDFvv21qKLVg3u9H5Oex12CEvOXSUSz40a47XyhmfhBShez0C8N4fBV+eVayZiAouLYnNmzio2WKV9wmqHP+JPdV2r2ba88zVKH+XLgUpbVyh3RQEA5ysL0m6WbUQL3vPPnCkCNgIcO3NDt+OKxStF2ksiPOSwNsqnclPG",
-          "iv": "AAPA98omylSxjBzx",
-          "salt": "vep34ObMTlWrmtcz0CGIwg=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "18°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: overcast, high 24°C",
-              "b": "Low 17°C, gusts to 42 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "+MbXWeoTKBKXHPZpLCL98axOcACrTQrAVzWweIfupCSj9eswRLnzFx/qVmS8fA7UEpwMfIeFABnwFVnBOOUQQYFKTV7AvW+sXF4sCupHg3bnqIFfUhfxso19YEZ8qPsJDPSPV07EN7JJLdJwCsfaSrBRrz5lpfTSKOEU",
-          "iv": "qZyizmi2c5kBj97P",
-          "salt": "SeGlsDf4HMAkm0Igcbjj0g=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "F9BSnGCTKmCKwA4QTnhdT97ag88MUAWPN0yu/gqsz12BY+uDDB+OMxlbQMvlIlDikzZgSca8eABqN157gdoODnTJtV48ABeMVy54KSeC2lvPxoJF9Tk4K2hWi1HZnI38mYUFQBIeQcz3fH013gwj9EUR1zXRCATYZyR+U7+6xgfh3iMLrwGc90+OeU/AHqu9AbEt37V5JDd7Lj7RzHygGs0hIiyJdbp/0s+Ha2UsOdfkQ0rzWtVc/FK0I60H2+biSdp1ZsWg9KBrbe6xKzzbHEW+RwHoJh2t4G3sRmjB7A683ZOjbwImgEPlGzqv2sJezpwyJWl6",
-          "iv": "/DaWgFdTl37T+qkN",
-          "salt": "746J4Rcg4sCHFmvlPagdCw=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "Discussion: Transitioning From Software Development to QA",
-              "b": "Hey, I have seen a quite number of people transition their career from software development to quality assurance. I am trying to get answers for some queries and would appreciate any honest feedback.  Why did you quit Software Development (What made you do it) ? I have heard most QA Jobs are offshor",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0xbxf/discussion_transitioning_from_software/"
-            },
-            {
-              "t": "QA is dead, today at 12pm EST",
-              "b": "hey guys! I did a talk a month ago in Chicago called QA is Dead: What Now?  I'm doing an updated presentation today at 12pm EST if anyone wants to check it out. I got a lot of great feedback from engineering leaders and quality engineers so I thought I'd share it here if anyone was interested.  Hope",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0s412/qa_is_dead_today_at_12pm_est/"
-            },
-            {
-              "t": "🚀 Question from a colleague: Test Data Strategy in Playwright",
-              "b": "A colleague of mine asked me to post this question here and get some feedback from the Playwright community. He is considering a test data strategy with two modes: Fresh Data and Reuse Data. 🔹 Fresh Data Mode — CI / Full Regression For CI or full regression runs, generate unique test data for every ",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0nw6e/question_from_a_colleague_test_data_strategy_in/"
-            },
-            {
-              "t": "Need Guidance !!! Looking for career advice ^_^",
-              "b": "Hi everyone,I would really appreciate some guidance. I have close to total 10 years of experience in Test Automation, currently working as a Senior Test Automation Engineer with 3 years in current company.Unfortunately, there has been company-wide layoff with almost all QAE being affected and I am n",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w0n1vo/need_guidance_looking_for_career_advice/"
-            },
-            {
-              "t": "I work for a training provider but am curious.",
-              "b": "Right now there is a huge demand with the ISO 9001 2026 Revision and people are scheduling for Lead Auditor Trainings out to November. I am curious what peoples plans look like for this implementation and what their timeframes are like. Are you waiting for it to die down or are you in the group of p",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w08gte/i_work_for_a_training_provider_but_am_curious/"
-            },
-            {
-              "t": "What do you do with a screenshot between taking it and sending it?",
-              "b": "I’m building a browser screenshot and annotation tool, and I’m trying to understand the steps existing tools don’t handle well. Think about the last screenshot you used for work:  What were you trying to explain? Did you edit it somewhere else before sending it? Where did it end up—a bug ticket, cha",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w04mtp/what_do_you_do_with_a_screenshot_between_taking/"
-            },
-            {
-              "t": "How do you handle manual testing + test automation at the same time?",
-              "b": "In my previous company, manual and automation teams are separate. My lead made sure that would be the case, and I was part of the automation team. However, I heard that it’s now expected for a tester to be both. So in my current company, I tried to do that. I am burnt out. I don’t know how to proper",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w038z0/how_do_you_handle_manual_testing_test_automation/"
-            },
-            {
-              "t": "Is Automation Testing a Good Career for a Fresher in India?",
-              "b": "&#x200B; I’m a fresher who has received an offer for a Verification & Validation (V&V) Test Engineer / Automation Testing role at a service-based company. During training, I was taught Java, Selenium, TestNG, Cucumber/BDD, Jenkins, Git, SQL, JIRA, and SonarQube. I’m not sure yet how much of this I’l",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1w00h4u/is_automation_testing_a_good_career_for_a_fresher/"
-            },
-            {
-              "t": "Scrum process in your project",
-              "b": "How is the scrum process in your project? Does your project have story points equivalent to some hours? Does QA go on until the end of the sprint while the devs do get some breathing space at the end of the sprint to look into next sprint stories?    submitted by    /u/pnitish93   [link]   [comments",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzylgk/scrum_process_in_your_project/"
-            },
-            {
-              "t": "QA roles has changed",
-              "b": "Companies no longer hire team of SDETs ir QA. They hire just one that does everything along with AI and right set of tools. this person is responsible picking the right tools, setting up AI agent’s, cross team collab. Essentially you are an orchestrator. With that in mind you need to figure out how ",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1vzso59/qa_roles_has_changed/"
-            }
-          ]
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "PaperCut releases second emergency patch for exploited flaws",
-              "b": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
-            },
-            {
-              "t": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-              "b": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/"
-            },
-            {
-              "t": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-              "b": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/"
-            },
-            {
-              "t": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
-              "b": "The IT specialist began contacting a foreign government within days of being assigned to the DIA’s Insider Threat Division",
-              "src": "www.theregister.com - Articles",
-              "u": "https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248"
-            },
-            {
-              "t": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-              "b": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/"
-            },
-            {
-              "t": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-              "b": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/"
-            },
-            {
-              "t": "Toy-making giant Hasbro disclose data breach affecting employees",
-              "b": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/"
-            },
-            {
-              "t": "CISA: Most exploited vulnerabilities should have been eradicated decades ago",
-              "b": "Organizational culture and systemic gaps in Secure by Design adoption blamed for sorry state of affairs",
-              "src": "www.theregister.com - Articles",
-              "u": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
-            },
-            {
-              "t": "Industry that built the problem offers to sell you the solution",
-              "b": "100+ tech giants warn AI attacks are coming, skip the part where they pay for defenses",
-              "src": "www.theregister.com - Articles",
-              "u": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207"
-            },
-            {
-              "t": "ServiceNow warns of three max severity security vulnerabilities",
-              "b": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-              "src": "BleepingComputer",
-              "u": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/"
-            }
-          ]
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "What do people use for labs these days?",
-              "b": "So, I have been at my current job for 6-7 years and I have become rusty on technologies and vendors I do not use daily and I got the itch to just run large complicated multivendor lab, try things and break things. Back in the day I was using EVE-NG to run Junos, IOS-XR, IOS-XE etc. Is this still the",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w10e8j/what_do_people_use_for_labs_these_days/"
-            },
-            {
-              "t": "I'm so tired of WiFi at my current job",
-              "b": "So I've been working as a network technician for the past 3 years and I've evolved so much these past years but certain parts of my job makes me wanna quit almost every day. I absolutely cannot stand WiFi issues, we have a few network technicians at my workplace but nobody can quite troubleshoot WiF",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0zszi/im_so_tired_of_wifi_at_my_current_job/"
-            },
-            {
-              "t": "Palo Alto n+1 deployment, 3-way handshake does not complete",
-              "b": "New Azure deployment. TCP traffic to an internet host is originating from a VM in a spoke VNet. The subnet to which the VM's NIC is attached has a UDR to the internal LB (version 2).  The SYN makes it to the internet host, the SYN ACK traverses the trusted side but never makes it to the VM to comple",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0ywrv/palo_alto_n1_deployment_3way_handshake_does_not/"
-            },
-            {
-              "t": "Network Automation with NetBox + CI/CD - How?",
-              "b": "Hi r/networking, I am part of a small network team (4 people), having to manage and support a few hundred Cisco Catalyst switches/routers plus some Meraki gear, spread across ~100 sites. No budget for something like Catalyst Center, so we're working with what we've got:  NetBox (honestly pretty negl",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0q5bo/network_automation_with_netbox_cicd_how/"
-            },
-            {
-              "t": "question about stratoweave",
-              "b": "Hello everyone, just asking if anyone here used stratoweave ? how was your experience ? and how does it compare to NSO ?    submitted by    /u/NebulaLower5898   [link]   [comments]",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0ogu1/question_about_stratoweave/"
-            },
-            {
-              "t": "iPhone 17 not connecting to 802.1be!?",
-              "b": "I don't usually touch wireless, but I got assigned to this ticket about my client having difficulty connecting to our secured network via 11be. He's using iPhone17 and its latest iOS version. I told him to forget the SSID and try to reconnect to the network, but it didn't work. One thing I haven't t",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0csjf/iphone_17_not_connecting_to_8021be/"
-            },
-            {
-              "t": "Blog/Project Post Friday!",
-              "b": "It's Read-only Friday! It is time to put your feet up, pour a nice dram and look through some of our member's new and shiny blog posts and projects. Feel free to submit your blog post or personal project and as well a nice description to this thread. Note: This post is created at 00:00 UTC. It may n",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w0ath3/blogproject_post_friday/"
-            },
-            {
-              "t": "Selector.ai - Anyone used this?",
-              "b": "Saw a demo recently of selector.ai The product makes a lot of claims and promises, but was curious if anyone had done a POC or deployed in the real world? How did it go? Hows it going? Curious on any feedback. TIA!    submitted by    /u/Commercial_Tone_3115   [link]   [comments]",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w08kx5/selectorai_anyone_used_this/"
-            },
-            {
-              "t": "Unable to hit subnet from VPN",
-              "b": "This one has me pulling my hair out.  FG2600F-------------------VPN 192.168,66.1/27 | 10.250,0.10 | FG 600F------------New subnet 10.8,0.1/25 10.250,0.9  We added a network that we need access to on our vpn. -New subnet is accessible from networks that originate from the 2600F -Address object for ne",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1w01gqb/unable_to_hit_subnet_from_vpn/"
-            },
-            {
-              "t": "Multicast for new product solution",
-              "b": "I have a question regarding implementing a solution to a new problem I have. I've designed and will soon be launching a new product called the DigiBall, which is the worlds first smart cue ball for billiards (see digicue dot net). The ball advertises BLE packets with ball information around 10 times",
-              "src": "Enterprise Networking Design, Support, and Discussion",
-              "u": "https://www.reddit.com/r/networking/comments/1vzx6jx/multicast_for_new_product_solution/"
-            }
-          ]
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "Has anyone found a workaround for the limitation that I cannot re-order either Filters or Shortcuts",
-              "b": "My shortcuts and Filters are constantly evolving . I  want the ability to re-order this without going through hoops like delete and re-adding, etc. Has anyone found a way around this? ",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Has-anyone-found-a-workaround-for-the-limitation-that-I-cannot/qaq-p/3281997"
-            },
-            {
-              "t": "unable to connect my Jira cloud addon for Outlook to Jira",
-              "b": "Hello,I used to be able to add issues directly from my outlook inbox to an existing issue without leaving the inbox. but now i cannot even log into jira (connect now button is doing its job). how to fix this issue?Kindly advise!thanks.",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/unable-to-connect-my-Jira-cloud-addon-for-Outlook-to-Jira/qaq-p/3281995"
-            },
-            {
-              "t": "I created scrum board from filters and I have issue with creating and managing sprint its greyed out",
-              "b": "I have multiple spaces in Jira. We want to start using the Agile approach, so I created a board using a filter that includes all the spaces I need to plan on the board.After creating the board, the problem I ran into is that the Create Sprint button is greyed out; I can't create a sprint or add item",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/I-created-scrum-board-from-filters-and-I-have-issue-with/qaq-p/3281972"
-            },
-            {
-              "t": "Issue connecting Jira with GitHub",
-              "b": "We are having an issue connecting Jira with GitHub. We are no longer able to connect Jira with GitHub when the person doing the connection is not an owner in the GitHub organisation. In the past, when a non-owner of an GitHub organisation connected Jira with GitHub they would get a link to send to a",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Issue-connecting-Jira-with-GitHub/qaq-p/3281966"
-            },
-            {
-              "t": "Automation: Creating a Variable with RegEx and using it inside another fuction",
-              "b": "Hello dear Atlassian-Community,I am currently trying to build something that would make an old automation of mine way shorter and incredibly more efficient, but the whole idea hinges on \"being able to create a RegEx dynamically and handing it over to another function\"Here is the functional part of m",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Automation-Creating-a-Variable-with-RegEx-and-using-it-inside/qaq-p/3281871"
-            },
-            {
-              "t": "How do creative teams manage photography projects from planning to delivery?",
-              "b": "I’m curious how other creative teams manage photography projects when there are multiple steps involved.For example, a photography project can include client communication, planning the shoot, organizing locations and equipment, completing the shoot, selecting images, editing, getting client feedbac",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/How-do-creative-teams-manage-photography-projects-from-planning/qaq-p/3281940"
-            },
-            {
-              "t": "I am getting error while trying to create a site",
-              "b": "",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/I-am-getting-error-while-trying-to-create-a-site/qaq-p/3281906"
-            },
-            {
-              "t": "Using double Pipe - Jira Assets Import Application",
-              "b": "HI All,I was following the following thread on how to import and reference multiple objects during Jira Import but it seems to not work.https://community.atlassian.com/forums/Jira-questions/Jira-Assets-I-m-importing-a-CSV-any-way-to-map-multiple-objects/qaq-p/3068344 My CSV file is set up as follows",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Using-double-Pipe-Jira-Assets-Import-Application/qaq-p/3281882"
-            },
-            {
-              "t": "Need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV",
-              "b": "We need ability to report on 'Current Sprint' (in a single Sprint column) when exporting to CSV. Currently if a Jira issue is moved from one sprint to another, the more sprints it gets pushed through, the more columns I end up having when exporting my filter view to e.g. CSV, and I first need to cle",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/Need-ability-to-report-on-Current-Sprint-in-a-single-Sprint/qaq-p/3281856"
-            },
-            {
-              "t": "BUG - Issues Disappeared",
-              "b": "HelloI hope i can get through to someone at atlassian as i cant raise a support ticket for some odd reason..All the issues on my Jira space have disappeared.  Gone from backlog, boards and releases. I've got something in the order of 1400 issues.Its like they have been removed from the index used to",
-              "src": "Jira questions questions",
-              "u": "https://community.atlassian.com/forums/Jira-questions/BUG-Issues-Disappeared/qaq-p/3281792"
-            }
-          ]
-        },
-        {
-          "h": "Near Home",
-          "items": [
-            {
-              "t": "Tracking: Bremen, Germany",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            },
-            {
-              "t": "Tracking: Bhavnagar, India",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            },
-            {
-              "t": "Tracking: Surat, India",
-              "b": "No local news feed configured for this city yet.",
-              "src": "system"
-            }
-          ]
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "Norway mourns King Harald as Haakon VIII ascends throne",
-              "b": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Satellite images reveal scale of flood devastation in Nepal villages",
-              "b": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-              "b": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Violence breaks out in Ceuta as migrant crisis continues",
-              "b": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-              "b": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Two-year curfew lifted in Sudan's capital",
-              "b": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-              "b": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Shootings surge as drug gangs torment Brussels",
-              "b": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "Dutch court sentences man to life over Rwanda genocide",
-              "b": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "t": "World's youngest reigning traditional monarch dies aged 34",
-              "b": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-              "src": "BBC News",
-              "u": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "das Geheimnis",
-              "b": "<span class=\"jt\" data-g=\"lang_dasgeheimnis\">das Geheimnis</span> — the secret <span class=\"gram\">(plural: -se)</span>",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "geheim",
-              "b": "<span class=\"jt\" data-g=\"lang_geheim\">geheim</span> — secret",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "gehen",
-              "b": "<span class=\"jt\" data-g=\"lang_gehen\">gehen</span> — go <span class=\"gram\">(geht · ging · ist gegangen)</span>",
-              "src": "Goethe B1 · p.44"
-            },
-            {
-              "t": "gehören",
-              "b": "<span class=\"jt\" data-g=\"lang_gehören\">gehören</span> — belong <span class=\"gram\">(gehört · gehörte · hat gehört)</span>",
-              "src": "Goethe B1 · p.44"
-            }
-          ]
-        }
-      ]
     }
   ],
   "glossary": {
@@ -8894,22 +8714,54 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The trade",
       "w": "“Der Handel mit Computern ist ein gutes Geschäft.”"
+    },
+    "lang_derhändler": {
+      "t": "der Händler",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The dealer",
+      "w": "“Ich gehe zum Gemüsehändler, soll ich”"
+    },
+    "lang_diehändlerin": {
+      "t": "die Händlerin",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The dealer",
+      "w": "“dir etwas mitbringen?”"
+    },
+    "lang_dashandy": {
+      "t": "das Handy",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cell phone",
+      "w": "“Ich habe kein Festnetztelefon, aber ein Handy.”"
+    },
+    "lang_hängen": {
+      "t": "hängen",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Hang",
+      "w": "“Das Bild hängt schief.”"
     }
   },
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "25° is the high point this week in Bremen",
+      "title": "26° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "09-28",
         "09-29",
         "09-30",
         "10-01",
         "10-02",
         "10-03",
-        "10-04"
+        "10-04",
+        "10-05"
       ],
       "yticks": [
         0,
@@ -8925,31 +8777,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              24.8
+              25.6
             ],
             [
               1,
-              24.4
+              25.0
             ],
             [
               2,
-              24.1
+              21.4
             ],
             [
               3,
-              18.8
+              19.2
             ],
             [
               4,
-              19.7
+              20.6
             ],
             [
               5,
-              20.3
+              17.9
             ],
             [
               6,
-              18.1
+              17.8
             ]
           ]
         }
@@ -8963,53 +8815,53 @@ window.EDITION_DATA = {
       "catW": 76,
       "rows": [
         {
-          "k": "09-28",
-          "v": 65,
-          "lab": "65%",
-          "hero": false,
-          "tip": "25°C, Light rain"
-        },
-        {
           "k": "09-29",
-          "v": 18,
-          "lab": "18%",
-          "hero": false,
-          "tip": "24°C, Rain showers"
-        },
-        {
-          "k": "09-30",
           "v": 3,
           "lab": "3%",
           "hero": false,
-          "tip": "24°C, Overcast"
+          "tip": "26°C, Overcast"
+        },
+        {
+          "k": "09-30",
+          "v": 0,
+          "lab": "0%",
+          "hero": false,
+          "tip": "25°C, Overcast"
         },
         {
           "k": "10-01",
           "v": 71,
           "lab": "71%",
           "hero": true,
-          "tip": "19°C, Rain"
+          "tip": "21°C, Light rain"
         },
         {
           "k": "10-02",
-          "v": 33,
-          "lab": "33%",
+          "v": 51,
+          "lab": "51%",
           "hero": false,
-          "tip": "20°C, Fog"
+          "tip": "19°C, Rain showers"
         },
         {
           "k": "10-03",
           "v": 8,
           "lab": "8%",
           "hero": false,
-          "tip": "20°C, Fog"
+          "tip": "21°C, Overcast"
         },
         {
           "k": "10-04",
-          "v": 10,
-          "lab": "10%",
+          "v": 13,
+          "lab": "13%",
           "hero": false,
-          "tip": "18°C, Rain showers"
+          "tip": "18°C, Overcast"
+        },
+        {
+          "k": "10-05",
+          "v": 15,
+          "lab": "15%",
+          "hero": false,
+          "tip": "18°C, Overcast"
         }
       ]
     },
@@ -9050,11 +8902,6 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
-        },
-        {
-          "t": "The Hanseatic League, and why Bremen still says it",
-          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
-          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     },
@@ -9067,41 +8914,6 @@ window.EDITION_DATA = {
           "t": "The dockyard at Lothal",
           "key": "Saurashtra was doing international trade 4,500 years ago.",
           "b": "<p>Around 2400 BCE, while most of the world was still moving goods by hand along rivers, someone at Lothal — on the Gulf of Khambhat, at the neck of the peninsula — built a rectangular basin of kiln-fired brick roughly 37 metres by 22, with a sluice gate to hold water at low tide.</p> <p>Archaeologists argue about whether it was a true dockyard or a large water tank, but the surrounding evidence leans hard one way: a bead factory, a warehouse on a raised platform, stone anchors, and Persian Gulf seals of a type used to stamp cargo. Lothal was trading with Mesopotamia — cotton, carnelian beads, ivory — and Mesopotamian records mention a place called <i>Meluhha</i> that most scholars read as the Indus world.</p> <p>Lothal was part of the Indus Valley Civilisation, roughly 3300-1300 BCE, which also left sites across Saurashtra at Rangpur and Gola Dhoro. That is the deep floor under the region: not a backwater that later became important, but a maritime trading edge from the beginning.</p> <p class=\"rem\"><b>Worth holding onto</b>The Indus cities had grid streets, standardised brick sizes and covered drains — and a script nobody has deciphered. We can read their weights and measures but not a single sentence they wrote.</p>\n"
-        },
-        {
-          "t": "Vallabhi, the university that rivalled Nalanda",
-          "key": "For three centuries, one of Asia's great universities sat in Saurashtra.",
-          "b": "<p>From roughly 475 to 776 CE the peninsula was ruled by the <span class=\"jt\" data-g=\"maitraka\">Maitraka</span> dynasty from their capital at Vallabhi, near modern Bhavnagar. They began as generals for the Gupta empire and became independent kings as it fell apart.</p> <p>What makes them remarkable is what they funded. Vallabhi grew into a university drawing students from across India — the western counterpart to Nalanda in the east. The Chinese pilgrim Xuanzang, travelling in the 7th century, described several thousand monks studying there. It taught Buddhist philosophy alongside secular subjects, and the Maitrakas — Shaivite Hindus themselves — endowed Buddhist monasteries and Jain institutions without apparent conflict.</p> <p>Vallabhi's copper-plate land grants are one of the richest documentary sources for early medieval western India: hundreds survive, and they let historians reconstruct land tenure, taxation and religious patronage in unusual detail.</p> <p class=\"rem\"><b>Worth holding onto</b>Bhavnagar is not a modern city sitting on empty ground. It is twenty kilometres from what was, for three hundred years, one of the intellectual capitals of Asia.</p>\n"
-        },
-        {
-          "t": "Somnath, and the habit of rebuilding",
-          "key": "A temple destroyed at least six times and rebuilt every time.",
-          "b": "<p>On the southern coast at Veraval stands Somnath, counted as the first of the twelve <span class=\"jt\" data-g=\"jyotirlinga\">Jyotirlingas</span> — the shrines where Shiva is held to have manifested as a pillar of light.</p> <p>Its fame is inseparable from its destruction. Mahmud of Ghazni sacked it in 1026, and it was attacked and rebuilt repeatedly over the following centuries. The present temple is modern: reconstruction was driven by Sardar Vallabhbhai Patel after independence and completed in 1951, in the Chalukya style, on the original coastal site.</p> <p>Historians now read the medieval raids as being about wealth and prestige as much as religion — temples were treasuries — and note that the \"six destructions\" narrative was hardened considerably by colonial-era historiography. The temple matters as much for what people have made of its story as for the stone.</p> <p class=\"rem\"><b>Worth holding onto</b>Nothing stands between Somnath's shore and Antarctica — a pillar on the temple grounds marks the unbroken line of ocean south.</p>\n"
-        },
-        {
-          "t": "Junagadh, Girnar, and an emperor's rock",
-          "key": "An edict carved by Ashoka in 250 BCE still sits by the road to Girnar.",
-          "b": "<p>Junagadh — literally \"old fort\" — sits under Girnar, a volcanic massif sacred to both Jains and Hindus, climbed by a stone stairway of roughly ten thousand steps.</p> <p>Beside the path lies a granite boulder carrying fourteen Rock Edicts of the emperor Ashoka, carved around 250 BCE. They are not conquest inscriptions. They instruct officials on medical care for people and animals, the planting of shade trees and wells along roads, and restraint toward other sects. The same rock was reused twice more: by the Western Kshatrapa king Rudradaman in about 150 CE, and later by a Gupta ruler — three empires' worth of writing on one stone.</p> <p>From the 9th to 15th centuries the Chudasama dynasty ruled here, and the fort's later layers include Gujarat Sultanate and Mughal work. It is a single site where you can stand between the Mauryan empire and the British Raj.</p>\n"
-        },
-        {
-          "t": "Two hundred princely states",
-          "key": "Before 1947, Saurashtra was not one place but hundreds.",
-          "b": "<p>Under the British, the peninsula was not a province. It was the <span class=\"jt\" data-g=\"kathiawar\">Kathiawar</span> Agency: over two hundred princely states, from substantial kingdoms with their own railways and ports down to estates of a few villages, each with a treaty relationship to the Crown and internal autonomy.</p> <p>Bhavnagar was among the largest and most reform-minded — it built one of India's earliest state railways and developed its port heavily. Porbandar, on the west coast, was a maritime trading state; in 1869 a boy was born there to the state's diwan, and named Mohandas Karamchand Gandhi.</p> <p>This fragmentation is why the region's dialects, dress and cuisine vary so sharply over short distances. Rulers competed in temple-building, schooling and civic works, and a great deal of what looks like ancient tradition is in fact 19th-century princely patronage.</p>\n"
-        },
-        {
-          "t": "1947: the state that voted",
-          "key": "Junagadh's ruler chose Pakistan. The people were asked, and chose otherwise.",
-          "b": "<p>At independence the princely states had to accede to India or Pakistan. Junagadh's Nawab, ruling a Hindu-majority state with no land border with Pakistan, acceded to Pakistan in August 1947.</p> <p>The decision collapsed. Neighbouring states objected, an alternative provisional government formed, administration broke down, and the Nawab left for Karachi. Indian forces moved in, and in February 1948 a plebiscite was held: the vote for India was overwhelming, reported at over 99 per cent.</p> <p>The princely states were then merged into a new Saurashtra State in 1948, with Rajkot as its capital. That state was absorbed into Bombay State in 1956, and when Bombay was split on linguistic lines in 1960, Saurashtra became part of the new state of Gujarat — where it remains.</p> <p class=\"rem\"><b>Worth holding onto</b>Junagadh is one of the very few accession disputes settled by an actual popular vote, which is why it still gets cited in arguments about Kashmir.</p>\n"
-        },
-        {
-          "t": "The last lions on earth",
-          "key": "Every wild Asiatic lion alive is descended from a Saurashtra population that fell to a few dozen.",
-          "b": "<p>Lions once ranged from Greece through Mesopotamia to eastern India. By the late 19th century hunting had reduced the Asiatic lion to a single population in the Gir forest of Saurashtra, at one point down to a few dozen animals — saved largely because the Nawab of Junagadh banned hunting them on his land.</p> <p>The recovery has been remarkable. The 16th census in 2025 counted 891 lions in Gujarat, up from 674 five years earlier — a rise of about 32 per cent. But the striking finding is distribution: the majority now live <i>outside</i> the protected areas, in farmland, coastal scrub and near villages across the peninsula.</p> <p>That success creates its own problem. A single population in one region is one epidemic or one cyclone away from catastrophe — a canine distemper outbreak killed lions here in 2018 — and coexistence with farmers is now the central management question rather than poaching.</p>\n"
-        },
-        {
-          "t": "Garba, bandhani, and a language 2,000 km away",
-          "key": "Some Saurashtrians migrated south centuries ago and still speak their own language.",
-          "b": "<p>The peninsula's cultural signature is dense: <span class=\"jt\" data-g=\"bandhani\">bandhani</span> tie-dye, where cloth is tied in thousands of tiny points before dyeing; heavy mirror-work embroidery; and Garba and Dandiya Raas, the circular dances performed through the nine nights of Navratri.</p> <p>Uttarayan, the kite festival in mid-January, effectively shuts Gujarat down for two days and fills the sky over every town.</p> <p>The strangest thread runs south. Centuries ago, groups of Saurashtrian silk weavers migrated to Tamil Nadu, largely settling around Madurai. Their descendants still speak Saurashtra — an Indo-Aryan language, related to Gujarati, marooned in a Dravidian-speaking region and written in Tamil script. Several hundred thousand speakers remain.</p>\n"
         }
       ]
     },
@@ -9119,6 +8931,11 @@ window.EDITION_DATA = {
           "t": "\"Average\" is the most misleading word in English",
           "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
           "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
+        },
+        {
+          "t": "Correlation, causation, and the third thing hiding behind both",
+          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
+          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
         }
       ]
     },
@@ -9167,11 +8984,6 @@ window.EDITION_DATA = {
           "t": "The Anmeldung is the key to everything else",
           "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
           "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
-        },
-        {
-          "t": "How German health insurance actually works",
-          "key": "It is not one system but two, and which one you are in shapes your finances for decades.",
-          "b": "<p>Germany runs statutory insurance (gesetzliche Krankenversicherung, GKV) alongside private insurance (private Krankenversicherung, PKV). Roughly nine in ten people are in the statutory system.</p> <p><b>GKV</b> charges a percentage of gross income up to a ceiling, split roughly evenly between you and your employer, plus a supplementary rate that varies by fund. The important consequence: your contribution has nothing to do with your health, age or risk. It is a solidarity system — the healthy subsidise the sick, and the well-paid subsidise everyone else.</p> <p>The feature that matters most for you personally is <b>Familienversicherung</b>. A spouse without their own significant income is covered under your membership at no additional premium. Not a discount — no extra contribution at all. For a couple where one partner has newly arrived and is not yet working, this is a substantial piece of financial machinery, and it needs to be actively applied for rather than granted automatically.</p> <p><b>PKV</b> prices by individual risk instead. It is frequently cheaper for a young, healthy, well-paid person, and it covers each person separately — a spouse and each child needs their own policy and premium. Premiums also rise with age rather than falling. Switching back to GKV later is difficult by design, and generally impossible after 55.</p> <p>You are only permitted to choose PKV if you are self-employed, a civil servant, or earning above the annual compulsory insurance threshold. Below that, GKV is not optional.</p> <p class=\"rem warn\"><b>The decision that is hard to undo</b>PKV looks attractive when you are young, single and healthy, and expensive when you are older with a family. The one-way door — the difficulty of returning to GKV — is the part people underweight, and it is the reason to think about family plans before switching, not after.</p>\n"
         }
       ]
     },
@@ -9184,11 +8996,6 @@ window.EDITION_DATA = {
           "t": "What happens when you send money to India",
           "key": "Banks do not move money across borders. They move messages, and settle up separately.",
           "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
-        },
-        {
-          "t": "Inflation is not the same as prices being high",
-          "key": "Inflation falling does not mean anything gets cheaper. It means it is getting dearer more slowly.",
-          "b": "<p>This confusion runs through almost every news report on the subject. Inflation is the <i>rate of change</i> of prices, not their level. If inflation falls from 6% to 2%, prices are still rising — just more slowly. For prices to actually fall you need deflation, which sounds appealing and is in practice a disaster: people delay purchases because things will be cheaper next month, demand collapses, and the economy stalls.</p> <p>Central banks target roughly 2% rather than 0% precisely to keep a safe distance from that edge, and to leave room to cut interest rates in a downturn.</p> <p>The main tool is the interest rate. Raising rates makes borrowing dearer and saving more attractive, so spending and investment fall, so demand cools, so prices rise more slowly. The cost is real: higher mortgage payments, weaker hiring, sometimes a recession. This is a deliberate trade, not a side effect.</p> <p>Two things worth knowing when you read the numbers. First, the published rate is an average over a basket of goods; your personal inflation depends entirely on what you buy, which is why official figures so often feel wrong. Second, wages matter more than prices — what determines whether you are better off is whether your pay is rising faster than the basket, which is exactly what pay rounds like the IG Metall negotiations are arguing about.</p> <p>Exchange rates respond to the same forces. Higher rates in a currency tend to attract money seeking better returns, pushing that currency up. For someone sending euros to rupees, the euro-rupee rate is being shifted by decisions taken in Frankfurt and Mumbai for reasons that have nothing to do with either of you.</p> <p class=\"rem\"><b>Worth holding onto</b>\"Inflation is coming down\" and \"the cost of living is falling\" are entirely different claims. The first is usually true when reported. The second almost never is.</p>\n"
         }
       ]
     },
@@ -9201,41 +9008,6 @@ window.EDITION_DATA = {
           "t": "A tree is mostly made of air",
           "key": "The mass of a plant comes from carbon dioxide, not from soil.",
           "b": "<p>In the 1600s Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, watering it only. The tree gained about 74 kilograms. The soil lost a few hundred grams. He concluded, wrongly, that the mass came from water — but the experiment was right, and the answer is stranger.</p> <p>Almost all the dry mass of a plant is carbon it pulled out of the air. Photosynthesis takes carbon dioxide and water, uses light energy captured by chlorophyll inside chloroplasts, and builds sugar, releasing oxygen as waste:</p> <p class=\"eq\">6 CO2 + 6 H2O + light -&gt; C6H12O6 + 6 O2</p> <p>The oxygen you are breathing right now is a by-product of that reaction. It was not in the early atmosphere; photosynthetic organisms put it there, and in doing so poisoned most of the life that existed before them.</p> <p class=\"rem\"><b>Worth holding onto</b>When you burn wood, you are releasing sunlight and air that a tree locked together. The ash left behind — a few per cent of the original mass — is roughly the part that really did come from the soil.</p>\n"
-        },
-        {
-          "t": "Water's impossible climb",
-          "key": "No pump lifts water up a tree. Evaporation pulls it, and the water column holds together.",
-          "b": "<p>A tall tree lifts water a hundred metres with no moving parts. Suction from below cannot do it — a perfect vacuum only raises water about ten metres before the column breaks.</p> <p>The mechanism is the cohesion-tension theory. Water evaporates from leaf pores called stomata — <span class=\"jt\" data-g=\"transpiration\">transpiration</span>. That evaporation puts the water in the leaf under tension. Because water molecules hydrogen-bond strongly to each other (cohesion) and to the walls of the narrow xylem vessels (adhesion), the whole column from root to leaf behaves like a rope being pulled from the top.</p> <p>Two tissues do the transport. <b>Xylem</b> carries water upward and is made of dead, hollow cells. <b>Phloem</b> carries dissolved sugar in any direction and must be alive to work.</p> <p>Every stoma the plant opens to admit CO2 also lets water escape. That trade-off — food against thirst — shapes almost everything about how plants look. Desert plants open their stomata at night; conifer needles have sunken pores and a waxy skin.</p>\n"
-        },
-        {
-          "t": "How to read a plant you've never seen",
-          "key": "Six features, checked in order, get you to a family.",
-          "b": "<p>Identification is not memorising species. It is running a checklist.</p> <p><b>1. Habit</b> — herb, shrub, tree, climber, grass.<br> <b>2. Leaf arrangement</b> — alternate, opposite, or whorled around the stem. Surprisingly few plants have opposite leaves; noticing it eliminates most families at a stroke.<br> <b>3. Leaf shape and margin</b> — simple or compound; edge smooth, toothed or lobed.<br> <b>4. Venation</b> — parallel veins point to monocots (grasses, lilies, orchids, palms); a branching net points to dicots (most other flowering plants).<br> <b>5. Flower parts</b> — count petals. Multiples of three suggest a monocot; four or five suggest a dicot.<br> <b>6. Fruit</b> — often the single most diagnostic feature, and the one beginners skip.</p> <p>Monocot versus dicot is the first big fork, and it is visible from a distance: a wheat field and an oak are on opposite sides of it.</p>\n"
-        },
-        {
-          "t": "Six families you will actually meet",
-          "key": "Learn six families and you can place a large share of the plants around you.",
-          "b": "<p><b>Poaceae</b> — grasses. Hollow jointed stems, parallel veins, wind-pollinated flowers with no petals. Wheat, rice, maize, barley, bamboo, sugarcane. This one family feeds humanity.</p> <p><b>Fabaceae</b> — legumes. Pea-shaped flowers, seeds in a pod. Their roots host bacteria that fix nitrogen from air into usable form, which is why they restore soil and why crop rotation works. Beans, lentils, groundnut, clover, acacia.</p> <p><b>Asteraceae</b> — the daisy family, one of the largest. What looks like one flower is a dense head of many tiny ones. Sunflower, marigold, lettuce, dandelion.</p> <p><b>Rosaceae</b> — five petals, many stamens. Apple, pear, cherry, plum, almond, strawberry, rose.</p> <p><b>Lamiaceae</b> — mints. Square stems, opposite leaves, aromatic. Basil, tulsi, mint, rosemary, sage, oregano.</p> <p><b>Apiaceae</b> — carrot family. Tiny flowers in flat umbrella-shaped umbels, hollow grooved stems. Carrot, coriander, cumin, fennel, dill.</p> <p class=\"rem warn\"><b>A warning that matters</b>Apiaceae contains both your spice rack and hemlock, water hemlock and giant hogweed — among the most toxic plants in Europe. Never eat a wild umbellifer on family resemblance. This family is exactly why \"it looks like a carrot\" has killed people.</p>\n"
-        },
-        {
-          "t": "How life is filed",
-          "key": "Every organism has a two-word name, and the names change as DNA rewrites the tree.",
-          "b": "<p>The hierarchy runs Domain -&gt; Kingdom -&gt; Phylum -&gt; Class -&gt; Order -&gt; Family -&gt; Genus -&gt; Species. Bread wheat is Eukarya -&gt; Plantae -&gt; Angiosperms -&gt; Monocots -&gt; Poales -&gt; Poaceae -&gt; <i>Triticum</i> -&gt; <i>aestivum</i>.</p> <p>Linnaeus's binomial system gives each species a genus name and a species epithet, italicised, genus capitalised: <i>Panthera leo</i>. It works because it is universal — <i>Ocimum tenuiflorum</i> means the same plant to a botanist in Bremen and one in Bhavnagar, where \"tulsi\" and \"holy basil\" would not.</p> <p>A species is usually defined as a group that interbreeds and produces fertile offspring, which is why a horse and a donkey are separate species: the mule is sterile. The definition breaks down for organisms that reproduce asexually, and for fossils.</p> <p>Names change because classification now follows ancestry rather than appearance. DNA sequencing has repeatedly shown that things which look alike are unrelated, and things which look nothing alike are cousins — birds sit inside the dinosaurs, and fungi are closer to animals than to plants.</p>\n"
-        },
-        {
-          "t": "The cell that swallowed another cell",
-          "key": "Your mitochondria used to be free-living bacteria. So did every chloroplast.",
-          "b": "<p>Two membranes separate the living world. Prokaryotes — bacteria and archaea — have no nucleus. Eukaryotes — everything else, including you and every plant — package their DNA in one.</p> <p>The best explanation for how eukaryotes arose is <span class=\"jt\" data-g=\"endosymbiosis\">endosymbiosis</span>: roughly two billion years ago one cell engulfed another and, instead of digesting it, kept it. The swallowed bacterium became the mitochondrion. Later, a similar event with a photosynthetic cyanobacterium produced the chloroplast, and with it every plant and alga on earth.</p> <p>The evidence is hard to argue with. Mitochondria and chloroplasts have their own circular DNA, of bacterial type. They have double membranes, as you would expect from being engulfed. They divide by splitting, on their own schedule, not by being manufactured by the cell. And their ribosomes are bacterial — which is precisely why some antibiotics have side effects in humans.</p> <p class=\"rem\"><b>Worth holding onto</b>You inherit mitochondrial DNA only from your mother. It never recombines, so it mutates at a steady rate — which is how \"mitochondrial Eve\" and most deep human migration maps were reconstructed.</p>\n"
-        },
-        {
-          "t": "Inheritance in one page",
-          "key": "DNA is an instruction tape; genes are the sentences; proteins do the work.",
-          "b": "<p>DNA is a four-letter code — A, T, G, C — paired in a double helix, A always with T and G always with C. That pairing is why it can be copied: split the helix and each strand specifies the other.</p> <p>The flow is DNA -&gt; RNA -&gt; protein. A gene is transcribed into messenger RNA, which is read three letters at a time; each triplet specifies one amino acid, and the chain of amino acids folds into a protein. Proteins are the machinery — enzymes, structure, signals.</p> <p>You carry two copies of most genes, one from each parent. Different versions are alleles. A dominant allele shows its effect with one copy; a recessive one needs both. Mendel worked this out from pea plants in a monastery garden in the 1860s, counting thousands of offspring, and his paper sat essentially ignored for thirty-five years.</p> <p>Most traits are not one gene. Height and skin colour involve many genes plus environment, which is why they vary continuously rather than falling into neat categories.</p>\n"
-        },
-        {
-          "t": "Why there are so many kinds of things",
-          "key": "Natural selection needs only four conditions, and you can watch it happen.",
-          "b": "<p>Evolution by natural selection follows whenever four things are true: individuals <b>vary</b>; some of that variation is <b>heritable</b>; more offspring are produced than can <b>survive</b>; and some variants survive and reproduce better in that environment. Given those, the population must change over generations. It is less a theory about the past than an inevitability.</p> <p>Selection has no goal and no foresight. It cannot plan, so it works with what is already there — which is why the vertebrate eye has its wiring in front of the light-sensitive cells, and why the nerve to the larynx in a giraffe runs all the way down the neck and back up.</p> <p>You can watch it operate on human timescales. Antibiotic resistance is natural selection in a hospital: the few bacteria that happen to survive the drug are the ones that reproduce, and within months the population is dominated by their descendants. Finishing a course of antibiotics matters for exactly this reason.</p> <p>Speciation usually needs isolation. Split a population — a mountain range, an island, a river — and the two halves accumulate different changes until they can no longer interbreed. Islands are evolution's laboratories, which is why Darwin's finches and Wallace's Indonesian travels mattered so much.</p>\n"
         }
       ]
     },
@@ -9248,41 +9020,6 @@ window.EDITION_DATA = {
           "t": "The rule of threes",
           "key": "Three minutes without air. Three hours without shelter. Three days without water. Three weeks without food.",
           "b": "<p>It is a rough rule, not a law, but it fixes the single commonest survival mistake: worrying about food.</p> <p><b>Three minutes without air</b> — or with severe bleeding, which empties the system just as fast.<br> <b>Three hours without shelter</b> in harsh conditions. Exposure is the real killer in temperate places like northern Germany, and it works far faster than people expect.<br> <b>Three days without water.</b><br> <b>Three weeks without food.</b></p> <p>Almost nobody in a short emergency dies of hunger. They die of cold, of injury, or of a decision made in the first ten minutes. Order your actions in that sequence and you have already done most of the thinking correctly.</p> <p class=\"rem\"><b>Worth holding onto</b>Hypothermia does not need snow. Wet clothes at 10°C with wind will do it. Most people who die of exposure in Europe do so in temperatures well above freezing.</p>\n"
-        },
-        {
-          "t": "Water you can actually drink",
-          "key": "Boil one minute. Filters miss viruses. Chemicals miss Cryptosporidium.",
-          "b": "<p>Each method has a specific hole in it, and the holes do not overlap — which is the whole reason to know all three.</p> <p><b>Boiling</b> is the most reliable. The CDC's guidance is a rolling boil for <b>one minute</b>, or <b>three minutes above about 2,000 metres</b>, where water boils cooler. Boiling kills everything biological. It does not remove chemicals, heavy metals or salt.</p> <p><b>Filtering</b> depends entirely on pore size. A filter of 1 micron or smaller removes parasites. 0.3 micron or smaller removes bacteria as well. Neither removes <b>viruses</b> — those are far too small. Only reverse osmosis catches all three.</p> <p><b>Chemicals</b> — chlorine or iodine — kill bacteria and viruses reliably, but work poorly against parasites, and especially badly against <span class=\"jt\" data-g=\"crypto\">Cryptosporidium</span>, whose thick-walled cysts shrug off normal doses. Chlorine dioxide is better but slow.</p> <p>For cloudy water the order matters: let it settle, then filter, then disinfect. Particles physically shield organisms from both chemicals and UV light.</p> <p class=\"rem\"><b>Worth holding onto</b>Never ration water while you still have it. Dehydration impairs your judgement long before it threatens your life, and bad decisions kill faster than thirst. Drink it and go find more.</p>\n"
-        },
-        {
-          "t": "Staying warm is mostly staying dry",
-          "key": "You lose heat to the ground faster than to the air. Insulate underneath first.",
-          "b": "<p>Heat leaves you four ways: <b>conduction</b> (touching cold things — above all the ground), <b>convection</b> (wind stripping warmth away), <b>radiation</b> (mostly from the head and neck), and <b>evaporation</b> (sweat and wet clothing).</p> <p>People lying on cold ground lose heat to it far faster than to the air around them. A layer of leaves, branches, a pack or foam beneath you is worth more than another layer on top of you. This is the single most-missed point in cold weather.</p> <p>Dress in three layers: a base that moves sweat off the skin, a middle that traps air, an outer that blocks wind and rain. Wool and synthetics keep insulating when damp. <b>Cotton does not</b> — wet cotton actively drains heat, which is where the mountaineers' phrase \"cotton kills\" comes from.</p> <p>Sweating in the cold is dangerous. If you are working hard, remove a layer <i>before</i> you sweat through the ones underneath.</p> <p><span class=\"jt\" data-g=\"hypothermia\">Hypothermia</span> announces itself in order: shivering, then clumsiness and slurred speech, then confusion and — strangely — sometimes a feeling of being too hot. Someone who stops shivering while still cold is getting worse, not better.</p>\n"
-        },
-        {
-          "t": "Shelter, fast and small",
-          "key": "A shelter you can build in an hour beats a good one you never finish.",
-          "b": "<p>Choose the site before the design. You want to be out of the wind, off the low ground where cold air pools and water runs, away from dead branches overhead, and near — but not in — a water source.</p> <p><b>Small is warm.</b> The instinct is to build something roomy. Resist it: your body is the heat source, and a space barely larger than you warms up and stays warm. A cavity you fill is worth more than a hall you cannot heat.</p> <p>The generic pattern is a debris shelter: a ridgepole propped at one end, ribs leaned against it, then piled leaves and vegetation — a lot of it, thicker than seems reasonable, ideally an arm's depth. Stuff the inside with dry material too, so you are lying in insulation rather than on soil.</p> <p>In an urban emergency the same logic applies indoors: close off one small room rather than heating a flat, block draughts at the doors, and put something insulating between you and the floor.</p>\n"
-        },
-        {
-          "t": "Fire, in the right order",
-          "key": "Fires fail from impatience — jumping to big fuel before the small stuff is burning.",
-          "b": "<p>Fire needs three things at once: fuel, oxygen and heat. Remove any one and it stops — which is also how you put one out.</p> <p>Prepare all three sizes of material <i>before</i> striking anything, and prepare more than you think you need:</p> <p><b>Tinder</b> catches a spark — birch bark, dry grass, cotton wool, char cloth, resinous shavings.<br> <b>Kindling</b> — twigs from matchstick to finger thickness.<br> <b>Fuel</b> — wrist thickness and up.</p> <p>Build so air can move through: a teepee or lean-to over the tinder. A pile pressed flat suffocates. Light from the upwind side, and feed it gradually — the commonest failure is dumping a log on a flame that is not established.</p> <p>In wet conditions, standing dead wood is drier than anything on the ground, and the inside of a split branch is dry even when the outside is soaked. Always lay a platform of sticks under the fire so it is not sitting on wet earth or snow.</p> <p class=\"rem warn\"><b>Safety</b>Never burn anything inside an enclosed space without ventilation. Carbon monoxide is odourless, and it kills people in tents, cars and closed rooms every winter.</p>\n"
-        },
-        {
-          "t": "Lost: stop moving",
-          "key": "STOP — Stop, Think, Observe, Plan. Most people who die lost, died walking.",
-          "b": "<p>The instinct on realising you are lost is to keep going and hope the ground becomes familiar. It is almost always wrong. Walking spreads your possible locations over a wider and wider area, which is exactly what makes searchers fail.</p> <p><b>S</b>top — sit down. Do not take another step for a few minutes.<br> <b>T</b>hink — when were you last certain of your position? What have you got?<br> <b>O</b>bserve — weather, light left, terrain, water, your own condition.<br> <b>P</b>lan — and only then move, if moving is genuinely better than staying.</p> <p>If anyone knows roughly where you were going, staying put is usually correct. A stationary person in an open place with a signal is far easier to find than a moving one under trees.</p> <p><b>Signalling</b> follows the rule of three: three whistle blasts, three fires in a triangle, three of anything means distress. A whistle carries much further than a voice and costs almost no energy — a shout exhausts you in minutes. A mirror flash is visible for kilometres.</p> <p>Downhill and downstream generally leads to people, since settlements follow water. That is a tendency, not a guarantee — in mountains it can lead into a gorge you cannot climb out of.</p>\n"
-        },
-        {
-          "t": "Bleeding and breathing",
-          "key": "The two things that kill in minutes, and the two you can actually fix.",
-          "b": "<p><b>Severe bleeding.</b> Press hard, directly on the wound, with whatever you have, and do not let go to peek. If blood soaks through, add material on top rather than removing it. If direct pressure fails on a limb, a tourniquet goes <b>high and tight</b> above the wound, tightened until the bleeding stops — it will hurt. Write down the time. A tourniquet correctly applied saves a life; hesitation is what costs limbs, not the tourniquet.</p> <p><b>Not breathing.</b> Check responsiveness and breathing. If they are breathing but unconscious, roll them into the recovery position on their side so the tongue and vomit cannot block the airway. If they are not breathing normally, start chest compressions: centre of the chest, hard, about 5-6 cm deep, at 100-120 per minute — the tempo of \"Stayin' Alive\". Push fast, let the chest come all the way back up, and do not stop until help takes over.</p> <p><b>Choking.</b> Encourage coughing. If they cannot, five sharp back blows between the shoulder blades, then five abdominal thrusts, alternating.</p> <p class=\"rem warn\"><b>Read this as orientation, not training</b>These are the principles, not a substitute for a hands-on first aid course — and in Germany, an Erste-Hilfe-Kurs is a cheap half-day and is required for your driving licence anyway. Emergency number across the EU is <b>112</b>.</p>\n"
-        },
-        {
-          "t": "Urban survival, Bremen edition",
-          "key": "The realistic emergencies here are a blackout, a storm and a flood — and Germany has a system for them.",
-          "b": "<p>Wilderness skills are satisfying to learn. The emergency you are actually likely to meet in northern Germany is a multi-day power cut, a winter storm, or flooding.</p> <p><b>The German warning system.</b> Alerts run through Cell Broadcast to every phone, plus the <b>NINA</b> app from the federal civil protection office. There is a nationwide test — Warntag — and the next is <b>10 September at 11:00</b>. If your phone stays silent that morning, your emergency alerts are switched off; fix them that day.</p> <p><b>The Notvorrat.</b> German civil protection recommends households keep about ten days of food and drinking water. The figure usually quoted is <b>2 litres of drinking water per person per day</b>, plus more for cooking and washing. Also: a battery or crank radio, torches, a first aid kit, and cash — card terminals and ATMs stop working in a blackout, which catches people out immediately.</p> <p><b>Flooding.</b> Never drive or walk into moving water. Thirty centimetres will float most cars, and you cannot see what the road underneath has become. Move upward, not outward.</p> <p><b>Heat.</b> Northern German flats are built to keep heat in. In a heatwave, shutter the windows during the day and ventilate hard at night — the opposite of the instinct.</p>\n"
         }
       ]
     }
