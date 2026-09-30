@@ -1198,5 +1198,37 @@
     "lang": "de-DE",
     "d": "Hang",
     "w": "“Das Bild hängt schief.”"
+  },
+  "lang_hart": {
+    "t": "hart",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hard",
+    "w": "“Das Bett im Hotel war mir zu hart.”"
+  },
+  "lang_hassen": {
+    "t": "hassen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hate",
+    "w": "“Ich hasse Autofahren.”"
+  },
+  "lang_hässlich": {
+    "t": "hässlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Ugly",
+    "w": "“Das ist aber eine hässliche Lampe!”"
+  },
+  "lang_häufig": {
+    "t": "häufig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Often",
+    "w": "“Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.”"
   }
 }
