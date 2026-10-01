@@ -1,32 +1,32 @@
 {
-  "id": "2026-08-30",
-  "day": "Sun",
-  "dnum": "30",
-  "mon": "Aug",
-  "date": "Sunday 30 August 2026",
-  "headline": "Briefing refreshed 13:51 Berlin time",
-  "stand": "Automatically rebuilt at 13:51 — 12 sections tracked.",
+  "id": "2026-10-01",
+  "day": "Thu",
+  "dnum": "01",
+  "mon": "Oct",
+  "date": "Thursday 01 October 2026",
+  "headline": "Briefing refreshed 08:52 Berlin time",
+  "stand": "Automatically rebuilt at 08:52 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "w2ToiAke4Y+EJ9DGrPDG0ITyllH//uIsDYVyhau1GDonqHAcBaQNLbIBkXz7i8fUbJa3ie2QEl/9pQ6v5l6yjRcjcgbPoFbC667QK5GossxVlPZlqcHQQkYveVo6CPaghNBRStu22IqD+O5zJ2bO/3YiZbuLLp+bIwyL0qFX54VMXoHfzIdm",
-      "iv": "1KygYr5VEUZUMPCD",
-      "salt": "VutNr6B5AHBz/PXb7KAW1Q=="
+      "ciphertext": "I3TGSgSjB50LtOpBfD8Zp+fWtnWLHEBQN0UmJmwuP0aZ7NYplkNZBcwN5Mwl0PlvC6ZPL/XuJMDCpGryxZSFaJlmPiYKeziCLrVJ760ejLclC8Vau3UYuiH/mo7dSwnJ0oIwkSH2bgmWopOupDbqwM+eIhRMw49Jf9PmfQ1p5We9EMMxnI/C",
+      "iv": "a0bqt6iqALb/NcES",
+      "salt": "c4hi/aJ7jmTdgxWFDlTw2A=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "20°",
+          "n": "17°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 20°C",
-          "b": "Low 17°C, gusts to 56 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 21°C",
+          "b": "Low 16°C, gusts to 35 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "0dk5V2ylbUhAIJN36RjJwOhI8pJfZ4mRycyXSuxITqpYtwsAQ0JFQPnl8cwvZQcWpCgYxS/gBU6ZnUookzEgcc0ZA3uelAEo4h6BguJtmDW9mwV6BIGtCj8h6fUT0xovLStITFz3KSv4mOuRGTDS9TvTg17RiOfFfmCw",
-      "iv": "yvo9c8156egqWjrD",
-      "salt": "WDDV01BnLSILNmgkEMy6fg=="
+      "ciphertext": "kocdnDJhVw0LPXaXH2vreo8QrraFlCVdSW90uz4r+6H8KberPsNsmraCtr5/MF5xvEdIxDzMtcOGcNh9pG1HCzddYnXStdCiOznoAyJrEj2+yDXTB9gI8cM7rL/HqOPDFRBeBtKeoTgDXRaFzuNBTDxt2+xREXXRyfRy",
+      "iv": "cBSugqZL+90/AzCj",
+      "salt": "1zFbjoEvIrOYUGtrNgeSog=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "TdciVH2tZRIwHDXKk83AUIp9EYiMtMa9wbADOP+HGzEj+1luFKa2UPQWYYRHNOHi8IDib1mGVYtlUQfW2rFDFFc9CKs4ij+h0TG0OHl79m5uxfOMPvtbOEvmp6nJ8tAbIlkPp6yBIw4512rduxEM1Ocv78zpNDs/KOvy5Z2i31y4GL6Ul+/WsEOG5Pu++/uQkagv3FSu1y5y7EB38EysOTf7tF1UNzRsBDIIgj4HnF4oR4Du9KBN8aF2Z2YViYH4Ra+fF1LQ2lzyPfgKAIdE7/jQ/Dd/CQuaLJsTo0vkGVaJi7NoOYiCbjndTP5h1uoVmqxhk6DN",
-      "iv": "EZOACbOMz4QNj1im",
-      "salt": "Dcdchdk/Vod6euIBA7weJg=="
+      "ciphertext": "7oBX4aRgDqHTohfNl7106dOy8RNqkk8unueo/63P/siOJZe4l/Gxx8H1SqboaMq6M2dHaFUmUCysrmVLszhWM4aAI6O3tPzsLElTKrT6IyOtiWfNzWRnl6v3byX4p9uhk+CzB9STjusPeAZUKpK5ahDnJ7+3Nvzzn6lPDHmd+d6zHnpe+HPT1wlDt/hKB/w1+mTddRherZlrpDVFRkqc6zZ4H2grTDjUCo3RTgWct9BSgu/ZKpDYTg/tamSMSdIZKL8CPDEfnk/mwX3ypWI8/pQ/HXr7toQ8KhKXgdoW7B5gDGDM+a/EPEicUkg1RjfrTmRRN3Du",
+      "iv": "kGwbAdCgm8FuUx1h",
+      "salt": "za2jW3IaRUMavgsTOfWnDg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "P4UztmxhBstcj/cp38RT8UV8/h0uXkxwrjesI6HJuX+JXNWJ6ZH+PqDtnTCYg5vqp8beng7rYjthgM/tq2jcsKLU2yS/JXsiIKrA3oWhdzINTikC9hTlSLaW5OSTNCe98Igd7n/tCtANP9cWBRTjlIq8QKTmK4XkEk1ZxnebGuF7zxc9w8kOaVrF95FeRPNDw7nSHCFHyWrNmCLv",
-      "iv": "Eu9NjoYlvCM6+xhd",
-      "salt": "UwUO1EFT3WAlFdVgERvRXQ=="
+      "ciphertext": "QpPiSHpjsN1WQxJTb6G/GV/cETXMnfi1ZP+sdzklVnNxAoVgfzfK3P61YBBt6eUR8Q4ylmMe7md7MsKUKcZ4KZZaEu61+KSDrPOj78FN4Hh8C/l4RisIX+5CXF/czFROvD2EbTx6osIBACaYDc6SOoaavqlrU/FTvk1T/CQ2W4FEEvOOpiBiskUlXNl0pS5sMUzo/B+rl6AOZBAt",
+      "iv": "TbbvMHXP5nG7dNZN",
+      "salt": "c4J9zy3zNXVI3fTxkCaprQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,10 +129,9 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
-          "b": "Beijing's botnets busted",
-          "src": "www.theregister.com - Articles",
-          "u": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "work_industry"
@@ -141,9 +140,10 @@
       "h": "Network & Systems Engineering",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Bandwidth billing software",
+          "b": "I work for a niche business only SP that allows customers to burst above their commit rate unless they request their services are capped. We currently use Observium's billing module with some custom enhancements to add multiple bursting rates as well as change the base rate depending on the customer",
+          "src": "Enterprise Networking Design, Support, and Discussion",
+          "u": "https://www.reddit.com/r/networking/comments/1wt6zh0/bandwidth_billing_software/"
         }
       ],
       "feed_section": "network_systems"
@@ -164,84 +164,42 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Canada installs large Lake Ontario sign in latest jab at US",
-          "b": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
+          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "b": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        },
+        {
+          "t": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries - Global South Opportunities",
+          "b": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLUZYZlM4c2hoOWdWNnI2Y1lFQjdpa3IyZWZYMW13QlZYSkxHakJBdnFnVVVuUm5xSWVJOWUyUk8tLWZTQ1BHT0psRzdzVDV6NE03ODNvYnlSSEhKS0VyZXNFUGYzNnliWFJQVQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "b": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Former Ecuadorian president imprisoned for corruption",
-          "b": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Norway's new king remembers 'my dear father' in first speech",
-          "b": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-          "b": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-          "b": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-          "b": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-          "b": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Close race as Iceland votes on whether to restart talks on joining EU",
-          "b": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 2027 Fully Funded",
+          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -261,24 +219,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "monnaie/Portmonee",
-          "b": "<span class=\"jt\" data-g=\"lang_monnaieportmonee\">monnaie/Portmonee</span> — monnaie/wallet",
-          "src": "Goethe B1 · p.44"
+          "t": "die Hauptstadt",
+          "b": "<span class=\"jt\" data-g=\"lang_diehauptstadt\">die Hauptstadt</span> — the capital <span class=\"gram\">(plural: ¨-e)</span>",
+          "src": "Goethe B1 · p.48"
         },
         {
-          "t": "die Gelegenheit",
-          "b": "<span class=\"jt\" data-g=\"lang_diegelegenheit\">die Gelegenheit</span> — the opportunity <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.44"
+          "t": "der Hauptbahnhof",
+          "b": "<span class=\"jt\" data-g=\"lang_derhauptbahnhof\">der Hauptbahnhof</span> — the main station <span class=\"gram\">(plural: ¨-e)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "gelingen",
-          "b": "<span class=\"jt\" data-g=\"lang_gelingen\">gelingen</span> — succeed <span class=\"gram\">(gelingt · gelang · ist gelungen)</span>",
-          "src": "Goethe B1 · p.44"
+          "t": "das Haus",
+          "b": "<span class=\"jt\" data-g=\"lang_dashaus\">das Haus</span> — the house <span class=\"gram\">(plural: ¨-er)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "gelten",
-          "b": "<span class=\"jt\" data-g=\"lang_gelten\">gelten</span> — apply <span class=\"gram\">(gilt · galt · hat gegolten)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "die Hausaufgabe",
+          "b": "<span class=\"jt\" data-g=\"lang_diehausaufgabe\">die Hausaufgabe</span> — the homework <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }

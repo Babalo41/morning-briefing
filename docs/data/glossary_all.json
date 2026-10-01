@@ -1230,5 +1230,37 @@
     "lang": "de-DE",
     "d": "Often",
     "w": "“Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.”"
+  },
+  "lang_diehauptstadt": {
+    "t": "die Hauptstadt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The capital",
+    "w": "“Berlin ist die Hauptstadt von Deutschland.”"
+  },
+  "lang_derhauptbahnhof": {
+    "t": "der Hauptbahnhof",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The main station",
+    "w": "“Treffen wir uns am Hauptbahnhof?”"
+  },
+  "lang_dashaus": {
+    "t": "das Haus",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The house",
+    "w": "“Wir haben ein Haus gemietet.”"
+  },
+  "lang_diehausaufgabe": {
+    "t": "die Hausaufgabe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The homework",
+    "w": "“Kannst du mir bei den Hausaufgaben helfen?”"
   }
 }

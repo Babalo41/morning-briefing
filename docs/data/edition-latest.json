@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-30",
-  "day": "Wed",
-  "dnum": "30",
-  "mon": "Sep",
-  "date": "Wednesday 30 September 2026",
-  "headline": "Briefing refreshed 18:55 Berlin time",
-  "stand": "Automatically rebuilt at 18:55 — 12 sections tracked.",
+  "id": "2026-10-01",
+  "day": "Thu",
+  "dnum": "01",
+  "mon": "Oct",
+  "date": "Thursday 01 October 2026",
+  "headline": "Briefing refreshed 08:52 Berlin time",
+  "stand": "Automatically rebuilt at 08:52 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "KXhfp201SOAx+zyOeF/SmLZXZ/EIpIOnnZ/jN/5fIPapof+ghbAU/Bol/9DKEvBNNEM9k+02nfSR9Dl9F0pP8UnjM+jkFA37ZpdC1smsOJ644nnh29KMydcVbmDwqi2EZxsEWAoYWQA1Nq1oE21oMu9fSkU0h4DIIWEOd7umTBx2F2YuqjZ4",
-      "iv": "a5sga4CHwdShELvQ",
-      "salt": "5U/qycfE8fryXZG7JrXnAg=="
+      "ciphertext": "I3TGSgSjB50LtOpBfD8Zp+fWtnWLHEBQN0UmJmwuP0aZ7NYplkNZBcwN5Mwl0PlvC6ZPL/XuJMDCpGryxZSFaJlmPiYKeziCLrVJ760ejLclC8Vau3UYuiH/mo7dSwnJ0oIwkSH2bgmWopOupDbqwM+eIhRMw49Jf9PmfQ1p5We9EMMxnI/C",
+      "iv": "a0bqt6iqALb/NcES",
+      "salt": "c4hi/aJ7jmTdgxWFDlTw2A=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "24°",
+          "n": "17°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 26°C",
-          "b": "Low 15°C, gusts to 34 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 21°C",
+          "b": "Low 16°C, gusts to 35 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "frq00aOF2gU2mddhkfR+/NZdGQrR6mIQ+eeX6QWSlTNQF+k7cA9c9E1eR3sPCPL6P9R+Z8r/6Ntfum7+gfSMdRjHPrPSP3jEUh1C5FgzyOzSSlNK+J6pbvada6YCsd7bKnVTS+3A9Jh70pGH6d3pk6WbOdxgDNATCGLJ",
-      "iv": "Kf+SWCL6o0pVL1/0",
-      "salt": "pVm1rfIRKEQr3k4ktRSUCw=="
+      "ciphertext": "kocdnDJhVw0LPXaXH2vreo8QrraFlCVdSW90uz4r+6H8KberPsNsmraCtr5/MF5xvEdIxDzMtcOGcNh9pG1HCzddYnXStdCiOznoAyJrEj2+yDXTB9gI8cM7rL/HqOPDFRBeBtKeoTgDXRaFzuNBTDxt2+xREXXRyfRy",
+      "iv": "cBSugqZL+90/AzCj",
+      "salt": "1zFbjoEvIrOYUGtrNgeSog=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "ADnAut7rM5JxUCRUCgX8vtUf5huufk7ZGpWd8vy5ifvUOJ0Au4SvELHzDx61RaCbu+k7BgDGZ3L3xzAChe3Bdd6m2UtCDYUm3oDVir1/IL062SMinefXe/F2Ak4pnOE0JvGTK0FP3lSqm7LjQG5CfrjnOMq6rVw4xCb1SuievBO+40XijW03iYxdw82u0MpF/0oSVmsB7OOShwBjvy/MCq/G8+3KKFQt1FTaHx80iUDgWLbjGyzFPX8pJTeudgrKnpOq8sWc9cgJzJTtFgpHgsF0KoOb6qAZcNksvom65AHOBxGOQd+J0qyT5Gfad838TF7mdJ0d",
-      "iv": "Xeelx8BmGOgxL9v4",
-      "salt": "mXx8b2zzJEtSEhMbNmXCJA=="
+      "ciphertext": "7oBX4aRgDqHTohfNl7106dOy8RNqkk8unueo/63P/siOJZe4l/Gxx8H1SqboaMq6M2dHaFUmUCysrmVLszhWM4aAI6O3tPzsLElTKrT6IyOtiWfNzWRnl6v3byX4p9uhk+CzB9STjusPeAZUKpK5ahDnJ7+3Nvzzn6lPDHmd+d6zHnpe+HPT1wlDt/hKB/w1+mTddRherZlrpDVFRkqc6zZ4H2grTDjUCo3RTgWct9BSgu/ZKpDYTg/tamSMSdIZKL8CPDEfnk/mwX3ypWI8/pQ/HXr7toQ8KhKXgdoW7B5gDGDM+a/EPEicUkg1RjfrTmRRN3Du",
+      "iv": "kGwbAdCgm8FuUx1h",
+      "salt": "za2jW3IaRUMavgsTOfWnDg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "ahnf+b7bARpyxxDhLqJg3d3C31FMJ3MerYRReqI1ABAcXupv6GTT1/RlBILXGrxBnnBkzaLXW6iTV8QAjqXsGiitNtsPfIdnJQVnCydd300r0pv+fpG95Dd+6O5x8TLXcVYyR1LD2oSZJdlo2pnXHN81ypmw59UFPnXChBsrw4L0zabMbYW3H6sTwQopRHClCGGpYX6B1ATZBTpw",
-      "iv": "ZytNlLsQe8nsGhmU",
-      "salt": "k1YTqQvCSwIYIB6fafjMew=="
+      "ciphertext": "QpPiSHpjsN1WQxJTb6G/GV/cETXMnfi1ZP+sdzklVnNxAoVgfzfK3P61YBBt6eUR8Q4ylmMe7md7MsKUKcZ4KZZaEu61+KSDrPOj78FN4Hh8C/l4RisIX+5CXF/czFROvD2EbTx6osIBACaYDc6SOoaavqlrU/FTvk1T/CQ2W4FEEvOOpiBiskUlXNl0pS5sMUzo/B+rl6AOZBAt",
+      "iv": "TbbvMHXP5nG7dNZN",
+      "salt": "c4J9zy3zNXVI3fTxkCaprQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -196,14 +196,6 @@
           "rel": "home"
         },
         {
-          "t": "Unification minister to visit Ireland, Northern Ireland, Germany from this week - The Korea Times",
-          "b": "Unification minister to visit Ireland, Northern Ireland, Germany from this week  The Korea Times",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTEzVGMwcm1ITEpsTVdMTGhmVUx4YW55Q0g5cGZpQlBWNWlHYVlEdDhpeUZ1XzNoejZyZHFPdHlWN2J6WGdJNy1JQ3A3OWxScUk5Vmx0UXVEVVYtZXZIWEtZZHBSWkxnVUxMNjJxWVZrWkZhTFJtS29ueUlwTV9DZkxxWndGa25icHpCbU52R2hfZEQzYTJpaEkwZEtET1YtVi1OQVVXdHUzOWdRZUlQVTdxNl9nMW5hUFZNRjVjcFJVTlkwdlRMcjBR0gHPAUFVX3lxTE94LVo0eFJaeDNYbWdkSmF0RXh2aVhUV2FXeU1qTVBydndaVkVrX0ZNZlhoR2dsYkJ1SGhFaVhKTTdPblNkUl9feVJfYTZwM3ZEOC1nc3RRdHJSa0ZCSm1LOHVNSUwycmRKMFotR01KSzZ0ekxGS2VTd1ljOVI4eUs3VHFuMjFOUjNjUEJJVWRTNkZDMU5BS2tsQnNaT2FDRFZjVzRwUnBmZEYtLWdpU0ItaEtuaEExdEZpNTlUZ0Z6dmZhSHdHXzF0MFZJN3g2MA?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "📌 2027 Fully Funded",
           "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
           "src": "insight",
@@ -227,24 +219,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "hart",
-          "b": "<span class=\"jt\" data-g=\"lang_hart\">hart</span> — hard",
+          "t": "die Hauptstadt",
+          "b": "<span class=\"jt\" data-g=\"lang_diehauptstadt\">die Hauptstadt</span> — the capital <span class=\"gram\">(plural: ¨-e)</span>",
           "src": "Goethe B1 · p.48"
         },
         {
-          "t": "hassen",
-          "b": "<span class=\"jt\" data-g=\"lang_hassen\">hassen</span> — hate <span class=\"gram\">(hasst · hasste · hat gehasst)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "der Hauptbahnhof",
+          "b": "<span class=\"jt\" data-g=\"lang_derhauptbahnhof\">der Hauptbahnhof</span> — the main station <span class=\"gram\">(plural: ¨-e)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "hässlich",
-          "b": "<span class=\"jt\" data-g=\"lang_hässlich\">hässlich</span> — ugly",
-          "src": "Goethe B1 · p.48"
+          "t": "das Haus",
+          "b": "<span class=\"jt\" data-g=\"lang_dashaus\">das Haus</span> — the house <span class=\"gram\">(plural: ¨-er)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "häufig",
-          "b": "<span class=\"jt\" data-g=\"lang_häufig\">häufig</span> — often",
-          "src": "Goethe B1 · p.48"
+          "t": "die Hausaufgabe",
+          "b": "<span class=\"jt\" data-g=\"lang_diehausaufgabe\">die Hausaufgabe</span> — the homework <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }
