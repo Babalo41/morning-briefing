@@ -1262,5 +1262,37 @@
     "lang": "de-DE",
     "d": "The homework",
     "w": "“Kannst du mir bei den Hausaufgaben helfen?”"
+  },
+  "lang_diehausfrauder": {
+    "t": "die Hausfrau/der",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The housewife/the",
+    "w": "“Meine Frau ist Hausfrau und kümmert”"
+  },
+  "lang_mann": {
+    "t": "mann",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Man",
+    "w": "“sich um die Kinder./Mein Mann ist Hausmann und kümmert sich um die Kinder.”"
+  },
+  "lang_derhaushalt": {
+    "t": "der Haushalt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The household",
+    "w": "“Ich kümmere mich um den Haushalt, d. h. ich putze, wasche, koche etc.”"
+  },
+  "lang_derhausmeister": {
+    "t": "der Hausmeister",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The caretaker",
+    "w": "“Der Hausmeister hat mir geholfen, den”"
   }
 }
