@@ -1294,5 +1294,37 @@
     "lang": "de-DE",
     "d": "The caretaker",
     "w": "“Der Hausmeister hat mir geholfen, den”"
+  },
+  "lang_diehausmeisterin": {
+    "t": "die Hausmeisterin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The caretaker",
+    "w": "“Schrank in die Wohnung zu tragen.”"
+  },
+  "lang_diehaut": {
+    "t": "die Haut",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The skin",
+    "w": "“Haben Sie eine Creme für trockene Haut?”"
+  },
+  "lang_heben": {
+    "t": "heben",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Lift",
+    "w": "“Kannst du mir helfen? Das Paket kann ich allein nicht heben.”"
+  },
+  "lang_dasheft": {
+    "t": "das Heft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The booklet",
+    "w": "“Ich hätte gern ein Schreibheft.”"
   }
 }

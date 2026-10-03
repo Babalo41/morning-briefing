@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-02",
-  "day": "Fri",
-  "dnum": "02",
+  "id": "2026-10-03",
+  "day": "Sat",
+  "dnum": "03",
   "mon": "Oct",
-  "date": "Friday 02 October 2026",
-  "headline": "Briefing refreshed 16:22 Berlin time",
-  "stand": "Automatically rebuilt at 16:22 — 12 sections tracked.",
+  "date": "Saturday 03 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Azv9UulCZbNSgFY1FdT18gzoBnvLRxXX1IxIsarbKsbBjeYeh33PQHf6h1ZDwvcR2KHbi4IgS8A+F8byfp54qlLmsZFcQo5HqMm/rcLv1a3eiB9vvRSJfJ9oSRtbTUmRVTaCfhldPzEc7fdaoV40XSttHxGyf9rI6YDN6ZjRfNyrIcckSCUz",
-      "iv": "cdxgoUuHV+L9W7WG",
-      "salt": "K1lt84GNAW5iyvBu0CXMEA=="
+      "ciphertext": "tdvR2QEDZ6/mhY+X6B2nyf+qqMobJCluejivmqUfbIReGf5YJogzqf0uLVLR2JyrlJ9jN4gC9Hn0HPdKnHoQ9Yae7yO3g12+qO6o47QKRsObonxZftfcwIr5sOfeFKz6RPuUSg0Oh2n5+RKF1kMF07/3q1kk5xT9g8J0Oepb6tOrFICuomwr",
+      "iv": "gmQDIfccRBhxCYvJ",
+      "salt": "QXSIFdQZpYQcl6uyOpb6hQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "19°",
+          "n": "11°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 19°C",
-          "b": "Low 14°C, gusts to 19 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 19°C",
+          "b": "Low 10°C, gusts to 13 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "/1SzPObUyHIVtq7ZQaNtP9jF3QjKlU6m/KzX+ivfKYlxNTvT9l8L/7EtOG+SEspMyeRPh/mkHXoMh3RbuA0NNMp0JMC3pj/3KI+9lkuGJu3MylNqsYfShoMgp8zck9td7zhvqfL1Ehtk9ikHSePxphUw28xB7tCq5IJw",
-      "iv": "SHJ8FpIoKUg8V5+U",
-      "salt": "U+StLMaVMGMTcA9xgazZIQ=="
+      "ciphertext": "LP47wxniRnq5j53Fflim2wI/cBXzz7YBuWlTbNsMEa8Eyh02VXQawRTjwWkedbTswsEdxlHK1PnBABhAA0R0pKa5qK1Cd4TSpZxjL0PRPtGUPSVfSBmSYI15V20bEU2rSbyYf6K8JkNZGf24kZgPHrxg6G/+e8A2ydhV",
+      "iv": "Qo3MuR8hiCLsvO2v",
+      "salt": "5XZ0bQwyqghI383GNO4ukQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "Es+Siw5WRTMnPOLHiI3J37sGeSwzF8wnw+VpvZwnOheK1pGwxPP/+kBvqw+JzRAqIK5bhqlWopjXFNhBAWT8Ost5+/iRvEEVbEt4xhSrL6Px6AKkV1PKqLBuJtmembR+Oh4AB24J870odJSL58QifMK7iwUBsJhjjZZD+Y6LgzYTWXCG0fzCuRhbUsXUL/7ZzNkbtLHwRS2rTzzTa8pHi2oEmUA+N5f50SvTch10XXT5tNivHxTaxHZJAXAQegP6RQ54mcW2GuVt4pAkaAE/xb2bmv7TYkp6VkU5EsCSLcSuGOaCp3aAmmmK5ZfCyaOQm4SSCyIj",
-      "iv": "nF3Cgkh5jQrPco2e",
-      "salt": "P4+VEbSr6tkEll/WfVmgcg=="
+      "ciphertext": "LfGvMvvpJXDQyavx43awJQlr7iR2JyABksPvaNvUkl84TgqelUgnWJvoUXdWwp3bI+31tJfzHjCGybE/mIcwM7pG/0niDUZyE2EGgMnl33Oqm3q22Aza1Gh5431Ox2UZwi6PcQARM1ITPkWngTVAwxBN/Lr7POwlptqAjAQahV/gYky6GXEkS58ww85Tg3P/ar3S9ydKOKz3uS/2jkurWzbZLeqRbdQfWjZM5sAGZcxTz9ISy2fK5CLMv+oe13f1WPz23wevR8r9ey0yvFBAk8CPCLpHY2ErVFwSptbeUcqZ2UgqvIeQZYOeZVEE887mGwX4/x2B",
+      "iv": "94IHFiOmGd8WLqA6",
+      "salt": "m14oWB1mBJDFVstxkWVerw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "/DHu5hqSaOWtJ7DeU+EiXVlp0FvtVe2NRdLc0VBSnhtLHcRPkYj//Ub6+oNOQiN6MpUS3Sxns5eZcxkVIwpHBNnjidm5JPZa/H5PgHuWHebIXiyC0JZUH++gGtx3Mpytfdkt7WPHtz2/5B0+ABiTeaF087z0V15RqVuezBuMtcOomS9vijFNyvzcQJBCm4QxmalB0tXVTLTeygr5",
-      "iv": "4W3Too+acR3pjfYw",
-      "salt": "RDbWYkvqSt+7saE7MkklYA=="
+      "ciphertext": "970jJWOftYYbqFrES6cj2+6UNyQTfnAFqJ1guHp3IuCn4F/TQY05u0KKwkKq/64Ykpo6i1ZULyM09rRde+rPRrPg4z949n0KLGQevfyNFN/14dereX4d+nb02N/gx/Qx+aOwWJ/uLWISUS1E3VYQpnz2pRt4+rtnr6iu9hRedNeLqAez2Br0/iTgQ60doWPlvGsdRS/0tLfusklr",
+      "iv": "P6SzNOto4q+EkBoe",
+      "salt": "gZ6WCkmNHZe+z+jXSwJhEw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -171,14 +171,6 @@
           "rel": "home"
         },
         {
-          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
-          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -193,6 +185,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
+          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,23 +212,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Hausfrau/der",
-          "b": "<span class=\"jt\" data-g=\"lang_diehausfrauder\">die Hausfrau/der</span> — the housewife/the",
+          "t": "die Hausmeisterin",
+          "b": "<span class=\"jt\" data-g=\"lang_diehausmeisterin\">die Hausmeisterin</span> — the caretaker <span class=\"gram\">(plural: -nen)</span>",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "mann",
-          "b": "<span class=\"jt\" data-g=\"lang_mann\">mann</span> — man",
+          "t": "die Haut",
+          "b": "<span class=\"jt\" data-g=\"lang_diehaut\">die Haut</span> — the skin",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "der Haushalt",
-          "b": "<span class=\"jt\" data-g=\"lang_derhaushalt\">der Haushalt</span> — the household <span class=\"gram\">(plural: -e)</span>",
+          "t": "heben",
+          "b": "<span class=\"jt\" data-g=\"lang_heben\">heben</span> — lift <span class=\"gram\">(hebt · hob · hat gehoben)</span>",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "der Hausmeister",
-          "b": "<span class=\"jt\" data-g=\"lang_derhausmeister\">der Hausmeister</span> — the caretaker <span class=\"gram\">(plural: -)</span>",
+          "t": "das Heft",
+          "b": "<span class=\"jt\" data-g=\"lang_dasheft\">das Heft</span> — the booklet <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.49"
         }
       ]

@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-01",
-  "day": "Tue",
-  "dnum": "01",
-  "mon": "Sep",
-  "date": "Tuesday 01 September 2026",
-  "headline": "Briefing refreshed 20:14 Berlin time",
-  "stand": "Automatically rebuilt at 20:14 — 12 sections tracked.",
+  "id": "2026-10-03",
+  "day": "Sat",
+  "dnum": "03",
+  "mon": "Oct",
+  "date": "Saturday 03 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ea6ttqUcgh9WCXjiJh0NiIf4aRwqgYXEToq3jAC0TaZseOrssrBb7MONUlXqYOBhRS104xVlR8/tUcbk7gzITUi5U88TpBwpAvNTYdaQinyk4GhU/FOEnA6HOq0LPgMBhWsxkzDEo/M5d4XH9tbMkZmN98traho4/TgluCYAjsP6vXwqw/ix",
-      "iv": "fvMzLXZZxNd3K7ep",
-      "salt": "Ho+XaIOcpCmR3N1wFHXOmw=="
+      "ciphertext": "tdvR2QEDZ6/mhY+X6B2nyf+qqMobJCluejivmqUfbIReGf5YJogzqf0uLVLR2JyrlJ9jN4gC9Hn0HPdKnHoQ9Yae7yO3g12+qO6o47QKRsObonxZftfcwIr5sOfeFKz6RPuUSg0Oh2n5+RKF1kMF07/3q1kk5xT9g8J0Oepb6tOrFICuomwr",
+      "iv": "gmQDIfccRBhxCYvJ",
+      "salt": "QXSIFdQZpYQcl6uyOpb6hQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "19°",
+          "n": "11°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: thunderstorm, high 21°C",
-          "b": "Low 15°C, gusts to 45 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 19°C",
+          "b": "Low 10°C, gusts to 13 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "XMyFYJqE9SFEVvErXluXRWRyotcEXO0de7zrasJswwcrLld4F2aUA3pHsBUmJYcjjtmc7nqwHGuh9LtSdUvmMCrcOJvgSODw8CIIG3rC9VHnVuCdaJVNwm0QlVPJgaGbTLdG+GdXY5jvQAW8EoW7kd1ngJDXFwBJ44El",
-      "iv": "7R7J/fN0fNTNg1FP",
-      "salt": "MqGj/AOC8auP08ZJPJAR7Q=="
+      "ciphertext": "LP47wxniRnq5j53Fflim2wI/cBXzz7YBuWlTbNsMEa8Eyh02VXQawRTjwWkedbTswsEdxlHK1PnBABhAA0R0pKa5qK1Cd4TSpZxjL0PRPtGUPSVfSBmSYI15V20bEU2rSbyYf6K8JkNZGf24kZgPHrxg6G/+e8A2ydhV",
+      "iv": "Qo3MuR8hiCLsvO2v",
+      "salt": "5XZ0bQwyqghI383GNO4ukQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "1iDQLONFSsVEC8fTvWaLexbNmeD/0+S2CreA9F0ij9Rlfndb9CjMbUSu3gscsMuhaOAhUwhiKU66sVs0qNdWsPUuT6hUHFmiJXfVlpDp6P34BJVWLEwKv+U1P6MFAat1Zx4kkGqbcdGPxvGlWvwIkxYYscyb70YvJgkfV6Z27KE52/76yPizMjIdIxv1qE+QVgD/eW/Qt9LdlhrIf4W9k8dg3bBevoYyGLYFghAcQkXiU2fWVNJkHkRvK9gvUHg2cEK3FKzBun4HXk+MQ/mEO5vqHzJ2qfo3Czy185IuQi11dlPH8Z/O524OkHMGehvv+/P9kaBK",
-      "iv": "WvaKDA903QDx16NM",
-      "salt": "s+IWA0ohZUfL8bkmAbDIYQ=="
+      "ciphertext": "LfGvMvvpJXDQyavx43awJQlr7iR2JyABksPvaNvUkl84TgqelUgnWJvoUXdWwp3bI+31tJfzHjCGybE/mIcwM7pG/0niDUZyE2EGgMnl33Oqm3q22Aza1Gh5431Ox2UZwi6PcQARM1ITPkWngTVAwxBN/Lr7POwlptqAjAQahV/gYky6GXEkS58ww85Tg3P/ar3S9ydKOKz3uS/2jkurWzbZLeqRbdQfWjZM5sAGZcxTz9ISy2fK5CLMv+oe13f1WPz23wevR8r9ey0yvFBAk8CPCLpHY2ErVFwSptbeUcqZ2UgqvIeQZYOeZVEE887mGwX4/x2B",
+      "iv": "94IHFiOmGd8WLqA6",
+      "salt": "m14oWB1mBJDFVstxkWVerw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "yIQMoBmM8reIiwY/anHm4Jsxh4gCHFtR4uzpnw4XRHBbIdoyoq8PMObczfUTYQLhDSCKCH6aZfftjlIb+xPU4dObGiA6GbugDrQdSlspENq+nJ401b67zxHFB3n5IbZHlVe53Ti/Fwtd2CXeNtjUkpWgulLXRlKgeqXfe4cYE3s4j9gBbtZmLoicko7mVMh4K8hXpdakoD/mLJ14",
-      "iv": "KOsz8iLR2/4BNYR2",
-      "salt": "VljE/6ua0ghLxRevvnBmvw=="
+      "ciphertext": "970jJWOftYYbqFrES6cj2+6UNyQTfnAFqJ1guHp3IuCn4F/TQY05u0KKwkKq/64Ykpo6i1ZULyM09rRde+rPRrPg4z949n0KLGQevfyNFN/14dereX4d+nb02N/gx/Qx+aOwWJ/uLWISUS1E3VYQpnz2pRt4+rtnr6iu9hRedNeLqAez2Br0/iTgQ60doWPlvGsdRS/0tLfusklr",
+      "iv": "P6SzNOto4q+EkBoe",
+      "salt": "gZ6WCkmNHZe+z+jXSwJhEw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "I just had an interview last week",
-          "b": "I have more than 10 years experience in QA, and I just got humbled by.... theoretical knowledge. Absolutely no practical test involved. Listen... I may have focused in my career on the practical testing: how to test, how to think about breaking the software and so on, and less on \"the theory\" of it ",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1w39ovc/i_just_had_an_interview_last_week/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +115,12 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -129,10 +129,9 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
-          "b": "Beijing's botnets busted",
-          "src": "www.theregister.com - Articles",
-          "u": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "work_industry"
@@ -164,34 +163,10 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Werder Bremen’s Samuel Mbangula headed to Bologna on loan - Get German Football News",
-          "b": "Werder Bremen’s Samuel Mbangula headed to Bologna on loan  Get German Football News",
+          "t": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75) - Unisba Media",
+          "b": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75)  Unisba Media",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQWhCTm01ZHlKYzFUSDZST0NaNUxqcGJwM0E1VDhOVGRfWl85OWFmMVhTZjNHSFhRdHdDM04wc01ua0h4Ty1kZnR2ejlFVHJkSVd4a3F4VDJzRnBVX0FHVzdXTHVDUGtwaTdfZDBvQkEwN21EaDRXblNRS1pEQQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen prepare for hectic close to summer 2026 transfer window - Get German Football News",
-          "b": "Werder Bremen prepare for hectic close to summer 2026 transfer window  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OQTU1Z0xUeHVnUEI1eFhxbHprZVp6dkV1Z0l0LUZvZVlxUkRiUFFaLU1EaGg5OXlscHBaTzUxOTVldjE4UnAyZWRieV9OMHUtY3h4dlpBZFF2Z2VxT1JJNzRDV1VZaUdfSTlBbG5GTTcwNWs?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Freiburg beat rivals in Germany opener as Suzuki nets hat-trick - The Assam Tribune",
-          "b": "Freiburg beat rivals in Germany opener as Suzuki nets hat-trick  The Assam Tribune",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEZOb2VlTlJQSWItYVZIUmMxc0pXcWwyZjRPMHhrTjExc2JzWllBcloxNkFYTTRfeWJ3QnhqNC1jNmxDRlpISGloTURNb1JuZngtakhwdmFjQXpDN0tpbEV5YUFpLXlSTUZxU0I1RDEzSlozU0ZDcldDZ2ZLbTIyN3ZzUzNvdzZtaUFGbnZFMEthaDRsT2d3djljZlBCNDdXdXJJYkZB0gGrAUFVX3lxTE9ZVHlzT2ZCOV9TOGhVZGltWDV6Q3RzN19NUVkxRTNRbVVZOGdBOE5tOFB1bl9rcFVQUzFLR1BHWjI3OFRFVkU0U0lfZFZBeWV5NFdfY21pTHR5OVJBSHNIUlJsVXZXaV8wS1BhYzIxRXFSMGljVUtPWHc5QThMNFRRSXRROXhvLUFFbk5UN0FnUGVHRmRYYzJHbk5PZW5HSUZlNzZDUEpNZGx5Yw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "SV Hemelingen - FC Union 60 Bremen, 30/08/2026 - Bremenliga - Match sheet - Transfermarkt",
-          "b": "SV Hemelingen - FC Union 60 Bremen, 30/08/2026 - Bremenliga - Match sheet  Transfermarkt",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3NvNDV5ejFUNkVHRFd1cW9wYzduSnlJSWRwUWxmcWlqT1dWbHF4LW4ya1ZIRk54U1l5TGloZzQzOURMeHB2TEpMZTVPbVhlcHRMNWVycld1aEtpOTNlVjViTE9GSG0tV3FjaFN1ZUVuRFpOWUpDTg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3A3WUVOTHlpdHlDMnRUcVltWUVvX1BVTjlZeFJMYVEwaF9LanFJM1o4NXpPRG1xRnZoSXQ0NG05allwc01ub2h4ai1XZzVtVFZaOWxlLUUwNlJHdDdJMlN6aTNFQW1OdDVFcnFqWHd6TGVUVXlCLWYxWUJRN1huTGF3?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -212,26 +187,12 @@
           "rel": "interest"
         },
         {
-          "t": "Werder Bremen dealt crushing injury blow with leading goalscorer Jens Stage sidelined until 2027 - Get German Football News",
-          "b": "Werder Bremen dealt crushing injury blow with leading goalscorer Jens Stage sidelined until 2027  Get German Football News",
+          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
+          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ODM2NGhKTk12QVR5b0JOdnd6c09uU3RHNlhENFR0WmJwdFY5ZV83eVl0S3hqMDFIbEhHc2o4SVF6QjkzVk9rZGdFb1JXQzlQdTJTZHBveGJobDY1UG1UREtMSnlab1c1dzdhdkpvclVMS0l0MFE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Atalanta in discussions for ex-Juventus talent Mbangula - Football Italia",
-          "b": "Atalanta in discussions for ex-Juventus talent Mbangula  Football Italia",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DN0VQTk1UeEw5OXJNRWdxdk5odV9LenhiV2cwMnRUbk15cVVXVGhVOElxLXBBZ1dRazRYVFMxazQwbkNlclgzWjlKb1JiZWNlaEZsaTR3QXFFU3lZczJja0o0ZF9xeVhhYmNGMzc3SHB2eFg4RVhIc3JXUdIBgAFBVV95cUxNUjdNcXNKVWJlTFJwbXRpTndyN2ZCVzRQSG15YVd5ZERvR2JzTDFpaTNlREdlWGdKV2ZocVFILTVWLURvVDFPRExFYVNSR2ZBTnk1ak1pVTF6c0xxN2ZDMmh6em5nR2tjV2pwLVBqbU1hWVh0VzExR05ONUJUU0txVQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Werder German Football",
-          "b": "Werder Bremen prepare for hectic close to summer 2026 transfer window  Get German Football News Werder Bremen’s Samuel Mbangula headed to Bologna on loan  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -240,10 +201,9 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "Dolly Parton laid to rest alongside husband in Nashville",
-          "b": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -252,24 +212,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "genau",
-          "b": "<span class=\"jt\" data-g=\"lang_genau\">genau</span> — exactly",
-          "src": "Goethe B1 · p.45"
+          "t": "die Hausmeisterin",
+          "b": "<span class=\"jt\" data-g=\"lang_diehausmeisterin\">die Hausmeisterin</span> — the caretaker <span class=\"gram\">(plural: -nen)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "genauso",
-          "b": "<span class=\"jt\" data-g=\"lang_genauso\">genauso</span> — exactly the same",
-          "src": "Goethe B1 · p.45"
+          "t": "die Haut",
+          "b": "<span class=\"jt\" data-g=\"lang_diehaut\">die Haut</span> — the skin",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "genehmigen",
-          "b": "<span class=\"jt\" data-g=\"lang_genehmigen\">genehmigen</span> — approve <span class=\"gram\">(genehmigt · genehmigte · hat genehmigt)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "heben",
+          "b": "<span class=\"jt\" data-g=\"lang_heben\">heben</span> — lift <span class=\"gram\">(hebt · hob · hat gehoben)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Generation",
-          "b": "<span class=\"jt\" data-g=\"lang_diegeneration\">die Generation</span> — the generation <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "das Heft",
+          "b": "<span class=\"jt\" data-g=\"lang_dasheft\">das Heft</span> — the booklet <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }
