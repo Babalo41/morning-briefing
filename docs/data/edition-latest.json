@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-03",
-  "day": "Sat",
-  "dnum": "03",
+  "id": "2026-10-04",
+  "day": "Sun",
+  "dnum": "04",
   "mon": "Oct",
-  "date": "Saturday 03 October 2026",
+  "date": "Sunday 04 October 2026",
   "headline": "Briefing refreshed 06:00 Berlin time",
   "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
@@ -11,9 +11,9 @@
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "tdvR2QEDZ6/mhY+X6B2nyf+qqMobJCluejivmqUfbIReGf5YJogzqf0uLVLR2JyrlJ9jN4gC9Hn0HPdKnHoQ9Yae7yO3g12+qO6o47QKRsObonxZftfcwIr5sOfeFKz6RPuUSg0Oh2n5+RKF1kMF07/3q1kk5xT9g8J0Oepb6tOrFICuomwr",
-      "iv": "gmQDIfccRBhxCYvJ",
-      "salt": "QXSIFdQZpYQcl6uyOpb6hQ=="
+      "ciphertext": "zBguA03cJQ6NxyfnB85fgkS3W4894vugr9kBk0cfd6A1F+xJnPwGw/xGLK9a4ReKacQy2bp4qrB44++tkHPSmJ5BAsSvM/EclEvmTZdrJRtAIMyx68eivhVSpc2xOFZYjIe2pWyJW0/tfi6ES+OS/5j29XiPY86+aK/ctdeiLPyEirRWuSJ5",
+      "iv": "jSC/71XlTvkcDSpf",
+      "salt": "uFhsLqnD1vu83OT+1Thf6A=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: fog, high 19°C",
-          "b": "Low 10°C, gusts to 13 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 18°C",
+          "b": "Low 11°C, gusts to 19 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "LP47wxniRnq5j53Fflim2wI/cBXzz7YBuWlTbNsMEa8Eyh02VXQawRTjwWkedbTswsEdxlHK1PnBABhAA0R0pKa5qK1Cd4TSpZxjL0PRPtGUPSVfSBmSYI15V20bEU2rSbyYf6K8JkNZGf24kZgPHrxg6G/+e8A2ydhV",
-      "iv": "Qo3MuR8hiCLsvO2v",
-      "salt": "5XZ0bQwyqghI383GNO4ukQ=="
+      "ciphertext": "Nm0ymtvr9SeL1+Nz2xZDOUwBGLu/FfovSex5pCle7+YtrMJlSSV/5hLnbzSBqV4BPQwJZdoLUyMP8z4iukCvDUpIPY+kV3Drmbsd2fsE9EfK8LjV2kwMbNqHQihZHkQuTzVajNq1BfIy+PGpnWjBi93LKLj+nzSj7qeY",
+      "iv": "5q0U/CmmYU3Oj4OR",
+      "salt": "F8O5O+zGM6u4Zlqk6o+R2w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "LfGvMvvpJXDQyavx43awJQlr7iR2JyABksPvaNvUkl84TgqelUgnWJvoUXdWwp3bI+31tJfzHjCGybE/mIcwM7pG/0niDUZyE2EGgMnl33Oqm3q22Aza1Gh5431Ox2UZwi6PcQARM1ITPkWngTVAwxBN/Lr7POwlptqAjAQahV/gYky6GXEkS58ww85Tg3P/ar3S9ydKOKz3uS/2jkurWzbZLeqRbdQfWjZM5sAGZcxTz9ISy2fK5CLMv+oe13f1WPz23wevR8r9ey0yvFBAk8CPCLpHY2ErVFwSptbeUcqZ2UgqvIeQZYOeZVEE887mGwX4/x2B",
-      "iv": "94IHFiOmGd8WLqA6",
-      "salt": "m14oWB1mBJDFVstxkWVerw=="
+      "ciphertext": "/9X7mZQaeaI86ebTTCLVP+exPpSj9IYzWHYhyvXAdjsns6h7K8KJDfgD2pKGZOwXB8D9lIE1NZYpMaj4O33IHRw3qRr5qUMTOriqMPnpWHskjzGOljVjMZvaURaop6YcafPEoy5fbhKIfHuBONrk1q0+LBm4vk+5xbbRL0N2Iyx+1m5QQTZKkKcGOHf8vZ9qZMLYIpeniV1SSaiPqXaTdAfuyjm2Po0Vz6YzXUgGtsoUGkGN4qfwXXdbnHlTBBeLShQ9P7Z0k+fYbL8qZuE4pMsWhG6+s0JHF9hxJlCENJaVP7+bgy8DHbeTGQKWlowcae3W1SBQ",
+      "iv": "MBDWiZBhCHVKvF3b",
+      "salt": "n8oUKyVEuszllcD4CJEyLg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "970jJWOftYYbqFrES6cj2+6UNyQTfnAFqJ1guHp3IuCn4F/TQY05u0KKwkKq/64Ykpo6i1ZULyM09rRde+rPRrPg4z949n0KLGQevfyNFN/14dereX4d+nb02N/gx/Qx+aOwWJ/uLWISUS1E3VYQpnz2pRt4+rtnr6iu9hRedNeLqAez2Br0/iTgQ60doWPlvGsdRS/0tLfusklr",
-      "iv": "P6SzNOto4q+EkBoe",
-      "salt": "gZ6WCkmNHZe+z+jXSwJhEw=="
+      "ciphertext": "jpjKM0UGNj7bAIOnjLVXIM70+v6xsDzWTN/yTS3WOt0oH8XR4f+owWf9ajOBdvaUn5fUNZUT3qaq52AQcN0elkaZukpnQo1Q/bu8cgNvyaU/ry6v/y5E7AyQlz8dkAVXFn28ZgG6rQse5mQ44xzxSkk73iH+EmMKFBuwM9X6Im91OldEGPFOqDPGaTmdQad/T+/cy6FoXLZphaRd",
+      "iv": "TiDJJMdiQ0Q9kdmU",
+      "salt": "HATjLGRMSN4Nz128ulIWGA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,10 +163,66 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75) - Unisba Media",
-          "b": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75)  Unisba Media",
+          "t": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics - facebook.com",
+          "b": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics  facebook.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3A3WUVOTHlpdHlDMnRUcVltWUVvX1BVTjlZeFJMYVEwaF9LanFJM1o4NXpPRG1xRnZoSXQ0NG05allwc01ub2h4ai1XZzVtVFZaOWxlLUUwNlJHdDdJMlN6aTNFQW1OdDVFcnFqWHd6TGVUVXlCLWYxWUJRN1huTGF3?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFpzVm1NQ0N1UndmTE13Mi1NMzlfZThGWkNpRTl6MWFpdEFVMFhwN3ptS09Wb3dtSmdPUGFzR2EzZmE4MFkxZ1BqTEItWG5HRURmYXVybkYzc24wRWV0c2s2anVMcld6Q3FhZnRtQlRsamtqUGx0TkRRdUo4OWJGUXk1VkZtSU1NZXlTU1c2bjk3d1pKMG5ZY0pmdGFpaFJfZ1kxcmFkUm5xdUZJUHRTMGxUOEZWbDg0VDU4RDM0QXRBMEdWd2laTlU1UTZhazkySnNZaldCWkk4SEJjUUozaHh3?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen - Report.az",
+          "b": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen  Report.az",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWJ2SzMyMzhkZlp1RldsNFV5aDVhZkZPZjkxLWpzY2t3OE5rc0dxbEI4YnJCS2hIYkJJaWE3bzNYa1hSNlVjNzJDTXJHRVdkX3ZpSzB4YnpzcTJXeHlfVHhaaFZDbURCVUlUUkZvS2Z5bV9ZMkp6TTc1ckpFbHRBVmV0TzBCaEp6bUdMcEFYcTVvWThGb0lueWV6eTdobXRYTWVOb1F1WEZEUlHSAasBQVVfeXFMUDlidkszMjM4ZGZadUZXbDRVeWg1YWZGT2Y5MS1qc2NrdzhOa3NHcWxCOGJyQktoSGJCSWlhN28zWGtYUjZVYzcyQ01yR0VXZF92aUsweGJ6c3EyV3h5X1R4WmhWQ21EQlVJVFJGb0tmeW1fWTJKek03NXJKRWx0QVZldE8wQmhKem1HTHBBWHE1b1k4Rm9Jbnllenk3aG10WE1lTm9RdVhGRFJR?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - dw.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  dw.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "German president warns democracy under threat after 'bitter setbacks' since reunification - dw.com",
+          "b": "German president warns democracy under threat after 'bitter setbacks' since reunification  dw.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjNnTkRMR244OUJfSElTTXpybnBsMkVXTVFSejFIR3lFZ1o4TFdVb2tBMk1wTjQzTkhMa0tOMUx2WlpMNVdHTS1OWDhyOE05RklSeXg5WmxhdkdPc3JvU1c2MzVReC0taHhfa0NEcDYxellfdG9QX0FQZDM4QUdGb25jWjMyYXRHSkZSbEtZcU5ZOGNo?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Reunification - The Batesville Daily Guard",
+          "b": "Germany Reunification  The Batesville Daily Guard",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlqUV8tUGUxQ2R6MFE5ZUtTU1ZYazhnMW5ZU05zOTJqUWdEalVPSmZPUjUtZUZHdkxsb2VtUFIxd0E2MUU4NkJBNW9iaHpCV1liNXJzMV91dXVtTGprMHJ0c0trNGVYZmhKNXlTNnJkZE1UakYxb1FwS1NncjUyV0xDNFZMN0w3LXdCTUhhVmZEallYMExST0dhVmF5bjRkMmdvNWpKZmVYMWxh?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV) - Unisba Media",
+          "b": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV)  Unisba Media",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzFfNXdCT080TW5uVERUdmVyNXNNVjVuR3lpWEMwWFluZDZiLU1zSU5jV09wdVo4MUpQNk4zeXY5LWN5ZTNPX0RiNG13aXhkdzdfclkzWFdvOUxWU0RQSHlobGx0dTkzU21UNEQ3RzlabklSV3RDTzYzOWlCX1h3ZVZ0Zi0zVU41M0E?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany celebrates Day of German Unity in Bremen - deutschland.de",
+          "b": "Germany celebrates Day of German Unity in Bremen  deutschland.de",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3NPUm51LTlsdkZpd0ZWY202MUJBLW15aUVxZTY1aHR1dDV5VUVkYnY1M0VkbG1wak5ULW5kelRFLTVGZDlSNVNLX0tqN0xFSWJ3VjdvZUJQblg4MkxjSlJWd0lmOERLYnpCbHNqR1JXNTA4eGNhNElHRDVMcjlEZThqVWw2QnU2XzZZ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bremen hosts German Unity Day with top politicians and public festival - Yahoo",
+          "b": "Bremen hosts German Unity Day with top politicians and public festival  Yahoo",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmFybWJFV2pUQTFOMmlvVUFBZGJRYzhySEtQMGkzcVF1QkpZbzNURkNqWDBGNlVvcGo2YU5oVHRheGs4RUw3ck84TkVYdHE5YkdJeWpRbW80QjdlaldfTUM1ZXRQWGd1UWhZRU1qSG4wZnRiaXBzMHRLTjdCdHducTRNSkQxRlVwNF9LMzUwVQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -185,14 +241,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
-          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,23 +260,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Hausmeisterin",
-          "b": "<span class=\"jt\" data-g=\"lang_diehausmeisterin\">die Hausmeisterin</span> — the caretaker <span class=\"gram\">(plural: -nen)</span>",
+          "t": "heim",
+          "b": "<span class=\"jt\" data-g=\"lang_heim\">heim</span> — home",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Haut",
-          "b": "<span class=\"jt\" data-g=\"lang_diehaut\">die Haut</span> — the skin",
+          "t": "das Heim",
+          "b": "<span class=\"jt\" data-g=\"lang_dasheim\">das Heim</span> — the home <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "heben",
-          "b": "<span class=\"jt\" data-g=\"lang_heben\">heben</span> — lift <span class=\"gram\">(hebt · hob · hat gehoben)</span>",
+          "t": "die Heimat",
+          "b": "<span class=\"jt\" data-g=\"lang_dieheimat\">die Heimat</span> — the homeland",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "das Heft",
-          "b": "<span class=\"jt\" data-g=\"lang_dasheft\">das Heft</span> — the booklet <span class=\"gram\">(plural: -e)</span>",
+          "t": "heimlich",
+          "b": "<span class=\"jt\" data-g=\"lang_heimlich\">heimlich</span> — secretly",
           "src": "Goethe B1 · p.49"
         }
       ]

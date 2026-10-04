@@ -1326,5 +1326,37 @@
     "lang": "de-DE",
     "d": "The booklet",
     "w": "“Ich hätte gern ein Schreibheft.”"
+  },
+  "lang_heim": {
+    "t": "heim",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Home",
+    "w": "“Ich will jetzt heim.”"
+  },
+  "lang_dasheim": {
+    "t": "das Heim",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The home",
+    "w": "“Meine Oma wohnt in einem Seniorenheim.”"
+  },
+  "lang_dieheimat": {
+    "t": "die Heimat",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The homeland",
+    "w": "“Ich lebe jetzt hier in Deutschland. Das ist meine neue Heimat.”"
+  },
+  "lang_heimlich": {
+    "t": "heimlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Secretly",
+    "w": "“Gestern habe ich gehört, dass mein Sohn heimlich raucht.”"
   }
 }

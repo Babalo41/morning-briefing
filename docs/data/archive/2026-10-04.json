@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-02",
-  "day": "Wed",
-  "dnum": "02",
-  "mon": "Sep",
-  "date": "Wednesday 02 September 2026",
-  "headline": "Briefing refreshed 08:13 Berlin time",
-  "stand": "Automatically rebuilt at 08:13 — 12 sections tracked.",
+  "id": "2026-10-04",
+  "day": "Sun",
+  "dnum": "04",
+  "mon": "Oct",
+  "date": "Sunday 04 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "m7qi9MSfj8shzawPrgek+ykcN7Dimv7TZoPbHZpln4aslqy4kOMPY5YeWQYYp5ch4lv3s5KFNYiRCmQcpc8H1K/4FR7moqGJsTEOxE1wkGH6yV6Y2GPfFJKn246QoMFUDfjyBl0LELieXt6vaNKwsEbzSQ5Fei+8DATUSMRbpg14f7cqunBF",
-      "iv": "4Dm4McVAGUf7Z8uN",
-      "salt": "SmmJRToxcgM36eY7MmevrA=="
+      "ciphertext": "zBguA03cJQ6NxyfnB85fgkS3W4894vugr9kBk0cfd6A1F+xJnPwGw/xGLK9a4ReKacQy2bp4qrB44++tkHPSmJ5BAsSvM/EclEvmTZdrJRtAIMyx68eivhVSpc2xOFZYjIe2pWyJW0/tfi6ES+OS/5j29XiPY86+aK/ctdeiLPyEirRWuSJ5",
+      "iv": "jSC/71XlTvkcDSpf",
+      "salt": "uFhsLqnD1vu83OT+1Thf6A=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "13°",
+          "n": "11°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 23°C",
-          "b": "Low 12°C, gusts to 47 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 18°C",
+          "b": "Low 11°C, gusts to 19 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "52VIcBxpwv68jxtPQXucFQ05egs5EWtvzHOY9s5E6xoQ9UKfbTHikNyrUs5yvVLZ3U6PcxALSsWtcsbSEYusTFK9SLKLlmUfjyBCuKu0GXyJzmO3fKqIK2ESJxwc2G9wKboah5twJ8q1M6RBYuhS1gO7WSQkGkydm6LJ",
-      "iv": "VwtL6NqwH0ma29JW",
-      "salt": "aXzAcG9pEcnfeXayuSozQg=="
+      "ciphertext": "Nm0ymtvr9SeL1+Nz2xZDOUwBGLu/FfovSex5pCle7+YtrMJlSSV/5hLnbzSBqV4BPQwJZdoLUyMP8z4iukCvDUpIPY+kV3Drmbsd2fsE9EfK8LjV2kwMbNqHQihZHkQuTzVajNq1BfIy+PGpnWjBi93LKLj+nzSj7qeY",
+      "iv": "5q0U/CmmYU3Oj4OR",
+      "salt": "F8O5O+zGM6u4Zlqk6o+R2w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "U+yO01UUdefxTHUkwRQXs7PwHxiulfgpdSVSldpg++2xmtCeGnT3a+nByvoAW2VDpYwid+nFH9HXFRsQt/izmS+IN5W+XZtbj+TNlHgl2XroHMaG3F/ITVW08sI/T0CSX6TRtPfkTjBcFRzVD2/VdH4lGhQkercpi4YsaDiU58NZzMc/pIxAX1P7DFCJ7qipv3ILabcdQxDaoT5HrtzGQCeouzs/TIS0fizTvdZ9RrrX00hQVcukuTQaLQ82zsJMWcMysYlurnEf5Q9vu1A6toKONDhAddsybD9SbJL7T2tAFLADLixYbjjlb5Krk4/u2A9gVBZy",
-      "iv": "n5vRBeWkPp0/l3xY",
-      "salt": "FpZyD4y76MdedRN9/8l7DA=="
+      "ciphertext": "/9X7mZQaeaI86ebTTCLVP+exPpSj9IYzWHYhyvXAdjsns6h7K8KJDfgD2pKGZOwXB8D9lIE1NZYpMaj4O33IHRw3qRr5qUMTOriqMPnpWHskjzGOljVjMZvaURaop6YcafPEoy5fbhKIfHuBONrk1q0+LBm4vk+5xbbRL0N2Iyx+1m5QQTZKkKcGOHf8vZ9qZMLYIpeniV1SSaiPqXaTdAfuyjm2Po0Vz6YzXUgGtsoUGkGN4qfwXXdbnHlTBBeLShQ9P7Z0k+fYbL8qZuE4pMsWhG6+s0JHF9hxJlCENJaVP7+bgy8DHbeTGQKWlowcae3W1SBQ",
+      "iv": "MBDWiZBhCHVKvF3b",
+      "salt": "n8oUKyVEuszllcD4CJEyLg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Fu0L7RnBL1iWFQfUe7k0VY5UpHM6hHUJJ5r4v45N7nlfrdIT7qqh6E34ZaG8HtddxETV0EMldAit4nVecGsF0xlk2hG5/KlVksHYhzD12Vjom673ufah7hqVtW8j5j0Sbl7t4WlJxHvCDutEN/FtHyzlc5OALpgOx0I+DXczlNdc7OOxPXGgSTLRpyky2gE0pTvlzynM0D+4zxIJ",
-      "iv": "Mvm1z4nhqABR57+t",
-      "salt": "eloGjxSu/NdsKQsrj96vyg=="
+      "ciphertext": "jpjKM0UGNj7bAIOnjLVXIM70+v6xsDzWTN/yTS3WOt0oH8XR4f+owWf9ajOBdvaUn5fUNZUT3qaq52AQcN0elkaZukpnQo1Q/bu8cgNvyaU/ry6v/y5E7AyQlz8dkAVXFn28ZgG6rQse5mQ44xzxSkk73iH+EmMKFBuwM9X6Im91OldEGPFOqDPGaTmdQad/T+/cy6FoXLZphaRd",
+      "iv": "TiDJJMdiQ0Q9kdmU",
+      "salt": "HATjLGRMSN4Nz128ulIWGA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "I just had an interview last week",
-          "b": "I have more than 10 years experience in QA, and I just got humbled by.... theoretical knowledge. Absolutely no practical test involved. Listen... I may have focused in my career on the practical testing: how to test, how to think about breaking the software and so on, and less on \"the theory\" of it ",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1w39ovc/i_just_had_an_interview_last_week/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +115,12 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,74 +163,66 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Official | Samuel Mbangula and Patrice Covic depart Werder Bremen on loan deals - Get German Football News",
-          "b": "Official | Samuel Mbangula and Patrice Covic depart Werder Bremen on loan deals  Get German Football News",
+          "t": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics - facebook.com",
+          "b": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics  facebook.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeTlIZWQ2NUFEMG9zTWt3aXM4Uk5EdThXc0RsaXhsRjFqalRLWGotekNJZlZZbm1OclJSaHlYeklRay1oeTEyclY5dVNrd2MwaFBwR253WVpGcDd5M2gza2I5RlVHUmNNZTlZU3VpNDk3c0pjSVNvZTBn?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFpzVm1NQ0N1UndmTE13Mi1NMzlfZThGWkNpRTl6MWFpdEFVMFhwN3ptS09Wb3dtSmdPUGFzR2EzZmE4MFkxZ1BqTEItWG5HRURmYXVybkYzc24wRWV0c2s2anVMcld6Q3FhZnRtQlRsamtqUGx0TkRRdUo4OWJGUXk1VkZtSU1NZXlTU1c2bjk3d1pKMG5ZY0pmdGFpaFJfZ1kxcmFkUm5xdUZJUHRTMGxUOEZWbDg0VDU4RDM0QXRBMEdWd2laTlU1UTZhazkySnNZaldCWkk4SEJjUUozaHh3?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Official | Werder Bremen confirm Brazilian fullback Arthur as 14th and final summer arrival - Get German Football News",
-          "b": "Official | Werder Bremen confirm Brazilian fullback Arthur as 14th and final summer arrival  Get German Football News",
+          "t": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen - Report.az",
+          "b": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen  Report.az",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRDJ4Y2Vqbll1TE0zRm8tNGhZRVBrd3J0R0NpMDJndzBfQ0M1d1Q1NDFFOXh5bFR6MVJGaUljbWV5bmxMd2V0V3hJYm00M3pMR0dkdmQyNGlDbUVPOGtCRlRBSVpPam1KVEhRb2t2NkpGSUQ1NjlSekhpMVZ3WjQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWJ2SzMyMzhkZlp1RldsNFV5aDVhZkZPZjkxLWpzY2t3OE5rc0dxbEI4YnJCS2hIYkJJaWE3bzNYa1hSNlVjNzJDTXJHRVdkX3ZpSzB4YnpzcTJXeHlfVHhaaFZDbURCVUlUUkZvS2Z5bV9ZMkp6TTc1ckpFbHRBVmV0TzBCaEp6bUdMcEFYcTVvWThGb0lueWV6eTdobXRYTWVOb1F1WEZEUlHSAasBQVVfeXFMUDlidkszMjM4ZGZadUZXbDRVeWg1YWZGT2Y5MS1qc2NrdzhOa3NHcWxCOGJyQktoSGJCSWlhN28zWGtYUjZVYzcyQ01yR0VXZF92aUsweGJ6c3EyV3h5X1R4WmhWQ21EQlVJVFJGb0tmeW1fWTJKek03NXJKRWx0QVZldE8wQmhKem1HTHBBWHE1b1k4Rm9Jbnllenk3aG10WE1lTm9RdVhGRFJR?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Official: Mbangula joins Bologna from Werder Bremen for total €14m agreement - LiveScore",
-          "b": "Official: Mbangula joins Bologna from Werder Bremen for total €14m agreement  LiveScore",
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - dw.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  dw.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjl0S1JvZHc3dW1qOFhrSE9DNmp6amd3NjVSNktWTmZuLXdvZ0gxN001bVBiNThBNk1YV3N3QUpTczZoWlJoYWNON1prZ2pwRnhBempkY0QwVHJ2eFFoaDRldEpGNGNnVk1kNzhxVGs3MHo1Ulk1bjZvcTNMNVpIYndBX0dlWUR4ZmdWRnc5SDNialZRRVotMEJWczF5S1RQcW9xdGpYRFdVREJUWXQ2UHZLODVjUDcyX2cyT3JrUDktUTZBcU1SQTlsRUtiWnIxdXZwcU9RbndqQQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Official | Werder Bremen bring Moussa Ndiaye back to German football - Get German Football News",
-          "b": "Official | Werder Bremen bring Moussa Ndiaye back to German football  Get German Football News",
+          "t": "German president warns democracy under threat after 'bitter setbacks' since reunification - dw.com",
+          "b": "German president warns democracy under threat after 'bitter setbacks' since reunification  dw.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gb1A2d0Z1WnpuNzhvRl9Hbk5sRVBKc3Z4aFdkSDEyWGI2czJGWTNzNzVSN0VoSnVOVjlzeEVwWURHQ0VVZHBqdjJVZ0lYSUhqVDRwZmc3bElFN3FKMWViV2NucGRFb2Z6YTBPTWFZeVRfQUhvODlidVR4bWJVREE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjNnTkRMR244OUJfSElTTXpybnBsMkVXTVFSejFIR3lFZ1o4TFdVb2tBMk1wTjQzTkhMa0tOMUx2WlpMNVdHTS1OWDhyOE05RklSeXg5WmxhdkdPc3JvU1c2MzVReC0taHhfa0NEcDYxellfdG9QX0FQZDM4QUdGb25jWjMyYXRHSkZSbEtZcU5ZOGNo?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Bremen Freimarkt 2026: Traditional North German fair in the Hanseatic city - Cision News",
-          "b": "Bremen Freimarkt 2026: Traditional North German fair in the Hanseatic city  Cision News",
+          "t": "Germany Reunification - The Batesville Daily Guard",
+          "b": "Germany Reunification  The Batesville Daily Guard",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHVMa1RldlIyUHBuTTM2N0Y5dm90b3ZwRllKWFU0S3IzWE9kUW1CUGstZUJVV21uUFhJZHhCSUtsM2Y3bW1qMTA3bkNRU2E2TGZMMlZMa09LMzJoaWpxYVdWU3Y2dXZQR0dERFZRd0NianM3M3JRZHlkZ2VZZno5am1iYmxvY2NINW9sUXV0U1M2MkxoZlpZQW5mZGIzZF84Z0xtXzd0c3Y2U2JuNEV4NGtwYmM2MGZ5eTVROQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlqUV8tUGUxQ2R6MFE5ZUtTU1ZYazhnMW5ZU05zOTJqUWdEalVPSmZPUjUtZUZHdkxsb2VtUFIxd0E2MUU4NkJBNW9iaHpCV1liNXJzMV91dXVtTGprMHJ0c0trNGVYZmhKNXlTNnJkZE1UakYxb1FwS1NncjUyV0xDNFZMN0w3LXdCTUhhVmZEallYMExST0dhVmF5bjRkMmdvNWpKZmVYMWxh?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Strychnine \"Oakland Stadtmusikanten Live In Bremen Germany\" - readjunk.com",
-          "b": "Strychnine \"Oakland Stadtmusikanten Live In Bremen Germany\"  readjunk.com",
+          "t": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV) - Unisba Media",
+          "b": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV)  Unisba Media",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlh5ZEc0Ri03VmpObXNVZl9IN0w1NzA4Zlo5eVh3VHZuVjVLdGprcjhyM3F6RjVmd09zYUNYZmJSX0VHUGhIOWRwQnBuVE1MZGxsaWo2LXBmZ1p5UDM3SVBfYkNTM21RaWhUR1Uyd19TM2dueUxZN1oxbXlLRzdXSG1CUENId2MzTTM2amd3QnRad2g3MWpYMjlIUFBlSXdlaUE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzFfNXdCT080TW5uVERUdmVyNXNNVjVuR3lpWEMwWFluZDZiLU1zSU5jV09wdVo4MUpQNk4zeXY5LWN5ZTNPX0RiNG13aXhkdzdfclkzWFdvOUxWU0RQSHlobGx0dTkzU21UNEQ3RzlabklSV3RDTzYzOWlCX1h3ZVZ0Zi0zVU41M0E?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Bremen architecture news: building designs - e-architect",
-          "b": "Bremen architecture news: building designs  e-architect",
+          "t": "Germany celebrates Day of German Unity in Bremen - deutschland.de",
+          "b": "Germany celebrates Day of German Unity in Bremen  deutschland.de",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZVBxaEsxRjZ2WkR5a2dMRkhyd3Z0WWNYb3oxSTBEWV9RMUpEVjc3LXBVdG1kSlppWnRwLTJpbGp5TnhHX2lkU2Q5TW5zQzJIc3BGV29sUUNENm42cVdfajE5Y1lhRW53TGo5QQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3NPUm51LTlsdkZpd0ZWY202MUJBLW15aUVxZTY1aHR1dDV5VUVkYnY1M0VkbG1wak5ULW5kelRFLTVGZDlSNVNLX0tqN0xFSWJ3VjdvZUJQblg4MkxjSlJWd0lmOERLYnpCbHNqR1JXNTA4eGNhNElHRDVMcjlEZThqVWw2QnU2XzZZ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Official | Werder Bremen sign Ajax’s Youri Regeer on loan with €5m purchase option - Get German Football News",
-          "b": "Official | Werder Bremen sign Ajax’s Youri Regeer on loan with €5m purchase option  Get German Football News",
+          "t": "Bremen hosts German Unity Day with top politicians and public festival - Yahoo",
+          "b": "Bremen hosts German Unity Day with top politicians and public festival  Yahoo",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44c2thVEhoS0JVanMwMzl4NGJqZFJxWlhaWV9OT0Zlalphak1TdWdpaVMtNW5xMGlLN01MaVFZY3Q5bjMyT3VlZVBZTTF0WjRuckViel9GTmlNbFFZN2JmRzUxdDRGNmpySU04Ny1mamROY0lvSjZtdQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen prepare for hectic close to summer 2026 transfer window - Get German Football News",
-          "b": "Werder Bremen prepare for hectic close to summer 2026 transfer window  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OQTU1Z0xUeHVnUEI1eFhxbHprZVp6dkV1Z0l0LUZvZVlxUkRiUFFaLU1EaGg5OXlscHBaTzUxOTVldjE4UnAyZWRieV9OMHUtY3h4dlpBZFF2Z2VxT1JJNzRDV1VZaUdfSTlBbG5GTTcwNWs?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmFybWJFV2pUQTFOMmlvVUFBZGJRYzhySEtQMGkzcVF1QkpZbzNURkNqWDBGNlVvcGo2YU5oVHRheGs4RUw3ck84TkVYdHE5YkdJeWpRbW80QjdlaldfTUM1ZXRQWGd1UWhZRU1qSG4wZnRiaXBzMHRLTjdCdHducTRNSkQxRlVwNF9LMzUwVQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -241,6 +233,14 @@
           "u": null,
           "tag": "Bhavnagar",
           "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
         }
       ],
       "chart": "near_home_flow"
@@ -260,24 +260,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "genießen",
-          "b": "<span class=\"jt\" data-g=\"lang_genießen\">genießen</span> — enjoy <span class=\"gram\">(genießt · genoss · hat genossen)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "heim",
+          "b": "<span class=\"jt\" data-g=\"lang_heim\">heim</span> — home",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "genug",
-          "b": "<span class=\"jt\" data-g=\"lang_genug\">genug</span> — enough",
-          "src": "Goethe B1 · p.45"
+          "t": "das Heim",
+          "b": "<span class=\"jt\" data-g=\"lang_dasheim\">das Heim</span> — the home <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "genügen",
-          "b": "<span class=\"jt\" data-g=\"lang_genügen\">genügen</span> — suffice <span class=\"gram\">(genügt · genügte · hat genügt)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "die Heimat",
+          "b": "<span class=\"jt\" data-g=\"lang_dieheimat\">die Heimat</span> — the homeland",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "das Gepäck",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgepäck\">das Gepäck</span> — the luggage",
-          "src": "Goethe B1 · p.45"
+          "t": "heimlich",
+          "b": "<span class=\"jt\" data-g=\"lang_heimlich\">heimlich</span> — secretly",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }
