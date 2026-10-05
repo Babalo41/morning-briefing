@@ -1358,5 +1358,37 @@
     "lang": "de-DE",
     "d": "Secretly",
     "w": "“Gestern habe ich gehört, dass mein Sohn heimlich raucht.”"
+  },
+  "lang_dasheimweh": {
+    "t": "das Heimweh",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The homesickness",
+    "w": "“Ich habe oft Heimweh nach meiner Familie.”"
+  },
+  "lang_heiraten": {
+    "t": "heiraten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Get married",
+    "w": "“Unsere Freunde heiraten nächsten Monat in Italien.”"
+  },
+  "lang_heiß": {
+    "t": "heiß",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hot",
+    "w": "“Für die Jahreszeit ist es zu heiß.”"
+  },
+  "lang_heißen": {
+    "t": "heißen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Called",
+    "w": "“Wie heißen Sie?”"
   }
 }
