@@ -1390,5 +1390,37 @@
     "lang": "de-DE",
     "d": "Called",
     "w": "“Wie heißen Sie?”"
+  },
+  "lang_heizen": {
+    "t": "heizen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Heat",
+    "w": "“Wir heizen mit Öl.”"
+  },
+  "lang_dieheizung": {
+    "t": "die Heizung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The heating",
+    "w": "“Es ist kalt. Ist die Heizung kaputt?”"
+  },
+  "lang_derheld": {
+    "t": "der Held",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hero",
+    "w": "“Er spielt gern den Helden.”"
+  },
+  "lang_dieheldin": {
+    "t": "die Heldin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The heroine",
+    "w": "“Sie ist die Heldin des Tages.”"
   }
 }
