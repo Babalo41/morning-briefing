@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-05",
-  "day": "Sat",
-  "dnum": "05",
-  "mon": "Sep",
-  "date": "Saturday 05 September 2026",
-  "headline": "Briefing refreshed 14:16 Berlin time",
-  "stand": "Automatically rebuilt at 14:16 — 12 sections tracked.",
+  "id": "2026-10-07",
+  "day": "Wed",
+  "dnum": "07",
+  "mon": "Oct",
+  "date": "Wednesday 07 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "VW3xmR20sZRWCCDqpdn4hZKq3woG40gaoGnzVz9mkbe2Q6+rDKmh4Hr9SFGPI/QYBioMEwcP6Ka26pUZhvJGHtRqaeoPXo3Z52Tf9X7dc/YAiAMC/wEZiIeS6vI2zS8+GJ4H9AE0FFa4f+5V532Y6/15gRQN2brkGBbhMHM122Ozy1LUU1XB",
-      "iv": "xDPF8PEuUSV1NUMU",
-      "salt": "VEnGhXc0lDyfmxk0SSK5tA=="
+      "ciphertext": "Bi93z01/mn87AH3Ihdk47VPPMb2Fht6GsVRgxmdRfVDAnaHOqGtsAiAG+cvA5Xey1zXvnTRreUsD5X98fcDOiMoNme+zv3DLC7HfAEYKxU/3znxy2HzSWg4+ZZky6EFqIbK90XOTL4UDMlB/mKagVcR350N5R0/+RNPeriLaAedRzuCU8pZy",
+      "iv": "9HKCQJqqF17eF03t",
+      "salt": "0UJrqYFPQs5O/ViNy+Vrcg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "19°",
+          "n": "12°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 19°C",
-          "b": "Low 14°C, gusts to 56 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 21°C",
+          "b": "Low 12°C, gusts to 27 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "cY+HZm5GoseQRW18mtCv5wh2b8je1wkiqHWTIUkXdWO1F8ZG/3wdLAqM/3oniDdVkqxoYYlfp4xNUtqp6XkJRXEYIeO6mmcxASYqj02EYXQ3r94vYB+D/Tc1BFW5aMy9SbnGfplCYXEyNy4kNWCod5qJrSRalNGHBddv",
-      "iv": "NVH0z+9WWzBn9Vf7",
-      "salt": "CdDPDj642qKCeF7vK/KvxQ=="
+      "ciphertext": "z52TarsxdQL7Avk/gtMQlicVSmz3167QeePMpI20/yVB0S/Qid9gudjBgqqwDPL3ytJucNxoRkbh27h9fEdckG+PIEEszHwk5Eat2vkvskYBB4Ha5jtmYXw/JXAwCaNEmY93bQFBYZIOELOzYiJGQKKB03WBs2nasjCX",
+      "iv": "3+wpVGN4GIpupk+d",
+      "salt": "GRqNaX/i7kh9T6+PrQjwXA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "OS2mETC06IB5NjfLov0Qesaku0R+ZDsbMfLWNmEaboaFwoZyFsOl1yN8kOldH8J9unWZVvJ3vemXMJcKctYFCuH6D42vvz7sZfFR7Rs3xwxamFSrGb1JaVzQiWNOXvG5Ty9qdomcg16CBDHUnwu/hwmJyqWRaWZwOKDJV3UCM2JJt3u35A+vxCEpIV8wKLwN/vmyiOXq1pbCLf5OE+xaX5vq65+GkhYvAfPZTpkjgodaTQPiO/Sf6KZgt4lx9SDOz4c1TXA+2L+CavRkWTWZzicuk9/NfhWVHof31Er3lKLwpRQQv38nuNRC/0t9VJcl9H6ACn9Z",
-      "iv": "k7dF5OqK2vPYlozO",
-      "salt": "oLtqTD5K+5fqYz1eVF7aRw=="
+      "ciphertext": "K5TUUF+4ylh+X1qsYx4Nyqjw91YMXOBmnilPoXaS3Glu9H+H1gafJ0PFg75e5lc6NLbZ/HDW9xzq+0y6U0Mu+w6iw2mXoapbyKfj4WS9Zg4BPHIwFYp6tPcFx1mqSkXwnwTlIyGxmVV9KLBRufY63x07hQE9mAfccz2tcv8JsYzCKqnsH174ZBfYVAygnQTKEjjyk7YSR2WWq7WQ12gE6jo/gVBoCVZ4Xt0PnutiUPXPW+RhL1mxHXpFE4ou9pQOh+bLH5LBFpQlqnLeu8EZh2EQC7D5pNFNDD/BmwoOdXo0Gu2mAyG+Xnx7CZwTVyTVDBUVpM0z",
+      "iv": "1BiZgScgsrNbc2m4",
+      "salt": "C4+L9xO4IxJfrN3+CVs8Wg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "r3tr9iJ6vPs/MSH6J5xBtTmI2895NLHPABqDTr9oE6y91TSfuF1TwLTsQA3cijrn5FlnqgInEwL+MTvguDLR/nJaqOVYvkaLO7f5CCBvNfdlS98gSRa3z4dI7HeCTARNqzHiDftbGaYMnZXVXFsMQ1W20svUZXoucXqCaXkLj4xM2EXNaKJWigY042TLN+0+cim7DE4ahGtYnKuk",
-      "iv": "baUrBodNuAkMAUOS",
-      "salt": "BPpBMBPMPY5NvOEu8hXc9w=="
+      "ciphertext": "foa9f1742A2A/eLoDr1dTO/oymj7iJBiqZt6vz6LtF3qayrjpG7RsXFtf+0LzkZS/aGHKpg8dFNKj78fJ/tfxJHRe/8CJflO3LafRK6p3/c6NI28C/QiRf7aLSoeTTJGBocMN2YS7F7WFu6+ks9PssHbyZKP2AuJvgPScoYo9+02LIxBT+F9qw5NVsUAoUTLvCONNh97BlkUdwVf",
+      "iv": "oMqx/Bo/+XmdzD0m",
+      "salt": "6kPDkX5EtC9wiSa5zJZJ1Q=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -75,10 +75,10 @@
           "u": null
         },
         {
-          "t": "Looking for Remote jobs",
-          "b": "I have certificated ISTQB test manager and Google Gen AI leader. Looking for remote jobs due to some personal exigencies. I am good in API testing, selenium, playwright and best in functional testing,test management.    submitted by    /u/Different_Craft1403   [link]   [comments]",
+          "t": "CTAL-TM v3.0: how did you prepare on your own?",
+          "b": "Hi all, I'm preparing for ISTQB Advanced Test Manager (CTAL-TM v3.0) through self-study. For those who passed it:  How did you prepare successfully on your own? Which mock exams or practice platforms were closest to the real exam?  Thanks in advance!    submitted by    /u/Haliburton777   [link]   [c",
           "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1w7qlvf/looking_for_remote_jobs/"
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wyyneu/ctaltm_v30_how_did_you_prepare_on_your_own/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -163,10 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Submissions Open: The Bremen Start-up Prize 2026 (Germany) - fundsforNGOs",
-          "b": "Submissions Open: The Bremen Start-up Prize 2026 (Germany)  fundsforNGOs",
+          "t": "Thioune has performance-based contract extension option with Bremen - Bulinews",
+          "b": "Thioune has performance-based contract extension option with Bremen  Bulinews",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjFwRDgwRmxZbVZoTkxxQTYyNFBfNjYwRXUtby12ZFRXYTNpaWlGQ0otU1Z6Y0lkVDEtY3h5NmVUT044SWs4YlExMS05WlhVY2NtT0RwUU5Sa0p4MWtPUGFWYnVjbjRlNVJMWTlRcndWSGFTNzF0bHFFMS1pV2VXU2hLUGdYUWQwV2N1OG55V2RSM0JfZEota9IBngFBVV95cUxQRzR5bnliM3pkSlQyVDBaQjNNX0E0Z3lYSGkyRzR1c0Fva0F5NVNCMkszUTE5cEtfNDZIUHRkUUFEbGFSV2RqVlEwVDBhT0xSQWJFcXpQUDhFeTJLWEQyWDdUbjFTOVZPSkpScFBxVVdTSzg3QXI0b3pJX1ljUnItb2lackZzaGJ2Sm5CSVRZZ3NnOGYtUXpZQ045YmFqQQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXNldGZzRmRBa0U0YVlVbml1VGRsQzh5LUpUbUM0dWtGTHc4eWt6WkI0VUc1YVUzTDZtTnVzZGZERHNka1BLNDAySXQzMEgzM0J2b2ZNVkRjbzhuTnY5TFlNazAxZ0prNnExWldtNkZEcEdrbXM2d21MNk52UEYwR0RyYjMtY19IMFVz?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen provide Karl Hein injury update after international break setback - Bulinews",
+          "b": "Werder Bremen provide Karl Hein injury update after international break setback  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWo2cWYzdzhJLVRSb0RGcjh3ek1YWHFzSkIzMWtDVUlvdkpsYzNrOGZvZk9paEpDZFAwbjQ5UzhGeC01M0hSalg5RU1VRjBkb1VzM2F2aXl4Tk5JcklpTGFiMWtBdnJzTXk0WU9XZkc2ekR1bnJmYWhnd2t0NlExVk1Wc3Y1MkVfSlV6SEFKSjE0cTZmTS03R2JZSG44VDV5c3c?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -185,14 +193,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "German ports disrupted by strikes as Dutch dockworkers prepare to walk out - WorldCargo News",
-          "b": "German ports disrupted by strikes as Dutch dockworkers prepare to walk out  WorldCargo News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUlWS3pNTWNScGotTVZRWm1udmlaazlQRFhJODhKYlZRcDJEc2xOb0NvV0VlSHQ0Y3ZNaS0zc05oVnU5LWdIbHM1TGUzdkM2NVNycnpLZkVGYjFrTFBWcVVId1ppVFh3YjNuYUhCa3J1YXI4OGZ1eGhJaWxxbE9wTmxSV2xSb0wxMDNxMlNSWG1mWDAtUHQ1ZUxZLUZTSktvR3JrNy1zaW12V3hoaUpxb0tVb0ZENTNOODFZ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,24 +212,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "geschehen",
-          "b": "<span class=\"jt\" data-g=\"lang_geschehen\">geschehen</span> — happen <span class=\"gram\">(geschieht · geschah · ist geschehen)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "helfen",
+          "b": "<span class=\"jt\" data-g=\"lang_helfen\">helfen</span> — help <span class=\"gram\">(hilft · half · hat geholfen)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "das Geschenk",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgeschenk\">das Geschenk</span> — the gift <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "die Hilfe",
+          "b": "<span class=\"jt\" data-g=\"lang_diehilfe\">die Hilfe</span> — the help",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Geschichte",
-          "b": "<span class=\"jt\" data-g=\"lang_diegeschichte\">die Geschichte</span> — the story <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "hell",
+          "b": "<span class=\"jt\" data-g=\"lang_hell\">hell</span> — bright",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "geschieden",
-          "b": "<span class=\"jt\" data-g=\"lang_geschieden\">geschieden</span> — divorced",
-          "src": "Goethe B1 · p.45"
+          "t": "das Hemd",
+          "b": "<span class=\"jt\" data-g=\"lang_dashemd\">das Hemd</span> — the shirt <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }

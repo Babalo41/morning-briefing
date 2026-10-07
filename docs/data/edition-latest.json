@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-06",
-  "day": "Tue",
-  "dnum": "06",
+  "id": "2026-10-07",
+  "day": "Wed",
+  "dnum": "07",
   "mon": "Oct",
-  "date": "Tuesday 06 October 2026",
+  "date": "Wednesday 07 October 2026",
   "headline": "Briefing refreshed 06:00 Berlin time",
   "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
@@ -11,22 +11,22 @@
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "y1zIFgMNqE0kewWqzz0PkUsa+P6Ww3c1a/1tZ6JDpmu1H/7TgyW32aEA/uYna6+6muYkBvE0aOtKZQGZwP31Q5ziJhQ7WoULAcuKrsabtmGP2eHoUwx+HSIlxbsLldfnqKrBbNoFE7dozSzSQ3WfR1F8LNiLa8lyB6Ln9XwesfjmNKBlUuek",
-      "iv": "V2ewbPXY7vJN792l",
-      "salt": "IJY1cMZbXNPi6dTabX4Xkw=="
+      "ciphertext": "Bi93z01/mn87AH3Ihdk47VPPMb2Fht6GsVRgxmdRfVDAnaHOqGtsAiAG+cvA5Xey1zXvnTRreUsD5X98fcDOiMoNme+zv3DLC7HfAEYKxU/3znxy2HzSWg4+ZZky6EFqIbK90XOTL4UDMlB/mKagVcR350N5R0/+RNPeriLaAedRzuCU8pZy",
+      "iv": "9HKCQJqqF17eF03t",
+      "salt": "0UJrqYFPQs5O/ViNy+Vrcg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "13°",
+          "n": "12°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 21°C",
-          "b": "Low 13°C, gusts to 18 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 21°C",
+          "b": "Low 12°C, gusts to 27 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "ooJVxcUqgn0zhyfn4CT2oFz62f7JgBhIz06rb5+ipkH8PoFgvtU/i8HrdHXOjebOUd4L7lXEeobuFia0+NiiUE2Egp4lODc7wvYZLqhDQZSpItzrVA2KZRyxlhrPtM/ZOYrmKIP8ERwMxClf5uWkit8CXURrT5YfwjLL",
-      "iv": "yLakRSJlwCGFIMu1",
-      "salt": "MgtV1Ag4zbpH005o/qzuMw=="
+      "ciphertext": "z52TarsxdQL7Avk/gtMQlicVSmz3167QeePMpI20/yVB0S/Qid9gudjBgqqwDPL3ytJucNxoRkbh27h9fEdckG+PIEEszHwk5Eat2vkvskYBB4Ha5jtmYXw/JXAwCaNEmY93bQFBYZIOELOzYiJGQKKB03WBs2nasjCX",
+      "iv": "3+wpVGN4GIpupk+d",
+      "salt": "GRqNaX/i7kh9T6+PrQjwXA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "iAqdjkjLX3/h4lBfPxH4TRQHGDa7Jrwh2NwppbK0ZC9iw91l9g9bUURa9xEU7FfdYowjPp6quGoRBS0mi5ko0g8FILajYW5mP9hPq9pOz+saYHogMPcewhFW341Eg15WTlq+8uJsNX41LTtTJwNLq2GOW8Q0ipTBg10zXwU7Z+GZgj5HBujXPPI+NpE0lOWOfbQWBBP2zi8Cq8dpdtPUCsgH0xnNPINC94XBay7B5uVHjdgtkCxyfDZGEM4sGcquOdV5pFOvRWQH6kQrj1UctIjL7FBTtRyqfw0uojfnL9FYp74j1Wlw30h0FoRgR3Ku0toN3DKp",
-      "iv": "HDBRmLL3UoEhLsiN",
-      "salt": "QCGZYQXTWtUBSLWwZ3fWwQ=="
+      "ciphertext": "K5TUUF+4ylh+X1qsYx4Nyqjw91YMXOBmnilPoXaS3Glu9H+H1gafJ0PFg75e5lc6NLbZ/HDW9xzq+0y6U0Mu+w6iw2mXoapbyKfj4WS9Zg4BPHIwFYp6tPcFx1mqSkXwnwTlIyGxmVV9KLBRufY63x07hQE9mAfccz2tcv8JsYzCKqnsH174ZBfYVAygnQTKEjjyk7YSR2WWq7WQ12gE6jo/gVBoCVZ4Xt0PnutiUPXPW+RhL1mxHXpFE4ou9pQOh+bLH5LBFpQlqnLeu8EZh2EQC7D5pNFNDD/BmwoOdXo0Gu2mAyG+Xnx7CZwTVyTVDBUVpM0z",
+      "iv": "1BiZgScgsrNbc2m4",
+      "salt": "C4+L9xO4IxJfrN3+CVs8Wg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "CEjL5iaPiH+prgOmWxpZaIxPMxI1AYWzyYxArvOD0QkdPyl7rw0uhYw7yJgBQGb9Kk8229URyeBbzaCZgEhZurGvC/1bPLnw4qzCMYV/aXwCBKMjv1IwNN+Ks7qmZNiMTupFqVRDQ57e5MkovC0Ki/+6Xxn6R0jPllezSeCTpj4ZHrs+GEB2v2ebq+4HW1XsQsd9S7do7eAVQ327",
-      "iv": "BTCLbAMQfDVB1Uaf",
-      "salt": "7cxTPm0MgmP10oobI89H0Q=="
+      "ciphertext": "foa9f1742A2A/eLoDr1dTO/oymj7iJBiqZt6vz6LtF3qayrjpG7RsXFtf+0LzkZS/aGHKpg8dFNKj78fJ/tfxJHRe/8CJflO3LafRK6p3/c6NI28C/QiRf7aLSoeTTJGBocMN2YS7F7WFu6+ks9PssHbyZKP2AuJvgPScoYo9+02LIxBT+F9qw5NVsUAoUTLvCONNh97BlkUdwVf",
+      "iv": "oMqx/Bo/+XmdzD0m",
+      "salt": "6kPDkX5EtC9wiSa5zJZJ1Q=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,6 +73,12 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
+        },
+        {
+          "t": "CTAL-TM v3.0: how did you prepare on your own?",
+          "b": "Hi all, I'm preparing for ISTQB Advanced Test Manager (CTAL-TM v3.0) through self-study. For those who passed it:  How did you prepare successfully on your own? Which mock exams or practice platforms were closest to the real exam?  Thanks in advance!    submitted by    /u/Haliburton777   [link]   [c",
+          "src": "Quality Assurance : articles and news about software testing",
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wyyneu/ctaltm_v30_how_did_you_prepare_on_your_own/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -115,12 +121,6 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-        },
-        {
-          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,6 +163,22 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Thioune has performance-based contract extension option with Bremen - Bulinews",
+          "b": "Thioune has performance-based contract extension option with Bremen  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXNldGZzRmRBa0U0YVlVbml1VGRsQzh5LUpUbUM0dWtGTHc4eWt6WkI0VUc1YVUzTDZtTnVzZGZERHNka1BLNDAySXQzMEgzM0J2b2ZNVkRjbzhuTnY5TFlNazAxZ0prNnExWldtNkZEcEdrbXM2d21MNk52UEYwR0RyYjMtY19IMFVz?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen provide Karl Hein injury update after international break setback - Bulinews",
+          "b": "Werder Bremen provide Karl Hein injury update after international break setback  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWo2cWYzdzhJLVRSb0RGcjh3ek1YWHFzSkIzMWtDVUlvdkpsYzNrOGZvZk9paEpDZFAwbjQ5UzhGeC01M0hSalg5RU1VRjBkb1VzM2F2aXl4Tk5JcklpTGFiMWtBdnJzTXk0WU9XZkc2ekR1bnJmYWhnd2t0NlExVk1Wc3Y1MkVfSlV6SEFKSjE0cTZmTS03R2JZSG44VDV5c3c?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -177,68 +193,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - dw.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  dw.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics - facebook.com",
-          "b": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics  facebook.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFpzVm1NQ0N1UndmTE13Mi1NMzlfZThGWkNpRTl6MWFpdEFVMFhwN3ptS09Wb3dtSmdPUGFzR2EzZmE4MFkxZ1BqTEItWG5HRURmYXVybkYzc24wRWV0c2s2anVMcld6Q3FhZnRtQlRsamtqUGx0TkRRdUo4OWJGUXk1VkZtSU1NZXlTU1c2bjk3d1pKMG5ZY0pmdGFpaFJfZ1kxcmFkUm5xdUZJUHRTMGxUOEZWbDg0VDU4RDM0QXRBMEdWd2laTlU1UTZhazkySnNZaldCWkk4SEJjUUozaHh3?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "German president warns democracy under threat after 'bitter setbacks' since reunification - dw.com",
-          "b": "German president warns democracy under threat after 'bitter setbacks' since reunification  dw.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjNnTkRMR244OUJfSElTTXpybnBsMkVXTVFSejFIR3lFZ1o4TFdVb2tBMk1wTjQzTkhMa0tOMUx2WlpMNVdHTS1OWDhyOE05RklSeXg5WmxhdkdPc3JvU1c2MzVReC0taHhfa0NEcDYxellfdG9QX0FQZDM4QUdGb25jWjMyYXRHSkZSbEtZcU5ZOGNo?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Germany Reunification - The Batesville Daily Guard",
-          "b": "Germany Reunification  The Batesville Daily Guard",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlqUV8tUGUxQ2R6MFE5ZUtTU1ZYazhnMW5ZU05zOTJqUWdEalVPSmZPUjUtZUZHdkxsb2VtUFIxd0E2MUU4NkJBNW9iaHpCV1liNXJzMV91dXVtTGprMHJ0c0trNGVYZmhKNXlTNnJkZE1UakYxb1FwS1NncjUyV0xDNFZMN0w3LXdCTUhhVmZEallYMExST0dhVmF5bjRkMmdvNWpKZmVYMWxh?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV) - Unisba Media",
-          "b": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV)  Unisba Media",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzFfNXdCT080TW5uVERUdmVyNXNNVjVuR3lpWEMwWFluZDZiLU1zSU5jV09wdVo4MUpQNk4zeXY5LWN5ZTNPX0RiNG13aXhkdzdfclkzWFdvOUxWU0RQSHlobGx0dTkzU21UNEQ3RzlabklSV3RDTzYzOWlCX1h3ZVZ0Zi0zVU41M0E?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Germany celebrates Day of German Unity in Bremen - deutschland.de",
-          "b": "Germany celebrates Day of German Unity in Bremen  deutschland.de",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3NPUm51LTlsdkZpd0ZWY202MUJBLW15aUVxZTY1aHR1dDV5VUVkYnY1M0VkbG1wak5ULW5kelRFLTVGZDlSNVNLX0tqN0xFSWJ3VjdvZUJQblg4MkxjSlJWd0lmOERLYnpCbHNqR1JXNTA4eGNhNElHRDVMcjlEZThqVWw2QnU2XzZZ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Bremen hosts German Unity Day with top politicians and public festival - Yahoo",
-          "b": "Bremen hosts German Unity Day with top politicians and public festival  Yahoo",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmFybWJFV2pUQTFOMmlvVUFBZGJRYzhySEtQMGkzcVF1QkpZbzNURkNqWDBGNlVvcGo2YU5oVHRheGs4RUw3ck84TkVYdHE5YkdJeWpRbW80QjdlaldfTUM1ZXRQWGd1UWhZRU1qSG4wZnRiaXBzMHRLTjdCdHducTRNSkQxRlVwNF9LMzUwVQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 German Unity Dw.Com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  dw.com Germany celebrates Day of German Unity in Bremen  deutschland.de",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -258,23 +212,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "heizen",
-          "b": "<span class=\"jt\" data-g=\"lang_heizen\">heizen</span> — heat <span class=\"gram\">(heizt · heizte · hat geheizt)</span>",
+          "t": "helfen",
+          "b": "<span class=\"jt\" data-g=\"lang_helfen\">helfen</span> — help <span class=\"gram\">(hilft · half · hat geholfen)</span>",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Heizung",
-          "b": "<span class=\"jt\" data-g=\"lang_dieheizung\">die Heizung</span> — the heating <span class=\"gram\">(plural: -en)</span>",
+          "t": "die Hilfe",
+          "b": "<span class=\"jt\" data-g=\"lang_diehilfe\">die Hilfe</span> — the help",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "der Held",
-          "b": "<span class=\"jt\" data-g=\"lang_derheld\">der Held</span> — the hero <span class=\"gram\">(plural: -en)</span>",
+          "t": "hell",
+          "b": "<span class=\"jt\" data-g=\"lang_hell\">hell</span> — bright",
           "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Heldin",
-          "b": "<span class=\"jt\" data-g=\"lang_dieheldin\">die Heldin</span> — the heroine <span class=\"gram\">(plural: -nen)</span>",
+          "t": "das Hemd",
+          "b": "<span class=\"jt\" data-g=\"lang_dashemd\">das Hemd</span> — the shirt <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.49"
         }
       ]

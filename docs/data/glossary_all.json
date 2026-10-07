@@ -1422,5 +1422,37 @@
     "lang": "de-DE",
     "d": "The heroine",
     "w": "“Sie ist die Heldin des Tages.”"
+  },
+  "lang_helfen": {
+    "t": "helfen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Help",
+    "w": "“Kannst du mir helfen? Ich muss nächsten Monat umziehen.”"
+  },
+  "lang_diehilfe": {
+    "t": "die Hilfe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The help",
+    "w": "“Vielen Dank für Ihre Hilfe.”"
+  },
+  "lang_hell": {
+    "t": "hell",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Bright",
+    "w": "“Im Sommer wird es um 5 Uhr schon hell.”"
+  },
+  "lang_dashemd": {
+    "t": "das Hemd",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The shirt",
+    "w": "“Nikos trägt heute ein weißes Hemd.”"
   }
 }
