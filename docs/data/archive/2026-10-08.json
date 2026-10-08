@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-06",
-  "day": "Sun",
-  "dnum": "06",
-  "mon": "Sep",
-  "date": "Sunday 06 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-08",
+  "day": "Thu",
+  "dnum": "08",
+  "mon": "Oct",
+  "date": "Thursday 08 October 2026",
+  "headline": "Briefing refreshed 19:20 Berlin time",
+  "stand": "Automatically rebuilt at 19:20 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "cSL4KinSsqFotRF7+xZurWnOn4+OovdoU1S7HRHumqOZ1OuXSbrOV70WHoh66kg92tqIrvuLI5y/UJ7AqlJWYzY48IJzwL61WvndTVMves/KVBakGygG9oocjmUXO28oj6Ziaeb8kmsxD78mQUTROkCqjUB4z543Q2AkV5rIHg1QArqpLtz3",
-      "iv": "6S+aZ+AVJj45Wtjv",
-      "salt": "DbHbfKAS3m86GQsGMk+/Vg=="
+      "ciphertext": "ZQPN2OH7Kt1CkzyCDzuUb2rD/lpzJW6Au/lbmkkvPFUwarNCAxgMJUZDHWjmxF9oM5NvVceTQsscC2AOWr0dLJx1s++LAURaySsR9y86iC2YoeXxIAV6Xi789mNEufM7uwd40/UHygd7fIFGhGyWNU1VYyt1NGCrzKhA/Xv/1uW5Q16+ycoX",
+      "iv": "/5sqK07UknCwtsdK",
+      "salt": "//I0ltDEKzN7E1FGNa4fFg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "11°",
+          "n": "12°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: mainly clear, high 21°C",
-          "b": "Low 11°C, gusts to 28 km/h. 7-day outlook below.",
+          "t": "Bremen: light rain, high 16°C",
+          "b": "Low 10°C, gusts to 48 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "kuyslONGuK80ShaDqcKkh2a2ynutt/kxgEljz78CVEydE7h/U6kswuL0WCN4/XJ8UrZGGdEk3Sk+JtsGGEtt8WALAHh/FOStg9mYmIkDGtfHAocTMMZhz22d0E+2A57Qjmnx+hnvHhPuLFcvqvUh4v/6A0lYtT/d4IZ5",
-      "iv": "gMRYr8TzBUx/1WyK",
-      "salt": "vn5TM/bm/aQX8z0o+dp6KQ=="
+      "ciphertext": "vD8Z3lX+ZxZgSFuQsvV+NKYmgHA7OUy3Ast3g4TT0j5SSxwSJlKgAB8GCskeQR0l0vMCnHoQwSoKciBiv36eSrzWRU7hKxHWY2+9jK1qaCuKX7RFMJVtbR3ZMmb3HM1BHKxnfJneORSmTGi3Cli+fROocHyBCDQeJjGn",
+      "iv": "5GYQhXJ3w2dvIPiz",
+      "salt": "Ga4i685LbLkl05ttwm8r2g=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "f8iadpPFu80oGUKsX8BgHg6lOKKQZr2pydbI+FN7cHVNHIg4d2T6FgefEG+AD8SZO3FXTihrRSwXNEVmNZ902EY9vC6fwu1vp+1b7qNEQ9RacGqY9lm5m7IdH4rmtuWFEzKF4Th5MYtf6riFu83J9oQ3VHiVflqN56IPAtycBPbgV80PYtCcdNMfWrg3BXKz6ApqW48BpZdxThTtwtplF2tWO495VtyCfsKuZ9MW0FZHw4OSnJqniutVX1SJ/vmyrtCAIPhtbh79F9m1Ge/kz9+tcI7QTz+FyTqTdJekREJ/vyn+JyWHDXfnYkWayiMvy/SGYmoD",
-      "iv": "jxw/WIJ5Jmu4J336",
-      "salt": "zCQW6VItPlDVqsRatMhWww=="
+      "ciphertext": "qLlAe/FGuzDhn/MlW4Dm/VNVxkZJClJGQUTQDbzn9A+NqKf7fjf4O31IL4ZtOaTEnpgjdzOskgMI14Q5IPY0HD2e6fccnOZ2i9y9Vvye0q0jS03dJeSr1GgeQZwnRvEXQL35j+YP1eK8jXQ2Sy19ALvvtG834R8EMuqweINiEvb4mzLhv0heUkDnD9X0L2xwaZ4WN9ddJ2pf8FpHtEgIhuLFFCLuty/VuMtkb0abfbFbxKJVbiRju2OIZ4LHVpaAd1A8gbJpgFxv9QTp9Atw2TntcBgaFCuYjmBopsNcO2lj/r8cQvI9kA67JdAumNvygEp2t+4b",
+      "iv": "gkKDzH7exb5S/b0G",
+      "salt": "5vUlk0+qespnPCcpg8V8MQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "FsCl/NJsRQ59LNqlCdqGh43EZuFkrtRM1pchrnXzjj6Z7Vg4Leu1gh3Ks+56UJwdZKBtxCq02sel86LSPgfzPhatmiR4G06vLFfQcR9wYBOCCDohKQ+Vml0rN4XxVHF6us6bPsF2eTyWnUzA+py6g2EZKNxfU5E8s+Utjcd8LwQeaiAzvVtEgdLPWsTikQW/WG4ihN1WL+1bIO2r",
-      "iv": "1gP9P9XQwRX/ssh/",
-      "salt": "eVcbgAl5LMk88vlhwtHsJw=="
+      "ciphertext": "Vdej6C0ABb3z0MYNEuCpJOjTxl4wSy/h0OpptIRCM/FvjvAoXMxL2YweEyzZk56CnZmRbVbAKa+nyBt7BP/PMlA3/+gi45muKYKm6DoSmfX14qCJHSGWw8L+Lx+m9X8PpPdwGk+99RCjfRMtGkK6PEwR54pcOjrai8Puvu6t3jXgc/CWB0vh11lyNaaIu18HWCGefBt/3JkIXYxD",
+      "iv": "L3LC6j0ucGGdMm45",
+      "salt": "Ke0xsEY/76jEXUYzEE8LGg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -75,10 +75,10 @@
           "u": null
         },
         {
-          "t": "Looking for Remote jobs",
-          "b": "I have certificated ISTQB test manager and Google Gen AI leader. Looking for remote jobs due to some personal exigencies. I am good in API testing, selenium, playwright and best in functional testing,test management.    submitted by    /u/Different_Craft1403   [link]   [comments]",
+          "t": "Game QA Tester (Senior), asking about Feature Checklist and Pipeline in general.",
+          "b": "Hi, I'm currently working as a Game QA Tester for an indie game development studio and I'm the only Senior. Do QA need Feature Checklist? If they need Feature Checklist, does the QA create the checklist or is it on the Game Designer's job to create them? And what is the industry pipeline that has be",
           "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1w7qlvf/looking_for_remote_jobs/"
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wzqpl0/game_qa_tester_senior_asking_about_feature/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -163,6 +163,54 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Werder Bremen lean heavily on Niclas Füllkrug after turbulent international break - Get German Football News",
+          "b": "Werder Bremen lean heavily on Niclas Füllkrug after turbulent international break  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NYkFHaFFQeWNZd2RxUzFMa2l5M2h5bm42dktrVkt2RUxhZHU0N2dycXY5c0xwOGFBRUZzQnprTzk4ZkJQb2xZcVFCSjNLVlF6OF9CMW1UMXV0V2dqaW1qSndhRGpFRndrZzdJTGtwaUVuaWtfRWNGaw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "DE000A254YH8 Bond Yield and Price Chart - TradingView",
+          "b": "DE000A254YH8 Bond Yield and Price Chart  TradingView",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYmxGM3lRdWxfdnp3RDhQMnhZc3hzOGZ5YkNscE1HTjM4SkFyT3FZcjRnbkF6ajkxQVhyTlJLaGROZ2JXeHRLRk9WaDVQWXo1RkxaSC1IUUJqVlhjaUJpWGI1U2tUTUFNZFE?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "IRIS2 planning meeting in Bremen - Advanced Television",
+          "b": "IRIS2 planning meeting in Bremen  Advanced Television",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VFX3piYkZJUHNma0xaa1JRVS1vNU5xbTZSNUtjQlVLSkcyTVA5SGlQWV95UDdJbk1FcjdpQVRkM05EZGotUXdTY1ZMamZVcXZpbDNHRXFSS2pwbFI5RlpqN0xaa1UwUGtHZ0VvVDFTRG56ZFN5TWFaTHQ4RUZvd0gtSExLc00?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund vs Werder Bremen – prediction, preview & betting tips – 09/10/2026 - Football Whispers",
+          "b": "Borussia Dortmund vs Werder Bremen – prediction, preview & betting tips – 09/10/2026  Football Whispers",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWFEMlRtOWpsMXVHZ3dJMHpraXEwaXdsMlBFVlBMWW4zOFhoZi1nTkNsQjdsLXZXbWhHeGN5em0tSEY1RHhIZ1VIemJPczk0Vk1RWDVjOFJvZlR6eUdRZ2JIZ3A2MW5ZT2NxY09ySS1rbXpDcXhQMzVLYThVdUNxRXE3dHZuQUpNYjU4all6RHQyWktRSUt0TWFXbnRrSmNK?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal - Get German Football News",
+          "b": "Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmJ1amNNNVRLdlZ3QVhWNWg2bnpUVk8tc2N0bUZZdmVidWVMZUhFZ1JYQVNRTWlfb3hIOTdjTHNsNDREZmN2djhPb0JGam5ka0MyMVhlUzlPMmZqcldocHQzQTFyaUdVdkY2YVZGVVlwX1NLYVE0VWdQdHJLVVk5WQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -179,20 +227,18 @@
           "rel": "interest"
         },
         {
-          "t": "Submissions Open: The Bremen Start-up Prize 2026 (Germany) - fundsforNGOs",
-          "b": "Submissions Open: The Bremen Start-up Prize 2026 (Germany)  fundsforNGOs",
+          "t": "Werder Bremen provide Karl Hein injury update after international break setback - Bulinews",
+          "b": "Werder Bremen provide Karl Hein injury update after international break setback  Bulinews",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjFwRDgwRmxZbVZoTkxxQTYyNFBfNjYwRXUtby12ZFRXYTNpaWlGQ0otU1Z6Y0lkVDEtY3h5NmVUT044SWs4YlExMS05WlhVY2NtT0RwUU5Sa0p4MWtPUGFWYnVjbjRlNVJMWTlRcndWSGFTNzF0bHFFMS1pV2VXU2hLUGdYUWQwV2N1OG55V2RSM0JfZEota9IBngFBVV95cUxQRzR5bnliM3pkSlQyVDBaQjNNX0E0Z3lYSGkyRzR1c0Fva0F5NVNCMkszUTE5cEtfNDZIUHRkUUFEbGFSV2RqVlEwVDBhT0xSQWJFcXpQUDhFeTJLWEQyWDdUbjFTOVZPSkpScFBxVVdTSzg3QXI0b3pJX1ljUnItb2lackZzaGJ2Sm5CSVRZZ3NnOGYtUXpZQ045YmFqQQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWo2cWYzdzhJLVRSb0RGcjh3ek1YWHFzSkIzMWtDVUlvdkpsYzNrOGZvZk9paEpDZFAwbjQ5UzhGeC01M0hSalg5RU1VRjBkb1VzM2F2aXl4Tk5JcklpTGFiMWtBdnJzTXk0WU9XZkc2ekR1bnJmYWhnd2t0NlExVk1Wc3Y1MkVfSlV6SEFKSjE0cTZmTS03R2JZSG44VDV5c3c?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "German ports disrupted by strikes as Dutch dockworkers prepare to walk out - WorldCargo News",
-          "b": "German ports disrupted by strikes as Dutch dockworkers prepare to walk out  WorldCargo News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUlWS3pNTWNScGotTVZRWm1udmlaazlQRFhJODhKYlZRcDJEc2xOb0NvV0VlSHQ0Y3ZNaS0zc05oVnU5LWdIbHM1TGUzdkM2NVNycnpLZkVGYjFrTFBWcVVId1ppVFh3YjNuYUhCa3J1YXI4OGZ1eGhJaWxxbE9wTmxSV2xSb0wxMDNxMlNSWG1mWDAtUHQ1ZUxZLUZTSktvR3JrNy1zaW12V3hoaUpxb0tVb0ZENTNOODFZ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 Werder Bremen After",
+          "b": "Werder Bremen lean heavily on Niclas Füllkrug after turbulent international break  Get German Football News Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal  Get German Football News",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -212,24 +258,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Geschirr",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgeschirr\">das Geschirr</span> — the dishes",
-          "src": "Goethe B1 · p.45"
+          "t": "das Hend(e)l",
+          "b": "<span class=\"jt\" data-g=\"lang_dashendel\">das Hend(e)l</span> — the chicken <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "das Geschlecht",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgeschlecht\">das Geschlecht</span> — the gender <span class=\"gram\">(plural: -er)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "her/herheraus-,",
+          "b": "<span class=\"jt\" data-g=\"lang_herherheraus\">her/herheraus-,</span> — out/out,",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "der Geschmack",
-          "b": "<span class=\"jt\" data-g=\"lang_dergeschmack\">der Geschmack</span> — the taste",
-          "src": "Goethe B1 · p.45"
+          "t": "die Herausforderung",
+          "b": "<span class=\"jt\" data-g=\"lang_dieherausforderung\">die Herausforderung</span> — the challenge <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.49"
         },
         {
-          "t": "die Geschwindigkeit",
-          "b": "<span class=\"jt\" data-g=\"lang_diegeschwindigkeit\">die Geschwindigkeit</span> — the speed <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "der Herd",
+          "b": "<span class=\"jt\" data-g=\"lang_derherd\">der Herd</span> — the stove <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.49"
         }
       ]
     }

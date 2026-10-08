@@ -1454,5 +1454,37 @@
     "lang": "de-DE",
     "d": "The shirt",
     "w": "“Nikos trägt heute ein weißes Hemd.”"
+  },
+  "lang_dashendel": {
+    "t": "das Hend(e)l",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The chicken",
+    "w": "“Zum Mittagessen gibt es Hendl mit Reis.”"
+  },
+  "lang_herherheraus": {
+    "t": "her/herheraus-,",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Out/out,",
+    "w": "“Wir haben uns lange nicht gesehen. – Ja, das ist wirklich lange her.”"
+  },
+  "lang_dieherausforderung": {
+    "t": "die Herausforderung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The challenge",
+    "w": "“Das Spiel ist eine Herausforderung.”"
+  },
+  "lang_derherd": {
+    "t": "der Herd",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The stove",
+    "w": "“In der neuen Küche fehlt noch der Herd. Kommt doch herein!”"
   }
 }
