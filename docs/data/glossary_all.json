@@ -1486,5 +1486,37 @@
     "lang": "de-DE",
     "d": "The stove",
     "w": "“In der neuen Küche fehlt noch der Herd. Kommt doch herein!”"
+  },
+  "lang_dieherkunft": {
+    "t": "die Herkunft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The origin",
+    "w": "“Viele Leute fragen mich nach meiner Herkunft.”"
+  },
+  "lang_derherr": {
+    "t": "der Herr",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The Lord",
+    "w": "“Da ist ein Herr, der möchte Sie sprechen.”"
+  },
+  "lang_herstellen": {
+    "t": "herstellen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Produce",
+    "w": "“In unserer Firma stellen wir Schokolade her.”"
+  },
+  "lang_derhersteller": {
+    "t": "der Hersteller",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The manufacturer",
+    "w": "“Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.”"
   }
 }
