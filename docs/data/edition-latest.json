@@ -1,19 +1,19 @@
 {
-  "id": "2026-10-09",
-  "day": "Fri",
-  "dnum": "09",
+  "id": "2026-10-10",
+  "day": "Sat",
+  "dnum": "10",
   "mon": "Oct",
-  "date": "Friday 09 October 2026",
-  "headline": "Briefing refreshed 19:55 Berlin time",
-  "stand": "Automatically rebuilt at 19:55 — 12 sections tracked.",
+  "date": "Saturday 10 October 2026",
+  "headline": "Briefing refreshed 12:10 Berlin time",
+  "stand": "Automatically rebuilt at 12:10 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "bWvAhyHQvEXfmHH3BT9leBeJcyI8614sSEqiGpGtklGNcxkFEtrWLyCIqnYODlFo2wqLrEN4BRskZcjW8Y0zkk7Y4fUjbwqs0Chpaw4DQcSdoquNzCNcNApcU1LE8ziNu0mmMj9pfJDZOlypHhvtoHkVHtlrinih2FVpbS4x/GPvgGimg6Vz",
-      "iv": "CQHEr4a6sxSQDqV5",
-      "salt": "K5OsyO5kf1pqYScIWcADEQ=="
+      "ciphertext": "RX1qDOXs0xFZ+ONFl/3dYexEojNypwIN+ZFIUeVb4cho539jT/0z/oIzVhrM3sg5oQU0a/Yjp5e0ezQZDmSyyj/r1fUDe6WOmnav3IACT4CF7l9dIRR6A9OkVz99QDB0yjTL30CqMIp7eLhx6FHgnU2CuSE7ONvLybSgmby7kyKQKP1M4ATH",
+      "iv": "289yxDs/lUgzvpFs",
+      "salt": "kFXpuRgonF6f9lhe2e5k+w=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: rain showers, high 14°C",
-          "b": "Low 10°C, gusts to 46 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 14°C",
+          "b": "Low 9°C, gusts to 47 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "xaSOp75rpn7TQvuFhNAwRyqdGN2IDL0CQMSdBy8NP7aDCvE9+b3Wfxkt94Cf3tITzI2CyS49vV37eWLO2SAH5slASk4GBfMk7ZyxrnOeLTF4MBKnTLQviWgH3s55PtJxOS8fQ2Rvb57WT3DyNh+JUP+Q2o6IUDMLKLkF",
-      "iv": "oBRgaMIhSPgFSE4P",
-      "salt": "iAYccaYbR9HFoSkuUl2sog=="
+      "ciphertext": "QG05YzI8/8vkpXZ1ECP4r6fWpwNi5hcCeu78+mVvYrPwy0AlJAqYqGTV//vyn1cwm3J+Xl5fksOoQBQSenxB4RqlONeKVv3fiMEOs6qLKkz5x+F8xetojQpc+BmfhcAvioMs7sDcA1ABSmlP6taiF07h4bZl42rNLD3R",
+      "iv": "mIyweu00NQadEmsr",
+      "salt": "EPYgBHjKp81vbOFhQP9MXA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "abZwwwOy/6u2y6T1pgS4PIzSMCcpugV0K5iiysa4oP76k1YBNKX7lBIjjdXVWG2uFQNcmpA1Ub+UeDbR+Ehx9M4ZLJiW3B8c47fUIcWC42jOIkMU7DprvbVO8UfJjHIFZdITdZQ6SrpFK1cFJCiGmzynm+I9FrqaGlDJe8zQ9mQuDcb0ZWPL8y/6AmSCTGBxU9GP+F9DcVNR9qQmuPRiOxjhPcfZxqDswxQw8a6glY5I/7RZ57LMn04+nIJMvo3OeqmYoMLs07i4h2kOHGejhphLYvTp0Vq6Z5TOjakhZwEMeQtexABCWvYEwduVoCYMRIe0Y/Wd",
-      "iv": "dpfIOzTK0arZNsd4",
-      "salt": "srw0+kDjeC4M8/euvuEGNA=="
+      "ciphertext": "MVHm//4VXgdRqUMpHorPilEyLPfVHeddIM9GChMpTm5sxh0ZDs6t/fYe7roFTiiLBmvioPt6RO742cyLmn6H1Ke5ynaPaqm0j17cVVejZn6eaorgRQh5wrspVUrACda1a1wzhofLrGowxYlbm7N4rWozHRi1P/TM6t9l3Bfw3IQTXKmKuRcbJhDpJHBivdk1uickp0CbVPKgqG/gL9y9f0j8h893/08wkWdk5U5tV9uWuT4f8zHQFcLnlaJmiIFVFhtM0vz+kTCemzj2IFarX2AyY3iwU9SqjiNdkaJLFzzAr2Og+V7ecDkb1ax0RR8LZzXVelUi",
+      "iv": "1TQFd1XKWrcVBiYe",
+      "salt": "myv0J7d53jRAR8kHTJNWHA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "zDcuyDyYO9XBCpQaFgmtZfPu170fMfZz093ftSv+twWdo6QUXg7jcG8WS6oRYklk/wdICI2k1tg+hlnHkEPln47x8UXDZqaW3xpamd2ff6EWn7A/nw8jMnIhJCBQGGEM+1AgLY1TAvOwazXLAvMECw45FSgFjQsKpHawXHdJMw39ZhDKtIfgsGC8dxVYPZeM9IrRlTZmmGgRoEbw",
-      "iv": "bTKhTdVrRXGx+uQp",
-      "salt": "T3I9REAMi8ZtFDDzeOAvnw=="
+      "ciphertext": "dJmrLA5TFNYEXlWHv8h4YyXaEstAGJsXsoqySZIwpsFfzOlJwyvY3R3D2c9nQL+39rska3XSB6lBu99XHnIFTLoOBNZxotT4DE7QqcxrAAUQ8ksgHR8Bz6jZBkBAFeIH3YfhfgoGgH+elSXE/PhMXWQL5yH12Dl6Q/yY8WFv3Rk2EQ+KROUoUp2Px7snGEwzXWBDsLNg//zsmPii",
+      "iv": "O4jqZ3hoyGfYkwyY",
+      "salt": "yvxHS8MA7yeygzpl1ZsQew=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -235,12 +235,10 @@
           "rel": "interest"
         },
         {
-          "t": "Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal - Get German Football News",
-          "b": "Consummate Werder Bremen teammate Mitchell Weiser opens up on his own mental health struggles during injury ordeal  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmJ1amNNNVRLdlZ3QVhWNWg2bnpUVk8tc2N0bUZZdmVidWVMZUhFZ1JYQVNRTWlfb3hIOTdjTHNsNDREZmN2djhPb0JGam5ka0MyMVhlUzlPMmZqcldocHQzQTFyaUdVdkY2YVZGVVlwX1NLYVE0VWdQdHJLVVk5WQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 Borussia Dortmund Werder",
+          "b": "Match Preview: Borussia Dortmund Return to Action Against Werder Bremen  Fear The Wall Werder Bremen preview: Hosts keen to maintain top form  Bulinews",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -260,24 +258,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Herkunft",
-          "b": "<span class=\"jt\" data-g=\"lang_dieherkunft\">die Herkunft</span> — the origin",
-          "src": "Goethe B1 · p.49"
+          "t": "das Herz",
+          "b": "<span class=\"jt\" data-g=\"lang_dasherz\">das Herz</span> — the heart <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "der Herr",
-          "b": "<span class=\"jt\" data-g=\"lang_derherr\">der Herr</span> — the Lord <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "herzlich",
+          "b": "<span class=\"jt\" data-g=\"lang_herzlich\">herzlich</span> — warmly",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "herstellen",
-          "b": "<span class=\"jt\" data-g=\"lang_herstellen\">herstellen</span> — produce <span class=\"gram\">(stellt her · stellte her · hat hergestellt)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "heute",
+          "b": "<span class=\"jt\" data-g=\"lang_heute\">heute</span> — today",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "der Hersteller",
-          "b": "<span class=\"jt\" data-g=\"lang_derhersteller\">der Hersteller</span> — the manufacturer",
-          "src": "Goethe B1 · p.49"
+          "t": "hierher",
+          "b": "<span class=\"jt\" data-g=\"lang_hierher\">hierher</span> — here",
+          "src": "Goethe B1 · p.50"
         }
       ]
     }

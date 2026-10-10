@@ -5,13 +5,13 @@
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "10-09",
       "10-10",
       "10-11",
       "10-12",
       "10-13",
       "10-14",
-      "10-15"
+      "10-15",
+      "10-16"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            14.1
+            14.5
           ],
           [
             1,
-            14.2
+            13.0
           ],
           [
             2,
-            13.7
+            14.9
           ],
           [
             3,
-            15.1
+            14.9
           ],
           [
             4,
-            14.0
+            16.8
           ],
           [
             5,
-            17.1
+            17.0
           ],
           [
             6,
-            17.3
+            16.2
           ]
         ]
       }
@@ -59,23 +59,16 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 93% this week in Bremen",
+    "title": "Rain chances peak at 83% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
-        "k": "10-09",
-        "v": 93,
-        "lab": "93%",
-        "hero": true,
-        "tip": "14°C, Rain showers"
-      },
-      {
         "k": "10-10",
         "v": 83,
         "lab": "83%",
-        "hero": false,
+        "hero": true,
         "tip": "14°C, Rain showers"
       },
       {
@@ -83,28 +76,28 @@
         "v": 43,
         "lab": "43%",
         "hero": false,
-        "tip": "14°C, Rain showers"
+        "tip": "13°C, Rain showers"
       },
       {
         "k": "10-12",
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "15°C, Overcast"
+        "tip": "15°C, Fog"
       },
       {
         "k": "10-13",
         "v": 34,
         "lab": "34%",
         "hero": false,
-        "tip": "14°C, Light rain"
+        "tip": "15°C, Rain showers"
       },
       {
         "k": "10-14",
         "v": 38,
         "lab": "38%",
         "hero": false,
-        "tip": "17°C, Partly cloudy"
+        "tip": "17°C, Overcast"
       },
       {
         "k": "10-15",
@@ -112,6 +105,13 @@
         "lab": "16%",
         "hero": false,
         "tip": "17°C, Overcast"
+      },
+      {
+        "k": "10-16",
+        "v": 35,
+        "lab": "35%",
+        "hero": false,
+        "tip": "16°C, Light rain"
       }
     ]
   },
@@ -137,7 +137,7 @@
       {
         "from": "tag_bremen",
         "to": "src_bremen_germany_google_news",
-        "v": 8
+        "v": 7
       }
     ]
   }

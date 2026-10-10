@@ -1518,5 +1518,37 @@
     "lang": "de-DE",
     "d": "The manufacturer",
     "w": "“Ihr Handy ist kaputt? Wir schicken es an den Hersteller zurück und lassen es reparieren.”"
+  },
+  "lang_dasherz": {
+    "t": "das Herz",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The heart",
+    "w": "“Ich bin ganz nervös. Mir klopft das Herz.”"
+  },
+  "lang_herzlich": {
+    "t": "herzlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Warmly",
+    "w": "“Herzlichen Glückwunsch!”"
+  },
+  "lang_heute": {
+    "t": "heute",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Today",
+    "w": "“Heute kann ich etwas früher nach Hause gehen.”"
+  },
+  "lang_hierher": {
+    "t": "hierher",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Here",
+    "w": "“Ich komme oft hierher. In diesem Café gibt es guten Kuchen.”"
   }
 }

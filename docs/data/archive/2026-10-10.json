@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-08",
-  "day": "Tue",
-  "dnum": "08",
-  "mon": "Sep",
-  "date": "Tuesday 08 September 2026",
-  "headline": "Briefing refreshed 19:47 Berlin time",
-  "stand": "Automatically rebuilt at 19:47 — 12 sections tracked.",
+  "id": "2026-10-10",
+  "day": "Sat",
+  "dnum": "10",
+  "mon": "Oct",
+  "date": "Saturday 10 October 2026",
+  "headline": "Briefing refreshed 12:10 Berlin time",
+  "stand": "Automatically rebuilt at 12:10 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "R+uOgKaL8c6+jR/mcczM+Vr05p8RLj1B+iHPg33wIBVuxjeTJlP41OLbAQZOBvxkpRhUZLGxyIIEG3gkKAh1Pbk9y+tU/GlHnMw6h5XYM+d5L7sE2s6GffhqfTQQH5Xe9dneQI3gR7wnTnd89gcCJkFHbqQJXLkLvt1nsA+56DMtmQMOgyNi",
-      "iv": "DemXuAUsLQ4Bzjbl",
-      "salt": "dlm7BHn5YV2atgFMpsYQLg=="
+      "ciphertext": "RX1qDOXs0xFZ+ONFl/3dYexEojNypwIN+ZFIUeVb4cho539jT/0z/oIzVhrM3sg5oQU0a/Yjp5e0ezQZDmSyyj/r1fUDe6WOmnav3IACT4CF7l9dIRR6A9OkVz99QDB0yjTL30CqMIp7eLhx6FHgnU2CuSE7ONvLybSgmby7kyKQKP1M4ATH",
+      "iv": "289yxDs/lUgzvpFs",
+      "salt": "kFXpuRgonF6f9lhe2e5k+w=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "19°",
+          "n": "13°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: light rain, high 24°C",
-          "b": "Low 16°C, gusts to 44 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 14°C",
+          "b": "Low 9°C, gusts to 47 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "g7Koq5WJtwRkjEJPOo3KN14L7lz89SrVw0sMPgnJhbt6jqTjenoybHOVIIHPNhoE/3I/ZZZoyYHtBhVW1Bf9jKYJTeMwQf+nss2AD8wtN2mtqi+u50NhCP6MgDtwNBVN9VAyWe5dvsRsahOEbIARHW3Q/HqD9mjzIfRK",
-      "iv": "OBIXG341ii/wwlsC",
-      "salt": "22jU8JELWILqzdrvms3dhQ=="
+      "ciphertext": "QG05YzI8/8vkpXZ1ECP4r6fWpwNi5hcCeu78+mVvYrPwy0AlJAqYqGTV//vyn1cwm3J+Xl5fksOoQBQSenxB4RqlONeKVv3fiMEOs6qLKkz5x+F8xetojQpc+BmfhcAvioMs7sDcA1ABSmlP6taiF07h4bZl42rNLD3R",
+      "iv": "mIyweu00NQadEmsr",
+      "salt": "EPYgBHjKp81vbOFhQP9MXA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "gnmZOAAn1+AncgjVK7OzYmVAxD2cytmiu9Lc65ZTNQILSgwIiPKC83jpgl12ZNWo5K4wbJIkUHEu5HbRB4lrwb7i6GduWA0rXJmOcRU/V+k6g07HsIAdeZ5BA4fyYTWlJBLm/0xD8LsVa1E4BKz4ql1MgHy74+clXDdhBFJO0hdUz552vM+oXcKzn6Si46UhUKqZkdUPW3qvEaoeqMghGV3HDLe06qSnA78EMhN350KXkUTr3+EJoMNlxnLIfWquGkdH/WNxR+cYs4HYqIW2df6UZdTw0gIov8HrxtTI9Z2pDRPHnhVN2yJ4DbfEq+XUCo44sUC2",
-      "iv": "3sGz8B6U+qLSuinK",
-      "salt": "891XZJpKhAWChAOMGPYGiw=="
+      "ciphertext": "MVHm//4VXgdRqUMpHorPilEyLPfVHeddIM9GChMpTm5sxh0ZDs6t/fYe7roFTiiLBmvioPt6RO742cyLmn6H1Ke5ynaPaqm0j17cVVejZn6eaorgRQh5wrspVUrACda1a1wzhofLrGowxYlbm7N4rWozHRi1P/TM6t9l3Bfw3IQTXKmKuRcbJhDpJHBivdk1uickp0CbVPKgqG/gL9y9f0j8h893/08wkWdk5U5tV9uWuT4f8zHQFcLnlaJmiIFVFhtM0vz+kTCemzj2IFarX2AyY3iwU9SqjiNdkaJLFzzAr2Og+V7ecDkb1ax0RR8LZzXVelUi",
+      "iv": "1TQFd1XKWrcVBiYe",
+      "salt": "myv0J7d53jRAR8kHTJNWHA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "DnKujofLLPDDr1MepXlS+roYiBrDSqFOZyIR9cOfRKN9IuWaX4JqCgCemkdvsOPeum6zjHUvCEksbcX4q116zA+pXSGZcsTLy5tSSvFFThqF0fZoH8EFN5ji4rEMUo99Lb8l8jKD0gnlvQwFaCv6DkCULY3Lr48YdvdzbN1uzkctO1nvIRH2e0008fWxWFSkF94DmFoIZRgF+f4G",
-      "iv": "1WI/QT0PkibRDuKH",
-      "salt": "g8RjK+ZZA5DptTBsfftENQ=="
+      "ciphertext": "dJmrLA5TFNYEXlWHv8h4YyXaEstAGJsXsoqySZIwpsFfzOlJwyvY3R3D2c9nQL+39rska3XSB6lBu99XHnIFTLoOBNZxotT4DE7QqcxrAAUQ8ksgHR8Bz6jZBkBAFeIH3YfhfgoGgH+elSXE/PhMXWQL5yH12Dl6Q/yY8WFv3Rk2EQ+KROUoUp2Px7snGEwzXWBDsLNg//zsmPii",
+      "iv": "O4jqZ3hoyGfYkwyY",
+      "salt": "yvxHS8MA7yeygzpl1ZsQew=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,6 +73,12 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
+        },
+        {
+          "t": "I've been using Botsona lately, and it's been pretty useful. You can set up AI agents with their own personas, phone numbers, and emails. Easy to use and saves me a lot of manual work. Thought I'd share in case anyone's looking for something similar.",
+          "b": "This helps in User feedback testing, not code testing.    submitted by    /u/darkman_alpha   [link]   [comments]",
+          "src": "Quality Assurance : articles and news about software testing",
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1x1rj7y/ive_been_using_botsona_lately_and_its_been_pretty/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -115,12 +121,6 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-        },
-        {
-          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,6 +163,62 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Confirmed Lineups: Borussia Dortmund vs. Werder Bremen - Bulinews",
+          "b": "Confirmed Lineups: Borussia Dortmund vs. Werder Bremen  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbHIyQnVmVmxjN2F0VkhBNktkNU1TZ2tvQkhnSEotX1l6LVpXbWVNdS1aTlBmWGlqZXlfX1JiSzk0d3ItRU9FenRLZ0RWSmo0eWxYYlM5QzVJa2JJN3RHdFc3bUtmbUlzUDkxeUc3TmM3WldCTW9KTWZiLWU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Alicante airport to lose Eindhoven and Bremen flights as Ryanair abandons the German city - Olive Press News Spain",
+          "b": "Alicante airport to lose Eindhoven and Bremen flights as Ryanair abandons the German city  Olive Press News Spain",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXV0Zk1wdlRnYldGR2NISXEzNWM5SWRzdnFvUHFaZUdydWNoZWdzbEkxNHdManN2bzBYNEVBRWJEdkN6dVVIbktrMjJwOGVEMnUxRVFuMHloZWZnN1lzQTRjZzZJNFFreDE2LWphcmNacUFiZjNFRDl4eFNrb1hJYzd6Y0I1M1Z4ZWc4TWlmdUVNV3hxNXpFNU1BYXpWWlU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Match Preview: Borussia Dortmund Return to Action Against Werder Bremen - Fear The Wall",
+          "b": "Match Preview: Borussia Dortmund Return to Action Against Werder Bremen  Fear The Wall",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXh3WEZjMWRoZkFkSmFMeTA0R21Qa2lpbkNpX0tlWTIxclkxYUpkNzRxWnpIQlFsZG1DRGRhMGJrdDJmZjhOQVhZeVRzOXFhLXRlV2NpZWR5Y09qMXBpcUtQejUwWFVMU2RGVGJ1RVhnRWpHN1RhQWVnNTFsMUFQZmN0TDN5ZG1yMlFjWThQN1MwS050aVFNXzk0NUw3VG80NmlWS2ozV0JkMnFRdHhhRXFGbURydw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund vs. Werder Bremen preview: Hosts keen to maintain top form - Bulinews",
+          "b": "Borussia Dortmund vs. Werder Bremen preview: Hosts keen to maintain top form  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2U2TS1BWmhIVnR2SXE5QW9EWVBGa0V5MXl3ZDdBZ3ZFbXJpRWYySkNzanlIUW5lc0puMFBYeUE4UldwSV9sbHAzdlY0Vl9wMGg5R1ZiT3J0WjlHMU9mOEZVcDVxeDRJemV5eWkwQ0lnS1B6dzN5VjIteFhzUVkzeTBHRm1XWlRoY1E0N2d1LTQ4R1k?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen lean heavily on Niclas Füllkrug after turbulent international break - Get German Football News",
+          "b": "Werder Bremen lean heavily on Niclas Füllkrug after turbulent international break  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NYkFHaFFQeWNZd2RxUzFMa2l5M2h5bm42dktrVkt2RUxhZHU0N2dycXY5c0xwOGFBRUZzQnprTzk4ZkJQb2xZcVFCSjNLVlF6OF9CMW1UMXV0V2dqaW1qSndhRGpFRndrZzdJTGtwaUVuaWtfRWNGaw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "DE000A254YH8 Bond Yield and Price Chart - TradingView",
+          "b": "DE000A254YH8 Bond Yield and Price Chart  TradingView",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYmxGM3lRdWxfdnp3RDhQMnhZc3hzOGZ5YkNscE1HTjM4SkFyT3FZcjRnbkF6ajkxQVhyTlJLaGROZ2JXeHRLRk9WaDVQWXo1RkxaSC1IUUJqVlhjaUJpWGI1U2tUTUFNZFE?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "IRIS2 planning meeting in Bremen - Advanced Television",
+          "b": "IRIS2 planning meeting in Bremen  Advanced Television",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VFX3piYkZJUHNma0xaa1JRVS1vNU5xbTZSNUtjQlVLSkcyTVA5SGlQWV95UDdJbk1FcjdpQVRkM05EZGotUXdTY1ZMamZVcXZpbDNHRXFSS2pwbFI5RlpqN0xaa1UwUGtHZ0VvVDFTRG56ZFN5TWFaTHQ4RUZvd0gtSExLc00?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -179,12 +235,10 @@
           "rel": "interest"
         },
         {
-          "t": "Werder Bremen revel in ‘footballing romance’ after upset Bundesliga win over RB Leipzig - Get German Football News",
-          "b": "Werder Bremen revel in ‘footballing romance’ after upset Bundesliga win over RB Leipzig  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFWWJUWWVlbzJYaXVjY3B5emkwTUVTWndyWTBpc1VvNlF0UEdMSFh1Z0xaTG5IY0lrSEVBbjNSa3ExQWlzMk11Z3VScFBmalhvaEk1aDY5WXhRcENDWnlqTE9Jbkx3QUhGc1gzLS1Eend4bVdsQ01n?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 Borussia Dortmund Werder",
+          "b": "Match Preview: Borussia Dortmund Return to Action Against Werder Bremen  Fear The Wall Werder Bremen preview: Hosts keen to maintain top form  Bulinews",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -204,24 +258,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Gesicht",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgesicht\">das Gesicht</span> — the face <span class=\"gram\">(plural: -er)</span>",
-          "src": "Goethe B1 · p.45"
+          "t": "das Herz",
+          "b": "<span class=\"jt\" data-g=\"lang_dasherz\">das Herz</span> — the heart <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "gespannt",
-          "b": "<span class=\"jt\" data-g=\"lang_gespannt\">gespannt</span> — excited",
-          "src": "Goethe B1 · p.46"
+          "t": "herzlich",
+          "b": "<span class=\"jt\" data-g=\"lang_herzlich\">herzlich</span> — warmly",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "das Gespräch",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgespräch\">das Gespräch</span> — the conversation <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "heute",
+          "b": "<span class=\"jt\" data-g=\"lang_heute\">heute</span> — today",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "gestern",
-          "b": "<span class=\"jt\" data-g=\"lang_gestern\">gestern</span> — yesterday",
-          "src": "Goethe B1 · p.46"
+          "t": "hierher",
+          "b": "<span class=\"jt\" data-g=\"lang_hierher\">hierher</span> — here",
+          "src": "Goethe B1 · p.50"
         }
       ]
     }
