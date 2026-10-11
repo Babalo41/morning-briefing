@@ -1550,5 +1550,37 @@
     "lang": "de-DE",
     "d": "Here",
     "w": "“Ich komme oft hierher. In diesem Café gibt es guten Kuchen.”"
+  },
+  "lang_derhimmelhinunterrunterwerfen": {
+    "t": "der Himmel (hinunter) runterwerfen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Throw down the sky",
+    "w": "“Wir hatten im Urlaub so tolles Wetter. Immer Sonne und blauer Himmel. Kannst du mir bitte den Schlüssel”"
+  },
+  "lang_wirft": {
+    "t": "wirft",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Throws",
+    "w": "“runterwerfen? Ich habe meinen vergessen.”"
+  },
+  "lang_hinten": {
+    "t": "hinten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Behind",
+    "w": "“Wo möchtest du sitzen? Hinten oder vorne?”"
+  },
+  "lang_hinterlassen": {
+    "t": "hinterlassen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Leave behind",
+    "w": "“Möchten Sie eine Nachricht hinterlassen?”"
   }
 }

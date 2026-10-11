@@ -1,0 +1,285 @@
+{
+  "id": "2026-10-11",
+  "day": "Sun",
+  "dnum": "11",
+  "mon": "Oct",
+  "date": "Sunday 11 October 2026",
+  "headline": "Briefing refreshed 14:42 Berlin time",
+  "stand": "Automatically rebuilt at 14:42 — 12 sections tracked.",
+  "blocks": [
+    {
+      "h": "Needs Attention",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "OWibuqWn4iTp/GZKBm1z9oR16NjmFGs+XFXlKgxPVMdIg6PvB9+YH0vtpLBRzUwaU4LQNB793dAEz0IaHqeYpLsmhGLbCoDuCtwz+k2BBKAyMbzxqFXYrSVmEUXEvQRcnsTU6r0/rRJZCnelGy4Q+eJInzHMuZ54JoCsx+M36Dnmz0UmjCtQ",
+      "iv": "OcvgewdwJJcEYaX4",
+      "salt": "whXIlvxqzmcKdpZDkr1tVQ=="
+    },
+    {
+      "h": "Weather",
+      "stats": [
+        {
+          "n": "12°",
+          "l": "right now"
+        }
+      ],
+      "items": [
+        {
+          "t": "Bremen: rain showers, high 13°C",
+          "b": "Low 8°C, gusts to 49 km/h. 7-day outlook below.",
+          "src": "Open-Meteo"
+        }
+      ],
+      "chart": [
+        "wxtemp",
+        "wxrain"
+      ]
+    },
+    {
+      "h": "Week & Month Ahead",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "4SYZHhO7fnhAGJO09MK0LriJlU96P8mTSCmacpsvHqE7guv5Me0KsQc4Ay1XNo/OZRz0TJOJq8mrQSCLoJqkJ87L3KCwRzB0Gq8zUECG/3/vIzbXB5a46vVh8zlbjLQ4BttTASzmxWbyEVQTstdIdV7tbMWGJm88xUXR",
+      "iv": "R7gSx8JWI/ZNLQo1",
+      "salt": "J/qSpjmLJsldOmw/CwKcVA=="
+    },
+    {
+      "h": "Diabetes & Supplies",
+      "count": 2,
+      "encrypted": true,
+      "ciphertext": "6AsUefkogUvpo9Alg/9aLqqO7bCg1dNF9yitJOeea7aUnm8Iocj6GL4C+ZGak45wCPaGiXHmS41HCUMV8ZNOZXVlTD8YEYGyKS/srorLxrgRQ+pabeEBnmcfiCuz9U8ViOSJXTODxXMaASC1vt8rZ4TN3Xca0CoeJxM+3w39QdNOGPqEFkCEYTje7GZ0EKcE9sgdXHNZsFM4UUtcVybWOsdK+ORJ1m8Rvmz2pOx4hPSFLpCMNawx7LrzWOuHLaR0loL5fvCpv0Qs8lk5nlzb+pnDoXdtTm6dp96Pq1mMEII4uvMkkotcJ55NLm0OWtHfP52zKaJU",
+      "iv": "3HiKRRHbg4Hv8mbe",
+      "salt": "kqQZb6P/R36U315C3Ihbog=="
+    },
+    {
+      "h": "Spending",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "VXxMIAis3hOlxoppiDonwSRtv1CC6Zypp1NXHOck7PL0BHfv4OvOCu1kqGzFu7Tq3J7Y9mZ79gY3hxe6szZPdb9NzjVfrbNp1aHs71sq+TsOCMU5P1FeM8Jfzu+L4kn7PWQGtKo3w1AcqUzuZqrtylj6+Bsu4ECCac9M+z54T42M5fX3DzJ9xaFPTnCA7jD2mylCuihqg66/v78G",
+      "iv": "HwfHs/tOmH2TFiiB",
+      "salt": "6+sewJuNHP4bwYbCKQ0OnA=="
+    },
+    {
+      "h": "ISTQB & Software Testing",
+      "items": [
+        {
+          "t": "📌 Istqb® Certified Tester",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "📌 Istqb® Testing Recognizes",
+          "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+          "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+          "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+        },
+        {
+          "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+        },
+        {
+          "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+        },
+        {
+          "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+          "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+        }
+      ],
+      "feed_section": "profession_field"
+    },
+    {
+      "h": "Defense Electronics & Secure Networking",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "work_industry"
+    },
+    {
+      "h": "Network & Systems Engineering",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "network_systems"
+    },
+    {
+      "h": "Jira, Xray & Confluence",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "test_tooling"
+    },
+    {
+      "h": "Near Home",
+      "tags_section": "near_home",
+      "items": [
+        {
+          "t": "Ryanair to Stop All Bremen Flights From April 2027 - Rus Tourism News",
+          "b": "Ryanair to Stop All Bremen Flights From April 2027  Rus Tourism News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWJUNFFnSU1RQUFuUVBUaFAyWlRPamRmbWdhSHR1dnBGSEdOSFVxSkxkN05NZGF5S1dzcUhPcUxtWTEzT1h1SzZaZGJvUjNjdzI0UHVjUDZpckdlZmROSkZFY04yRng2NDR4enBOckI4T2laaVpKUE1OcllkOHdmX0pHLXBGRHNoOWMwYUpIMUVIb2RSWTE2MA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp? - Yahoo Sports",
+          "b": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp?  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGc5ZE9TeFBBU2JPOUVDTXJvR3Zvd2hnYlFoOFdla2VPdVhBTlVLR0dZR2hQblpDemlqM1lwQ2NlbFdmaXJiYVhUSUtFaVdLckFwaG1fVTA1SmgtcXViUDZiY0J0RDdXazRVNDV0SU4tRUxaZGRXRWlLWkN6S1JRTVhCS3ZLa0xqQTJQWA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback - Get German Football News",
+          "b": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTEQzWHlXS0NFcWNGQkczRW5ydjR0bkpKel9JNlVYSEYxdF9aMlprblBkYlhRV3BwZ2paZkUyZDVUMm5jYUFpZXRSUzNFMlBWNlp3VXE0NUFzaXE2WGxnVS1RSWF6N0EzTmIxc1haWXM0QlE?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen - Get German Football News",
+          "b": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzF0cEg2eWxVQldmX3ZyTlVkZGh2ck1hWno2Z0kyWDFEeFBYSXRNZkRTMmdDbndkUWpCVy05MEdONURTbGlxVENzUlRmZjR6ak9pOHFnTklfbGJKV1lrbUZHNGRvZGc1aHk1V0N4T0pFNWstZ1NYRHZLSFZ1dDk4RVc4VDcxa2drc18tQXBNTm16a2NHWUhGd3pRVXVUZ3Q4dGU4b2RocHBsVGVicm5V?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen - Xinhua",
+          "b": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen  Xinhua",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ed2FCcTdHOTU3cFJGRE9sbnExbmhIVW0wX1ZhQkJxanZYSnhLSEROdWVVQjFnZUhnemtyRkFOanlQNTA2eDY2RzU4RENGb2lleWRtU3ZIOHhEVF9naVZ4cGNHbEVDU3p3UzNSTklpV1lZaGdUSTMyS1M5NA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night - Bulinews",
+          "b": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3BUYWVmRVYtcGJ2UGxZY2F5LWVwSS1sTW9qY2JxN3VJSWxvZ3JKSUZtdDNkeFJScnd2cmxHUWZpZEkyX1RkLWdNVzFRU1BaLUN3NHZpYmdwcS1CLWhuNTBrNGVUMEI2M2hvQ3g3TllEWmpsa0xFaUVTQ0NRbmJsbkFSdDVLZDRNbkRWeGxPNWEwYkRpeGxMQ2JjbWd3NWUzY0JzSWMzRFA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund - Bulinews",
+          "b": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFJPNzV4eV81UFVfMmVaUTZ6Vm52NklGZUlOU014UURQWDlDWUlzdnVteVN3MVdMX2NjOWF0MFh2bFY2T3EyZEZISE1vTWplbkJLLXBidmZJbm5DZkx4ZUJybThpcUpYVzlON2NyMkpEcVdJNmdSSFo0eGQ0eDFsXzVqV3R4bFVWXzFtNVdTMGhoWWk1MlIwcWp2QzlqQ1hpR25hMEhIWi1Xc0lYQnA1cHVpc29GWGVud1U0?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen - Laredo Morning Times",
+          "b": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen  Laredo Morning Times",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkhvdHZpUDh1QUtuTFh5TnFFQVZjMFVWM1J5YzV1N29zSlM1ZEl3dGVDT3BqbkV0T3FkZjlaX3lnTm1IYlVnX0xXSVdhdG51MG5uRDQwcnZ6aVlsUFU1OXJGTzI5TXRNOUVYLW9nbWhla3hZcUR5U01EcGVkX1BRNF9tdDlZM1Q0LXotSkE2aS1Wd0REOXlONndIaUVYLThoSHlv?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen - Bozeman Daily Chronicle",
+          "b": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen  Bozeman Daily Chronicle",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWJlaFNubDk2Wm5ObHB6WWUwcHExaU8wS093bHpqaG1rajNEWHpRTEE0dXAwQXBEbHBZTENiSjFWN0J1SnVyMDV5STZYT25sM284YkFobzdWQk9ZbjVOV1BYU29ILTVVVUU4dDJkcGpnekhPZW1TS0Q3WTZpS19qWGQxUURvajE4MnFnUER0WEJ3VFd4Z2ZFOHAxX0lIZ3AtWkxMRE5GS21pN1R6NTV2Vlo5SXJ2QTdsekJrVFpCQm1nclpxaDNQZ3VYWDFfWXc3UXFrZ2ktVVByUUhMUHc5QldKenAzNmhxakhWUFNJNFNOSlFTN0pGOC1IaDBFX0dtem9F?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "PLAYER RATINGS | Borussia Dortmund 2-2 Werder Bremen - Niclas Füllkrug secures share of spoils in four-goal thriller - Get German Football News",
+          "b": "PLAYER RATINGS | Borussia Dortmund 2-2 Werder Bremen - Niclas Füllkrug secures share of spoils in four-goal thriller  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm9ydWl6RElGa19fNEFCWTFjbFpEUTZ6RW5HdzdiMVNGMmh6LWpyNDNRaDR0YTBFbXgtaTJYSko1b3dYbGs5U0xXQmV3bHYySjJybzYxbGxIc3M4SmhrY0hXa3MtbGNmMzh4NHFmcEV5dmhjbUJscktDZmhvWFlVTURYZU9SdkdaNnVvSV9UT3JDS3A3VlJCa0tna1dHbjlWcDhfcFVBT1hMcjdsc3hpQw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        }
+      ],
+      "chart": "near_home_flow"
+    },
+    {
+      "h": "World & Knowledge",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "world_and_knowledge"
+    },
+    {
+      "h": "Language Practice",
+      "items": [
+        {
+          "t": "der Himmel (hinunter) runterwerfen",
+          "b": "<span class=\"jt\" data-g=\"lang_derhimmelhinunterrunterwerfen\">der Himmel (hinunter) runterwerfen</span> — throw down the sky",
+          "src": "Goethe B1 · p.50"
+        },
+        {
+          "t": "wirft",
+          "b": "<span class=\"jt\" data-g=\"lang_wirft\">wirft</span> — throws",
+          "src": "Goethe B1 · p.50"
+        },
+        {
+          "t": "hinten",
+          "b": "<span class=\"jt\" data-g=\"lang_hinten\">hinten</span> — behind",
+          "src": "Goethe B1 · p.50"
+        },
+        {
+          "t": "hinterlassen",
+          "b": "<span class=\"jt\" data-g=\"lang_hinterlassen\">hinterlassen</span> — leave behind <span class=\"gram\">(hinterlässt · hinterließ · hat hinterlassen)</span>",
+          "src": "Goethe B1 · p.50"
+        }
+      ]
+    }
+  ]
+}
