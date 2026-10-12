@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-11",
-  "day": "Sun",
-  "dnum": "11",
+  "id": "2026-10-12",
+  "day": "Mon",
+  "dnum": "12",
   "mon": "Oct",
-  "date": "Sunday 11 October 2026",
-  "headline": "Briefing refreshed 14:42 Berlin time",
-  "stand": "Automatically rebuilt at 14:42 — 12 sections tracked.",
+  "date": "Monday 12 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "OWibuqWn4iTp/GZKBm1z9oR16NjmFGs+XFXlKgxPVMdIg6PvB9+YH0vtpLBRzUwaU4LQNB793dAEz0IaHqeYpLsmhGLbCoDuCtwz+k2BBKAyMbzxqFXYrSVmEUXEvQRcnsTU6r0/rRJZCnelGy4Q+eJInzHMuZ54JoCsx+M36Dnmz0UmjCtQ",
-      "iv": "OcvgewdwJJcEYaX4",
-      "salt": "whXIlvxqzmcKdpZDkr1tVQ=="
+      "ciphertext": "Ws1opiSE/EwAlCaDPUVqTOSlWqlb1cp3Tt2iS8ebwIxrLqyGEuElyon8Uhhhl9eetcr/y39FkCgffyDy9vujd1phVHFzLJwR9Ybg3fRto0nXJbmVW+pF+Bisv8b2cp1Rc/7kXHfRjXT+BxhDvaYpqkR/is3bqEYDSRhK7CiJKLmlegYwIjJX",
+      "iv": "pR8mYAolH0eF3Qpx",
+      "salt": "4U167sXLA5GaaR8EF+D8gA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "12°",
+          "n": "8°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: rain showers, high 13°C",
-          "b": "Low 8°C, gusts to 49 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 15°C",
+          "b": "Low 8°C, gusts to 18 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "4SYZHhO7fnhAGJO09MK0LriJlU96P8mTSCmacpsvHqE7guv5Me0KsQc4Ay1XNo/OZRz0TJOJq8mrQSCLoJqkJ87L3KCwRzB0Gq8zUECG/3/vIzbXB5a46vVh8zlbjLQ4BttTASzmxWbyEVQTstdIdV7tbMWGJm88xUXR",
-      "iv": "R7gSx8JWI/ZNLQo1",
-      "salt": "J/qSpjmLJsldOmw/CwKcVA=="
+      "ciphertext": "ML5qEY0xWjT3sGbmXaXDuI/n0n+4uOrH/VZPTTZEiWQfXxfUaEwWxHifWAfKHpMQewZV/aU0Isczy/BL2fWLGSI36xMKBGRmbf5NPTuDT0MD4Q7FsqqgNvIlF/795m1xmo5T9DJWLXgi1uVg/wI9VmVXnPYcsOfYEZFd",
+      "iv": "sxPFWG1hCC/vVs4F",
+      "salt": "Qt2/E49vYrpr0mw/4/1H8w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "6AsUefkogUvpo9Alg/9aLqqO7bCg1dNF9yitJOeea7aUnm8Iocj6GL4C+ZGak45wCPaGiXHmS41HCUMV8ZNOZXVlTD8YEYGyKS/srorLxrgRQ+pabeEBnmcfiCuz9U8ViOSJXTODxXMaASC1vt8rZ4TN3Xca0CoeJxM+3w39QdNOGPqEFkCEYTje7GZ0EKcE9sgdXHNZsFM4UUtcVybWOsdK+ORJ1m8Rvmz2pOx4hPSFLpCMNawx7LrzWOuHLaR0loL5fvCpv0Qs8lk5nlzb+pnDoXdtTm6dp96Pq1mMEII4uvMkkotcJ55NLm0OWtHfP52zKaJU",
-      "iv": "3HiKRRHbg4Hv8mbe",
-      "salt": "kqQZb6P/R36U315C3Ihbog=="
+      "ciphertext": "q78LevPzdnl9Pzg9+8kTjFXrelrfzLoP2GoB8v/5ASHMR8sfoiumqa0kOv339aQVokM+vtLJe/6IohhicfsMzs020wBDzstCsGup8CV17m1yTrThm3/ANqXvwTYX6WXirLwCDDea8Vf0baVzu4kQpKcot/NJ1Fr8PsTKf+0Jk/Mb0vG2UgTzPqBBFZGk9f6zUes23SLQClHWpid2fLjgxV481LX1XZ5p+aqcGnnH3vAgpN/oLV3/IuiS5WtVwM9PuM0/qOJFT0HpnVfP5Jhk1VRKLMIyl2WNKEfU6VoBzr0e9eNXU47Cmn4BCPASzTKLWqwg5fGg",
+      "iv": "WgboWi+VlGoqTuSX",
+      "salt": "fxu3bg96KHCbJu/CSgU/2A=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "VXxMIAis3hOlxoppiDonwSRtv1CC6Zypp1NXHOck7PL0BHfv4OvOCu1kqGzFu7Tq3J7Y9mZ79gY3hxe6szZPdb9NzjVfrbNp1aHs71sq+TsOCMU5P1FeM8Jfzu+L4kn7PWQGtKo3w1AcqUzuZqrtylj6+Bsu4ECCac9M+z54T42M5fX3DzJ9xaFPTnCA7jD2mylCuihqg66/v78G",
-      "iv": "HwfHs/tOmH2TFiiB",
-      "salt": "6+sewJuNHP4bwYbCKQ0OnA=="
+      "ciphertext": "+jeupcmym6bhXmuU6fz60e65pC58qhVWaIakLyDnvDFi2q7GEeung/7oWPyz94sjI9OdQmbIfC86EBqyCHwyPwwIBwfOjvfqD6Yy0+dV6OPNa6sEKZ/47bCJk1KFKRCzrvL+se44ayrmBoun2n4GIX7WSIkgLQlUmGUu9GqO5Qkcb3N0lyufMnCqijqtMwhz5C3kcQP3O0YLCZrr",
+      "iv": "Sybo+Aw6CzD46HfP",
+      "salt": "5XUr5+H8OM2j09g6XyKdoQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -203,6 +203,22 @@
           "rel": "home"
         },
         {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        },
+        {
           "t": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night - Bulinews",
           "b": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night  Bulinews",
           "src": "\"Bremen, Germany\" - Google News",
@@ -225,22 +241,6 @@
           "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkhvdHZpUDh1QUtuTFh5TnFFQVZjMFVWM1J5YzV1N29zSlM1ZEl3dGVDT3BqbkV0T3FkZjlaX3lnTm1IYlVnX0xXSVdhdG51MG5uRDQwcnZ6aVlsUFU1OXJGTzI5TXRNOUVYLW9nbWhla3hZcUR5U01EcGVkX1BRNF9tdDlZM1Q0LXotSkE2aS1Wd0REOXlONndIaUVYLThoSHlv?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen - Bozeman Daily Chronicle",
-          "b": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen  Bozeman Daily Chronicle",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWJlaFNubDk2Wm5ObHB6WWUwcHExaU8wS093bHpqaG1rajNEWHpRTEE0dXAwQXBEbHBZTENiSjFWN0J1SnVyMDV5STZYT25sM284YkFobzdWQk9ZbjVOV1BYU29ILTVVVUU4dDJkcGpnekhPZW1TS0Q3WTZpS19qWGQxUURvajE4MnFnUER0WEJ3VFd4Z2ZFOHAxX0lIZ3AtWkxMRE5GS21pN1R6NTV2Vlo5SXJ2QTdsekJrVFpCQm1nclpxaDNQZ3VYWDFfWXc3UXFrZ2ktVVByUUhMUHc5QldKenAzNmhxakhWUFNJNFNOSlFTN0pGOC1IaDBFX0dtem9F?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "PLAYER RATINGS | Borussia Dortmund 2-2 Werder Bremen - Niclas Füllkrug secures share of spoils in four-goal thriller - Get German Football News",
-          "b": "PLAYER RATINGS | Borussia Dortmund 2-2 Werder Bremen - Niclas Füllkrug secures share of spoils in four-goal thriller  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm9ydWl6RElGa19fNEFCWTFjbFpEUTZ6RW5HdzdiMVNGMmh6LWpyNDNRaDR0YTBFbXgtaTJYSko1b3dYbGs5U0xXQmV3bHYySjJybzYxbGxIc3M4SmhrY0hXa3MtbGNmMzh4NHFmcEV5dmhjbUJscktDZmhvWFlVTURYZU9SdkdaNnVvSV9UT3JDS3A3VlJCa0tna1dHbjlWcDhfcFVBT1hMcjdsc3hpQw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -260,23 +260,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Himmel (hinunter) runterwerfen",
-          "b": "<span class=\"jt\" data-g=\"lang_derhimmelhinunterrunterwerfen\">der Himmel (hinunter) runterwerfen</span> — throw down the sky",
+          "t": "hinterher",
+          "b": "<span class=\"jt\" data-g=\"lang_hinterher\">hinterher</span> — afterwards",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "wirft",
-          "b": "<span class=\"jt\" data-g=\"lang_wirft\">wirft</span> — throws",
+          "t": "hinweisen",
+          "b": "<span class=\"jt\" data-g=\"lang_hinweisen\">hinweisen</span> — point out <span class=\"gram\">(weist hin · wies hin · hat hingewiesen)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "hinten",
-          "b": "<span class=\"jt\" data-g=\"lang_hinten\">hinten</span> — behind",
+          "t": "der Hinweise",
+          "b": "<span class=\"jt\" data-g=\"lang_derhinweise\">der Hinweise</span> — of the clues <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "hinterlassen",
-          "b": "<span class=\"jt\" data-g=\"lang_hinterlassen\">hinterlassen</span> — leave behind <span class=\"gram\">(hinterlässt · hinterließ · hat hinterlassen)</span>",
+          "t": "historisch",
+          "b": "<span class=\"jt\" data-g=\"lang_historisch\">historisch</span> — historical",
           "src": "Goethe B1 · p.50"
         }
       ]

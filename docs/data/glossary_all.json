@@ -1582,5 +1582,37 @@
     "lang": "de-DE",
     "d": "Leave behind",
     "w": "“Möchten Sie eine Nachricht hinterlassen?”"
+  },
+  "lang_hinterher": {
+    "t": "hinterher",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Afterwards",
+    "w": "“Vor der Prüfung habe ich so viel gelernt. Hinterher habe ich vieles wieder vergessen.”"
+  },
+  "lang_hinweisen": {
+    "t": "hinweisen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Point out",
+    "w": "“Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.”"
+  },
+  "lang_derhinweise": {
+    "t": "der Hinweise",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Of the clues",
+    "w": "“Die Polizei hat viele Hinweise zum Unfall bekommen.”"
+  },
+  "lang_historisch": {
+    "t": "historisch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Historical",
+    "w": "“Wir waren mit unserer Klasse im Historischen Museum.”"
   }
 }

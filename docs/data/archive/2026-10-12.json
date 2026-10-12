@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-10",
-  "day": "Thu",
-  "dnum": "10",
-  "mon": "Sep",
-  "date": "Thursday 10 September 2026",
-  "headline": "Briefing refreshed 18:14 Berlin time",
-  "stand": "Automatically rebuilt at 18:14 — 12 sections tracked.",
+  "id": "2026-10-12",
+  "day": "Mon",
+  "dnum": "12",
+  "mon": "Oct",
+  "date": "Monday 12 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "kJo3VBW/vlVKgGvP44+ziON8N8Kv9+Amw+F+0mA6OVM/UZjpVu1THBlghvTWdc/OrCyJzOdquOABy/44UG1fYb9mN8ZwqIKhwe5Nlfg3FpxCYjvU+EK8od/ZqQsFv1PEBx+lgBSyWRnH9Lw90WFEmebCATj+rdsWRBS2jQ2M7uNoeeCTPTL6",
-      "iv": "oSsWlwmDdeKVHZdk",
-      "salt": "q5GUPY4mYR9aaQvr3N1HoA=="
+      "ciphertext": "Ws1opiSE/EwAlCaDPUVqTOSlWqlb1cp3Tt2iS8ebwIxrLqyGEuElyon8Uhhhl9eetcr/y39FkCgffyDy9vujd1phVHFzLJwR9Ybg3fRto0nXJbmVW+pF+Bisv8b2cp1Rc/7kXHfRjXT+BxhDvaYpqkR/is3bqEYDSRhK7CiJKLmlegYwIjJX",
+      "iv": "pR8mYAolH0eF3Qpx",
+      "salt": "4U167sXLA5GaaR8EF+D8gA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "17°",
+          "n": "8°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: mainly clear, high 18°C",
-          "b": "Low 11°C, gusts to 25 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 15°C",
+          "b": "Low 8°C, gusts to 18 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "mnUK/YOyjI6WSywknOdtpOVffKBsuHBP0iscDeAswcxMpbXl8fEk9h0pAgzOX+8tHlcP8kwF+HX/YJ+dlH2KqpWnRcGTUoXcxJSR7lKQTKLxd6VRTMkNFPhiB6VIq4rc5EfkC7E7B7fSZ1J2fDrgDp5DvAnkS27WQ90f",
-      "iv": "UKDMHrMWAoSTBDuV",
-      "salt": "JM0mQNfcODxz71udLOQ5lQ=="
+      "ciphertext": "ML5qEY0xWjT3sGbmXaXDuI/n0n+4uOrH/VZPTTZEiWQfXxfUaEwWxHifWAfKHpMQewZV/aU0Isczy/BL2fWLGSI36xMKBGRmbf5NPTuDT0MD4Q7FsqqgNvIlF/795m1xmo5T9DJWLXgi1uVg/wI9VmVXnPYcsOfYEZFd",
+      "iv": "sxPFWG1hCC/vVs4F",
+      "salt": "Qt2/E49vYrpr0mw/4/1H8w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "GeGeBBxmfZewjScQygecap9W2SOk91d+h9iCC7CIbH8H05CeFhfyZ1l7sHbAs4zTztI8FrY+p4cHDSJsjbuCSM96MoAm+drSrtgb+uuCGkjrQVA2jFeSqZ7xjXLLvp3ZxsbrqwEhfUpPQfqdegRv+SexYhlyVoi6W/s2a+ilxCr0ouFGSHkjtFYCDq6AZFwaFLur2uECMJL1Vhthafb2K+vUn24gBBQCHYwS43vjyWiXhXmQpXr6KDKaaFZgC64A2EoqZdgDQnhzcJsGRDnhVnWx61EPUJ5FCmUAsas2KEtMAI9CYj+WqxoJDC/VxjkCKp2tSiFp",
-      "iv": "lzoqSkqhlxtSKMgJ",
-      "salt": "c9j4qdvRVlnQH4IxsKp6GA=="
+      "ciphertext": "q78LevPzdnl9Pzg9+8kTjFXrelrfzLoP2GoB8v/5ASHMR8sfoiumqa0kOv339aQVokM+vtLJe/6IohhicfsMzs020wBDzstCsGup8CV17m1yTrThm3/ANqXvwTYX6WXirLwCDDea8Vf0baVzu4kQpKcot/NJ1Fr8PsTKf+0Jk/Mb0vG2UgTzPqBBFZGk9f6zUes23SLQClHWpid2fLjgxV481LX1XZ5p+aqcGnnH3vAgpN/oLV3/IuiS5WtVwM9PuM0/qOJFT0HpnVfP5Jhk1VRKLMIyl2WNKEfU6VoBzr0e9eNXU47Cmn4BCPASzTKLWqwg5fGg",
+      "iv": "WgboWi+VlGoqTuSX",
+      "salt": "fxu3bg96KHCbJu/CSgU/2A=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "rmJNM7EbK1OCL48q1jylePofc39NMZzgB7i9/6hlNDTyU/3pmS2TCpbY16A9gIg1Vr7U6dXrAMx66f20UeV77hKif/ED5+J/Hp6ioTxwjltMO8sNSulj5Vqf2Q6vvPT4Loq3tvV2Ak99RZspDLdbRI4YNfAHY66f0DQpYZb4jP+mUIkFKEqIrEgSKZsFCGy/qbBMKUd/L62lPM2F",
-      "iv": "yHJcZ3kaL5Kg2Jfl",
-      "salt": "/lk74jK7c/WySgG/4USSFg=="
+      "ciphertext": "+jeupcmym6bhXmuU6fz60e65pC58qhVWaIakLyDnvDFi2q7GEeung/7oWPyz94sjI9OdQmbIfC86EBqyCHwyPwwIBwfOjvfqD6Yy0+dV6OPNa6sEKZ/47bCJk1KFKRCzrvL+se44ayrmBoun2n4GIX7WSIkgLQlUmGUu9GqO5Qkcb3N0lyufMnCqijqtMwhz5C3kcQP3O0YLCZrr",
+      "iv": "Sybo+Aw6CzD46HfP",
+      "salt": "5XUr5+H8OM2j09g6XyKdoQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,18 +163,42 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Next Geosolutions to Open Bremen Office in German Expansion - IndexBox",
-          "b": "Next Geosolutions to Open Bremen Office in German Expansion  IndexBox",
+          "t": "Ryanair to Stop All Bremen Flights From April 2027 - Rus Tourism News",
+          "b": "Ryanair to Stop All Bremen Flights From April 2027  Rus Tourism News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEJZZnBVS2xpM01OdGZjRzI1WF85N0RNMEJ3NjBMVmZHbXpiS2sxY3dlZXhxZzJNWnB0RnB5cldocHRWYjlRNlpTWkVheWUzX3A3SGxMWHpYX1FpSnBiZ1JFcHVqSms5RGRTcy0ycVFQdDRNSEFDZjRycXJyUzhZLS1Vcl9hWi1vZHExRXQyTmk2MTg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWJUNFFnSU1RQUFuUVBUaFAyWlRPamRmbWdhSHR1dnBGSEdOSFVxSkxkN05NZGF5S1dzcUhPcUxtWTEzT1h1SzZaZGJvUjNjdzI0UHVjUDZpckdlZmROSkZFY04yRng2NDR4enBOckI4T2laaVpKUE1OcllkOHdmX0pHLXBGRHNoOWMwYUpIMUVIb2RSWTE2MA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
-          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
+          "t": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp? - Yahoo Sports",
+          "b": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp?  Yahoo Sports",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjlwUWRGZVJCanRTQVNJUXpXQW9RUXQtLTA2YXBhQUh2M1JtaW1VeW14TzBoVGNWS1duVERTUW5RR1otNExtUkhCTWJValJxWWNISFE4Sm5rOVZUaHVXQ1hIUEVCUWh5MTBNWFRpV2VXRVpraTJLVzRISjNjdk5vSXplTTFTS1dxTXBVMkRnLWtqb3EtWldSUXFURS1oeTdUcW5SSWtnMXlEWkxrZkRYVGZCUy0ySS0zU2JN?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGc5ZE9TeFBBU2JPOUVDTXJvR3Zvd2hnYlFoOFdla2VPdVhBTlVLR0dZR2hQblpDemlqM1lwQ2NlbFdmaXJiYVhUSUtFaVdLckFwaG1fVTA1SmgtcXViUDZiY0J0RDdXazRVNDV0SU4tRUxaZGRXRWlLWkN6S1JRTVhCS3ZLa0xqQTJQWA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback - Get German Football News",
+          "b": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTEQzWHlXS0NFcWNGQkczRW5ydjR0bkpKel9JNlVYSEYxdF9aMlprblBkYlhRV3BwZ2paZkUyZDVUMm5jYUFpZXRSUzNFMlBWNlp3VXE0NUFzaXE2WGxnVS1RSWF6N0EzTmIxc1haWXM0QlE?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen - Get German Football News",
+          "b": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzF0cEg2eWxVQldmX3ZyTlVkZGh2ck1hWno2Z0kyWDFEeFBYSXRNZkRTMmdDbndkUWpCVy05MEdONURTbGlxVENzUlRmZjR6ak9pOHFnTklfbGJKV1lrbUZHNGRvZGc1aHk1V0N4T0pFNWstZ1NYRHZLSFZ1dDk4RVc4VDcxa2drc18tQXBNTm16a2NHWUhGd3pRVXVUZ3Q4dGU4b2RocHBsVGVicm5V?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen - Xinhua",
+          "b": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen  Xinhua",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ed2FCcTdHOTU3cFJGRE9sbnExbmhIVW0wX1ZhQkJxanZYSnhLSEROdWVVQjFnZUhnemtyRkFOanlQNTA2eDY2RzU4RENGb2lleWRtU3ZIOHhEVF9naVZ4cGNHbEVDU3p3UzNSTklpV1lZaGdUSTMyS1M5NA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -193,6 +217,30 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night - Bulinews",
+          "b": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3BUYWVmRVYtcGJ2UGxZY2F5LWVwSS1sTW9qY2JxN3VJSWxvZ3JKSUZtdDNkeFJScnd2cmxHUWZpZEkyX1RkLWdNVzFRU1BaLUN3NHZpYmdwcS1CLWhuNTBrNGVUMEI2M2hvQ3g3TllEWmpsa0xFaUVTQ0NRbmJsbkFSdDVLZDRNbkRWeGxPNWEwYkRpeGxMQ2JjbWd3NWUzY0JzSWMzRFA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund - Bulinews",
+          "b": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFJPNzV4eV81UFVfMmVaUTZ6Vm52NklGZUlOU014UURQWDlDWUlzdnVteVN3MVdMX2NjOWF0MFh2bFY2T3EyZEZISE1vTWplbkJLLXBidmZJbm5DZkx4ZUJybThpcUpYVzlON2NyMkpEcVdJNmdSSFo0eGQ0eDFsXzVqV3R4bFVWXzFtNVdTMGhoWWk1MlIwcWp2QzlqQ1hpR25hMEhIWi1Xc0lYQnA1cHVpc29GWGVud1U0?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen - Laredo Morning Times",
+          "b": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen  Laredo Morning Times",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkhvdHZpUDh1QUtuTFh5TnFFQVZjMFVWM1J5YzV1N29zSlM1ZEl3dGVDT3BqbkV0T3FkZjlaX3lnTm1IYlVnX0xXSVdhdG51MG5uRDQwcnZ6aVlsUFU1OXJGTzI5TXRNOUVYLW9nbWhla3hZcUR5U01EcGVkX1BRNF9tdDlZM1Q0LXotSkE2aS1Wd0REOXlONndIaUVYLThoSHlv?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,24 +260,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Gewerkschaft",
-          "b": "<span class=\"jt\" data-g=\"lang_diegewerkschaft\">die Gewerkschaft</span> — the union <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "hinterher",
+          "b": "<span class=\"jt\" data-g=\"lang_hinterher\">hinterher</span> — afterwards",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "das Gewicht",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgewicht\">das Gewicht</span> — the weight <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "hinweisen",
+          "b": "<span class=\"jt\" data-g=\"lang_hinweisen\">hinweisen</span> — point out <span class=\"gram\">(weist hin · wies hin · hat hingewiesen)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "gewinnen",
-          "b": "<span class=\"jt\" data-g=\"lang_gewinnen\">gewinnen</span> — win <span class=\"gram\">(gewinnt · gewann · hat gewonnen)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "der Hinweise",
+          "b": "<span class=\"jt\" data-g=\"lang_derhinweise\">der Hinweise</span> — of the clues <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "der Gewinn",
-          "b": "<span class=\"jt\" data-g=\"lang_dergewinn\">der Gewinn</span> — the profit <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "historisch",
+          "b": "<span class=\"jt\" data-g=\"lang_historisch\">historisch</span> — historical",
+          "src": "Goethe B1 · p.50"
         }
       ]
     }
