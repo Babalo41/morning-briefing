@@ -1614,5 +1614,37 @@
     "lang": "de-DE",
     "d": "Historical",
     "w": "“Wir waren mit unserer Klasse im Historischen Museum.”"
+  },
+  "lang_diehitze": {
+    "t": "die Hitze",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The heat",
+    "w": "“Gestern war eine schreckliche Hitze!”"
+  },
+  "lang_dashobby": {
+    "t": "das Hobby",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hobby",
+    "w": "“Ich habe keine Zeit mehr für meine Hobbys.”"
+  },
+  "lang_hoch": {
+    "t": "hoch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "High",
+    "w": "“Der Berg ist fast 3000 m hoch.”"
+  },
+  "lang_diehöhe": {
+    "t": "die Höhe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The height",
+    "w": "“Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.”"
   }
 }

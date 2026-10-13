@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-12",
-  "day": "Sat",
-  "dnum": "12",
-  "mon": "Sep",
-  "date": "Saturday 12 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-13",
+  "day": "Tue",
+  "dnum": "13",
+  "mon": "Oct",
+  "date": "Tuesday 13 October 2026",
+  "headline": "Briefing refreshed 17:42 Berlin time",
+  "stand": "Automatically rebuilt at 17:42 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "fhw84qT4ivXW+LNqr79NemzWd3ikmaQF0OUCCDgurqVSuBlcIdi+ytR0SNDH164tTwN2mG1vBM1ERa2IXfQTYnpZo2v5I5lmTNc6FSBGo7qLTLQy8aaqTdb1xu9eeMxKBPiaKzU4dVrft6OQzdUrZkEXHkgVm/on32GKC354RyGWCFxHSnIT",
-      "iv": "kgDu7JU07YXE2j9y",
-      "salt": "28zJ+LWxgiZM6EHzwIbUXQ=="
+      "ciphertext": "hwZCPENuWOrRUkhUc6Kd8fmU1oq3g5oy0omOhkYe1/QbDImE85uvfye2GkrpmBtsWkt2GWvBVUFV4z7+ApqTUNYb8Gm4E863Rh0uO4QLXmo0NQLQeKNVupsEMoqmcaskfbflCmlbl/khKDHSZXdlKNeiz48I4SZ8FsvcHK/4512dGqlXUwqc",
+      "iv": "oL1eOH5gJRSn4aCB",
+      "salt": "eqoo5lpUKZ3Sw2kgtRqj1w=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "12°",
+          "n": "14°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 20°C",
-          "b": "Low 12°C, gusts to 30 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 15°C",
+          "b": "Low 7°C, gusts to 36 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "JeVTQpc3VCJUkE+gfwvqvY5+DWkcxzauQnaXb+EXqYRsJgguDt/NKP+fjX7f+XYXV4+NL1piy8mH/N3Bt6JnS19OMof8LeHuidRxvHX5qXbxz3iN7AjnqtVlvWkQyOI3K1dp8fMddjv1qY6iZr9UaQ1usryQ2eiUAt0N",
-      "iv": "931dQSrAtfj/CSLA",
-      "salt": "JknLOmE1RuzPdDgOilfPfA=="
+      "ciphertext": "TGJDaJXq/S+78aUazJYVu4qi/Zy11OMTaP640lDUh/5J08on0bF/1J2WiEoi7LqIjQnSHdFLsWzfQ4qFRRqjX0mGWqCOaHj5QzR7FJmhdV0vSv7qEgxDp+NuukPPTKVpt3Ud/qrI6V426DyHW1MUdXukxWEd1dPHB/kg",
+      "iv": "kJ19HEr89qR8kfso",
+      "salt": "uFi5U60yBVIxIRvm5+1sxw=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "hMqS2EkPIWu4zjB4+XTE6mrJQ25JWFdTFg7nUzWRYB8dXiAjKsvGwcrnLEeWFaaPMXcGby/z9zJ2V2Xy6+/q9G7PLbNtoGV08AqDrvNxkfif0B5wD0HQklY6541++IARr9KwVkRUJZ8zafNYj9pEmgC6bW/V1Sw/sKRVPGut+PD8O2v/Vo9SANC/FxWD5CFFvZv2jh2CC4VNDYkKDShSuE3iyZIUdNXlbecgj9/QTvXUNH0Id448NtjTTVE3lWSglFSukXisHTxlp1a2scwKr+KMcJUTKEvjxf3DysiDVG6Q3tkiVtxgWLMyOlzXDEWhU0ZYZJ68",
-      "iv": "NxrHZCyOpZ3Pmdqf",
-      "salt": "tkI9iSATO9qUI1hlaGw1rQ=="
+      "ciphertext": "arBoGhkux7YPQvaat1zYerMFk6C9pT9tyaYhb2d1CPGU2ptDSCik40yu59EyBkuSzY92Rahk88CL+xJRK1LAORx0cyF3bes/htZqPKWE3NJwy3X69PwziLI0Jzu7mUGuXKPlJFq8bxVYVvEH5qvLUUlXgvRCqzTe4RrLlRBz2ooLB7abMy3q8ohOQWhz9MeZxMixE0K/v54a6XM677csfJ6TQaedkybEiZ9vUx1v4emwxBrC2kOWxy7UJXAY3WlV/cgMoou4m9dyLKtd8uOcqtKtXMIY8EwcINPuww6wOQDBI0Zd9m1VCUZM0FtlmRP+uQ7e/w9i",
+      "iv": "pV+LCjzSGzJCbnYY",
+      "salt": "6n12RrFAUPXHf20zIs34MQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "LP4ApFEP0l3YfYN31ni9TzYPPiW5ktwfSHyf7cqPmjq1koGqiuPn7khby6qE+bsxuz9AB31vWNhnn5glOkyau+gJpmsN7ganwvYLOEGhCkPQ3wOqcgpQ4SCLQH5XXMp85qZARoOoHIJTin4CInfqzmeRG8ewvV7tsaetCOIRWH2NfADdSjaDvKKiqsLR+OgPAvW856ow+jY+H/nW",
-      "iv": "e76oNCpyKESYrOjq",
-      "salt": "HZDdCfpmYsQStajsSogPOQ=="
+      "ciphertext": "wr9raTA4IVmF+LGpkcwaZdcUMoktSATTao8iIzDjxvPFlduZCdmFIkuNeVNUX06bCm4yeekpQMiR7DFVbRyvwtb+eJZygDCVulyUlURpBCJ+8ldhPA3nk4qnKKe6SpqcDnGFSlnar7XmJ3Owtpb6Ry4j5fYmPUFcmMgUVxXiHG8f9SX/dfqWhpf1AAfoBZVmeC39WEkcWlntXDF2",
+      "iv": "rYDpnC3CH4SNFj+d",
+      "salt": "20QzUd2RZGPJcsF/2W/64w=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,42 +163,50 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "ATSV Sebaldsbrück - SC Vahr-Blockdiek, 11/09/2026 - Landesliga Bremen - Match sheet - transfermarkt.com",
-          "b": "ATSV Sebaldsbrück - SC Vahr-Blockdiek, 11/09/2026 - Landesliga Bremen - Match sheet  transfermarkt.com",
+          "t": "Airline to axe ALL flights to historic European city from Stansted Airport - Colchester Gazette",
+          "b": "Airline to axe ALL flights to historic European city from Stansted Airport  Colchester Gazette",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Bb1g3ZGVYakFteXFoR2ZDQlBpd211RVFIRUFuWmlpY1R4NDF5dGhFR2RqVG9RRE9pV3JkTnpCY2F1VkZDQlh3SURTUzM2Y1hZS3lLdl83b1VkX09kYXljRHA4X2xxV1FJQzYwY2p1aVNKcGNFUk5TZw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVhPVU5CaXV5N0NlbDFyVnkwSENUZGxQOGhGdWM0bkt3N0t2SjRTWXVkR2ZiUkYzY2RBWTI2UUl3TGFPanlISi1hSmdFanlGMEdibURxUkJ0QXloT0ZQZWE2RjliM1JFZ2Ixek1ka1ZmdVF2T3NKeEd4QmJvR25NM1pST3VsaTRuVUsxSG5VYUtKeExpaFk1bUZOQVlRQQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Bremen air quality map - IQAir",
-          "b": "Bremen air quality map  IQAir",
+          "t": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues - Yahoo",
+          "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBueHRKOGl2Uy1ha1Ixazhkejk5T1drSEJqcURpZXRYbzhSZ3Zyc0ZnZ1MwSS0zbFU5UTZmUk52OU1ranQyTjhxa0ROMEc0d2lUUE1odVYyUVhHWEQxRGRJZFEwTzNGMHpyMXVjOXNWRE4yX0E?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU82TmhMbV9RbTVSbjc2TGJ3YU1xNXRuc1hqei1QSWhNVDluUHJGcDdNVGliZHhMYk5JZmdQV3ptSXdSU2UxMjdnNVEtSzlHa2tpbWVNWUcxc0dWSi03ekJ3US1ROHZFVEJhNzc4VHFhRHh2SjBkMERmc1BNREg0ckwzS293a0V6?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Köln vs Werder Bremen: German Bundesliga stats & head-to-head - BBC",
-          "b": "Köln vs Werder Bremen: German Bundesliga stats & head-to-head  BBC",
+          "t": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash - Get German Football News",
+          "b": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUk41UzlsM1hmZ3VTR3IyNkxjSF9PakhyaUwwRDA0bFlvQTlId1ZZOV9CYTdJSS1wUlQ2LTExZnp4R1FyRVlDcG5mTm10SmYzSWI3TTRvYmM3ck55Xzdha1dydw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbThOTHlRcndvNUlab1g1MGp5TlhKdHRrbEdwZ0thVUJKMTZMYTdUeGU2bWo5QlBXTUlxdUw0WFVhd2JyNE5xSEQ0WEo4V25IN0ZtNG8yT3FkeTdWRDhrM2k1MHJpdFFESHNZWVFmV2VtalBfWGp4WEhVWE9vZUNxQ2RTR3hBLW81a3NINmJ2SGg2SW5DS2VHMGRBLW5pa1pTUVNnT3Z0RHhWOV9oZWc?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Air quality in Bremen - IQAir",
-          "b": "Air quality in Bremen  IQAir",
+          "t": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen - FL360aero",
+          "b": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen  FL360aero",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NSmk1TzFjMzJSbmh0R2pjamtZWlloTF80YkdDNXNpa1lySXA2V1lObjdXLTdUb0U3S3ROd0Y5M3lHVi1SY3BZbURNQ3lCWFU3NFhoSkdnX1NoZjNXQXh2ZW5sTU4?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVG9uZEkxRnRMTVIzcXNQTnZPVGtGUFFYajJLYUV2UXpnc1lZSFc4ZDkybjdwUFB3V210RjBabXE0cmN4bXQyX2N2SElPb0o0c0V5N2FrNGhmLVBONVRYSDBaUEFWVkZQc1BLQ0thWjBGV0VTVzNOWll1R0hxQ0FkUWRCQnN6Y2xxZWR4OTNqYTJpcnhzMi1ZNG9qZi1sZlNQNHdDajVod0g1WUR5bVdxdGRrWlpMS2MzeWpLMXp1YTlpNGlQaTE4cVRBOFFpN3JPb3c?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Next Geosolutions to Open Bremen Office in German Expansion - IndexBox",
-          "b": "Next Geosolutions to Open Bremen Office in German Expansion  IndexBox",
+          "t": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star - Goal.com",
+          "b": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEJZZnBVS2xpM01OdGZjRzI1WF85N0RNMEJ3NjBMVmZHbXpiS2sxY3dlZXhxZzJNWnB0RnB5cldocHRWYjlRNlpTWkVheWUzX3A3SGxMWHpYX1FpSnBiZ1JFcHVqSms5RGRTcy0ycVFQdDRNSEFDZjRycXJyUzhZLS1Vcl9hWi1vZHExRXQyTmk2MTg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFRkemN4bFY2SWgtaFEtNVl4aHZKLVRBN3NtZUJWSUhOd1FLX0w3V3FYcE1LdElWUVh6VVRXTzRvaGQ1dlhmYTNaTEtMc1ltSkdkNlZpbzNuWXFvcGtvWjg3QkNhY1BiYXBILWFuZjZ2cXRPWHRzOXdQYzNoNFVZdHlFZEVVc2EyNU4zalpndXM4Yk1uT1BWeW9JRVN3ZnlSR3E3Sk9PS1Z3VFB5Q0FYblNQMFBudw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Rudi Völler opens door to Germany return for in-form Füllkrug - Bulinews",
+          "b": "Rudi Völler opens door to Germany return for in-form Füllkrug  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTJuMVJSRER1V0FXRWd0dFNLVnVRS0RnOTNUXzd1X1NsMGhHaWxLMDR2ZkZ5Y2ppLXgyWG41RDVadl9MTDVWT2tfd1dGQkx5X19uYktHMEktZGotdVBxTnBRZGFHQXZCSTZxdXNjZ0tyaWVjV1dBbGNGTTZHNnFmVzVn?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -219,16 +227,8 @@
           "rel": "interest"
         },
         {
-          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
-          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOenFrSC1HWlVWYzBGSy1MTXhRb1FvX1VPZVpGX2NJdDZFb2hKOEpBWEw1dURQMUpnT2kzbkxfV0d3UU0tMW9fLWdYcXU2cXhFV2staG9ONWZ3Z3lFZ1hGQ3ZoTU81eENUOVdYM2IwQkpRQkhkdDlpR19wLVZxSVU1TTlUMkQ1Vzk2V2ZCOGhqdDlxM2psR0FKQnBId0tDZjZYOFoxMjBXd1RrYTlxUzJUWEJGeWZ5bTQ2MnFV?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Quality Bremen Iqair",
-          "b": "Air quality in Bremen  IQAir Bremen air quality map  IQAir",
+          "t": "📌 Werder Bremen Niclas",
+          "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo 'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
           "src": "insight",
           "u": null
         }
@@ -250,24 +250,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "gewohnt",
-          "b": "<span class=\"jt\" data-g=\"lang_gewohnt\">gewohnt</span> — usual",
-          "src": "Goethe B1 · p.46"
+          "t": "die Hitze",
+          "b": "<span class=\"jt\" data-g=\"lang_diehitze\">die Hitze</span> — the heat",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "gewöhnlich",
-          "b": "<span class=\"jt\" data-g=\"lang_gewöhnlich\">gewöhnlich</span> — usual",
-          "src": "Goethe B1 · p.46"
+          "t": "das Hobby",
+          "b": "<span class=\"jt\" data-g=\"lang_dashobby\">das Hobby</span> — the hobby <span class=\"gram\">(plural: -s)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "das Gewürz",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgewürz\">das Gewürz</span> — the spice <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "hoch",
+          "b": "<span class=\"jt\" data-g=\"lang_hoch\">hoch</span> — high",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "gießen",
-          "b": "<span class=\"jt\" data-g=\"lang_gießen\">gießen</span> — pour <span class=\"gram\">(gießt · goss · hat gegossen das Gift)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "die Höhe",
+          "b": "<span class=\"jt\" data-g=\"lang_diehöhe\">die Höhe</span> — the height",
+          "src": "Goethe B1 · p.50"
         }
       ]
     }
