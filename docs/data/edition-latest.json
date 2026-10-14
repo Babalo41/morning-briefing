@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-13",
-  "day": "Tue",
-  "dnum": "13",
+  "id": "2026-10-14",
+  "day": "Wed",
+  "dnum": "14",
   "mon": "Oct",
-  "date": "Tuesday 13 October 2026",
-  "headline": "Briefing refreshed 17:42 Berlin time",
-  "stand": "Automatically rebuilt at 17:42 — 12 sections tracked.",
+  "date": "Wednesday 14 October 2026",
+  "headline": "Briefing refreshed 08:40 Berlin time",
+  "stand": "Automatically rebuilt at 08:40 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "hwZCPENuWOrRUkhUc6Kd8fmU1oq3g5oy0omOhkYe1/QbDImE85uvfye2GkrpmBtsWkt2GWvBVUFV4z7+ApqTUNYb8Gm4E863Rh0uO4QLXmo0NQLQeKNVupsEMoqmcaskfbflCmlbl/khKDHSZXdlKNeiz48I4SZ8FsvcHK/4512dGqlXUwqc",
-      "iv": "oL1eOH5gJRSn4aCB",
-      "salt": "eqoo5lpUKZ3Sw2kgtRqj1w=="
+      "ciphertext": "6YpBNEW3jY8PVrCCNhuVn8IZi8kHP9YIjuYjfBXEAa9cshoc5fPwEN+3WgDY/r7XXPsQ1zg7MJJN+dGQzitSMDVzky+tryxuoR80OE4qz2FiVPLYVb+V6vH3Oh+3F35ibKdeu8ghu3b2vIyPd4WyaJAyO+LJrASnXYlCig3q/IO02dV20ikX",
+      "iv": "wsPjyGyDFcHamb0q",
+      "salt": "k0sRw/ykDe/znWXiHhPg3A=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "14°",
+          "n": "10°",
           "l": "right now"
         }
       ],
       "items": [
         {
           "t": "Bremen: overcast, high 15°C",
-          "b": "Low 7°C, gusts to 36 km/h. 7-day outlook below.",
+          "b": "Low 10°C, gusts to 31 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "TGJDaJXq/S+78aUazJYVu4qi/Zy11OMTaP640lDUh/5J08on0bF/1J2WiEoi7LqIjQnSHdFLsWzfQ4qFRRqjX0mGWqCOaHj5QzR7FJmhdV0vSv7qEgxDp+NuukPPTKVpt3Ud/qrI6V426DyHW1MUdXukxWEd1dPHB/kg",
-      "iv": "kJ19HEr89qR8kfso",
-      "salt": "uFi5U60yBVIxIRvm5+1sxw=="
+      "ciphertext": "KvvOrCiRi7gdpXpzqVGV5gj8qnSve7e80caQ1wZYnKmPeUx6KsuoIZCqc3V8YI8Diq1eDLFxQ/zxmENqUaNmDqqwSidtoO6XnUInLCYkfOssVMJB34MiMx7CvDpWpBPsLv8WHGnq7BBoO3GZbcd1wi/YZqAoJvulL+SZ",
+      "iv": "/7LWfIw9lrTdPSJs",
+      "salt": "Ai7jBS4GtGJ8AWL2EaWXGA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "arBoGhkux7YPQvaat1zYerMFk6C9pT9tyaYhb2d1CPGU2ptDSCik40yu59EyBkuSzY92Rahk88CL+xJRK1LAORx0cyF3bes/htZqPKWE3NJwy3X69PwziLI0Jzu7mUGuXKPlJFq8bxVYVvEH5qvLUUlXgvRCqzTe4RrLlRBz2ooLB7abMy3q8ohOQWhz9MeZxMixE0K/v54a6XM677csfJ6TQaedkybEiZ9vUx1v4emwxBrC2kOWxy7UJXAY3WlV/cgMoou4m9dyLKtd8uOcqtKtXMIY8EwcINPuww6wOQDBI0Zd9m1VCUZM0FtlmRP+uQ7e/w9i",
-      "iv": "pV+LCjzSGzJCbnYY",
-      "salt": "6n12RrFAUPXHf20zIs34MQ=="
+      "ciphertext": "q/cZjRAS9RSsBryfNkKVd6Ajqp0d/IjDgPvWf7VHJ0E1kleZYGb7BNLyULqK2/k8wFSXpkuARHDk2Fj9epgGmKVFkT0MpvgnkIkB5tRqmBcp0fsLkdvIcUmh6wMi08jj5EDaHWj04VXxPU02j34qL0RQDtcEK9BtviMF9+KaHyXC9Y5MRfWNKAmc0IjidDragf4oekmwuJk46OTKuZmVU+Km18muHeigNelyRQnXHFCcPkVlmpwVBc1IcvxMAkf3sSSYEhl3nnyzofKdwaBc2PeKLbxUQs0ypendBbx9S5xFNJmgPYEGowbCfdu5VrcISbsqxJXs",
+      "iv": "v7/cgo9v3q1uO6lY",
+      "salt": "NycA7ymDCm8wjNX4GGqwgQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "wr9raTA4IVmF+LGpkcwaZdcUMoktSATTao8iIzDjxvPFlduZCdmFIkuNeVNUX06bCm4yeekpQMiR7DFVbRyvwtb+eJZygDCVulyUlURpBCJ+8ldhPA3nk4qnKKe6SpqcDnGFSlnar7XmJ3Owtpb6Ry4j5fYmPUFcmMgUVxXiHG8f9SX/dfqWhpf1AAfoBZVmeC39WEkcWlntXDF2",
-      "iv": "rYDpnC3CH4SNFj+d",
-      "salt": "20QzUd2RZGPJcsF/2W/64w=="
+      "ciphertext": "K38FH3B0X/NZ9vK28RDCZbIjRTfumq0Y3qmLGpySYsqFYfPFv+BFhGr+yQSJFb4vtTX+IKI7TKK8wMbrtARyoNHml5hD6FrdY1l+O188SzP7s7LHIBBPU6J7y2+xvQ+AEcgUiy5clxNsusH9I/DknxXn8S/zu7kiNnPpZRpERqJMp2zZn5jNCqL2sG0181heJjCZAOWY5j+t/qJt",
+      "iv": "Bl+v3zRZLk1YICFi",
+      "salt": "JjPHZFt1mzQXn6qQYSuIUA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -203,14 +203,6 @@
           "rel": "home"
         },
         {
-          "t": "Rudi Völler opens door to Germany return for in-form Füllkrug - Bulinews",
-          "b": "Rudi Völler opens door to Germany return for in-form Füllkrug  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTJuMVJSRER1V0FXRWd0dFNLVnVRS0RnOTNUXzd1X1NsMGhHaWxLMDR2ZkZ5Y2ppLXgyWG41RDVadl9MTDVWT2tfd1dGQkx5X19uYktHMEktZGotdVBxTnBRZGFHQXZCSTZxdXNjZ0tyaWVjV1dBbGNGTTZHNnFmVzVn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -225,6 +217,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Rudi Völler opens door to Germany return for in-form Füllkrug - Bulinews",
+          "b": "Rudi Völler opens door to Germany return for in-form Füllkrug  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTJuMVJSRER1V0FXRWd0dFNLVnVRS0RnOTNUXzd1X1NsMGhHaWxLMDR2ZkZ5Y2ppLXgyWG41RDVadl9MTDVWT2tfd1dGQkx5X19uYktHMEktZGotdVBxTnBRZGFHQXZCSTZxdXNjZ0tyaWVjV1dBbGNGTTZHNnFmVzVn?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         },
         {
           "t": "📌 Werder Bremen Niclas",
@@ -250,23 +250,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Hitze",
-          "b": "<span class=\"jt\" data-g=\"lang_diehitze\">die Hitze</span> — the heat",
+          "t": "hochladen",
+          "b": "<span class=\"jt\" data-g=\"lang_hochladen\">hochladen</span> — upload <span class=\"gram\">(lädt hoch · lud hoch · hat hochgeladen)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "das Hobby",
-          "b": "<span class=\"jt\" data-g=\"lang_dashobby\">das Hobby</span> — the hobby <span class=\"gram\">(plural: -s)</span>",
+          "t": "höchstens",
+          "b": "<span class=\"jt\" data-g=\"lang_höchstens\">höchstens</span> — at most",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "hoch",
-          "b": "<span class=\"jt\" data-g=\"lang_hoch\">hoch</span> — high",
+          "t": "die Hochzeit",
+          "b": "<span class=\"jt\" data-g=\"lang_diehochzeit\">die Hochzeit</span> — the wedding <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "die Höhe",
-          "b": "<span class=\"jt\" data-g=\"lang_diehöhe\">die Höhe</span> — the height",
+          "t": "der Hof",
+          "b": "<span class=\"jt\" data-g=\"lang_derhof\">der Hof</span> — the yard <span class=\"gram\">(plural: ¨-e)</span>",
           "src": "Goethe B1 · p.50"
         }
       ]

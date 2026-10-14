@@ -1646,5 +1646,37 @@
     "lang": "de-DE",
     "d": "The height",
     "w": "“Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.”"
+  },
+  "lang_hochladen": {
+    "t": "hochladen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Upload",
+    "w": "“Kannst du bitte die Datei für die Hausaufgabe hochladen?”"
+  },
+  "lang_höchstens": {
+    "t": "höchstens",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "At most",
+    "w": "“Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben.”"
+  },
+  "lang_diehochzeit": {
+    "t": "die Hochzeit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The wedding",
+    "w": "“Claudia und Peter wollen ihre Hochzeit groß feiern.”"
+  },
+  "lang_derhof": {
+    "t": "der Hof",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The yard",
+    "w": "“Die Kinder spielen am liebsten im Hof.”"
   }
 }
