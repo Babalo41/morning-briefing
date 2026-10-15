@@ -1678,5 +1678,37 @@
     "lang": "de-DE",
     "d": "The yard",
     "w": "“Die Kinder spielen am liebsten im Hof.”"
+  },
+  "lang_derbauernhof": {
+    "t": "der Bauernhof",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The farm",
+    "w": "“Meine Großeltern hatten einen Bauernhof.”"
+  },
+  "lang_hoffen": {
+    "t": "hoffen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hope",
+    "w": "“Ich hoffe, dass ihr zu meinem Geburtstag kommen könnt.”"
+  },
+  "lang_hoffentlich": {
+    "t": "hoffentlich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hopefully",
+    "w": "“Hoffentlich hat unser Zug keine Verspätung.”"
+  },
+  "lang_diehoffnung": {
+    "t": "die Hoffnung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hope",
+    "w": "“Man darf die Hoffnung nicht verlieren.”"
   }
 }

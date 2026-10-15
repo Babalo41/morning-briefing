@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-14",
-  "day": "Wed",
-  "dnum": "14",
+  "id": "2026-10-15",
+  "day": "Thu",
+  "dnum": "15",
   "mon": "Oct",
-  "date": "Wednesday 14 October 2026",
-  "headline": "Briefing refreshed 08:40 Berlin time",
-  "stand": "Automatically rebuilt at 08:40 — 12 sections tracked.",
+  "date": "Thursday 15 October 2026",
+  "headline": "Briefing refreshed 18:45 Berlin time",
+  "stand": "Automatically rebuilt at 18:45 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "6YpBNEW3jY8PVrCCNhuVn8IZi8kHP9YIjuYjfBXEAa9cshoc5fPwEN+3WgDY/r7XXPsQ1zg7MJJN+dGQzitSMDVzky+tryxuoR80OE4qz2FiVPLYVb+V6vH3Oh+3F35ibKdeu8ghu3b2vIyPd4WyaJAyO+LJrASnXYlCig3q/IO02dV20ikX",
-      "iv": "wsPjyGyDFcHamb0q",
-      "salt": "k0sRw/ykDe/znWXiHhPg3A=="
+      "ciphertext": "2MJNGCuP3P42ZvpvZARFD9rWTq4iMFl1W8NSt7UAYv+QuRTiyrEBHft4mHmPjrOqC/khNRMn1X1cG/qlQ2DRfExUQ8675/cMWc7cJG/ahJgPD7FW4z3Uvzq1VYXNoJH2MGgjFQNpSrL54PE+eljGGbgYkjAEP4B9lqp/rlRXbAveLOsW1AON",
+      "iv": "9GbD9lr1u/Jm7Ia0",
+      "salt": "V/wPjUATc8/P7jcb9VI9yA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "10°",
+          "n": "16°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 15°C",
-          "b": "Low 10°C, gusts to 31 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 18°C",
+          "b": "Low 9°C, gusts to 29 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "KvvOrCiRi7gdpXpzqVGV5gj8qnSve7e80caQ1wZYnKmPeUx6KsuoIZCqc3V8YI8Diq1eDLFxQ/zxmENqUaNmDqqwSidtoO6XnUInLCYkfOssVMJB34MiMx7CvDpWpBPsLv8WHGnq7BBoO3GZbcd1wi/YZqAoJvulL+SZ",
-      "iv": "/7LWfIw9lrTdPSJs",
-      "salt": "Ai7jBS4GtGJ8AWL2EaWXGA=="
+      "ciphertext": "v1il7SIx9lRMlR8VuRAmioblf7kq+QynOWQojY1h8HiZTanMPxj9hB5p72oW4cnMUfpjsZCanUAdKQaykNixYFYzgDD42HFXGjL1lKDS1TzmBEfbe3b/G0d1pfge3RwER8LC+sfvuCJzmuUnYbnIDuuw/M2X4Xt3VjvD",
+      "iv": "u4dRZeLNWSz4ZkaR",
+      "salt": "WwmRydmyBCBv4hNECbIjLg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "q/cZjRAS9RSsBryfNkKVd6Ajqp0d/IjDgPvWf7VHJ0E1kleZYGb7BNLyULqK2/k8wFSXpkuARHDk2Fj9epgGmKVFkT0MpvgnkIkB5tRqmBcp0fsLkdvIcUmh6wMi08jj5EDaHWj04VXxPU02j34qL0RQDtcEK9BtviMF9+KaHyXC9Y5MRfWNKAmc0IjidDragf4oekmwuJk46OTKuZmVU+Km18muHeigNelyRQnXHFCcPkVlmpwVBc1IcvxMAkf3sSSYEhl3nnyzofKdwaBc2PeKLbxUQs0ypendBbx9S5xFNJmgPYEGowbCfdu5VrcISbsqxJXs",
-      "iv": "v7/cgo9v3q1uO6lY",
-      "salt": "NycA7ymDCm8wjNX4GGqwgQ=="
+      "ciphertext": "2bQO3JxSXA2eS9f2NDHUr8W5cAaDuKQLWLZjNZnSwXA4ZwRwVe65c/5wrxneydAUZmbX1y6pZxbgHI6gYF8PaBGBEwL3blqhEOK4VYu/hnj2enw29ve4Ro0nuMlSFAkEqS2BcHu7+5VzMlhjFRBXLIAFC4tD2I9k6rgBtHRXK3YAuxAkdDKYCwf1N7DyBvOfRyXs4jeCY04UlyR6QGRQjZ5ybvv/x3xWTaZInM6+cU/czrX5KQ302FiNZNKEFe1sDFTvLATThGLFbcpnOBal5GRnangDHz9qTeydT3stv/CYW6rMR4aoHB1TfTKpg7Z7UIC+3+yx",
+      "iv": "lMi9bs3aYBy8APaW",
+      "salt": "bShUu0WiWcOtWvPPtSS62w=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "K38FH3B0X/NZ9vK28RDCZbIjRTfumq0Y3qmLGpySYsqFYfPFv+BFhGr+yQSJFb4vtTX+IKI7TKK8wMbrtARyoNHml5hD6FrdY1l+O188SzP7s7LHIBBPU6J7y2+xvQ+AEcgUiy5clxNsusH9I/DknxXn8S/zu7kiNnPpZRpERqJMp2zZn5jNCqL2sG0181heJjCZAOWY5j+t/qJt",
-      "iv": "Bl+v3zRZLk1YICFi",
-      "salt": "JjPHZFt1mzQXn6qQYSuIUA=="
+      "ciphertext": "3XUZSHdJ4lOGDisjOREyDrNeHnWe3zdVCzF8LypxzSk20cUPj+9OAPHgiV3n8BFLMh3dV8+ItoyXEHC4ty07WozRWKmvUIJ5QxlJDWWNuFk3YMia2po9GtFt+Bn0gKuwI7Z9lmvpf2VvbgRIlTgSCfQdaWGAecDh2QBf5HG14aCBevHnnLjVDusbJrDXzdGeeCvAtKiyO5hXbK5B",
+      "iv": "4rmXCPWIC9hvHvGD",
+      "salt": "jfwcvF2pwAzkaOq6zYWgWA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,34 +163,50 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Airline to axe ALL flights to historic European city from Stansted Airport - Colchester Gazette",
-          "b": "Airline to axe ALL flights to historic European city from Stansted Airport  Colchester Gazette",
+          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Bavarian Football Works",
+          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Bavarian Football Works",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVhPVU5CaXV5N0NlbDFyVnkwSENUZGxQOGhGdWM0bkt3N0t2SjRTWXVkR2ZiUkYzY2RBWTI2UUl3TGFPanlISi1hSmdFanlGMEdibURxUkJ0QXloT0ZQZWE2RjliM1JFZ2Ixek1ka1ZmdVF2T3NKeEd4QmJvR25NM1pST3VsaTRuVUsxSG5VYUtKeExpaFk1bUZOQVlRQQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGgwODFiYkFiT2FRM1ZUMjM0WFJvRWpPdkQ2dHNtUGdoNGZaUm15Rk02RVVBQU1EaDBqUWgwZ1U0bVVwdnoxbVEwSXM0akVuSW5oVklXdkxPZUtIVWQzcm9LS0R3Z241NkFVYmN0ZmI5cmNNc2dkVWo4ekMxU2tOVE51aTEwUG9vX1haZllha25aZG81YzNyYXdNbEEySGZNSjVrekRYQjhTeEtnd2xjWnpxblRsbHVkVUtsTzdWWGpTWUVfaHBuelUyb3RpYklfVy1oUEFaOThRTHVCdGZYWDNXOUdTVmVPRmtHWG16c3dlSkJiVDVB?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues - Yahoo",
-          "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo",
+          "t": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan - Bavarian Football Works",
+          "b": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan  Bavarian Football Works",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU82TmhMbV9RbTVSbjc2TGJ3YU1xNXRuc1hqei1QSWhNVDluUHJGcDdNVGliZHhMYk5JZmdQV3ptSXdSU2UxMjdnNVEtSzlHa2tpbWVNWUcxc0dWSi03ekJ3US1ROHZFVEJhNzc4VHFhRHh2SjBkMERmc1BNREg0ckwzS293a0V6?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG8zV2ZTa2FVT2RXZzd6Y3JmZFk5YmwteFkxdE54QmQ0SUNTR1RtYU5LR0lyMG9fbGhmTjE2WkZnS2FFZmNKRWNNanJWbjFVNmVkSUxCNFpjNnFjNFU4cDZjVVpVaXlRcnhLalhNd0poU1lBdTA1S29KR2lOcnVGR2xXMDlSWi1mYnYyYVZfSmJjMlVHT21vU2t1eFdSZXhUN3NyU1BKa093YVJtU19IN3gtQ3FheWhsWWltLUZCZXZfRFVJMk9OMm9md0JUaUE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash - Get German Football News",
-          "b": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash  Get German Football News",
+          "t": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday - Get German Football News",
+          "b": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbThOTHlRcndvNUlab1g1MGp5TlhKdHRrbEdwZ0thVUJKMTZMYTdUeGU2bWo5QlBXTUlxdUw0WFVhd2JyNE5xSEQ0WEo4V25IN0ZtNG8yT3FkeTdWRDhrM2k1MHJpdFFESHNZWVFmV2VtalBfWGp4WEhVWE9vZUNxQ2RTR3hBLW81a3NINmJ2SGg2SW5DS2VHMGRBLW5pa1pTUVNnT3Z0RHhWOV9oZWc?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVR0ZJMnBrWXFWVTZOX0labUdQeTdmRnBERlRoSWNBWTJSVkkzWlBkY3h3bjRsazBOU2Q5WlNtRWp2VWpHZmoweFhEREtKb0JzZnNmeG85WUZxVWVUT0xOamNoRlFEX2VOdnFwVUZMOUREeWhvVzgw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen - FL360aero",
-          "b": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen  FL360aero",
+          "t": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\" - Get German Football News",
+          "b": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\"  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVG9uZEkxRnRMTVIzcXNQTnZPVGtGUFFYajJLYUV2UXpnc1lZSFc4ZDkybjdwUFB3V210RjBabXE0cmN4bXQyX2N2SElPb0o0c0V5N2FrNGhmLVBONVRYSDBaUEFWVkZQc1BLQ0thWjBGV0VTVzNOWll1R0hxQ0FkUWRCQnN6Y2xxZWR4OTNqYTJpcnhzMi1ZNG9qZi1sZlNQNHdDajVod0g1WUR5bVdxdGRrWlpMS2MzeWpLMXp1YTlpNGlQaTE4cVRBOFFpN3JPb3c?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95WnpaUHpHN0Q5YWxmb2I4Nml2LWlPM2NxeDdmQTFoam9mLUM3endxVmxaRVVsWkgxaDJtRkVYbmpvcjdRZkZWa3BkR1NNZVVUVGVzNFY3ZDNZajZVSnR1OHVha1VkLU5LM05xNDI0YUllR25oTE1KTEMwek9Ldw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary - Get German Football News",
+          "b": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjIwaDMxTDYzVzkzMHVnTEpjYmQ2dnJzVXk5bU43cVBvY1V0N3BhVzdxNEZ0dHNFQXpkQ1ZMdW9aOGpEeURrb3hsTXJXemZDeHVTYjZTNXhhbTdxZDFDOWEzN0k3ZGRnSFhFTUwtbFlwdS1xRUhDWDhyMnNzMjVxVg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Tanikawa nets opener as Japan lose to Germany in women's football friendly - Japan Wire by Kyodo News",
+          "b": "Tanikawa nets opener as Japan lose to Germany in women's football friendly  Japan Wire by Kyodo News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSG9jOFF5TEVEN29TUDV3QnpJN2ZqTGM2TFMwVWJYNHFzLXVDaV9fTVhtWnpBU2lUTUpCcjhiSkZWOUNvc2Q0TUZyVzd2ZVc2bGlRRERtMVpQUQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -199,6 +215,14 @@
           "b": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
           "src": "\"Bremen, Germany\" - Google News",
           "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFRkemN4bFY2SWgtaFEtNVl4aHZKLVRBN3NtZUJWSUhOd1FLX0w3V3FYcE1LdElWUVh6VVRXTzRvaGQ1dlhmYTNaTEtMc1ltSkdkNlZpbzNuWXFvcGtvWjg3QkNhY1BiYXBILWFuZjZ2cXRPWHRzOXdQYzNoNFVZdHlFZEVVc2EyNU4zalpndXM4Yk1uT1BWeW9JRVN3ZnlSR3E3Sk9PS1Z3VFB5Q0FYblNQMFBudw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Klara Bühl completes Germany comeback in Bremen - Bulinews",
+          "b": "Klara Bühl completes Germany comeback in Bremen  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FTOWRmUzFRblhEV1NqZGVqaTY5MWlXUGNzSG02bnRrTlMyWHRJSUdHRkhPQTk0QUFvRG80bG4wUnVoUWJUeVVaaTRBZ3JxSUo3YlI1TWFINWFJWC15OWR0ZUs2T0tTVldVODVfVURUYmptZVY1WlZRMmlLMUoxSw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -217,20 +241,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Rudi Völler opens door to Germany return for in-form Füllkrug - Bulinews",
-          "b": "Rudi Völler opens door to Germany return for in-form Füllkrug  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTJuMVJSRER1V0FXRWd0dFNLVnVRS0RnOTNUXzd1X1NsMGhHaWxLMDR2ZkZ5Y2ppLXgyWG41RDVadl9MTDVWT2tfd1dGQkx5X19uYktHMEktZGotdVBxTnBRZGFHQXZCSTZxdXNjZ0tyaWVjV1dBbGNGTTZHNnFmVzVn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Werder Bremen Niclas",
-          "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo 'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -250,23 +260,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "hochladen",
-          "b": "<span class=\"jt\" data-g=\"lang_hochladen\">hochladen</span> — upload <span class=\"gram\">(lädt hoch · lud hoch · hat hochgeladen)</span>",
+          "t": "der Bauernhof",
+          "b": "<span class=\"jt\" data-g=\"lang_derbauernhof\">der Bauernhof</span> — the farm <span class=\"gram\">(plural: ¨-e)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "höchstens",
-          "b": "<span class=\"jt\" data-g=\"lang_höchstens\">höchstens</span> — at most",
+          "t": "hoffen",
+          "b": "<span class=\"jt\" data-g=\"lang_hoffen\">hoffen</span> — hope <span class=\"gram\">(hofft · hoffte · hat gehofft)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "die Hochzeit",
-          "b": "<span class=\"jt\" data-g=\"lang_diehochzeit\">die Hochzeit</span> — the wedding <span class=\"gram\">(plural: -en)</span>",
+          "t": "hoffentlich",
+          "b": "<span class=\"jt\" data-g=\"lang_hoffentlich\">hoffentlich</span> — hopefully",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "der Hof",
-          "b": "<span class=\"jt\" data-g=\"lang_derhof\">der Hof</span> — the yard <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "die Hoffnung",
+          "b": "<span class=\"jt\" data-g=\"lang_diehoffnung\">die Hoffnung</span> — the hope <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.50"
         }
       ]
