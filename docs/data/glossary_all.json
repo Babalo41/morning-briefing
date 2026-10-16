@@ -1710,5 +1710,37 @@
     "lang": "de-DE",
     "d": "The hope",
     "w": "“Man darf die Hoffnung nicht verlieren.”"
+  },
+  "lang_höflich": {
+    "t": "höflich",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Polite",
+    "w": "“Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.”"
+  },
+  "lang_holen": {
+    "t": "holen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Get",
+    "w": "“Soll ich uns was zu trinken holen?”"
+  },
+  "lang_dasholz": {
+    "t": "das Holz",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The wood",
+    "w": "“Möchten Sie ein Regal aus Holz oder aus Metall?”"
+  },
+  "lang_derhonig": {
+    "t": "der Honig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The honey",
+    "w": "“Ich esse gern Brötchen mit Honig und Butter zum Frühstück.”"
   }
 }

@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-15",
-  "day": "Tue",
-  "dnum": "15",
-  "mon": "Sep",
-  "date": "Tuesday 15 September 2026",
-  "headline": "Briefing refreshed 17:52 Berlin time",
-  "stand": "Automatically rebuilt at 17:52 — 12 sections tracked.",
+  "id": "2026-10-16",
+  "day": "Fri",
+  "dnum": "16",
+  "mon": "Oct",
+  "date": "Friday 16 October 2026",
+  "headline": "Briefing refreshed 08:02 Berlin time",
+  "stand": "Automatically rebuilt at 08:02 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "h++syfaQrR+lEbbhZ6sqrvOE72HP4vAzpedZXNTNW2Y6yOLETmTBdi76LybEgQTk3d0y1wWR+xZlp6VzlIMyu1HY+gs2Jl8XVsRdzT68h04OyKA6zobizjhviIbhfi1b+PxHPoL/y+dTnFT0/vOK01UWzz5WgcYLtcxfmZWLqDnuZVgDlhj9",
-      "iv": "qf2wpkaxdC7ZWnXP",
-      "salt": "nJglu5WAxM76lBYMpNgL2g=="
+      "ciphertext": "QlEOTvkyYscpWmJgUQmKMq5IhyHb5MQWrWrmQ1KryUSH9OV2djR8wTaTKkTId0yZM3wNgOb4l0zpSNq1LNzDW6AFHv34ausKbN5i1UTfiefWn3hGwmTbQXGpNiJN+TujoC5g2ufVtKrDgcKIVzcPzYDaDi9bPdvExVBsQdzgeKxOnz8DEdJ/",
+      "iv": "7nScnAAeWdc5PpvK",
+      "salt": "8NUOkr+ehgzqZS7H6lv1PA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "26°",
+          "n": "16°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 27°C",
-          "b": "Low 17°C, gusts to 40 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 18°C",
+          "b": "Low 9°C, gusts to 29 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "+GS8TEmgzCHr08I/YJQoqcDh6LG+XlhKBqMScqkz0JqKehfni3mcnrFkOh8FTQ52PwWsn5YpxgMpHrw3kUhebCOvcHRTDUndnGTAlc9GbFXy2TgriXHm1cUauCO+lEb/2gmB7eKeQGT7DZWAJyCOvYpVToc5z7oJpDNP",
-      "iv": "5SwabB8qhiVuVG5M",
-      "salt": "LpCX5kXm21BIg5OnTdaQxQ=="
+      "ciphertext": "xCPp4mYESb33/2CDLQdxMtfhWWFY51eti+6TVyAIYjdu+reWJvwtkvGrAxbbpY4ndEldHfgNPosBGDkLoJPtJZyaNZFMSiuWbACMJyNBmt4phzwRg3fe2TYiwqyq00Z7B4Q4M1UEWh+zUUKEKhmd8Hn1pQZfBm71it4q",
+      "iv": "eToB5qQ+3wWpgUgt",
+      "salt": "joEw76CLmMpWdo7foiEJ8w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "RyLof8CDRZZ0UNE1qmwsIuqCXD2Qu/5eS7szkbX+yZ49y73h+hX4hJESlLNyAlXMEDuwmdHYpWnAcjKciZxRoIusu4NSGn0g0xzCIgHbGMhVg6nJpg0SEB57JwzYsZ+WkXqqQXMMJVbkXg4LtTOK5s0uTfsSl018vfTMja2wpUrCtCO+KkcxsEkBFPO2ZYIRHDy3ln1kTNnaYjhwgnftkEkVM8grb0Upt7zydbejsgsPJ2+I5/a74tWlxhCXQ3VHWpP1DtKUjMURgI/cQ+kEUZiGOdmUL+LJR4fKZXxzHOVT1Ot2S+0TWUngCwhYoQqZ5/HL0yoK",
-      "iv": "DhaMMYo462Pdv7c+",
-      "salt": "odv+me44tEaiBrFVaPs+Ow=="
+      "ciphertext": "Do52TUrEk3aDrQ5x3xovW+nJvDwf8xNeCqcsjmnKgfJiQ01GEAEadRu4l5bD0HQbGy1yaduIHWu0LKrZsy08M14fA2AXbK+wdJvJ0ubrqopmYpSc1k5lPDyyQW6ql1ELwBnbI/2maYyN9CXZvnRxcmnpzEi0PJ7ELT8D4kpe4FwLFeORf3hWBOXVLE/nalwKCZWUIMyM5jVTIGV0jsswcluiY5o5OgxFQItfbB9vNqaikKf3IzU8OlsA17teVCMf/Nv44lt7Q4X0VQ/3uRW/eomyntW5Bt0+WSrJmQO5zv7S3xYIIa2HhBKyaUC3jABFOcOPDcfZ",
+      "iv": "ZAKdfUVf2HEoUBka",
+      "salt": "3W1vZz/1hSGxBe6j+7k1bA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ok4+YpQWaGYoxA+SAUhxZA8a8ZxWcmcg2algHPaML+QM8JW8vknaL3KLiybUd0mvZnS5XQm5ZxyKqDUNyeyzxAdZcZSJ0RMhKddoXlWjcJqTJfJHNN09nhV5VRZkqWvKugaEeskTG1XLysIHOdfknZKQGDjOpnaXjcIYaB3q3UsrgPxNr1643V2taMrG3r+nHD6xtDEuAUBirKCi",
-      "iv": "1x42we3uDNWHR9+B",
-      "salt": "UhhKiHWiwyzKUTvkwmRi/g=="
+      "ciphertext": "hCIGWFgzqwbHJWJ/GobLNpDdyty9AgE6uhLAArLQMFzfVfIORPoxMaLGW6V9BR4csFSeaRERvj3ITahD+rP1c/KMkz6ZAAg6jwjmE1DvVuq3vHHFsIkYanrTMj94VO4CU7uELZXVofUOZqp1fJQgZZ6t8xb+HwPTPxIgxbj74iGpGqypJbUq/XmemtDl49NOrr7kbw1ughLqBfYJ",
+      "iv": "3h0PZ+a1V04j6lf6",
+      "salt": "tllIU47qeLlpHxZW/DiXnA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,26 +163,58 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Cologne’s René Wagner responds to player criticism after home draw - Get German Football News",
-          "b": "Cologne’s René Wagner responds to player criticism after home draw  Get German Football News",
+          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Bavarian Football Works",
+          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Bavarian Football Works",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNaXVDZUZqeWx2emVXT1VxTFNCR1E5TlJnS0xDbEdfVm1YRkt1N0R4TndXRWkwWmVJcDJhWmJ2cmdYcXYwX0pZdXd1NE1VYld4Nlo4NGtUQmJ5bFVIcG4tSG1ublUzNUlGdGUyUzdmbnVVTGo1bWtGemxn?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGgwODFiYkFiT2FRM1ZUMjM0WFJvRWpPdkQ2dHNtUGdoNGZaUm15Rk02RVVBQU1EaDBqUWgwZ1U0bVVwdnoxbVEwSXM0akVuSW5oVklXdkxPZUtIVWQzcm9LS0R3Z241NkFVYmN0ZmI5cmNNc2dkVWo4ekMxU2tOVE51aTEwUG9vX1haZllha25aZG81YzNyYXdNbEEySGZNSjVrekRYQjhTeEtnd2xjWnpxblRsbHVkVUtsTzdWWGpTWUVfaHBuelUyb3RpYklfVy1oUEFaOThRTHVCdGZYWDNXOUdTVmVPRmtHWG16c3dlSkJiVDVB?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Niclas Füllkrug’s Werder Bremen revival continues apace - Get German Football News",
-          "b": "Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News",
+          "t": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan - Bavarian Football Works",
+          "b": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan  Bavarian Football Works",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnEwRlBWVXkwSjFueE8zZHk1QzJUN2tjenl2WmNmNVdIWU5vcmlYZjVTOC16R21hS0J0OFRQVVdGYUtOUURVd2NXVHNzX1B4eldrUE5WNnQ5cXU1dzdGdDAtTFFlRHEwNGR4dXZpVVVCUU5rbzUtZWYwLVBHQjJoa0FvaWx0dWZZSnEydG5qSmR0MWI2RmhmeE5hdHlWUk50?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG8zV2ZTa2FVT2RXZzd6Y3JmZFk5YmwteFkxdE54QmQ0SUNTR1RtYU5LR0lyMG9fbGhmTjE2WkZnS2FFZmNKRWNNanJWbjFVNmVkSUxCNFpjNnFjNFU4cDZjVVpVaXlRcnhLalhNd0poU1lBdTA1S29KR2lOcnVGR2xXMDlSWi1mYnYyYVZfSmJjMlVHT21vU2t1eFdSZXhUN3NyU1BKa093YVJtU19IN3gtQ3FheWhsWWltLUZCZXZfRFVJMk9OMm9md0JUaUE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence - Get German Football News",
-          "b": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence  Get German Football News",
+          "t": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday - Get German Football News",
+          "b": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzRRR2dKODZyU2UxMjE4TzRPcG5TTEUxYm14MFgxd3p6SGVlVkJHeGNVY0RPUEZmMUgtRzhobDdxcEQ3eVE4bXl1bUdWaE9NWHU1bmdPT2xzWHZTQU9hVko5M3dMclFtdWIxc0pZT01mc2xuUEpkSFBTcTloTGo5TWt2TDE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVR0ZJMnBrWXFWVTZOX0labUdQeTdmRnBERlRoSWNBWTJSVkkzWlBkY3h3bjRsazBOU2Q5WlNtRWp2VWpHZmoweFhEREtKb0JzZnNmeG85WUZxVWVUT0xOamNoRlFEX2VOdnFwVUZMOUREeWhvVzgw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\" - Get German Football News",
+          "b": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\"  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95WnpaUHpHN0Q5YWxmb2I4Nml2LWlPM2NxeDdmQTFoam9mLUM3endxVmxaRVVsWkgxaDJtRkVYbmpvcjdRZkZWa3BkR1NNZVVUVGVzNFY3ZDNZajZVSnR1OHVha1VkLU5LM05xNDI0YUllR25oTE1KTEMwek9Ldw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary - Get German Football News",
+          "b": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjIwaDMxTDYzVzkzMHVnTEpjYmQ2dnJzVXk5bU43cVBvY1V0N3BhVzdxNEZ0dHNFQXpkQ1ZMdW9aOGpEeURrb3hsTXJXemZDeHVTYjZTNXhhbTdxZDFDOWEzN0k3ZGRnSFhFTUwtbFlwdS1xRUhDWDhyMnNzMjVxVg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Tanikawa nets opener as Japan lose to Germany in women's football friendly - Japan Wire by Kyodo News",
+          "b": "Tanikawa nets opener as Japan lose to Germany in women's football friendly  Japan Wire by Kyodo News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSG9jOFF5TEVEN29TUDV3QnpJN2ZqTGM2TFMwVWJYNHFzLXVDaV9fTVhtWnpBU2lUTUpCcjhiSkZWOUNvc2Q0TUZyVzd2ZVc2bGlRRERtMVpQUQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star - Goal.com",
+          "b": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFRkemN4bFY2SWgtaFEtNVl4aHZKLVRBN3NtZUJWSUhOd1FLX0w3V3FYcE1LdElWUVh6VVRXTzRvaGQ1dlhmYTNaTEtMc1ltSkdkNlZpbzNuWXFvcGtvWjg3QkNhY1BiYXBILWFuZjZ2cXRPWHRzOXdQYzNoNFVZdHlFZEVVc2EyNU4zalpndXM4Yk1uT1BWeW9JRVN3ZnlSR3E3Sk9PS1Z3VFB5Q0FYblNQMFBudw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -203,18 +235,12 @@
           "rel": "interest"
         },
         {
-          "t": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne - Get German Football News",
-          "b": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne  Get German Football News",
+          "t": "Klara Bühl completes Germany comeback in Bremen - Bulinews",
+          "b": "Klara Bühl completes Germany comeback in Bremen  Bulinews",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTdrTEVZb003VElmZXdieW9Lb1BTV2t4bFpIX1N0eU1xZFlKN1hUVWt3U0dxNkVwb0xMUVRzR2hyVmxJSERyaGU4bjg4cnF1djJlTG80T0NpQVU1czRTaDFPN1FnVzgzS2g5SkI3T1NQakdyQWhmN2lUb2NoaG5WNHFtTmQ2VHlSR2w0aTlQaUQtM0VHdzhVdkFDSExNTkp6MTVHNG1nUXl3R1BNWDF3QjlQUFRoOVhpZEVkZldPeHhvSUhTdFNUTmM1VjRlSmdWenNWMWRGeFFKbTdMc19yaUtDODh0dFN0M1V3Z21qY2xFcFJfVUE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FTOWRmUzFRblhEV1NqZGVqaTY5MWlXUGNzSG02bnRrTlMyWHRJSUdHRkhPQTk0QUFvRG80bG4wUnVoUWJUeVVaaTRBZ3JxSUo3YlI1TWFINWFJWC15OWR0ZUs2T0tTVldVODVfVURUYmptZVY1WlZRMmlLMUoxSw?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "📌 Football Werder German",
-          "b": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne  Get German Football News Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -234,24 +260,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Glück",
-          "b": "<span class=\"jt\" data-g=\"lang_dasglück\">das Glück</span> — the happiness",
-          "src": "Goethe B1 · p.46"
+          "t": "höflich",
+          "b": "<span class=\"jt\" data-g=\"lang_höflich\">höflich</span> — polite",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "glücklich",
-          "b": "<span class=\"jt\" data-g=\"lang_glücklich\">glücklich</span> — happy",
-          "src": "Goethe B1 · p.46"
+          "t": "holen",
+          "b": "<span class=\"jt\" data-g=\"lang_holen\">holen</span> — get <span class=\"gram\">(holt · holte · hat geholt)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "der Glückwunsch",
-          "b": "<span class=\"jt\" data-g=\"lang_derglückwunsch\">der Glückwunsch</span> — the congratulations <span class=\"gram\">(plural: ¨-e)</span>",
-          "src": "Goethe B1 · p.46"
+          "t": "das Holz",
+          "b": "<span class=\"jt\" data-g=\"lang_dasholz\">das Holz</span> — the wood",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "das Gold Golf",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgoldgolf\">das Gold Golf</span> — the gold golf",
-          "src": "Goethe B1 · p.46"
+          "t": "der Honig",
+          "b": "<span class=\"jt\" data-g=\"lang_derhonig\">der Honig</span> — the honey",
+          "src": "Goethe B1 · p.50"
         }
       ]
     }

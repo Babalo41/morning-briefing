@@ -1,6 +1,291 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-10-15T18:45:37.983908+02:00",
+  "generated_at": "2026-10-16T08:02:51.895168+02:00",
   "editions": [
+    {
+      "id": "2026-10-16",
+      "day": "Fri",
+      "dnum": "16",
+      "mon": "Oct",
+      "date": "Friday 16 October 2026",
+      "headline": "Briefing refreshed 08:02 Berlin time",
+      "stand": "Automatically rebuilt at 08:02 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "QlEOTvkyYscpWmJgUQmKMq5IhyHb5MQWrWrmQ1KryUSH9OV2djR8wTaTKkTId0yZM3wNgOb4l0zpSNq1LNzDW6AFHv34ausKbN5i1UTfiefWn3hGwmTbQXGpNiJN+TujoC5g2ufVtKrDgcKIVzcPzYDaDi9bPdvExVBsQdzgeKxOnz8DEdJ/",
+          "iv": "7nScnAAeWdc5PpvK",
+          "salt": "8NUOkr+ehgzqZS7H6lv1PA=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "16°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 18°C",
+              "b": "Low 9°C, gusts to 29 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "xCPp4mYESb33/2CDLQdxMtfhWWFY51eti+6TVyAIYjdu+reWJvwtkvGrAxbbpY4ndEldHfgNPosBGDkLoJPtJZyaNZFMSiuWbACMJyNBmt4phzwRg3fe2TYiwqyq00Z7B4Q4M1UEWh+zUUKEKhmd8Hn1pQZfBm71it4q",
+          "iv": "eToB5qQ+3wWpgUgt",
+          "salt": "joEw76CLmMpWdo7foiEJ8w=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "Do52TUrEk3aDrQ5x3xovW+nJvDwf8xNeCqcsjmnKgfJiQ01GEAEadRu4l5bD0HQbGy1yaduIHWu0LKrZsy08M14fA2AXbK+wdJvJ0ubrqopmYpSc1k5lPDyyQW6ql1ELwBnbI/2maYyN9CXZvnRxcmnpzEi0PJ7ELT8D4kpe4FwLFeORf3hWBOXVLE/nalwKCZWUIMyM5jVTIGV0jsswcluiY5o5OgxFQItfbB9vNqaikKf3IzU8OlsA17teVCMf/Nv44lt7Q4X0VQ/3uRW/eomyntW5Bt0+WSrJmQO5zv7S3xYIIa2HhBKyaUC3jABFOcOPDcfZ",
+          "iv": "ZAKdfUVf2HEoUBka",
+          "salt": "3W1vZz/1hSGxBe6j+7k1bA=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "hCIGWFgzqwbHJWJ/GobLNpDdyty9AgE6uhLAArLQMFzfVfIORPoxMaLGW6V9BR4csFSeaRERvj3ITahD+rP1c/KMkz6ZAAg6jwjmE1DvVuq3vHHFsIkYanrTMj94VO4CU7uELZXVofUOZqp1fJQgZZ6t8xb+HwPTPxIgxbj74iGpGqypJbUq/XmemtDl49NOrr7kbw1ughLqBfYJ",
+          "iv": "3h0PZ+a1V04j6lf6",
+          "salt": "tllIU47qeLlpHxZW/DiXnA=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Testing Recognizes",
+              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            },
+            {
+              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Bavarian Football Works",
+              "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Bavarian Football Works",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGgwODFiYkFiT2FRM1ZUMjM0WFJvRWpPdkQ2dHNtUGdoNGZaUm15Rk02RVVBQU1EaDBqUWgwZ1U0bVVwdnoxbVEwSXM0akVuSW5oVklXdkxPZUtIVWQzcm9LS0R3Z241NkFVYmN0ZmI5cmNNc2dkVWo4ekMxU2tOVE51aTEwUG9vX1haZllha25aZG81YzNyYXdNbEEySGZNSjVrekRYQjhTeEtnd2xjWnpxblRsbHVkVUtsTzdWWGpTWUVfaHBuelUyb3RpYklfVy1oUEFaOThRTHVCdGZYWDNXOUdTVmVPRmtHWG16c3dlSkJiVDVB?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan - Bavarian Football Works",
+              "b": "Bayern Munich players shine in Germany Frauen’s 2-1 win against Japan  Bavarian Football Works",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG8zV2ZTa2FVT2RXZzd6Y3JmZFk5YmwteFkxdE54QmQ0SUNTR1RtYU5LR0lyMG9fbGhmTjE2WkZnS2FFZmNKRWNNanJWbjFVNmVkSUxCNFpjNnFjNFU4cDZjVVpVaXlRcnhLalhNd0poU1lBdTA1S29KR2lOcnVGR2xXMDlSWi1mYnYyYVZfSmJjMlVHT21vU2t1eFdSZXhUN3NyU1BKa093YVJtU19IN3gtQ3FheWhsWWltLUZCZXZfRFVJMk9OMm9md0JUaUE?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday - Get German Football News",
+              "b": "Werder Bremen prepare for special celebrations marking Weserstadion’s 100th birthday  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVR0ZJMnBrWXFWVTZOX0labUdQeTdmRnBERlRoSWNBWTJSVkkzWlBkY3h3bjRsazBOU2Q5WlNtRWp2VWpHZmoweFhEREtKb0JzZnNmeG85WUZxVWVUT0xOamNoRlFEX2VOdnFwVUZMOUREeWhvVzgw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\" - Get German Football News",
+              "b": "Clemens Fritz explains Werder Bremen's successful summer 2026 transfer class: \"We had to meet every player face-to-face.\"  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95WnpaUHpHN0Q5YWxmb2I4Nml2LWlPM2NxeDdmQTFoam9mLUM3endxVmxaRVVsWkgxaDJtRkVYbmpvcjdRZkZWa3BkR1NNZVVUVGVzNFY3ZDNZajZVSnR1OHVha1VkLU5LM05xNDI0YUllR25oTE1KTEMwek9Ldw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary - Get German Football News",
+              "b": "Werder Bremen hope to retain Niclas Füllkrug, but another pay cut may be necessary  Get German Football News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjIwaDMxTDYzVzkzMHVnTEpjYmQ2dnJzVXk5bU43cVBvY1V0N3BhVzdxNEZ0dHNFQXpkQ1ZMdW9aOGpEeURrb3hsTXJXemZDeHVTYjZTNXhhbTdxZDFDOWEzN0k3ZGRnSFhFTUwtbFlwdS1xRUhDWDhyMnNzMjVxVg?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tanikawa nets opener as Japan lose to Germany in women's football friendly - Japan Wire by Kyodo News",
+              "b": "Tanikawa nets opener as Japan lose to Germany in women's football friendly  Japan Wire by Kyodo News",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSG9jOFF5TEVEN29TUDV3QnpJN2ZqTGM2TFMwVWJYNHFzLXVDaV9fTVhtWnpBU2lUTUpCcjhiSkZWOUNvc2Q0TUZyVzd2ZVc2bGlRRERtMVpQUQ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star - Goal.com",
+              "b": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFRkemN4bFY2SWgtaFEtNVl4aHZKLVRBN3NtZUJWSUhOd1FLX0w3V3FYcE1LdElWUVh6VVRXTzRvaGQ1dlhmYTNaTEtMc1ltSkdkNlZpbzNuWXFvcGtvWjg3QkNhY1BiYXBILWFuZjZ2cXRPWHRzOXdQYzNoNFVZdHlFZEVVc2EyNU4zalpndXM4Yk1uT1BWeW9JRVN3ZnlSR3E3Sk9PS1Z3VFB5Q0FYblNQMFBudw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            },
+            {
+              "t": "Klara Bühl completes Germany comeback in Bremen - Bulinews",
+              "b": "Klara Bühl completes Germany comeback in Bremen  Bulinews",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FTOWRmUzFRblhEV1NqZGVqaTY5MWlXUGNzSG02bnRrTlMyWHRJSUdHRkhPQTk0QUFvRG80bG4wUnVoUWJUeVVaaTRBZ3JxSUo3YlI1TWFINWFJWC15OWR0ZUs2T0tTVldVODVfVURUYmptZVY1WlZRMmlLMUoxSw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "höflich",
+              "b": "<span class=\"jt\" data-g=\"lang_höflich\">höflich</span> — polite",
+              "src": "Goethe B1 · p.50"
+            },
+            {
+              "t": "holen",
+              "b": "<span class=\"jt\" data-g=\"lang_holen\">holen</span> — get <span class=\"gram\">(holt · holte · hat geholt)</span>",
+              "src": "Goethe B1 · p.50"
+            },
+            {
+              "t": "das Holz",
+              "b": "<span class=\"jt\" data-g=\"lang_dasholz\">das Holz</span> — the wood",
+              "src": "Goethe B1 · p.50"
+            },
+            {
+              "t": "der Honig",
+              "b": "<span class=\"jt\" data-g=\"lang_derhonig\">der Honig</span> — the honey",
+              "src": "Goethe B1 · p.50"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-10-15",
       "day": "Thu",
@@ -7553,265 +7838,6 @@ window.EDITION_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "2026-09-15",
-      "day": "Tue",
-      "dnum": "15",
-      "mon": "Sep",
-      "date": "Tuesday 15 September 2026",
-      "headline": "Briefing refreshed 17:52 Berlin time",
-      "stand": "Automatically rebuilt at 17:52 — 12 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "h++syfaQrR+lEbbhZ6sqrvOE72HP4vAzpedZXNTNW2Y6yOLETmTBdi76LybEgQTk3d0y1wWR+xZlp6VzlIMyu1HY+gs2Jl8XVsRdzT68h04OyKA6zobizjhviIbhfi1b+PxHPoL/y+dTnFT0/vOK01UWzz5WgcYLtcxfmZWLqDnuZVgDlhj9",
-          "iv": "qf2wpkaxdC7ZWnXP",
-          "salt": "nJglu5WAxM76lBYMpNgL2g=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "26°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: overcast, high 27°C",
-              "b": "Low 17°C, gusts to 40 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "+GS8TEmgzCHr08I/YJQoqcDh6LG+XlhKBqMScqkz0JqKehfni3mcnrFkOh8FTQ52PwWsn5YpxgMpHrw3kUhebCOvcHRTDUndnGTAlc9GbFXy2TgriXHm1cUauCO+lEb/2gmB7eKeQGT7DZWAJyCOvYpVToc5z7oJpDNP",
-          "iv": "5SwabB8qhiVuVG5M",
-          "salt": "LpCX5kXm21BIg5OnTdaQxQ=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "RyLof8CDRZZ0UNE1qmwsIuqCXD2Qu/5eS7szkbX+yZ49y73h+hX4hJESlLNyAlXMEDuwmdHYpWnAcjKciZxRoIusu4NSGn0g0xzCIgHbGMhVg6nJpg0SEB57JwzYsZ+WkXqqQXMMJVbkXg4LtTOK5s0uTfsSl018vfTMja2wpUrCtCO+KkcxsEkBFPO2ZYIRHDy3ln1kTNnaYjhwgnftkEkVM8grb0Upt7zydbejsgsPJ2+I5/a74tWlxhCXQ3VHWpP1DtKUjMURgI/cQ+kEUZiGOdmUL+LJR4fKZXxzHOVT1Ot2S+0TWUngCwhYoQqZ5/HL0yoK",
-          "iv": "DhaMMYo462Pdv7c+",
-          "salt": "odv+me44tEaiBrFVaPs+Ow=="
-        },
-        {
-          "h": "Spending",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "Ok4+YpQWaGYoxA+SAUhxZA8a8ZxWcmcg2algHPaML+QM8JW8vknaL3KLiybUd0mvZnS5XQm5ZxyKqDUNyeyzxAdZcZSJ0RMhKddoXlWjcJqTJfJHNN09nhV5VRZkqWvKugaEeskTG1XLysIHOdfknZKQGDjOpnaXjcIYaB3q3UsrgPxNr1643V2taMrG3r+nHD6xtDEuAUBirKCi",
-          "iv": "1x42we3uDNWHR9+B",
-          "salt": "UhhKiHWiwyzKUTvkwmRi/g=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "📌 Istqb® Certified Tester",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "📌 Istqb® Testing Recognizes",
-              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
-              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
-              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
-              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
-            },
-            {
-              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
-            },
-            {
-              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
-            },
-            {
-              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
-              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-            },
-            {
-              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-            },
-            {
-              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
-            }
-          ],
-          "feed_section": "profession_field"
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "work_industry"
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "network_systems"
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "test_tooling"
-        },
-        {
-          "h": "Near Home",
-          "tags_section": "near_home",
-          "items": [
-            {
-              "t": "Cologne’s René Wagner responds to player criticism after home draw - Get German Football News",
-              "b": "Cologne’s René Wagner responds to player criticism after home draw  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNaXVDZUZqeWx2emVXT1VxTFNCR1E5TlJnS0xDbEdfVm1YRkt1N0R4TndXRWkwWmVJcDJhWmJ2cmdYcXYwX0pZdXd1NE1VYld4Nlo4NGtUQmJ5bFVIcG4tSG1ublUzNUlGdGUyUzdmbnVVTGo1bWtGemxn?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Niclas Füllkrug’s Werder Bremen revival continues apace - Get German Football News",
-              "b": "Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnEwRlBWVXkwSjFueE8zZHk1QzJUN2tjenl2WmNmNVdIWU5vcmlYZjVTOC16R21hS0J0OFRQVVdGYUtOUURVd2NXVHNzX1B4eldrUE5WNnQ5cXU1dzdGdDAtTFFlRHEwNGR4dXZpVVVCUU5rbzUtZWYwLVBHQjJoa0FvaWx0dWZZSnEydG5qSmR0MWI2RmhmeE5hdHlWUk50?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence - Get German Football News",
-              "b": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzRRR2dKODZyU2UxMjE4TzRPcG5TTEUxYm14MFgxd3p6SGVlVkJHeGNVY0RPUEZmMUgtRzhobDdxcEQ3eVE4bXl1bUdWaE9NWHU1bmdPT2xzWHZTQU9hVko5M3dMclFtdWIxc0pZT01mc2xuUEpkSFBTcTloTGo5TWt2TDE?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bhavnagar",
-              "rel": "family"
-            },
-            {
-              "t": "Tracking: Surat",
-              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Surat",
-              "rel": "interest"
-            },
-            {
-              "t": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne - Get German Football News",
-              "b": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTdrTEVZb003VElmZXdieW9Lb1BTV2t4bFpIX1N0eU1xZFlKN1hUVWt3U0dxNkVwb0xMUVRzR2hyVmxJSERyaGU4bjg4cnF1djJlTG80T0NpQVU1czRTaDFPN1FnVzgzS2g5SkI3T1NQakdyQWhmN2lUb2NoaG5WNHFtTmQ2VHlSR2w0aTlQaUQtM0VHdzhVdkFDSExNTkp6MTVHNG1nUXl3R1BNWDF3QjlQUFRoOVhpZEVkZldPeHhvSUhTdFNUTmM1VjRlSmdWenNWMWRGeFFKbTdMc19yaUtDODh0dFN0M1V3Z21qY2xFcFJfVUE?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "📌 Football Werder German",
-              "b": "BUNDESLIGA PLAYER RATINGS | Cologne 1-1 Werder Bremen – Niclas Füllkrug inspires Werder comeback to secure draw in Cologne  Get German Football News Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News",
-              "src": "insight",
-              "u": null
-            }
-          ],
-          "chart": "near_home_flow"
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "world_and_knowledge"
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "das Glück",
-              "b": "<span class=\"jt\" data-g=\"lang_dasglück\">das Glück</span> — the happiness",
-              "src": "Goethe B1 · p.46"
-            },
-            {
-              "t": "glücklich",
-              "b": "<span class=\"jt\" data-g=\"lang_glücklich\">glücklich</span> — happy",
-              "src": "Goethe B1 · p.46"
-            },
-            {
-              "t": "der Glückwunsch",
-              "b": "<span class=\"jt\" data-g=\"lang_derglückwunsch\">der Glückwunsch</span> — the congratulations <span class=\"gram\">(plural: ¨-e)</span>",
-              "src": "Goethe B1 · p.46"
-            },
-            {
-              "t": "das Gold Golf",
-              "b": "<span class=\"jt\" data-g=\"lang_dasgoldgolf\">das Gold Golf</span> — the gold golf",
-              "src": "Goethe B1 · p.46"
-            }
-          ]
-        }
-      ]
     }
   ],
   "glossary": {
@@ -9526,6 +9552,38 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The hope",
       "w": "“Man darf die Hoffnung nicht verlieren.”"
+    },
+    "lang_höflich": {
+      "t": "höflich",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Polite",
+      "w": "“Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.”"
+    },
+    "lang_holen": {
+      "t": "holen",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Get",
+      "w": "“Soll ich uns was zu trinken holen?”"
+    },
+    "lang_dasholz": {
+      "t": "das Holz",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The wood",
+      "w": "“Möchten Sie ein Regal aus Holz oder aus Metall?”"
+    },
+    "lang_derhonig": {
+      "t": "der Honig",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The honey",
+      "w": "“Ich esse gern Brötchen mit Honig und Butter zum Frühstück.”"
     }
   },
   "charts": {
@@ -9682,6 +9740,11 @@ window.EDITION_DATA = {
           "t": "The Roland and the Town Musicians",
           "key": "Bremen's two civic symbols are a 600-year-old free-speech monument and a fairy tale about refusing retirement.",
           "b": "<p>The Bremen Roland, carved in 1404, stands in the market square facing the cathedral — a statue of the legendary knight Roland holding a sword and shield, a symbol of the city's independence from local bishops and princes. It's the largest and oldest of the dozens of Roland statues across northern Europe, and UNESCO listed it as a World Heritage Site in 2004.</p> <p>A few steps away is the bronze Town Musicians of Bremen statue — donkey, dog, cat, and rooster stacked on each other's backs — from the Brothers Grimm tale about four aging animals who set off to become musicians rather than be discarded. Tourists rub the donkey's front legs for luck; centuries of hands have worn the bronze gold there.</p> <p class=\"rem\"><b>Worth holding onto</b>Neither statue depicts anything that actually happened in the story it references — the Town Musicians never made it to Bremen in the tale. Both are about what the city wanted to say about itself, not a record of an event.</p>\n"
+        },
+        {
+          "t": "The Hanseatic League, and why Bremen still says it",
+          "key": "Bremen's official name — Free Hanseatic City of Bremen — is a title it has held for 800 years.",
+          "b": "<p>The Hanseatic League was a confederation of merchant guilds and market towns across northern Europe, active roughly 1200-1800, that coordinated trade routes, standardized weights, and occasionally fielded its own armies and navies. Bremen joined in 1358 and never really let the branding go.</p> <p>Practically, membership meant shared trading posts (Kontors) in cities like London, Bergen, and Novgorod, and mutual defense against piracy and tolls. The League had no permanent capital, army, or constitution — it worked through periodic assemblies (Hansetage) and shared interest, which made it resilient but also why it eventually dissolved as nation-states centralized power.</p> <p class=\"rem\"><b>Worth holding onto</b>Bremen and Hamburg are the two German city-states that kept the \"Hanseatic\" title formally in their names — it's a status marker, not a decoration.</p>\n"
         }
       ]
     },
@@ -9694,6 +9757,11 @@ window.EDITION_DATA = {
           "t": "The dockyard at Lothal",
           "key": "Saurashtra was doing international trade 4,500 years ago.",
           "b": "<p>Around 2400 BCE, while most of the world was still moving goods by hand along rivers, someone at Lothal — on the Gulf of Khambhat, at the neck of the peninsula — built a rectangular basin of kiln-fired brick roughly 37 metres by 22, with a sluice gate to hold water at low tide.</p> <p>Archaeologists argue about whether it was a true dockyard or a large water tank, but the surrounding evidence leans hard one way: a bead factory, a warehouse on a raised platform, stone anchors, and Persian Gulf seals of a type used to stamp cargo. Lothal was trading with Mesopotamia — cotton, carnelian beads, ivory — and Mesopotamian records mention a place called <i>Meluhha</i> that most scholars read as the Indus world.</p> <p>Lothal was part of the Indus Valley Civilisation, roughly 3300-1300 BCE, which also left sites across Saurashtra at Rangpur and Gola Dhoro. That is the deep floor under the region: not a backwater that later became important, but a maritime trading edge from the beginning.</p> <p class=\"rem\"><b>Worth holding onto</b>The Indus cities had grid streets, standardised brick sizes and covered drains — and a script nobody has deciphered. We can read their weights and measures but not a single sentence they wrote.</p>\n"
+        },
+        {
+          "t": "Vallabhi, the university that rivalled Nalanda",
+          "key": "For three centuries, one of Asia's great universities sat in Saurashtra.",
+          "b": "<p>From roughly 475 to 776 CE the peninsula was ruled by the <span class=\"jt\" data-g=\"maitraka\">Maitraka</span> dynasty from their capital at Vallabhi, near modern Bhavnagar. They began as generals for the Gupta empire and became independent kings as it fell apart.</p> <p>What makes them remarkable is what they funded. Vallabhi grew into a university drawing students from across India — the western counterpart to Nalanda in the east. The Chinese pilgrim Xuanzang, travelling in the 7th century, described several thousand monks studying there. It taught Buddhist philosophy alongside secular subjects, and the Maitrakas — Shaivite Hindus themselves — endowed Buddhist monasteries and Jain institutions without apparent conflict.</p> <p>Vallabhi's copper-plate land grants are one of the richest documentary sources for early medieval western India: hundreds survive, and they let historians reconstruct land tenure, taxation and religious patronage in unusual detail.</p> <p class=\"rem\"><b>Worth holding onto</b>Bhavnagar is not a modern city sitting on empty ground. It is twenty kilometres from what was, for three hundred years, one of the intellectual capitals of Asia.</p>\n"
         }
       ]
     },
@@ -9721,6 +9789,11 @@ window.EDITION_DATA = {
           "t": "Why small samples lie louder than large ones",
           "key": "A small study is not just less certain — it is far more likely to show an impressively large effect that is pure noise.",
           "b": "<p>Flip a fair coin four times and getting three heads (75%) is unremarkable — it happens nearly a quarter of the time. Flip it four hundred times and getting 300 heads (also 75%) would be extraordinary, essentially impossible for a fair coin. Same percentage, wildly different meaning, because sample size changes everything about how much a given result should move your belief.</p> <p>This is why small studies routinely produce the flashiest headlines. A study of twelve people finding a supplement \"boosts memory by 40%\" sounds dramatic. A study of twelve thousand people finding a 2% effect sounds boring. The twelve-person study is almost always the less trustworthy one, precisely because small samples have enormous random swing built in — and a result only makes it into a headline if it happened to swing far from zero. This is one root of the <b>replication crisis</b> that has hit psychology and nutrition science particularly hard over the past fifteen years: striking small-sample results got published and publicised, then quietly failed to reproduce at scale.</p> <p>There is a direct analogue in test engineering. Running a flaky test three times and seeing it pass all three tells you almost nothing about its real pass rate — three data points cannot distinguish a 95%-reliable test from a 70%-reliable one. Confidence in a pass rate requires enough runs that the noise has a chance to average out, which is precisely why CI systems that track flake rate use rolling windows of hundreds of runs rather than a handful.</p> <p>The general rule, sometimes called the <b>law of large numbers</b> when stated properly: as a sample grows, its average gets closer and more reliably close to the true underlying value. Small samples do not just have wider error bars — they are disproportionately likely to be the ones you hear about, because extreme results are the ones that get shared.</p> <p class=\"rem warn\"><b>The tell</b>Whenever a striking result comes with an oddly specific but small sample size — \"in a study of 14 participants\" — treat the size itself as the headline, and the effect as provisional until someone runs it on hundreds.</p>\n"
+        },
+        {
+          "t": "p-values and the significance trap",
+          "key": "'Statistically significant' does not mean important, and it does not mean the effect is even real.",
+          "b": "<p>A <b>p-value</b> answers one narrow question: if there were truly no effect at all, how surprising would data this extreme be? A p-value under 0.05 — the conventional cutoff for \"statistically significant\" — means results this striking would show up by pure chance less than 5% of the time if nothing real were going on. That is all it means. It says nothing about how large or important the effect is, and it is not the probability that the finding is true.</p> <p>Two consequences follow, and both are widely misunderstood even by people who use the term professionally. First: with a large enough sample, even a genuinely trivial effect becomes \"statistically significant,\" because tiny true effects still stop looking like pure chance once you have enough data. A drug that lowers blood pressure by an amount too small to matter clinically can still produce an impressive-looking p-value in a trial of 50,000 people. Significant is not the same question as significant to you.</p> <p>Second, and more damaging: if you test twenty unrelated hypotheses, roughly one of them will cross the 5% threshold by chance alone, with no real effect behind it at all. This is <b>p-hacking</b>, and it does not require dishonesty — a researcher who tries several ways of slicing the data, several subgroups, several endpoints, and reports the one that \"worked\" has, often without meaning to, run the twenty-hypothesis lottery and kept the one winning ticket. It is a major contributor to results that make headlines and then vanish on replication.</p> <p>The testing-world parallel is direct. Run a flaky test suite against twenty unrelated code changes and, by chance, one or two will show a test failure that looks correlated with the change but is not — pure coincidence dressed up as a regression. The fix in both fields is the same discipline: decide what you are testing for before you look at the data, and be honest that combing through results afterward for anything that looks significant will always find something, whether or not anything real is there.</p> <p class=\"rem\"><b>Worth holding onto</b>Ask two questions of any \"statistically significant\" finding: significant compared to how large an effect, and was this the one hypothesis being tested, or the one that survived out of many?</p>\n"
         }
       ]
     },
@@ -9769,6 +9842,11 @@ window.EDITION_DATA = {
           "t": "The Anmeldung is the key to everything else",
           "key": "Germany treats your registered address as your civic identity. Almost nothing works until it exists.",
           "b": "<p>Most countries treat your address as a detail. Germany treats it as the anchor of your legal existence, through a system called the Meldepflicht — a duty to register — that traces back to the 19th century and is now governed by the Bundesmeldegesetz.</p> <p>You are legally required to register within two weeks of moving in. In practice appointments are scarce enough in most cities that the deadline is treated with some flexibility, but the obligation is real and late registration can technically be fined.</p> <p>What it unlocks is the reason it matters. Your <b>Steuer-ID</b> is issued off the back of it, and without one your employer must tax you in the punitive emergency class. Banks verify your address against the register. Health insurers, the Kindergeld office, the vehicle registration office and the immigration authority all key off it. Broadcasting fee liability starts from it. So does your eligibility to vote in local elections.</p> <p>The single document that decides whether the appointment works is the <span class=\"jt\" data-g=\"wgb\">Wohnungsgeberbestätigung</span> — your landlord's signed confirmation that you actually moved in on a stated date. It became mandatory in 2015 precisely because people had been registering at addresses they never occupied. The counter cannot waive it.</p> <p>Bring the confirmation, your passport, and the rental contract as backup. Ask for a <span class=\"jt\" data-g=\"meldebescheinigung\">Meldebescheinigung</span> while you are there — a couple of copies, since you will be asked for one.</p> <p class=\"rem\"><b>Worth holding onto</b>Registration is not one-and-done. Every move requires a new Anmeldung, and leaving Germany requires an Abmeldung — deregistration — which is what stops broadcasting fees and tax obligations from following you.</p>\n"
+        },
+        {
+          "t": "How German health insurance actually works",
+          "key": "It is not one system but two, and which one you are in shapes your finances for decades.",
+          "b": "<p>Germany runs statutory insurance (gesetzliche Krankenversicherung, GKV) alongside private insurance (private Krankenversicherung, PKV). Roughly nine in ten people are in the statutory system.</p> <p><b>GKV</b> charges a percentage of gross income up to a ceiling, split roughly evenly between you and your employer, plus a supplementary rate that varies by fund. The important consequence: your contribution has nothing to do with your health, age or risk. It is a solidarity system — the healthy subsidise the sick, and the well-paid subsidise everyone else.</p> <p>The feature that matters most for you personally is <b>Familienversicherung</b>. A spouse without their own significant income is covered under your membership at no additional premium. Not a discount — no extra contribution at all. For a couple where one partner has newly arrived and is not yet working, this is a substantial piece of financial machinery, and it needs to be actively applied for rather than granted automatically.</p> <p><b>PKV</b> prices by individual risk instead. It is frequently cheaper for a young, healthy, well-paid person, and it covers each person separately — a spouse and each child needs their own policy and premium. Premiums also rise with age rather than falling. Switching back to GKV later is difficult by design, and generally impossible after 55.</p> <p>You are only permitted to choose PKV if you are self-employed, a civil servant, or earning above the annual compulsory insurance threshold. Below that, GKV is not optional.</p> <p class=\"rem warn\"><b>The decision that is hard to undo</b>PKV looks attractive when you are young, single and healthy, and expensive when you are older with a family. The one-way door — the difficulty of returning to GKV — is the part people underweight, and it is the reason to think about family plans before switching, not after.</p>\n"
         }
       ]
     },
@@ -9781,6 +9859,11 @@ window.EDITION_DATA = {
           "t": "What happens when you send money to India",
           "key": "Banks do not move money across borders. They move messages, and settle up separately.",
           "b": "<p>The mental model most people carry — money travelling from one country to another — is wrong, and understanding the real mechanism explains every fee and delay you have ever paid.</p> <p>Your German bank does not have an account at your Indian bank. What it has is a relationship with a larger bank, which has a relationship with another, which eventually reaches one that does hold an account with the receiving bank. This is <b>correspondent banking</b>. A message travels down that chain over <span class=\"jt\" data-g=\"swift\">SWIFT</span>, and each institution debits and credits accounts it already holds. No money crosses a border. Balances are rewritten at each hop.</p> <p>That is why a traditional transfer takes days, why it can arrive short, and why nobody can tell you exactly where it is: three or four institutions each touched it, and each may have taken a fee.</p> <p>Services like Wise work differently. They hold money in both countries. When you send euros, they take your euros into their European pool and pay out rupees from their Indian pool — the two never meet. What crosses the border is an instruction, and periodically the pools are rebalanced in bulk. That is the whole trick, and it is why it is faster and cheaper.</p> <p>On the Indian side the money lands on one of three rails. <span class=\"jt\" data-g=\"neft\">NEFT</span> settles in batches through the day, no upper limit. RTGS is real-time and used for large sums. IMPS is instant and runs around the clock.</p> <p class=\"rem\"><b>Worth holding onto</b>The advertised fee is rarely the real cost. The <span class=\"jt\" data-g=\"spread\">FX spread</span> — the gap between the true mid-market rate and the one you were given — usually costs more. Check the rate you got against the mid-market rate that day; that difference, plus the fee, is what the transfer actually cost you.</p>\n"
+        },
+        {
+          "t": "Inflation is not the same as prices being high",
+          "key": "Inflation falling does not mean anything gets cheaper. It means it is getting dearer more slowly.",
+          "b": "<p>This confusion runs through almost every news report on the subject. Inflation is the <i>rate of change</i> of prices, not their level. If inflation falls from 6% to 2%, prices are still rising — just more slowly. For prices to actually fall you need deflation, which sounds appealing and is in practice a disaster: people delay purchases because things will be cheaper next month, demand collapses, and the economy stalls.</p> <p>Central banks target roughly 2% rather than 0% precisely to keep a safe distance from that edge, and to leave room to cut interest rates in a downturn.</p> <p>The main tool is the interest rate. Raising rates makes borrowing dearer and saving more attractive, so spending and investment fall, so demand cools, so prices rise more slowly. The cost is real: higher mortgage payments, weaker hiring, sometimes a recession. This is a deliberate trade, not a side effect.</p> <p>Two things worth knowing when you read the numbers. First, the published rate is an average over a basket of goods; your personal inflation depends entirely on what you buy, which is why official figures so often feel wrong. Second, wages matter more than prices — what determines whether you are better off is whether your pay is rising faster than the basket, which is exactly what pay rounds like the IG Metall negotiations are arguing about.</p> <p>Exchange rates respond to the same forces. Higher rates in a currency tend to attract money seeking better returns, pushing that currency up. For someone sending euros to rupees, the euro-rupee rate is being shifted by decisions taken in Frankfurt and Mumbai for reasons that have nothing to do with either of you.</p> <p class=\"rem\"><b>Worth holding onto</b>\"Inflation is coming down\" and \"the cost of living is falling\" are entirely different claims. The first is usually true when reported. The second almost never is.</p>\n"
         }
       ]
     },
@@ -9793,6 +9876,11 @@ window.EDITION_DATA = {
           "t": "A tree is mostly made of air",
           "key": "The mass of a plant comes from carbon dioxide, not from soil.",
           "b": "<p>In the 1600s Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, watering it only. The tree gained about 74 kilograms. The soil lost a few hundred grams. He concluded, wrongly, that the mass came from water — but the experiment was right, and the answer is stranger.</p> <p>Almost all the dry mass of a plant is carbon it pulled out of the air. Photosynthesis takes carbon dioxide and water, uses light energy captured by chlorophyll inside chloroplasts, and builds sugar, releasing oxygen as waste:</p> <p class=\"eq\">6 CO2 + 6 H2O + light -&gt; C6H12O6 + 6 O2</p> <p>The oxygen you are breathing right now is a by-product of that reaction. It was not in the early atmosphere; photosynthetic organisms put it there, and in doing so poisoned most of the life that existed before them.</p> <p class=\"rem\"><b>Worth holding onto</b>When you burn wood, you are releasing sunlight and air that a tree locked together. The ash left behind — a few per cent of the original mass — is roughly the part that really did come from the soil.</p>\n"
+        },
+        {
+          "t": "Water's impossible climb",
+          "key": "No pump lifts water up a tree. Evaporation pulls it, and the water column holds together.",
+          "b": "<p>A tall tree lifts water a hundred metres with no moving parts. Suction from below cannot do it — a perfect vacuum only raises water about ten metres before the column breaks.</p> <p>The mechanism is the cohesion-tension theory. Water evaporates from leaf pores called stomata — <span class=\"jt\" data-g=\"transpiration\">transpiration</span>. That evaporation puts the water in the leaf under tension. Because water molecules hydrogen-bond strongly to each other (cohesion) and to the walls of the narrow xylem vessels (adhesion), the whole column from root to leaf behaves like a rope being pulled from the top.</p> <p>Two tissues do the transport. <b>Xylem</b> carries water upward and is made of dead, hollow cells. <b>Phloem</b> carries dissolved sugar in any direction and must be alive to work.</p> <p>Every stoma the plant opens to admit CO2 also lets water escape. That trade-off — food against thirst — shapes almost everything about how plants look. Desert plants open their stomata at night; conifer needles have sunken pores and a waxy skin.</p>\n"
         }
       ]
     },
@@ -9805,6 +9893,11 @@ window.EDITION_DATA = {
           "t": "The rule of threes",
           "key": "Three minutes without air. Three hours without shelter. Three days without water. Three weeks without food.",
           "b": "<p>It is a rough rule, not a law, but it fixes the single commonest survival mistake: worrying about food.</p> <p><b>Three minutes without air</b> — or with severe bleeding, which empties the system just as fast.<br> <b>Three hours without shelter</b> in harsh conditions. Exposure is the real killer in temperate places like northern Germany, and it works far faster than people expect.<br> <b>Three days without water.</b><br> <b>Three weeks without food.</b></p> <p>Almost nobody in a short emergency dies of hunger. They die of cold, of injury, or of a decision made in the first ten minutes. Order your actions in that sequence and you have already done most of the thinking correctly.</p> <p class=\"rem\"><b>Worth holding onto</b>Hypothermia does not need snow. Wet clothes at 10°C with wind will do it. Most people who die of exposure in Europe do so in temperatures well above freezing.</p>\n"
+        },
+        {
+          "t": "Water you can actually drink",
+          "key": "Boil one minute. Filters miss viruses. Chemicals miss Cryptosporidium.",
+          "b": "<p>Each method has a specific hole in it, and the holes do not overlap — which is the whole reason to know all three.</p> <p><b>Boiling</b> is the most reliable. The CDC's guidance is a rolling boil for <b>one minute</b>, or <b>three minutes above about 2,000 metres</b>, where water boils cooler. Boiling kills everything biological. It does not remove chemicals, heavy metals or salt.</p> <p><b>Filtering</b> depends entirely on pore size. A filter of 1 micron or smaller removes parasites. 0.3 micron or smaller removes bacteria as well. Neither removes <b>viruses</b> — those are far too small. Only reverse osmosis catches all three.</p> <p><b>Chemicals</b> — chlorine or iodine — kill bacteria and viruses reliably, but work poorly against parasites, and especially badly against <span class=\"jt\" data-g=\"crypto\">Cryptosporidium</span>, whose thick-walled cysts shrug off normal doses. Chlorine dioxide is better but slow.</p> <p>For cloudy water the order matters: let it settle, then filter, then disinfect. Particles physically shield organisms from both chemicals and UV light.</p> <p class=\"rem\"><b>Worth holding onto</b>Never ration water while you still have it. Dehydration impairs your judgement long before it threatens your life, and bad decisions kill faster than thirst. Drink it and go find more.</p>\n"
         }
       ]
     }

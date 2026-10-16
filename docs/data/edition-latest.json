@@ -1,19 +1,19 @@
 {
-  "id": "2026-10-15",
-  "day": "Thu",
-  "dnum": "15",
+  "id": "2026-10-16",
+  "day": "Fri",
+  "dnum": "16",
   "mon": "Oct",
-  "date": "Thursday 15 October 2026",
-  "headline": "Briefing refreshed 18:45 Berlin time",
-  "stand": "Automatically rebuilt at 18:45 — 12 sections tracked.",
+  "date": "Friday 16 October 2026",
+  "headline": "Briefing refreshed 08:02 Berlin time",
+  "stand": "Automatically rebuilt at 08:02 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "2MJNGCuP3P42ZvpvZARFD9rWTq4iMFl1W8NSt7UAYv+QuRTiyrEBHft4mHmPjrOqC/khNRMn1X1cG/qlQ2DRfExUQ8675/cMWc7cJG/ahJgPD7FW4z3Uvzq1VYXNoJH2MGgjFQNpSrL54PE+eljGGbgYkjAEP4B9lqp/rlRXbAveLOsW1AON",
-      "iv": "9GbD9lr1u/Jm7Ia0",
-      "salt": "V/wPjUATc8/P7jcb9VI9yA=="
+      "ciphertext": "QlEOTvkyYscpWmJgUQmKMq5IhyHb5MQWrWrmQ1KryUSH9OV2djR8wTaTKkTId0yZM3wNgOb4l0zpSNq1LNzDW6AFHv34ausKbN5i1UTfiefWn3hGwmTbQXGpNiJN+TujoC5g2ufVtKrDgcKIVzcPzYDaDi9bPdvExVBsQdzgeKxOnz8DEdJ/",
+      "iv": "7nScnAAeWdc5PpvK",
+      "salt": "8NUOkr+ehgzqZS7H6lv1PA=="
     },
     {
       "h": "Weather",
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "v1il7SIx9lRMlR8VuRAmioblf7kq+QynOWQojY1h8HiZTanMPxj9hB5p72oW4cnMUfpjsZCanUAdKQaykNixYFYzgDD42HFXGjL1lKDS1TzmBEfbe3b/G0d1pfge3RwER8LC+sfvuCJzmuUnYbnIDuuw/M2X4Xt3VjvD",
-      "iv": "u4dRZeLNWSz4ZkaR",
-      "salt": "WwmRydmyBCBv4hNECbIjLg=="
+      "ciphertext": "xCPp4mYESb33/2CDLQdxMtfhWWFY51eti+6TVyAIYjdu+reWJvwtkvGrAxbbpY4ndEldHfgNPosBGDkLoJPtJZyaNZFMSiuWbACMJyNBmt4phzwRg3fe2TYiwqyq00Z7B4Q4M1UEWh+zUUKEKhmd8Hn1pQZfBm71it4q",
+      "iv": "eToB5qQ+3wWpgUgt",
+      "salt": "joEw76CLmMpWdo7foiEJ8w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "2bQO3JxSXA2eS9f2NDHUr8W5cAaDuKQLWLZjNZnSwXA4ZwRwVe65c/5wrxneydAUZmbX1y6pZxbgHI6gYF8PaBGBEwL3blqhEOK4VYu/hnj2enw29ve4Ro0nuMlSFAkEqS2BcHu7+5VzMlhjFRBXLIAFC4tD2I9k6rgBtHRXK3YAuxAkdDKYCwf1N7DyBvOfRyXs4jeCY04UlyR6QGRQjZ5ybvv/x3xWTaZInM6+cU/czrX5KQ302FiNZNKEFe1sDFTvLATThGLFbcpnOBal5GRnangDHz9qTeydT3stv/CYW6rMR4aoHB1TfTKpg7Z7UIC+3+yx",
-      "iv": "lMi9bs3aYBy8APaW",
-      "salt": "bShUu0WiWcOtWvPPtSS62w=="
+      "ciphertext": "Do52TUrEk3aDrQ5x3xovW+nJvDwf8xNeCqcsjmnKgfJiQ01GEAEadRu4l5bD0HQbGy1yaduIHWu0LKrZsy08M14fA2AXbK+wdJvJ0ubrqopmYpSc1k5lPDyyQW6ql1ELwBnbI/2maYyN9CXZvnRxcmnpzEi0PJ7ELT8D4kpe4FwLFeORf3hWBOXVLE/nalwKCZWUIMyM5jVTIGV0jsswcluiY5o5OgxFQItfbB9vNqaikKf3IzU8OlsA17teVCMf/Nv44lt7Q4X0VQ/3uRW/eomyntW5Bt0+WSrJmQO5zv7S3xYIIa2HhBKyaUC3jABFOcOPDcfZ",
+      "iv": "ZAKdfUVf2HEoUBka",
+      "salt": "3W1vZz/1hSGxBe6j+7k1bA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "3XUZSHdJ4lOGDisjOREyDrNeHnWe3zdVCzF8LypxzSk20cUPj+9OAPHgiV3n8BFLMh3dV8+ItoyXEHC4ty07WozRWKmvUIJ5QxlJDWWNuFk3YMia2po9GtFt+Bn0gKuwI7Z9lmvpf2VvbgRIlTgSCfQdaWGAecDh2QBf5HG14aCBevHnnLjVDusbJrDXzdGeeCvAtKiyO5hXbK5B",
-      "iv": "4rmXCPWIC9hvHvGD",
-      "salt": "jfwcvF2pwAzkaOq6zYWgWA=="
+      "ciphertext": "hCIGWFgzqwbHJWJ/GobLNpDdyty9AgE6uhLAArLQMFzfVfIORPoxMaLGW6V9BR4csFSeaRERvj3ITahD+rP1c/KMkz6ZAAg6jwjmE1DvVuq3vHHFsIkYanrTMj94VO4CU7uELZXVofUOZqp1fJQgZZ6t8xb+HwPTPxIgxbj74iGpGqypJbUq/XmemtDl49NOrr7kbw1ughLqBfYJ",
+      "iv": "3h0PZ+a1V04j6lf6",
+      "salt": "tllIU47qeLlpHxZW/DiXnA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -219,14 +219,6 @@
           "rel": "home"
         },
         {
-          "t": "Klara Bühl completes Germany comeback in Bremen - Bulinews",
-          "b": "Klara Bühl completes Germany comeback in Bremen  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FTOWRmUzFRblhEV1NqZGVqaTY5MWlXUGNzSG02bnRrTlMyWHRJSUdHRkhPQTk0QUFvRG80bG4wUnVoUWJUeVVaaTRBZ3JxSUo3YlI1TWFINWFJWC15OWR0ZUs2T0tTVldVODVfVURUYmptZVY1WlZRMmlLMUoxSw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -241,6 +233,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Klara Bühl completes Germany comeback in Bremen - Bulinews",
+          "b": "Klara Bühl completes Germany comeback in Bremen  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FTOWRmUzFRblhEV1NqZGVqaTY5MWlXUGNzSG02bnRrTlMyWHRJSUdHRkhPQTk0QUFvRG80bG4wUnVoUWJUeVVaaTRBZ3JxSUo3YlI1TWFINWFJWC15OWR0ZUs2T0tTVldVODVfVURUYmptZVY1WlZRMmlLMUoxSw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -260,23 +260,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Bauernhof",
-          "b": "<span class=\"jt\" data-g=\"lang_derbauernhof\">der Bauernhof</span> — the farm <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "höflich",
+          "b": "<span class=\"jt\" data-g=\"lang_höflich\">höflich</span> — polite",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "hoffen",
-          "b": "<span class=\"jt\" data-g=\"lang_hoffen\">hoffen</span> — hope <span class=\"gram\">(hofft · hoffte · hat gehofft)</span>",
+          "t": "holen",
+          "b": "<span class=\"jt\" data-g=\"lang_holen\">holen</span> — get <span class=\"gram\">(holt · holte · hat geholt)</span>",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "hoffentlich",
-          "b": "<span class=\"jt\" data-g=\"lang_hoffentlich\">hoffentlich</span> — hopefully",
+          "t": "das Holz",
+          "b": "<span class=\"jt\" data-g=\"lang_dasholz\">das Holz</span> — the wood",
           "src": "Goethe B1 · p.50"
         },
         {
-          "t": "die Hoffnung",
-          "b": "<span class=\"jt\" data-g=\"lang_diehoffnung\">die Hoffnung</span> — the hope <span class=\"gram\">(plural: -en)</span>",
+          "t": "der Honig",
+          "b": "<span class=\"jt\" data-g=\"lang_derhonig\">der Honig</span> — the honey",
           "src": "Goethe B1 · p.50"
         }
       ]
