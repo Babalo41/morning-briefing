@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-16",
-  "day": "Wed",
-  "dnum": "16",
-  "mon": "Sep",
-  "date": "Wednesday 16 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-17",
+  "day": "Sat",
+  "dnum": "17",
+  "mon": "Oct",
+  "date": "Saturday 17 October 2026",
+  "headline": "Briefing refreshed 13:39 Berlin time",
+  "stand": "Automatically rebuilt at 13:39 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "qELmfLpGPxZK6ZuFixDrdlGOf07nrGbi2/mp0JDfKulImZujP5TxY8q7v+HbyTWp44LGB44cNqWjVOtzfXNah+mzAh7yJ7LCj8/2xDCpuyKU0lXBCps10AsUhU2fKE4aTlnuua4TrIyxjyIs3v5mIxM3/PVhHnoGruaQiyZyIXk7iFHp3tXs",
-      "iv": "iIDGy37c8Ea2+jQC",
-      "salt": "FiMaXIpI0T9jmSW1qo0WbA=="
+      "ciphertext": "3aXc/ctwmnjf9BBf7WMCDyAM+5uLkL85DpOxiOi7Y28N0hSLef8n/hzt3ZPdyL9MVQbgjowsCYwWrY0c8RbjerPMZkY+cBLE5BGuCIju8/iTnnpkLPl+a574B+tWDljqjMZU5V1rBNjFw3C5JQ/IyBb5y55OSYWQe4GU06m0SmXYqsGVvaQm",
+      "iv": "lEEnlv/16eBV1exq",
+      "salt": "CibROH2iRBZlevKEz/4D4Q=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "16°",
+          "n": "14°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 20°C",
-          "b": "Low 14°C, gusts to 40 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 14°C",
+          "b": "Low 9°C, gusts to 39 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "BpwM4xinCvMxvAlfNy99a9Ays1UkLtwxfKK80RGL+OcjJZIn+3xxSeKvJw7N+oIkKttBM2oS/w7FTYigxCZj6YPncaxnQMBcMgaECpttmJJdaKiRaZsC4HALe7GF6PgspxTxGbspmwQcCtyqK7Ot+yT5nh0Ri7KnRQjB",
-      "iv": "7U5gotMyc707HgEX",
-      "salt": "GTHYOLqkKQWGco5mAhHf6Q=="
+      "ciphertext": "8AJVmzjLAsEABQpcLc3VdXxCmS3kk0AF8Pe4Wsc3FFnLxonS3kFyq/zsbMZ5sGsZoJKpgEk5KfCve2TO/XzwXHF+/92WPcIilvSNp7MfEiH+DznXFeBKQQ7NHXElGpfwF8o88qnYAAQKMaDuBFKxEdbbgTRhBXTdBs5k",
+      "iv": "C/b/vn8oV9HZ4f70",
+      "salt": "gXxqveupPoa26IrmyzuYpQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "pNhco7qA9m3ZVj5PVB4sIMXods+5J+I07h4k/DnHoyWmyrVDnQDh+z274Ptm8uzhTEjhVfdSUoo+HfWbAHtpXUM0EMOIBIiJ8noJZvQJssWFytnHNlacY0h7pgeEJhAVrX/OyfbPHJMI+6wsH89wfoI/3dXLIjhsJLvUbh4HeHARFDxnMj5lSkBfUCh/SD74F5uyKYRopa9YTrAjvml0JhjinsgqWpJNsAm6BXDM0453xKuO2XsrG2Bgwh2ZWv9Wnm39HUaUngsqefGZwsEURj4tHrG8WVXZS1AfqTE9zwO+F90OX6udUhTo4+kJxaq8tbd/hKxt",
-      "iv": "HCNZFEBB3/FwyYEt",
-      "salt": "1yRUNw+w+RbU4eDJ0k93Uw=="
+      "ciphertext": "pmEsm0UivdiAO1NLf+ICW9ntAYZiOkWI7ICmftgIPlVgXv+NufUyWEwJtvZ4qdsevdnZ4KaBtdgy0wL/oXNoIW1vim58OVwrSfWkgI0bguLaRjgqR6B2jTfTlrQTkctEfyHvsXyxIM7JLhZFYsgDxUGEkbNH3CZSafkdoJJLSMbLFTJWPqe6ECzFIii48wnBKDTHZHD824JoOw25RJMwxWUzTKR3kwGE9WhF7jVlInbTw3TskuPUEuMYFG/ESNHVKv7sIRWRNZ4nNIBblL0tVEphXp6MD7ADGX9TtN6L6LhERsM3TBxFeVoV8dt0EzmJQjNDTMiX",
+      "iv": "Ums8iAaXet3U5va4",
+      "salt": "LMkFdggJ0moA5mNhLhNHag=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "8vDJy5PlhFaWcWrRbpq3OGMpP/I4jvudEeJs++dURJznKf5oJLb1lHmfV/N4GNJkPCx3n6hdmX/HhpZUReQid/Agq5RrXxNxyIGT3Juyy6nfBW+YP44L/3xtfFL55lnsgxtuZy/p+jPkRSaCsLQ+300QuGXwAvB06vjro3aq8sdWan1z5jt+hzBw2kZc3LTyYHY3N/A7nRh6wkmY",
-      "iv": "xHms+Ol57ynF2xb/",
-      "salt": "GxvzAbVFISw/Nb8gobi/WA=="
+      "ciphertext": "rfI7tb56SMoQov9oWTklHRX4tIjGqKzxBuDbr5k8SEgD9oQvEl6s+W/jy3NBm2xgW9eRaQqG2AUosxpbbCc5Oz8oZ6HA1CIvWq32hIHi6uI5gRGzdrwih2YIihBJEVVD7+FsMurkO9HNJEZCOs/gVkfHD0O4v9Cy8xBV/HsyjWxwsbIReo3zaqFOtVZbVeGe/Ev6hNrRRzQVdn2V",
+      "iv": "CGWNse8QIowwMP4k",
+      "salt": "ioPLP1DWh84JhdZvKUoV0w=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,6 +73,12 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
+        },
+        {
+          "t": "ISTQB certification",
+          "b": "Hi everyone, I’m new to the field and planning to get my ISTQB certification before the end of October. Is it possible, and what resources would you recommend to help me pass the exam? I’d appreciate your advice!    submitted by    /u/Aggressive_Sir_2266   [link]   [comments]",
+          "src": "Quality Assurance : articles and news about software testing",
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1x799d4/istqb_certification/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -115,12 +121,6 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-        },
-        {
-          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,10 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "CAE Adds ALSIM FNPT II Capacity to France-Germany Initial Flight Training Network - afm.aero",
-          "b": "CAE Adds ALSIM FNPT II Capacity to France-Germany Initial Flight Training Network  afm.aero",
+          "t": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head - BBC",
+          "b": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head  BBC",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZE4yaU5RMVYxdlM1LV9qOFZJS3g2bDY2Nm5KaXdOQlJtTXVRVDFwMnVYSE9KN1Buc1BNVXdEZERYeHZIYVB0RVNnTjQ2b3NkaGZWSV9od3RPbllueHE5VlM0WmlUcExsRHdLYWpMRlRHWWRXUnhMbWVjQlRtWmJyNzBFLUk1YU9VMU8zVWRWdVB5NTRxREwxWWFSbGJFN0E?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tS2JzMFVqdXdNY09MLXJPQU12SVFPNmliVFhmbkdvZUZBSHRVc1M0M0Y3UFRLbzJXNUFMamZoVkJ1OWNHaVltMmJxTHZxU1pjVWhURTNNZ3pqLURiQm5yQTUzZw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Yahoo Sports",
+          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOTE0NkVwcFlkekh1dDljZVdVZUNobUJRZmM0RS1Oa21VMnpySkI5OVlhYUk2NWsxdjRweUNPX1VXY2tTRWh1LWh0b253M2RQdTBNUGt5N2lfRHFrOTlFSHZ1ay1qR1JVWE5XakVtaDdjWExHQUNqQkQxNWZsZw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -185,36 +193,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Cologne’s René Wagner responds to player criticism after home draw - Get German Football News",
-          "b": "Cologne’s René Wagner responds to player criticism after home draw  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNaXVDZUZqeWx2emVXT1VxTFNCR1E5TlJnS0xDbEdfVm1YRkt1N0R4TndXRWkwWmVJcDJhWmJ2cmdYcXYwX0pZdXd1NE1VYld4Nlo4NGtUQmJ5bFVIcG4tSG1ublUzNUlGdGUyUzdmbnVVTGo1bWtGemxn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Niclas Füllkrug’s Werder Bremen revival continues apace - Get German Football News",
-          "b": "Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnEwRlBWVXkwSjFueE8zZHk1QzJUN2tjenl2WmNmNVdIWU5vcmlYZjVTOC16R21hS0J0OFRQVVdGYUtOUURVd2NXVHNzX1B4eldrUE5WNnQ5cXU1dzdGdDAtTFFlRHEwNGR4dXZpVVVCUU5rbzUtZWYwLVBHQjJoa0FvaWx0dWZZSnEydG5qSmR0MWI2RmhmeE5hdHlWUk50?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence - Get German Football News",
-          "b": "Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzRRR2dKODZyU2UxMjE4TzRPcG5TTEUxYm14MFgxd3p6SGVlVkJHeGNVY0RPUEZmMUgtRzhobDdxcEQ3eVE4bXl1bUdWaE9NWHU1bmdPT2xzWHZTQU9hVko5M3dMclFtdWIxc0pZT01mc2xuUEpkSFBTcTloTGo5TWt2TDE?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Football German News",
-          "b": "Niclas Füllkrug’s Werder Bremen revival continues apace  Get German Football News Werder Bremen's Mitchell Weiser makes emotional return to competitive football after 14 month absence  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -234,24 +212,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Gott",
-          "b": "<span class=\"jt\" data-g=\"lang_dergott\">der Gott</span> — the god <span class=\"gram\">(plural: ¨-er)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "hören",
+          "b": "<span class=\"jt\" data-g=\"lang_hören\">hören</span> — hear <span class=\"gram\">(hört · hörte · hat gehört)</span>",
+          "src": "Goethe B1 · p.50"
         },
         {
-          "t": "die Grafik",
-          "b": "<span class=\"jt\" data-g=\"lang_diegrafik\">die Grafik</span> — the graphic <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Hörer",
+          "b": "<span class=\"jt\" data-g=\"lang_derhörer\">der Hörer</span> — the listener <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "das Gras",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgras\">das Gras</span> — the grass",
-          "src": "Goethe B1 · p.47"
+          "t": "die Hörerin",
+          "b": "<span class=\"jt\" data-g=\"lang_diehörerin\">die Hörerin</span> — the listener <span class=\"gram\">(plural: -nen)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "gratulieren",
-          "b": "<span class=\"jt\" data-g=\"lang_gratulieren\">gratulieren</span> — congratulate <span class=\"gram\">(gratuliert · gratulierte · hat gratuliert)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Zuhörer",
+          "b": "<span class=\"jt\" data-g=\"lang_derzuhörer\">der Zuhörer</span> — the listener",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }

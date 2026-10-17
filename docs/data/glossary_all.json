@@ -1742,5 +1742,37 @@
     "lang": "de-DE",
     "d": "The honey",
     "w": "“Ich esse gern Brötchen mit Honig und Butter zum Frühstück.”"
+  },
+  "lang_hören": {
+    "t": "hören",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hear",
+    "w": "“Ich kann nicht mehr so gut hören.”"
+  },
+  "lang_derhörer": {
+    "t": "der Hörer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The listener",
+    "w": "“Die Sendung hat viele Hörer und”"
+  },
+  "lang_diehörerin": {
+    "t": "die Hörerin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The listener",
+    "w": "“Hörerinnen.”"
+  },
+  "lang_derzuhörer": {
+    "t": "der Zuhörer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The listener",
+    "w": "Goethe-Zertifikat B1 exam vocabulary."
   }
 }
