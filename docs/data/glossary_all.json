@@ -1774,5 +1774,37 @@
     "lang": "de-DE",
     "d": "The listener",
     "w": "Goethe-Zertifikat B1 exam vocabulary."
+  },
+  "lang_diehose": {
+    "t": "die Hose",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The pants",
+    "w": "“Können Sie die Hose etwas kürzer machen?”"
+  },
+  "lang_dashotel": {
+    "t": "das Hotel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hotel",
+    "w": "“Im Urlaub sind wir in einem Hotel am Meer.”"
+  },
+  "lang_hübsch": {
+    "t": "hübsch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Pretty",
+    "w": "“Wir haben eine hübsche Wohnung gefunden.”"
+  },
+  "lang_derhügel": {
+    "t": "der Hügel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hill",
+    "w": "“Auf diesem Hügel machen wir eine Pause.”"
   }
 }

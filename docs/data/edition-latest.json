@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-17",
-  "day": "Sat",
-  "dnum": "17",
+  "id": "2026-10-18",
+  "day": "Sun",
+  "dnum": "18",
   "mon": "Oct",
-  "date": "Saturday 17 October 2026",
-  "headline": "Briefing refreshed 13:39 Berlin time",
-  "stand": "Automatically rebuilt at 13:39 — 12 sections tracked.",
+  "date": "Sunday 18 October 2026",
+  "headline": "Briefing refreshed 06:05 Berlin time",
+  "stand": "Automatically rebuilt at 06:05 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "3aXc/ctwmnjf9BBf7WMCDyAM+5uLkL85DpOxiOi7Y28N0hSLef8n/hzt3ZPdyL9MVQbgjowsCYwWrY0c8RbjerPMZkY+cBLE5BGuCIju8/iTnnpkLPl+a574B+tWDljqjMZU5V1rBNjFw3C5JQ/IyBb5y55OSYWQe4GU06m0SmXYqsGVvaQm",
-      "iv": "lEEnlv/16eBV1exq",
-      "salt": "CibROH2iRBZlevKEz/4D4Q=="
+      "ciphertext": "PUk6YRhbqD6luHfYWEI4RupJBz+HMok/3Yfctai8ALDjXsgFFIE9+EwPmYLVFD0WuWUDkwGdoI8PskwmciADaUUm51CrEFDQtpptYM8BSradddc9PO7TIp++ANjHuuh8fhdI7hG68nSx3n/LjJpsDJGzHKuBecK2I75mY6fpPDV+JPlyx7C1",
+      "iv": "D5GRzj2pnIlc4n1Z",
+      "salt": "zLKt5asG99Ptygey8ul9kg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "14°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 14°C",
-          "b": "Low 9°C, gusts to 39 km/h. 7-day outlook below.",
+          "t": "Bremen: light rain, high 13°C",
+          "b": "Low 9°C, gusts to 37 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "8AJVmzjLAsEABQpcLc3VdXxCmS3kk0AF8Pe4Wsc3FFnLxonS3kFyq/zsbMZ5sGsZoJKpgEk5KfCve2TO/XzwXHF+/92WPcIilvSNp7MfEiH+DznXFeBKQQ7NHXElGpfwF8o88qnYAAQKMaDuBFKxEdbbgTRhBXTdBs5k",
-      "iv": "C/b/vn8oV9HZ4f70",
-      "salt": "gXxqveupPoa26IrmyzuYpQ=="
+      "ciphertext": "Mi6HilItV4WS+AKx3sL9WsuIYH7YwKy3Yh7NznD4+i+C2uyWR51Zyv1x5/t2lYyA2GqzlGBfgM4q6YodQVfCWIEOt/69acQvAysm36ljWB0VpMD4wjVbTh9l5l53LafR8X+1llR4CrKIwWLaZAMuZh87yA9+Lr0EUCLL",
+      "iv": "dzqH5znv/2LixjJZ",
+      "salt": "Bs3rWrUgiisza4mi8cj0ag=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "pmEsm0UivdiAO1NLf+ICW9ntAYZiOkWI7ICmftgIPlVgXv+NufUyWEwJtvZ4qdsevdnZ4KaBtdgy0wL/oXNoIW1vim58OVwrSfWkgI0bguLaRjgqR6B2jTfTlrQTkctEfyHvsXyxIM7JLhZFYsgDxUGEkbNH3CZSafkdoJJLSMbLFTJWPqe6ECzFIii48wnBKDTHZHD824JoOw25RJMwxWUzTKR3kwGE9WhF7jVlInbTw3TskuPUEuMYFG/ESNHVKv7sIRWRNZ4nNIBblL0tVEphXp6MD7ADGX9TtN6L6LhERsM3TBxFeVoV8dt0EzmJQjNDTMiX",
-      "iv": "Ums8iAaXet3U5va4",
-      "salt": "LMkFdggJ0moA5mNhLhNHag=="
+      "ciphertext": "caR9eMZDT6LNNnZID+BB7gCD2HgCjQLPupH41OqP27CTgUvjifuxUGgRlrEIZ1vBnZ7OuNwLWFsWaagaGrCITjamet9o1Go7EjkaIqR6bDV5NHuYIZ8MHNwwYFJ96wyH186gq4pfHUz/MFFEWEuecWOGAiDCHM+JJFzg8XQEt1o6dKYUguA+CEFCmQ8DKORQmjSIZrgdfuZjgIh2qJZ7zSW5s0iM/KJhZFEM54YGrBXHu+nw2LH/u7/CHESNaiwL/9egOcBoPOTXeVRi1f+qu6fsX+UmInSLWVldsejyTkpgxi3eXhexSRi/LPceemUl99WTRJZU",
+      "iv": "qL0eRHaIp4IDdkl7",
+      "salt": "7ZuXHMHY1WWpCinH7QFa9Q=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "rfI7tb56SMoQov9oWTklHRX4tIjGqKzxBuDbr5k8SEgD9oQvEl6s+W/jy3NBm2xgW9eRaQqG2AUosxpbbCc5Oz8oZ6HA1CIvWq32hIHi6uI5gRGzdrwih2YIihBJEVVD7+FsMurkO9HNJEZCOs/gVkfHD0O4v9Cy8xBV/HsyjWxwsbIReo3zaqFOtVZbVeGe/Ev6hNrRRzQVdn2V",
-      "iv": "CGWNse8QIowwMP4k",
-      "salt": "ioPLP1DWh84JhdZvKUoV0w=="
+      "ciphertext": "t6YJcS0Ts6Hwl7HDsad+WmPZ/VvSI6yCHDgL3Iq8RhsC1Qf8Y7gwmlVixAfSRGsguq3kepIt/97rK9DILJZDm7LsXNRpsQfYYgc2p4qUGlu+uzpEAGrvO4BkOX9PSfbkiURIPL3B4XjzVLuIeEoqRBg6s9vEKNCxqpbphLEhp6sySc0/tUJXm+BsPc4PE1gseWakMVtAJW2U3oy9",
+      "iv": "HObK3BxlWo5CH5rK",
+      "salt": "EcTxPAYLc0TA01MK7oo8sw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -171,14 +171,6 @@
           "rel": "home"
         },
         {
-          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Yahoo Sports",
-          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Yahoo Sports",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOTE0NkVwcFlkekh1dDljZVdVZUNobUJRZmM0RS1Oa21VMnpySkI5OVlhYUk2NWsxdjRweUNPX1VXY2tTRWh1LWh0b253M2RQdTBNUGt5N2lfRHFrOTlFSHZ1ay1qR1JVWE5XakVtaDdjWExHQUNqQkQxNWZsZw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -193,6 +185,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Yahoo Sports",
+          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOTE0NkVwcFlkekh1dDljZVdVZUNobUJRZmM0RS1Oa21VMnpySkI5OVlhYUk2NWsxdjRweUNPX1VXY2tTRWh1LWh0b253M2RQdTBNUGt5N2lfRHFrOTlFSHZ1ay1qR1JVWE5XakVtaDdjWExHQUNqQkQxNWZsZw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,23 +212,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "hören",
-          "b": "<span class=\"jt\" data-g=\"lang_hören\">hören</span> — hear <span class=\"gram\">(hört · hörte · hat gehört)</span>",
-          "src": "Goethe B1 · p.50"
-        },
-        {
-          "t": "der Hörer",
-          "b": "<span class=\"jt\" data-g=\"lang_derhörer\">der Hörer</span> — the listener <span class=\"gram\">(plural: -)</span>",
+          "t": "die Hose",
+          "b": "<span class=\"jt\" data-g=\"lang_diehose\">die Hose</span> — the pants <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Hörerin",
-          "b": "<span class=\"jt\" data-g=\"lang_diehörerin\">die Hörerin</span> — the listener <span class=\"gram\">(plural: -nen)</span>",
+          "t": "das Hotel",
+          "b": "<span class=\"jt\" data-g=\"lang_dashotel\">das Hotel</span> — the hotel <span class=\"gram\">(plural: -s)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Zuhörer",
-          "b": "<span class=\"jt\" data-g=\"lang_derzuhörer\">der Zuhörer</span> — the listener",
+          "t": "hübsch",
+          "b": "<span class=\"jt\" data-g=\"lang_hübsch\">hübsch</span> — pretty",
+          "src": "Goethe B1 · p.51"
+        },
+        {
+          "t": "der Hügel",
+          "b": "<span class=\"jt\" data-g=\"lang_derhügel\">der Hügel</span> — the hill <span class=\"gram\">(plural: -)</span>",
           "src": "Goethe B1 · p.51"
         }
       ]

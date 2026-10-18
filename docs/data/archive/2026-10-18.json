@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-17",
-  "day": "Thu",
-  "dnum": "17",
-  "mon": "Sep",
-  "date": "Thursday 17 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-18",
+  "day": "Sun",
+  "dnum": "18",
+  "mon": "Oct",
+  "date": "Sunday 18 October 2026",
+  "headline": "Briefing refreshed 06:05 Berlin time",
+  "stand": "Automatically rebuilt at 06:05 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "mGeZ5G+PKGBinyXNQxrPS4UXKVUNTEL6CkAruzyNKeVkPgDIDaIaG95eVRvQwBe6OgXL32tHrkMBrAuGHtfJ+os7JXIr62dfPmVf2W6VsDQ6oEJXpFw4C7qcyWNfKME2PxR61ObPglc0RHvfTlO1TL3N3HY298CIF6IcM3Kz21UcDEcH85BI",
-      "iv": "hvghM8xIfrQ8BU7Y",
-      "salt": "EG1B9YNVUpIGxUyubTCGmA=="
+      "ciphertext": "PUk6YRhbqD6luHfYWEI4RupJBz+HMok/3Yfctai8ALDjXsgFFIE9+EwPmYLVFD0WuWUDkwGdoI8PskwmciADaUUm51CrEFDQtpptYM8BSradddc9PO7TIp++ANjHuuh8fhdI7hG68nSx3n/LjJpsDJGzHKuBecK2I75mY6fpPDV+JPlyx7C1",
+      "iv": "D5GRzj2pnIlc4n1Z",
+      "salt": "zLKt5asG99Ptygey8ul9kg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "12°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 18°C",
-          "b": "Low 12°C, gusts to 48 km/h. 7-day outlook below.",
+          "t": "Bremen: light rain, high 13°C",
+          "b": "Low 9°C, gusts to 37 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "0ymRXLlw+P7sqbW8BDaeJxP0Ca/FAnspjkKVolQABYlMKWoEpXWcittz4DPZloSVC53xLUAKx0A+86IwrWqldIgjapazuP2lDcIQ2GJKRlUTILPV3hbIBMz6jIDyl+z0JMrSjjjbALDex4qDKB6D8uBujg1H5qQdjfFv",
-      "iv": "M7/hPsbtBjyY3bQI",
-      "salt": "OeS+ks00G6bOvp7mJJsXmw=="
+      "ciphertext": "Mi6HilItV4WS+AKx3sL9WsuIYH7YwKy3Yh7NznD4+i+C2uyWR51Zyv1x5/t2lYyA2GqzlGBfgM4q6YodQVfCWIEOt/69acQvAysm36ljWB0VpMD4wjVbTh9l5l53LafR8X+1llR4CrKIwWLaZAMuZh87yA9+Lr0EUCLL",
+      "iv": "dzqH5znv/2LixjJZ",
+      "salt": "Bs3rWrUgiisza4mi8cj0ag=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "fbgy5P2U2FWGFpBfr4L8d4+hT5gPiOpZ0BkPmNfwmyTcANCUpNTyN/kmyhsMjM13z4YXTYh63PBMSZxkJK+HwF5T67nhgPTa7Z0o6dhxjIAOkceMRKqYbgtbuENpVtH/IthEl3QaK5MhD+Y/3//cH5jufiKWNUXUro5gunTXIXu74etFweSAYAT9ohtbRglpwrkoku8kyyrcKV1le/Ad365BXk9m7eQ3vXdfnm45ubz5TxXAyxJJnV4AH0kHxcu/WfJ0meOD2L57ZzETMqxgSaW2QEIB1rQUDxad9MTE6E6ApVmN3Fp+HYf2MSepcYmL47PXghg7",
-      "iv": "XfUWtjDydVPZqw4J",
-      "salt": "DHH9HrwRNVOOy/n30llN+g=="
+      "ciphertext": "caR9eMZDT6LNNnZID+BB7gCD2HgCjQLPupH41OqP27CTgUvjifuxUGgRlrEIZ1vBnZ7OuNwLWFsWaagaGrCITjamet9o1Go7EjkaIqR6bDV5NHuYIZ8MHNwwYFJ96wyH186gq4pfHUz/MFFEWEuecWOGAiDCHM+JJFzg8XQEt1o6dKYUguA+CEFCmQ8DKORQmjSIZrgdfuZjgIh2qJZ7zSW5s0iM/KJhZFEM54YGrBXHu+nw2LH/u7/CHESNaiwL/9egOcBoPOTXeVRi1f+qu6fsX+UmInSLWVldsejyTkpgxi3eXhexSRi/LPceemUl99WTRJZU",
+      "iv": "qL0eRHaIp4IDdkl7",
+      "salt": "7ZuXHMHY1WWpCinH7QFa9Q=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "fU5ubgZOmXyZU30AfUeEDCY5gGDk5XYSndXgM0l79m0NMnmckFJhlWseRLETxpkMP8wBPgpCwy55T1bAg3ueSLwOhrxv8eMpaNfAL/1tu5yIM5XbJ/ScChfscPKxuuOQt87m8IZJ0zHeZoVPrpFxYDBvxQGugTShnE2weT4byca8kzyDV4kzXYZWKEv1wFhyzlB7Uqzc4KyTivN2",
-      "iv": "EetaFCDP0QR0rIto",
-      "salt": "Tta2aLJUgro0BItBvIU7KA=="
+      "ciphertext": "t6YJcS0Ts6Hwl7HDsad+WmPZ/VvSI6yCHDgL3Iq8RhsC1Qf8Y7gwmlVixAfSRGsguq3kepIt/97rK9DILJZDm7LsXNRpsQfYYgc2p4qUGlu+uzpEAGrvO4BkOX9PSfbkiURIPL3B4XjzVLuIeEoqRBg6s9vEKNCxqpbphLEhp6sySc0/tUJXm+BsPc4PE1gseWakMVtAJW2U3oy9",
+      "iv": "HObK3BxlWo5CH5rK",
+      "salt": "EcTxPAYLc0TA01MK7oo8sw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -75,10 +75,10 @@
           "u": null
         },
         {
-          "t": "How Can I Gain Real-World QA Experience?",
-          "b": "I am currently developing my skills toward a QA Engineer role. I have an ISTQB CTFL certification and have built my own automation frameworks using demo applications. However, I don't have professional QA experience yet. I would like to gain experience by contributing to real-world projects as a vol",
+          "t": "ISTQB certification",
+          "b": "Hi everyone, I’m new to the field and planning to get my ISTQB certification before the end of October. Is it possible, and what resources would you recommend to help me pass the exam? I’d appreciate your advice!    submitted by    /u/Aggressive_Sir_2266   [link]   [comments]",
           "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wi2znz/how_can_i_gain_realworld_qa_experience/"
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1x799d4/istqb_certification/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -163,42 +163,10 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Bremen, Germany Air Quality & Pollen - Weather Underground",
-          "b": "Bremen, Germany Air Quality & Pollen  Weather Underground",
+          "t": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head - BBC",
+          "b": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head  BBC",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0EzekZmeWZwNjBGdXQwYXhRMXpGZGxfMm5hblpkTlA3WGlWOTJjVlMyZ05xU1NBamZzNE54RG9udWJUSmVmZmRuOVd3NWthLXhLYjFmY2ptTVRUZ1RUUTNBTlJGdk9IS0lWZXFjY1pjV1pFX1J2c2VrOUcyel9Ob2pn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Bremen coach quits over claims of fake vaccine certificate - Arab News",
-          "b": "Bremen coach quits over claims of fake vaccine certificate  Arab News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVpkLTlUU3NYREpOQ0prX2h2cnlPZjVYWElQNzR1eVlHUTFrTkxyakctMENaYXJIbzBDdEl6NlB4bmFDT2xZSmNpamNpeDVoVUZ4T0x3bjBveXctVm5HTzRQVWlGUHZMUTgwNmN5aVdpQm1NTlNrdzRqX0lUZ1pHUVhIU1hYdkJObF9qa3U0SGU5YkRfS21wc2tzLTZBQQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Saxony tops education ranking in Germany, Bremen comes last - UA.NEWS",
-          "b": "Saxony tops education ranking in Germany, Bremen comes last  UA.NEWS",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDQwYU11MU1wdmJCMlhjeWl3NFJxRVhfejVwaVd4WG96QW1YaTJ2UEZLdk04V1BfNUF1QktmV0hqUWJWSUZpS0lVRmEyY1hXdUoxemVkVnJqNFRhSU94dE53dWZlSTVuWFo1OUlRZWEzcUd3ZlpLdHpNcmc5NHJHOHdzRjVnWGt6bWJIaVVJVUUtUQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "CAE Adds ALSIM FNPT II Capacity to France-Germany Initial Flight Training Network - afm.aero",
-          "b": "CAE Adds ALSIM FNPT II Capacity to France-Germany Initial Flight Training Network  afm.aero",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZE4yaU5RMVYxdlM1LV9qOFZJS3g2bDY2Nm5KaXdOQlJtTXVRVDFwMnVYSE9KN1Buc1BNVXdEZERYeHZIYVB0RVNnTjQ2b3NkaGZWSV9od3RPbllueHE5VlM0WmlUcExsRHdLYWpMRlRHWWRXUnhMbWVjQlRtWmJyNzBFLUk1YU9VMU8zVWRWdVB5NTRxREwxWWFSbGJFN0E?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Weserstars Bremen - Elite Prospects",
-          "b": "Weserstars Bremen  Elite Prospects",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeXRzYUVRYXI3Y3VNNjVPTEttVm5ud3B2UW1HS0RJQnJ2ZTdKVm9nSW03dXhKNzdNb1E0S253UFR0d0NRQTNLSlVjQTJLMnYweGVPTUpaUUNYc0lWRU9jQ0c0YW5UMkV4eHc?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tS2JzMFVqdXdNY09MLXJPQU12SVFPNmliVFhmbkdvZUZBSHRVc1M0M0Y3UFRLbzJXNUFMamZoVkJ1OWNHaVltMmJxTHZxU1pjVWhURTNNZ3pqLURiQm5yQTUzZw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -217,6 +185,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Yahoo Sports",
+          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOTE0NkVwcFlkekh1dDljZVdVZUNobUJRZmM0RS1Oa21VMnpySkI5OVlhYUk2NWsxdjRweUNPX1VXY2tTRWh1LWh0b253M2RQdTBNUGt5N2lfRHFrOTlFSHZ1ay1qR1JVWE5XakVtaDdjWExHQUNqQkQxNWZsZw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -236,24 +212,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Gratulation",
-          "b": "<span class=\"jt\" data-g=\"lang_diegratulation\">die Gratulation</span> — the congratulations <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "die Hose",
+          "b": "<span class=\"jt\" data-g=\"lang_diehose\">die Hose</span> — the pants <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "gratis",
-          "b": "<span class=\"jt\" data-g=\"lang_gratis\">gratis</span> — free",
-          "src": "Goethe B1 · p.47"
+          "t": "das Hotel",
+          "b": "<span class=\"jt\" data-g=\"lang_dashotel\">das Hotel</span> — the hotel <span class=\"gram\">(plural: -s)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "greifen",
-          "b": "<span class=\"jt\" data-g=\"lang_greifen\">greifen</span> — grab <span class=\"gram\">(greift · griff · hat gegriffen)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "hübsch",
+          "b": "<span class=\"jt\" data-g=\"lang_hübsch\">hübsch</span> — pretty",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Grenze",
-          "b": "<span class=\"jt\" data-g=\"lang_diegrenze\">die Grenze</span> — the border <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Hügel",
+          "b": "<span class=\"jt\" data-g=\"lang_derhügel\">der Hügel</span> — the hill <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }
