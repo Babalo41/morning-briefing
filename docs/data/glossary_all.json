@@ -1806,5 +1806,37 @@
     "lang": "de-DE",
     "d": "The hill",
     "w": "“Auf diesem Hügel machen wir eine Pause.”"
+  },
+  "lang_derhumor": {
+    "t": "der Humor",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The humor",
+    "w": "“Wir mögen Paul, weil er so viel Humor hat.”"
+  },
+  "lang_derhunger": {
+    "t": "der Hunger",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hunger",
+    "w": "“Möchtest du Suppe? – Nein danke, ich habe keinen Hunger.”"
+  },
+  "lang_hungrig": {
+    "t": "hungrig",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hungry",
+    "w": "“Ich bin sehr hungrig.”"
+  },
+  "lang_hupen": {
+    "t": "hupen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Honk",
+    "w": "“Hier ist ein Krankenhaus. Hier darfst du nicht hupen.”"
   }
 }

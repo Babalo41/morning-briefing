@@ -1,9 +1,9 @@
 {
-  "id": "2026-09-19",
-  "day": "Sat",
+  "id": "2026-10-19",
+  "day": "Mon",
   "dnum": "19",
-  "mon": "Sep",
-  "date": "Saturday 19 September 2026",
+  "mon": "Oct",
+  "date": "Monday 19 October 2026",
   "headline": "Briefing refreshed 06:00 Berlin time",
   "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
@@ -11,22 +11,22 @@
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "4jibpqhsP63xbG/jBEdeaQA4E69AlebKBJNwDwCijtDKSL+60ejfI2DPcCpJaySMmapEn5zUbxGEYL5ND0hi9/oJuwQ8K2v83QZlqRZ+jNyZsb+HSq5YDh6UrSmKfgXcoVAxMT4wQZZY7R5iUIcys75pMSlwPDFxortgoDZYZCMaFaETI0Gk",
-      "iv": "k8Qo4BaKcijtNrkK",
-      "salt": "xm9tFQnWDKB4t6PEB/Vyvw=="
+      "ciphertext": "AmpZVpFFZxnx4PRgBTZabkvcEe7lChgZwrKFvd+TGd6i9ztg/AU3lFqE5553drwn6TEOy5n4gKeofYl187lwSWF8YZFAzQMIUniXbNPEj0FQ7dj/SpD7y5qmbgvZlN9IN1OC52K1zg/6H/OtA+dCnRsIpJjd9bnEG7bwblRVbttf67SrK6ps",
+      "iv": "lY9wG9VHEqaG6jts",
+      "salt": "7sTBFMsxGC9EJzhhItjWjw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "14°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 20°C",
-          "b": "Low 14°C, gusts to 45 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 6°C, gusts to 36 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "daEAW/IPZireYWcAE3yXP+Il2hs97kMkXQRGCks2d18nRZ1KsK3FmlGM/DHFPZBFxkyfY+jPlslyLmpZhRMNJf2Wju5+ksZfh4TR+Ux+gPLqbDfBhkjufZ3qWQMW2Y+SfHh4xxEyu1YnCI//8nKHgl5myF2PCjdYPvfb",
-      "iv": "1Sb+YlWUHraPE94d",
-      "salt": "SGEdXEbp+56WWLc81UAHWQ=="
+      "ciphertext": "58UWcxv56ouUAB8SMF7FfdmjSWgX4Wfz2FuAq7D7wh0OUTOLe7OwumrhcjrSM0oEeU/AZ95buxQpM1HoXlcXFWXLbftNnVSGLqztLTllE1XioXW/hRfmqFJ2IyVN3CKEfBlQ8eLNDqzHH41/i5X2/EnnN1H1+11Sxngj",
+      "iv": "81JGcqDfrMH1yOVH",
+      "salt": "J4koqkFIe3RUzmXy26F0Lw=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "RXOzFHE2GIo0jjja9gsalU1u4kT+rvhzAYmOThts8kBdwTw//w7PcmQJA+cFQKX6fnoRZpJJHr3fu8CvhzkLxlwIrmtmz6+c1dfZmfwJQ/vPbHUhuFP66AmczYmFOFekKTKvxAlSBluupvhJtR4ChuxWsRBvZIIoQK7nraP23S5RSmdJKRPpObJGNE5CrHrBnBIqKR7VGM5EH0rt8XGts0kkfDDTMoI2VJjkjqY/nBSsCt1cmFCk011+M7+7ev6g+UCTYTM3HDA0vUiFIARgv4QvxHRysfR8CER6HpiZ92CKzst6sEHsXqA6eXTzgryj6wl89riW",
-      "iv": "wfeyBEOhKDL66jXF",
-      "salt": "guTcwciUQ6l0L5xXLaAwVQ=="
+      "ciphertext": "acKI0MGsyH2sLlGsSlDD0LNDF05oqNv/tre3fSdv3UxRC/kRxvLg6/ZZXgqrke8TjYncmF3qcLOLdQDSarInnzV6iBsqiH1SRQ5KSVMGBvxICUE6ZapMMwZCk2DtADyiGILgGZd3a1j9+I6jsCqslOb8oHCJK8Qy0iFgay764U6wrJqSe1iUg/erxmqPsygkJIq65Xutc1JjF2O+uyqXs+dOLBhSaGNNtJEH2nQOQL3dCxff+FYdJ4X1LkvjJdcnw3mSjiKS396fhSigndJj3mitqIuuSpMKbCDes+LL84sRT9fvenSTzj0SFe6WHpDD8i/Qy7f0",
+      "iv": "9ogT7tD0C8nrVN2E",
+      "salt": "tZ2Uiy6tmssgSgvN8pM1qw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "wKLHGpgWikY/yJA6f83VtSicbcYc8BacXQ+ylopTBMsoZQRFPjNsY4LjXeJHwUIzuwNBmYFeOqL9cNf1nvJPcG+6KYZvVyw0968g3XC5qywWTz3NFhcD9IczBVImzxLV89qZYPGvaZTa2PjW9IzL/FXIopl24hsKnOw8QW4ObnEiFxlZJs460kp4m8q+SewdnH6YWzunZRRRCLd9",
-      "iv": "VSF13GEspTzn6FU9",
-      "salt": "EtnpVkiYkhcW3wmXKdQOHw=="
+      "ciphertext": "F9M2TsS6Y3U1XS39rJmbXEKUXDqyQ96MzEjo2ZlGFJSac1Q2UGRc/mmZi8HB2lXb1GX2mt/hXKBfBbmGwmn72DNpcVaoGvRVA2Pm2XYNL9BukDsU/65l7eHq23y8scui5/HFQFZ4BRStx8b8K+kkow4P4ECq3Lsyr9IYEOiDRKVUpjtbzld5sUCGTnA/Df8UQnwUpBB3+wpOdaAi",
+      "iv": "AdsXPSTUWecL/IYW",
+      "salt": "YkXIqfNuR7D9LGVr8rb06g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+          "b": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+          "src": "www.theregister.com - Articles",
+          "u": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
         }
       ],
       "feed_section": "work_industry"
@@ -163,42 +164,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "A5ENMU Bond Yield and Price Chart - TradingView",
-          "b": "A5ENMU Bond Yield and Price Chart  TradingView",
+          "t": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk - OneFootball",
+          "b": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk  OneFootball",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuazd5ajByYm9JSzd1UkNqZHJ6N3g2LTcwQ0M1YjJLeEM3bFZsZmxiNFZHMFp5Nmc2cmV6MjI5Z0pvNUpkU2tfMDA3UG1VeEtjcl9jZVZybmtvdEk?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakI3VGVFUzNsNXVhT2E0MTlsQWZyN3FWem5mMlU0VTZ1cTJ2d3NleVBjX3NZNUpIMUNPLWxyTzhjNEhoaER6a2FvSXJTMVFkeVFVMjl1c0hSUDltVVlIU3UyM2gtV29lcjJWZzlhRlNGeDBWY1NodHZsWFVKWHpHSjh1dTVpbm5oUzNKajJCaXRyZjJOVWE0ZUpDMHdhemNnYzNkd1F5RnF5YkhpWENXQ2wtNng?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders - coe.int",
-          "b": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders  coe.int",
+          "t": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\" - Get German Football News",
+          "b": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\"  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVU5lWm1hNmRpVGlQOTF6NkNTUmNyTFZLa2tmZ3BHeG1FUGxNRHRTYVlhSFhjU3hHdlR5RHV2RmNSaGFncmpobGNyNFg3bVhfRHVqRUI1UWk5Z19UNTJpSWIxZ2Z2SlZ6YlU2RmI2SHViNzZhMTk0dGRIbjl2QnFmOEtublVPd2VhSXBkbEhWbEhXbzcxSDZMVnVoSlNudm5ZZmRrOXdXZm9OSGxVUnRuMldBNkpmbGZHQndiZ0F1T2ZWU3BmYkwzOVJFUERCREhfSE5jWDdja2NhbTZ3T25haGtNU3g1ejVnVFFIaWthVHRhTGU2dXprQXhxYzRWV3ZPNkZwUkpFbFpxck1xR2xZb1FMMlR0Uy04eHAwUWp0U2RYYW9KODcwZHBVTmhNcExZRU5zYUN3?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head - BBC",
-          "b": "Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head  BBC",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53T2RYS3ZDbUQzckpKTGFVakdnc1FQcXFQOTBsQlNRZ3NQQlRNemhZeklHYkNURG5XQk96bFRRWlZicGI4X0lKZndXMW9sSF9CSUhscll0T0UwRVY4UWxDSW5mSQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Weserstars Bremen - Elite Prospects",
-          "b": "Weserstars Bremen  Elite Prospects",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zeXRzYUVRYXI3Y3VNNjVPTEttVm5ud3B2UW1HS0RJQnJ2ZTdKVm9nSW03dXhKNzdNb1E0S253UFR0d0NRQTNLSlVjQTJLMnYweGVPTUpaUUNYc0lWRU9jQ0c0YW5UMkV4eHc?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbFd1M2Y1Q3o4V084U2NtQkRyYnlCTlZKWHdWeWhPSGc1M0lHeXVGalpYSnhKbXBSZkpMRlp4enZadWR5VzhwQ2M3dG9UbkJSYm9taEVuRjNCVzlyZXpCWjctSkJ1SnF2ZHViTUk2MXJqdnNwWngzMzltckVpTExvaEhRWUwtal9VTEFjbVJHMVZ5ZVhMY3FHeEN5WUFLeGhPRHpGNVdIU3FCd3I2UXBiTzNZVUVlR0tUUzFibFYxY1RoYTNKR3dKdDBYTndqUlgzSTJlM2FydFVxbnVGdUdVeHRESlFWSjI2RG1qZWZ2NGpfa3B3ZUE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -219,26 +196,12 @@
           "rel": "interest"
         },
         {
-          "t": "Bremen, Germany Air Quality & Pollen - Weather Underground",
-          "b": "Bremen, Germany Air Quality & Pollen  Weather Underground",
+          "t": "Europe's answer to Starlink: Who is building IRIS² and what is Germany's role - Euronews.com",
+          "b": "Europe's answer to Starlink: Who is building IRIS² and what is Germany's role  Euronews.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0EzekZmeWZwNjBGdXQwYXhRMXpGZGxfMm5hblpkTlA3WGlWOTJjVlMyZ05xU1NBamZzNE54RG9udWJUSmVmZmRuOVd3NWthLXhLYjFmY2ptTVRUZ1RUUTNBTlJGdk9IS0lWZXFjY1pjV1pFX1J2c2VrOUcyel9Ob2pn?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVF4bWtRUVRoMGtYV1hKSmhLNm1rU1hWYWVRY2UtNU50ZW1WeEwyWG5qZFVnbmtEdFVrSXAzbldBTEJJXzVtNzAxUGZaMEg3Y2IwTExQdUNyMHJMa3FQZWUtVVNLUkMtcW9YSmpjNG0xWmgwYnBkeVFqelk4QUpRUW5iZTJRRWNRZTZFamVoRFU4eHpxazZQR05VbktyNWpYSHVMTzM5RkdkSzdsT0E?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Saxony tops education ranking in Germany, Bremen comes last - UA.NEWS",
-          "b": "Saxony tops education ranking in Germany, Bremen comes last  UA.NEWS",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDQwYU11MU1wdmJCMlhjeWl3NFJxRVhfejVwaVd4WG96QW1YaTJ2UEZLdk04V1BfNUF1QktmV0hqUWJWSUZpS0lVRmEyY1hXdUoxemVkVnJqNFRhSU94dE53dWZlSTVuWFo1OUlRZWEzcUd3ZlpLdHpNcmc5NHJHOHdzRjVnWGt6bWJIaVVJVUUtUQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Werder Bremen Hoffenheim",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com Werder Bremen vs Augsburg: German Bundesliga stats & head-to-head  BBC",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -247,9 +210,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Australian Greens senator denies claims of misconduct towards women",
+          "b": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -258,24 +222,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "groß",
-          "b": "<span class=\"jt\" data-g=\"lang_groß\">groß</span> — big",
-          "src": "Goethe B1 · p.47"
+          "t": "der Humor",
+          "b": "<span class=\"jt\" data-g=\"lang_derhumor\">der Humor</span> — the humor",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Größe",
-          "b": "<span class=\"jt\" data-g=\"lang_diegröße\">die Größe</span> — the size <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Hunger",
+          "b": "<span class=\"jt\" data-g=\"lang_derhunger\">der Hunger</span> — the hunger",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "gründen",
-          "b": "<span class=\"jt\" data-g=\"lang_gründen\">gründen</span> — establish <span class=\"gram\">(gründet · gründete · hat gegründet)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "hungrig",
+          "b": "<span class=\"jt\" data-g=\"lang_hungrig\">hungrig</span> — hungry",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Grund",
-          "b": "<span class=\"jt\" data-g=\"lang_dergrund\">der Grund</span> — the reason <span class=\"gram\">(plural: ¨-e)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "hupen",
+          "b": "<span class=\"jt\" data-g=\"lang_hupen\">hupen</span> — honk <span class=\"gram\">(hupt · hupte · hat gehupt)</span>",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }

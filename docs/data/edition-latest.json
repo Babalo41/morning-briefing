@@ -1,19 +1,19 @@
 {
-  "id": "2026-10-18",
-  "day": "Sun",
-  "dnum": "18",
+  "id": "2026-10-19",
+  "day": "Mon",
+  "dnum": "19",
   "mon": "Oct",
-  "date": "Sunday 18 October 2026",
-  "headline": "Briefing refreshed 06:05 Berlin time",
-  "stand": "Automatically rebuilt at 06:05 — 12 sections tracked.",
+  "date": "Monday 19 October 2026",
+  "headline": "Briefing refreshed 06:00 Berlin time",
+  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "PUk6YRhbqD6luHfYWEI4RupJBz+HMok/3Yfctai8ALDjXsgFFIE9+EwPmYLVFD0WuWUDkwGdoI8PskwmciADaUUm51CrEFDQtpptYM8BSradddc9PO7TIp++ANjHuuh8fhdI7hG68nSx3n/LjJpsDJGzHKuBecK2I75mY6fpPDV+JPlyx7C1",
-      "iv": "D5GRzj2pnIlc4n1Z",
-      "salt": "zLKt5asG99Ptygey8ul9kg=="
+      "ciphertext": "AmpZVpFFZxnx4PRgBTZabkvcEe7lChgZwrKFvd+TGd6i9ztg/AU3lFqE5553drwn6TEOy5n4gKeofYl187lwSWF8YZFAzQMIUniXbNPEj0FQ7dj/SpD7y5qmbgvZlN9IN1OC52K1zg/6H/OtA+dCnRsIpJjd9bnEG7bwblRVbttf67SrK6ps",
+      "iv": "lY9wG9VHEqaG6jts",
+      "salt": "7sTBFMsxGC9EJzhhItjWjw=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: light rain, high 13°C",
-          "b": "Low 9°C, gusts to 37 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 6°C, gusts to 36 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Mi6HilItV4WS+AKx3sL9WsuIYH7YwKy3Yh7NznD4+i+C2uyWR51Zyv1x5/t2lYyA2GqzlGBfgM4q6YodQVfCWIEOt/69acQvAysm36ljWB0VpMD4wjVbTh9l5l53LafR8X+1llR4CrKIwWLaZAMuZh87yA9+Lr0EUCLL",
-      "iv": "dzqH5znv/2LixjJZ",
-      "salt": "Bs3rWrUgiisza4mi8cj0ag=="
+      "ciphertext": "58UWcxv56ouUAB8SMF7FfdmjSWgX4Wfz2FuAq7D7wh0OUTOLe7OwumrhcjrSM0oEeU/AZ95buxQpM1HoXlcXFWXLbftNnVSGLqztLTllE1XioXW/hRfmqFJ2IyVN3CKEfBlQ8eLNDqzHH41/i5X2/EnnN1H1+11Sxngj",
+      "iv": "81JGcqDfrMH1yOVH",
+      "salt": "J4koqkFIe3RUzmXy26F0Lw=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "caR9eMZDT6LNNnZID+BB7gCD2HgCjQLPupH41OqP27CTgUvjifuxUGgRlrEIZ1vBnZ7OuNwLWFsWaagaGrCITjamet9o1Go7EjkaIqR6bDV5NHuYIZ8MHNwwYFJ96wyH186gq4pfHUz/MFFEWEuecWOGAiDCHM+JJFzg8XQEt1o6dKYUguA+CEFCmQ8DKORQmjSIZrgdfuZjgIh2qJZ7zSW5s0iM/KJhZFEM54YGrBXHu+nw2LH/u7/CHESNaiwL/9egOcBoPOTXeVRi1f+qu6fsX+UmInSLWVldsejyTkpgxi3eXhexSRi/LPceemUl99WTRJZU",
-      "iv": "qL0eRHaIp4IDdkl7",
-      "salt": "7ZuXHMHY1WWpCinH7QFa9Q=="
+      "ciphertext": "acKI0MGsyH2sLlGsSlDD0LNDF05oqNv/tre3fSdv3UxRC/kRxvLg6/ZZXgqrke8TjYncmF3qcLOLdQDSarInnzV6iBsqiH1SRQ5KSVMGBvxICUE6ZapMMwZCk2DtADyiGILgGZd3a1j9+I6jsCqslOb8oHCJK8Qy0iFgay764U6wrJqSe1iUg/erxmqPsygkJIq65Xutc1JjF2O+uyqXs+dOLBhSaGNNtJEH2nQOQL3dCxff+FYdJ4X1LkvjJdcnw3mSjiKS396fhSigndJj3mitqIuuSpMKbCDes+LL84sRT9fvenSTzj0SFe6WHpDD8i/Qy7f0",
+      "iv": "9ogT7tD0C8nrVN2E",
+      "salt": "tZ2Uiy6tmssgSgvN8pM1qw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "t6YJcS0Ts6Hwl7HDsad+WmPZ/VvSI6yCHDgL3Iq8RhsC1Qf8Y7gwmlVixAfSRGsguq3kepIt/97rK9DILJZDm7LsXNRpsQfYYgc2p4qUGlu+uzpEAGrvO4BkOX9PSfbkiURIPL3B4XjzVLuIeEoqRBg6s9vEKNCxqpbphLEhp6sySc0/tUJXm+BsPc4PE1gseWakMVtAJW2U3oy9",
-      "iv": "HObK3BxlWo5CH5rK",
-      "salt": "EcTxPAYLc0TA01MK7oo8sw=="
+      "ciphertext": "F9M2TsS6Y3U1XS39rJmbXEKUXDqyQ96MzEjo2ZlGFJSac1Q2UGRc/mmZi8HB2lXb1GX2mt/hXKBfBbmGwmn72DNpcVaoGvRVA2Pm2XYNL9BukDsU/65l7eHq23y8scui5/HFQFZ4BRStx8b8K+kkow4P4ECq3Lsyr9IYEOiDRKVUpjtbzld5sUCGTnA/Df8UQnwUpBB3+wpOdaAi",
+      "iv": "AdsXPSTUWecL/IYW",
+      "salt": "YkXIqfNuR7D9LGVr8rb06g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "ISTQB certification",
-          "b": "Hi everyone, I’m new to the field and planning to get my ISTQB certification before the end of October. Is it possible, and what resources would you recommend to help me pass the exam? I’d appreciate your advice!    submitted by    /u/Aggressive_Sir_2266   [link]   [comments]",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1x799d4/istqb_certification/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +115,12 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+          "b": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+          "src": "www.theregister.com - Articles",
+          "u": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
         }
       ],
       "feed_section": "work_industry"
@@ -163,10 +164,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head - BBC",
-          "b": "Werder Bremen vs Paderborn: German Bundesliga stats & head-to-head  BBC",
+          "t": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk - OneFootball",
+          "b": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk  OneFootball",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tS2JzMFVqdXdNY09MLXJPQU12SVFPNmliVFhmbkdvZUZBSHRVc1M0M0Y3UFRLbzJXNUFMamZoVkJ1OWNHaVltMmJxTHZxU1pjVWhURTNNZ3pqLURiQm5yQTUzZw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakI3VGVFUzNsNXVhT2E0MTlsQWZyN3FWem5mMlU0VTZ1cTJ2d3NleVBjX3NZNUpIMUNPLWxyTzhjNEhoaER6a2FvSXJTMVFkeVFVMjl1c0hSUDltVVlIU3UyM2gtV29lcjJWZzlhRlNGeDBWY1NodHZsWFVKWHpHSjh1dTVpbm5oUzNKajJCaXRyZjJOVWE0ZUpDMHdhemNnYzNkd1F5RnF5YkhpWENXQ2wtNng?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\" - Get German Football News",
+          "b": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\"  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbFd1M2Y1Q3o4V084U2NtQkRyYnlCTlZKWHdWeWhPSGc1M0lHeXVGalpYSnhKbXBSZkpMRlp4enZadWR5VzhwQ2M3dG9UbkJSYm9taEVuRjNCVzlyZXpCWjctSkJ1SnF2ZHViTUk2MXJqdnNwWngzMzltckVpTExvaEhRWUwtal9VTEFjbVJHMVZ5ZVhMY3FHeEN5WUFLeGhPRHpGNVdIU3FCd3I2UXBiTzNZVUVlR0tUUzFibFYxY1RoYTNKR3dKdDBYTndqUlgzSTJlM2FydFVxbnVGdUdVeHRESlFWSjI2RG1qZWZ2NGpfa3B3ZUE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -187,10 +196,10 @@
           "rel": "interest"
         },
         {
-          "t": "Match Awards from Germany’s 2-1 friendly win over Japan - Yahoo Sports",
-          "b": "Match Awards from Germany’s 2-1 friendly win over Japan  Yahoo Sports",
+          "t": "Europe's answer to Starlink: Who is building IRIS² and what is Germany's role - Euronews.com",
+          "b": "Europe's answer to Starlink: Who is building IRIS² and what is Germany's role  Euronews.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOTE0NkVwcFlkekh1dDljZVdVZUNobUJRZmM0RS1Oa21VMnpySkI5OVlhYUk2NWsxdjRweUNPX1VXY2tTRWh1LWh0b253M2RQdTBNUGt5N2lfRHFrOTlFSHZ1ay1qR1JVWE5XakVtaDdjWExHQUNqQkQxNWZsZw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVF4bWtRUVRoMGtYV1hKSmhLNm1rU1hWYWVRY2UtNU50ZW1WeEwyWG5qZFVnbmtEdFVrSXAzbldBTEJJXzVtNzAxUGZaMEg3Y2IwTExQdUNyMHJMa3FQZWUtVVNLUkMtcW9YSmpjNG0xWmgwYnBkeVFqelk4QUpRUW5iZTJRRWNRZTZFamVoRFU4eHpxazZQR05VbktyNWpYSHVMTzM5RkdkSzdsT0E?oc=5",
           "tag": "Bremen",
           "rel": "home"
         }
@@ -201,9 +210,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Australian Greens senator denies claims of misconduct towards women",
+          "b": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -212,23 +222,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Hose",
-          "b": "<span class=\"jt\" data-g=\"lang_diehose\">die Hose</span> — the pants <span class=\"gram\">(plural: -n)</span>",
+          "t": "der Humor",
+          "b": "<span class=\"jt\" data-g=\"lang_derhumor\">der Humor</span> — the humor",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "das Hotel",
-          "b": "<span class=\"jt\" data-g=\"lang_dashotel\">das Hotel</span> — the hotel <span class=\"gram\">(plural: -s)</span>",
+          "t": "der Hunger",
+          "b": "<span class=\"jt\" data-g=\"lang_derhunger\">der Hunger</span> — the hunger",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "hübsch",
-          "b": "<span class=\"jt\" data-g=\"lang_hübsch\">hübsch</span> — pretty",
+          "t": "hungrig",
+          "b": "<span class=\"jt\" data-g=\"lang_hungrig\">hungrig</span> — hungry",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Hügel",
-          "b": "<span class=\"jt\" data-g=\"lang_derhügel\">der Hügel</span> — the hill <span class=\"gram\">(plural: -)</span>",
+          "t": "hupen",
+          "b": "<span class=\"jt\" data-g=\"lang_hupen\">hupen</span> — honk <span class=\"gram\">(hupt · hupte · hat gehupt)</span>",
           "src": "Goethe B1 · p.51"
         }
       ]
