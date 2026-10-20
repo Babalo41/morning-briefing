@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "17° is the high point this week in Bremen",
+    "title": "14° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "10-19",
       "10-20",
       "10-21",
       "10-22",
       "10-23",
       "10-24",
-      "10-25"
+      "10-25",
+      "10-26"
     ],
     "yticks": [
       0,
@@ -27,19 +27,19 @@
         "pts": [
           [
             0,
-            12.0
+            10.9
           ],
           [
             1,
-            11.1
+            11.8
           ],
           [
             2,
-            14.2
+            11.3
           ],
           [
             3,
-            12.2
+            11.0
           ],
           [
             4,
@@ -47,11 +47,11 @@
           ],
           [
             5,
-            12.0
+            14.0
           ],
           [
             6,
-            17.3
+            12.8
           ]
         ]
       }
@@ -59,59 +59,59 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 75% this week in Bremen",
+    "title": "Rain chances peak at 80% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
-        "k": "10-19",
+        "k": "10-20",
         "v": 0,
         "lab": "0%",
-        "hero": false,
-        "tip": "12°C, Overcast"
-      },
-      {
-        "k": "10-20",
-        "v": 13,
-        "lab": "13%",
         "hero": false,
         "tip": "11°C, Overcast"
       },
       {
         "k": "10-21",
-        "v": 59,
-        "lab": "59%",
-        "hero": false,
-        "tip": "14°C, Light rain"
+        "v": 80,
+        "lab": "80%",
+        "hero": true,
+        "tip": "12°C, Light rain"
       },
       {
         "k": "10-22",
         "v": 25,
         "lab": "25%",
         "hero": false,
-        "tip": "12°C, Overcast"
+        "tip": "11°C, Rain showers"
       },
       {
         "k": "10-23",
-        "v": 51,
-        "lab": "51%",
+        "v": 75,
+        "lab": "75%",
         "hero": false,
-        "tip": "12°C, Light rain"
+        "tip": "11°C, Light rain"
       },
       {
         "k": "10-24",
-        "v": 44,
-        "lab": "44%",
+        "v": 32,
+        "lab": "32%",
         "hero": false,
         "tip": "12°C, Light rain"
       },
       {
         "k": "10-25",
-        "v": 75,
-        "lab": "75%",
-        "hero": true,
-        "tip": "17°C, Thunderstorm"
+        "v": 70,
+        "lab": "70%",
+        "hero": false,
+        "tip": "14°C, Light rain"
+      },
+      {
+        "k": "10-26",
+        "v": 45,
+        "lab": "45%",
+        "hero": false,
+        "tip": "13°C, Light rain"
       }
     ]
   },
@@ -137,7 +137,7 @@
       {
         "from": "tag_bremen",
         "to": "src_bremen_germany_google_news",
-        "v": 3
+        "v": 4
       }
     ]
   }

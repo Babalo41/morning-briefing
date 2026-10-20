@@ -1838,5 +1838,37 @@
     "lang": "de-DE",
     "d": "Honk",
     "w": "“Hier ist ein Krankenhaus. Hier darfst du nicht hupen.”"
+  },
+  "lang_husten": {
+    "t": "husten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Cough",
+    "w": "“Der Junge hat die ganze Nacht gehustet.”"
+  },
+  "lang_derhusten": {
+    "t": "der Husten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cough",
+    "w": "“Haben Sie ein Medikament gegen Husten?”"
+  },
+  "lang_derhut": {
+    "t": "der Hut",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hat",
+    "w": "“Sie sollten im Sommer nicht ohne Hut in die Sonne gehen.”"
+  },
+  "lang_diehütte": {
+    "t": "die Hütte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The hut",
+    "w": "“Wir übernachten in der Hütte auf dem Berg.”"
   }
 }

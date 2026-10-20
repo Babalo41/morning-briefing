@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-20",
-  "day": "Sun",
+  "id": "2026-10-20",
+  "day": "Tue",
   "dnum": "20",
-  "mon": "Sep",
-  "date": "Sunday 20 September 2026",
-  "headline": "Briefing refreshed 16:12 Berlin time",
-  "stand": "Automatically rebuilt at 16:12 — 12 sections tracked.",
+  "mon": "Oct",
+  "date": "Tuesday 20 October 2026",
+  "headline": "Briefing refreshed 18:23 Berlin time",
+  "stand": "Automatically rebuilt at 18:23 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "9dA4n3nUGFjOTFtzO8Erfk2vzHQHd+iFVtN3AhdizaWOz5MgsIjFQxqTs++kOIthrii05MfuqptFd4P5n1SkTyDzuJu/cAzWGWaiT2cXd7H/isyOjR/Wql+XX7j23MZWZ9fNzc4ychWN9qteaz/BhhxiUW4lAKYpH7pSy/n3+YUYV+dnN5wN",
-      "iv": "865RpFopwB2byMpz",
-      "salt": "SexYepqb2JDdYvQRQUUQ3w=="
+      "ciphertext": "27QpzP/iO8+aH6Wqb5as0rzAr23K0Rn5HXnmZQUR2C4rEXXzfFOPDTrhr0TSwxoWpjF40HmIJYFkMXzlIs+4iYAWXxJZf9VWUh1wnqNWNhCE0Ik4PCeB4Y2/TrTSmXQ/NTiIpkvsFz+uZB93GMs75VD6bUQdORKM3t3CvH4xOXnAxeOivbeU",
+      "iv": "xvvKFlFepx5eyyaP",
+      "salt": "GJIfZ/ISi+CcZq4CsDR8zQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "18°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: rain showers, high 19°C",
-          "b": "Low 13°C, gusts to 54 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 11°C",
+          "b": "Low 4°C, gusts to 37 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Nn1EUteevBFRFdLGr59byraZpZTjKNRxP2niO2wMKW32Rg/fJBli0pCmnS6aQCER5ouIjBaZG7mA8XZeFdh1Rlp27Ix/Rr1Hun3eyQmoJZ5+7ixqvRRgdQQ++AFBTI6JLYh5LSv6X9bhoS3bAfn8kXt8Z6gVQWQ+W57z",
-      "iv": "SdWiX0ly7BuyAxou",
-      "salt": "Xi057bPuXZX75SVv+2r6Xg=="
+      "ciphertext": "XIK/GkOFS69rUC0ox+6Jfwf1tpOC8MRIe6AO2z9TRRD3HWNCwXkK+Q/eb/cBBEeaaaY7IQhC00TMk37gx6lRkfSg/uc9OtBHQZ4wj9JlMYoCVcWbZSieDAeevioEwDMdJbNswNJZr2wmFoS4ViEJ4buna6Sv0EnI26F2",
+      "iv": "ZO7mckWvdnMUAxP2",
+      "salt": "eDtOKHuYLXE2FZLdaO6AdA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "gTjikdO7xJ1a/B/kCZEkfIw9DUmj3W2zI3+tNOWAd7bTpJ7MQr1Dgk9uqZuXYjcD4UgnDo4fNf+XRBCArM0KR8MIGPc+f/WM+TNmveF5dC1044Ean16uGfDtusWGMaj6Yvqow1PSLyyGo4Kgx+EkKaPfHqgzdPvCHIdfNR4qBLeFrZBOBEuaCiwOh05Zpd9MBrW4jnpztKWTB3ym9zGltCZfAEaVw7LQnuuPECE1AEGJdPfGvroZSRxnJ3zRnp5TkOmwmhP1ERe44WJcuwBI3gsOtOy+LWMcERU6rDjVKEe4+6ZiAUdlrbkxxwJ7R/f0gOHpM4n7",
-      "iv": "aill5EPtP9xsc0J4",
-      "salt": "ZIgHCOl+Bmm03E4CwoWsEQ=="
+      "ciphertext": "68y6mf12sJ2vbkreaVkywwqHmu2IIY+vhDPT9xpj/JGdo36VE2H6ERzwouyo78yWyb6SE6XYaYAw4cQeDiipalXU06+m4JNzvsMaJXk8u6Nphu52GjsBF26EsWCf7ZdergERoxQbZo5mEkMMKnGD7uNns4MlHMF29pgQzZtKaSTojq9aXh6slsDvrROblyQgCQYfbR6QNqE4pQdwDWIgxDk2axgZZm0Dn2gw9A6HvRRFJppNSU2VmgxA3PaPjwrmUdqa+LVdehqcJELIXaagGWq31phAGQaJ0T8Gg2Kz7EIndAOrTKCuUfFS7jcXf9suxUvkmA0g",
+      "iv": "Lg0KCiCi/s2hbep1",
+      "salt": "eMuY81MPSVqFW2vkqn3ZdA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "D7gMwmMbwzCwRzaYJRsiSEgbHBc8lHIuzUBKzq0UKQAXlebbh5nkdXaCDkQs33BJWFH4+80Au0FphZgJw+o3ReaXvEnZCCd5saWuF7L/QHTl5uTZN7T1jSLh0bsgatB35dx8q7Zw+xaVzHbpCbKp3/sd4CdGhhsUS246/KOK1uyN56ZjRyNKH6S/hI+Kgv5HpkdJN1B8nS5FHTXL",
-      "iv": "aknbtrrmUMmH3ZWw",
-      "salt": "7ubNxJ0uF31M1Ho9eiPzKQ=="
+      "ciphertext": "NDAm/D6s31az0VEABvuKDWKRwwCRXm6coTOwyDrG4mkuKSH5Z3Eq+MKygBzgIPNREdYdZ2rNdQit2fDUQ02I79QUExlt5SqdJXvI4PaQaRDdoezkhY2KLGZ6qzD6DKz2AWfzgU7OHf324vlyXqjHjsb7O3E017fQSHIdDWCul1nMjYAci0nIXbu+57pV0coRDVsG9JYzrZLEvgmH",
+      "iv": "GdGpV5761IncqvgZ",
+      "salt": "u93fE4mmbXQUoRGHe4GSHA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+          "b": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+          "src": "www.theregister.com - Articles",
+          "u": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
         }
       ],
       "feed_section": "work_industry"
@@ -163,34 +164,26 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "University of Bremen wins €4m climate-law research funding - The Baltic Review",
-          "b": "University of Bremen wins €4m climate-law research funding  The Baltic Review",
+          "t": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN - 스타뉴스",
+          "b": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN  스타뉴스",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHhHTkkybVVmSkxYLVBNNkZ0UHROdmpCN09JUEw3TXRERTA2M3FiMk1YRUpGak1TUDBySktfRmc3bGlwcTRaTjIyRWJacG03T3owQlZFdDZqMWVNVTZDT1diSzBOS1RZazAtaUl4M0x0ZEoxMWZDbzJpUGozUGl3OE1VWnJhdw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczJfLTVFNWdSM3Z3eElPbWxUYnUxV3FQNEsxSG03WE9ndGJQcmx3aUpZcmlTUG9wOGhHTWpPZXpmbXFKa05aNnpzYlowdTNlWjhMNUppMmZRb3ZLSm5RTWNDYmdOdGtueG1mTHhqVGdQZXNDTlMzdUlBN3p0aGQ3YmZvMA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\" - Get German Football News",
-          "b": "Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\"  Get German Football News",
+          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
+          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GYUhBdmt1aEx2VjdvSTBrT256Ujc5SVUyRldmSXR5bjNSTEVaQ0dPMFFmc0xRM1RyeHUwNTRyMmVSSDJSUTNZcW0zZnAybU1uRzROQnc1RnktUHJkTVdrTE5aU3pJZmZ0aXJFcnVkRExINnp2aHpwVTlPdjA?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmZLSF80ZDZwN0RiVXRRRmpIeUVDMUwyVjg4bFV5eTlVWjlYX3EzV2pYOGp3WlJlYS14R0swMHBrU1NISnN1eXdRYzc1R3RSYlNBeDBlZHJxQk1rQW92akxvcWppU0k2TDcyQ0FkaUxwek82eUhYMTlKQVZleVJYSU5yUjZ5am8yeGNJNE9TNDQzR1FrRXJJa0JJVkNYdmx1TFB4UXE4VzA1X0F4NUlUbExQRHh5WDBhc0JJ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board - Get German Football News",
-          "b": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board  Get German Football News",
+          "t": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk - OneFootball",
+          "b": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk  OneFootball",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5icWMxVHpJajQ0eUl4bU5xRGt3NlFmblYzRGVUajhLdEtERXpqMHZ2aUh0dWdnZml2TmxUazMwN1FCSE1ldHNpMWpoYTBwbmVIZVFIWC1XVEx5cWxuUW9na0JSakh5dHAzcHhmbDBWMnRBQ0llLXhMMw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "A5ENMU Bond Yield and Price Chart - TradingView",
-          "b": "A5ENMU Bond Yield and Price Chart  TradingView",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuazd5ajByYm9JSzd1UkNqZHJ6N3g2LTcwQ0M1YjJLeEM3bFZsZmxiNFZHMFp5Nmc2cmV6MjI5Z0pvNUpkU2tfMDA3UG1VeEtjcl9jZVZybmtvdEk?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakI3VGVFUzNsNXVhT2E0MTlsQWZyN3FWem5mMlU0VTZ1cTJ2d3NleVBjX3NZNUpIMUNPLWxyTzhjNEhoaER6a2FvSXJTMVFkeVFVMjl1c0hSUDltVVlIU3UyM2gtV29lcjJWZzlhRlNGeDBWY1NodHZsWFVKWHpHSjh1dTVpbm5oUzNKajJCaXRyZjJOVWE0ZUpDMHdhemNnYzNkd1F5RnF5YkhpWENXQ2wtNng?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -211,26 +204,12 @@
           "rel": "interest"
         },
         {
-          "t": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders - coe.int",
-          "b": "Exploring German best practices in rehabilitation and reintegration of women and vulnerable categories of violent extremist offenders  coe.int",
+          "t": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\" - Get German Football News",
+          "b": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\"  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVU5lWm1hNmRpVGlQOTF6NkNTUmNyTFZLa2tmZ3BHeG1FUGxNRHRTYVlhSFhjU3hHdlR5RHV2RmNSaGFncmpobGNyNFg3bVhfRHVqRUI1UWk5Z19UNTJpSWIxZ2Z2SlZ6YlU2RmI2SHViNzZhMTk0dGRIbjl2QnFmOEtublVPd2VhSXBkbEhWbEhXbzcxSDZMVnVoSlNudm5ZZmRrOXdXZm9OSGxVUnRuMldBNkpmbGZHQndiZ0F1T2ZWU3BmYkwzOVJFUERCREhfSE5jWDdja2NhbTZ3T25haGtNU3g1ejVnVFFIaWthVHRhTGU2dXprQXhxYzRWV3ZPNkZwUkpFbFpxck1xR2xZb1FMMlR0Uy04eHAwUWp0U2RYYW9KODcwZHBVTmhNcExZRU5zYUN3?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbFd1M2Y1Q3o4V084U2NtQkRyYnlCTlZKWHdWeWhPSGc1M0lHeXVGalpYSnhKbXBSZkpMRlp4enZadWR5VzhwQ2M3dG9UbkJSYm9taEVuRjNCVzlyZXpCWjctSkJ1SnF2ZHViTUk2MXJqdnNwWngzMzltckVpTExvaEhRWUwtal9VTEFjbVJHMVZ5ZVhMY3FHeEN5WUFLeGhPRHpGNVdIU3FCd3I2UXBiTzNZVUVlR0tUUzFibFYxY1RoYTNKR3dKdDBYTndqUlgzSTJlM2FydFVxbnVGdUdVeHRESlFWSjI2RG1qZWZ2NGpfa3B3ZUE?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Football Things Mitchell",
-          "b": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board  Get German Football News Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\"  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -250,24 +229,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "gründlich",
-          "b": "<span class=\"jt\" data-g=\"lang_gründlich\">gründlich</span> — thoroughly",
-          "src": "Goethe B1 · p.47"
+          "t": "husten",
+          "b": "<span class=\"jt\" data-g=\"lang_husten\">husten</span> — cough <span class=\"gram\">(hustet · hustete · hat gehustet)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "das Grundstück",
-          "b": "<span class=\"jt\" data-g=\"lang_dasgrundstück\">das Grundstück</span> — the property <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Husten",
+          "b": "<span class=\"jt\" data-g=\"lang_derhusten\">der Husten</span> — the cough",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Gruppe",
-          "b": "<span class=\"jt\" data-g=\"lang_diegruppe\">die Gruppe</span> — the group <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Hut",
+          "b": "<span class=\"jt\" data-g=\"lang_derhut\">der Hut</span> — the hat <span class=\"gram\">(plural: ¨-e)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "grüßen",
-          "b": "<span class=\"jt\" data-g=\"lang_grüßen\">grüßen</span> — greet <span class=\"gram\">(grüßt · grüßte · hat gegrüßt)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "die Hütte",
+          "b": "<span class=\"jt\" data-g=\"lang_diehütte\">die Hütte</span> — the hut <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }
