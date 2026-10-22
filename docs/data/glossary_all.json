@@ -1870,5 +1870,69 @@
     "lang": "de-DE",
     "d": "The hut",
     "w": "“Wir übernachten in der Hütte auf dem Berg.”"
+  },
+  "lang_ideal": {
+    "t": "ideal",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Ideal",
+    "w": "“Eine Wohnung mit Garten wäre für uns ideal.”"
+  },
+  "lang_dieidee": {
+    "t": "die Idee",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The idea",
+    "w": "“Du willst ein Picknick machen? Ich finde die Idee toll.”"
+  },
+  "lang_illegal": {
+    "t": "illegal",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Illegal",
+    "w": "“Ohne Steuerkarte zu arbeiten ist illegal. Wenn es herauskommt, musst du Strafe zahlen.”"
+  },
+  "lang_derimbiss": {
+    "t": "der Imbiss",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The snack",
+    "w": "“Es ist Zeit für einen kleinen Imbiss.”"
+  },
+  "lang_immer": {
+    "t": "immer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Always",
+    "w": "“Frau Bast kommt immer zu spät.”"
+  },
+  "lang_derimport": {
+    "t": "der Import",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The import",
+    "w": "“Im dritten Stock ist die Firma Schmidt & Co, Import und Export.”"
+  },
+  "lang_in": {
+    "t": "in",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "In",
+    "w": "“Ich wohne in Frankfurt.”"
+  },
+  "lang_indem": {
+    "t": "indem",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "By",
+    "w": "“Du kannst die Datei öffnen, indem du hier klickst.”"
   }
 }

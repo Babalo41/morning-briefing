@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-20",
-  "day": "Tue",
-  "dnum": "20",
+  "id": "2026-10-22",
+  "day": "Thu",
+  "dnum": "22",
   "mon": "Oct",
-  "date": "Tuesday 20 October 2026",
-  "headline": "Briefing refreshed 18:23 Berlin time",
-  "stand": "Automatically rebuilt at 18:23 — 12 sections tracked.",
+  "date": "Thursday 22 October 2026",
+  "headline": "Briefing refreshed 17:19 Berlin time",
+  "stand": "Automatically rebuilt at 17:19 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "27QpzP/iO8+aH6Wqb5as0rzAr23K0Rn5HXnmZQUR2C4rEXXzfFOPDTrhr0TSwxoWpjF40HmIJYFkMXzlIs+4iYAWXxJZf9VWUh1wnqNWNhCE0Ik4PCeB4Y2/TrTSmXQ/NTiIpkvsFz+uZB93GMs75VD6bUQdORKM3t3CvH4xOXnAxeOivbeU",
-      "iv": "xvvKFlFepx5eyyaP",
-      "salt": "GJIfZ/ISi+CcZq4CsDR8zQ=="
+      "ciphertext": "81qmaug6teNVO4HhjeroO00HI2IJxxkmFkBni+LUsdnNbbITpd0h5yfdAjGm7WMh6YQhGZahzhDKHcMfpaLHknzwwiMwRa6HKvkAsHcf+TOC/prsyH0jB1WvpCqLojLvi+BrR+bcEfgQlFIAg+GpYAIQUpASkpqajND7vQy+pV8fo00uuLXz",
+      "iv": "8UVc32SZ9Z8nEryM",
+      "salt": "XJLT5AWIcG/ldo91UvaFsA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "9°",
+          "n": "12°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 11°C",
-          "b": "Low 4°C, gusts to 37 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 7°C, gusts to 42 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "XIK/GkOFS69rUC0ox+6Jfwf1tpOC8MRIe6AO2z9TRRD3HWNCwXkK+Q/eb/cBBEeaaaY7IQhC00TMk37gx6lRkfSg/uc9OtBHQZ4wj9JlMYoCVcWbZSieDAeevioEwDMdJbNswNJZr2wmFoS4ViEJ4buna6Sv0EnI26F2",
-      "iv": "ZO7mckWvdnMUAxP2",
-      "salt": "eDtOKHuYLXE2FZLdaO6AdA=="
+      "ciphertext": "oEZGKlFxogRd87CfoiOMXker4s1qOgvD6hXZRWjx1nHFfOS6YUAP9+BY+1VP847LYI6/nTFRdWBc7RaRcXNFMSfAjc0Ew/wGCqNEfVEEJN4jTrklUqLE7LwoOBo5KH82wSHkelANLFu9PzMRo6IedqrVyS3tH2pwROur",
+      "iv": "9KJnhHqZw/MGNUtV",
+      "salt": "PgT789cybveRia113zgMiw=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "68y6mf12sJ2vbkreaVkywwqHmu2IIY+vhDPT9xpj/JGdo36VE2H6ERzwouyo78yWyb6SE6XYaYAw4cQeDiipalXU06+m4JNzvsMaJXk8u6Nphu52GjsBF26EsWCf7ZdergERoxQbZo5mEkMMKnGD7uNns4MlHMF29pgQzZtKaSTojq9aXh6slsDvrROblyQgCQYfbR6QNqE4pQdwDWIgxDk2axgZZm0Dn2gw9A6HvRRFJppNSU2VmgxA3PaPjwrmUdqa+LVdehqcJELIXaagGWq31phAGQaJ0T8Gg2Kz7EIndAOrTKCuUfFS7jcXf9suxUvkmA0g",
-      "iv": "Lg0KCiCi/s2hbep1",
-      "salt": "eMuY81MPSVqFW2vkqn3ZdA=="
+      "ciphertext": "Y0yXGjSFah3jOs4eh9mDyorowYJRH2jhN3kv6iBi0DtYlMfVRH39dsPcUC/Ar5ZMkmJITnY+SWRoPwR93OfTPOg8DC0S1cj9ukat9DaBbP3BD9WAyKI/HaFoJyuKAKvj33Hf3YmsmngsU1kcf9PmyA7Dje7PBfhzKEU1ShD3Qqc7bImcawjBgxk+BhZng3vBzQZ9xTlvfq83zn8+6LbqR4SwppEFvjZRsEOnahjoeIAoDum717fFkT+EX73cjqu+W9jRLn+ehVCb+lQmfoECAGmvHjiAkGlcH/HNzEKZf0Aoe39Ik5HHMRrW26nZshdbH8GK/ZUM",
+      "iv": "SLaCw6Vjafq+iMgy",
+      "salt": "vsKV9hHZe9+hoiwYbYSGOw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "NDAm/D6s31az0VEABvuKDWKRwwCRXm6coTOwyDrG4mkuKSH5Z3Eq+MKygBzgIPNREdYdZ2rNdQit2fDUQ02I79QUExlt5SqdJXvI4PaQaRDdoezkhY2KLGZ6qzD6DKz2AWfzgU7OHf324vlyXqjHjsb7O3E017fQSHIdDWCul1nMjYAci0nIXbu+57pV0coRDVsG9JYzrZLEvgmH",
-      "iv": "GdGpV5761IncqvgZ",
-      "salt": "u93fE4mmbXQUoRGHe4GSHA=="
+      "ciphertext": "XbsfFw55sm++/+Ps8+8zKi9qz3ioIdhm15rivUcvm0IG7o+tOxDajuHO4VKbFA57xD/Chh2auFn49isQDb9zt97dQGK1cuoCLczwzBdg8m3UHL+aK4lS/rp4X2C5SSF5zuvG9KpEqGRvsrYbjNhUey4uh/scaPY8XFW28sIZU6nOuMwvUPKO5tpmUZvf4huvXZFYYFR2YCra96Vp",
+      "iv": "GaItSEZR+Uotjeaa",
+      "salt": "xbOGNeqkic4xv1XcvzqAuA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,10 +129,9 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
-          "b": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
-          "src": "www.theregister.com - Articles",
-          "u": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "work_industry"
@@ -164,26 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN - 스타뉴스",
-          "b": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN  스타뉴스",
+          "t": "Dortmund - Werder Bremen - Flashscore.com",
+          "b": "Dortmund - Werder Bremen  Flashscore.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczJfLTVFNWdSM3Z3eElPbWxUYnUxV3FQNEsxSG03WE9ndGJQcmx3aUpZcmlTUG9wOGhHTWpPZXpmbXFKa05aNnpzYlowdTNlWjhMNUppMmZRb3ZLSm5RTWNDYmdOdGtueG1mTHhqVGdQZXNDTlMzdUlBN3p0aGQ3YmZvMA?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWRBQXo1YUc2WXdodkYwNzdyYkZMVUpWZmxtVmFVajJ1RHRPZmctV2NydFczS2hjN1dBZVQzdzNRRWowbFV5bXBFZHRyVVl1X0JqOEdKMkZseW9PNDlWVnhyOVl0U2x3RHd1R0R3alphUThvdXRabHFEa2UxWm5ubHh5VTcya3ZhYVBF?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
-          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
+          "t": "‘He really made an effort’ – Borussia Dortmund’s Niko Kovač lauds Carney Chukwuemeka - Get German Football News",
+          "b": "‘He really made an effort’ – Borussia Dortmund’s Niko Kovač lauds Carney Chukwuemeka  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmZLSF80ZDZwN0RiVXRRRmpIeUVDMUwyVjg4bFV5eTlVWjlYX3EzV2pYOGp3WlJlYS14R0swMHBrU1NISnN1eXdRYzc1R3RSYlNBeDBlZHJxQk1rQW92akxvcWppU0k2TDcyQ0FkaUxwek82eUhYMTlKQVZleVJYSU5yUjZ5am8yeGNJNE9TNDQzR1FrRXJJa0JJVkNYdmx1TFB4UXE4VzA1X0F4NUlUbExQRHh5WDBhc0JJ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk - OneFootball",
-          "b": "Niclas Füllkrug hits brace for Bremen, pushes back on Germany return talk  OneFootball",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakI3VGVFUzNsNXVhT2E0MTlsQWZyN3FWem5mMlU0VTZ1cTJ2d3NleVBjX3NZNUpIMUNPLWxyTzhjNEhoaER6a2FvSXJTMVFkeVFVMjl1c0hSUDltVVlIU3UyM2gtV29lcjJWZzlhRlNGeDBWY1NodHZsWFVKWHpHSjh1dTVpbm5oUzNKajJCaXRyZjJOVWE0ZUpDMHdhemNnYzNkd1F5RnF5YkhpWENXQ2wtNng?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0w1cU1UT0c1M1ZXN0k5Z3FHdExDM0x4QS03RGgzTmtpS3dxSWJNLXdIbG15alRkT3VTUW1Cc1R3ZkZsTXZqaGFOT0ZNQjdhRkdoRjhNWUJtdVBRRFNxUXNMejFJaDVWa1ZmdGY2UVgyTXNxMXRPQ1RaVXFFWTlnWi1sc0IzTlFuT1V2YkwwUDgtd1hjOUNKVGtQX3R2Qm8?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -204,10 +195,10 @@
           "rel": "interest"
         },
         {
-          "t": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\" - Get German Football News",
-          "b": "Surging Niclas Füllkrug loses patience with Germany recall questions: \"It would be cool if the media began respecting me.\"  Get German Football News",
+          "t": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN - 스타뉴스",
+          "b": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN  스타뉴스",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbFd1M2Y1Q3o4V084U2NtQkRyYnlCTlZKWHdWeWhPSGc1M0lHeXVGalpYSnhKbXBSZkpMRlp4enZadWR5VzhwQ2M3dG9UbkJSYm9taEVuRjNCVzlyZXpCWjctSkJ1SnF2ZHViTUk2MXJqdnNwWngzMzltckVpTExvaEhRWUwtal9VTEFjbVJHMVZ5ZVhMY3FHeEN5WUFLeGhPRHpGNVdIU3FCd3I2UXBiTzNZVUVlR0tUUzFibFYxY1RoYTNKR3dKdDBYTndqUlgzSTJlM2FydFVxbnVGdUdVeHRESlFWSjI2RG1qZWZ2NGpfa3B3ZUE?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczJfLTVFNWdSM3Z3eElPbWxUYnUxV3FQNEsxSG03WE9ndGJQcmx3aUpZcmlTUG9wOGhHTWpPZXpmbXFKa05aNnpzYlowdTNlWjhMNUppMmZRb3ZLSm5RTWNDYmdOdGtueG1mTHhqVGdQZXNDTlMzdUlBN3p0aGQ3YmZvMA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         }
@@ -229,23 +220,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "husten",
-          "b": "<span class=\"jt\" data-g=\"lang_husten\">husten</span> — cough <span class=\"gram\">(hustet · hustete · hat gehustet)</span>",
+          "t": "immer",
+          "b": "<span class=\"jt\" data-g=\"lang_immer\">immer</span> — always",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Husten",
-          "b": "<span class=\"jt\" data-g=\"lang_derhusten\">der Husten</span> — the cough",
+          "t": "der Import",
+          "b": "<span class=\"jt\" data-g=\"lang_derimport\">der Import</span> — the import <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Hut",
-          "b": "<span class=\"jt\" data-g=\"lang_derhut\">der Hut</span> — the hat <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "in",
+          "b": "<span class=\"jt\" data-g=\"lang_in\">in</span> — in",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Hütte",
-          "b": "<span class=\"jt\" data-g=\"lang_diehütte\">die Hütte</span> — the hut <span class=\"gram\">(plural: -n)</span>",
+          "t": "indem",
+          "b": "<span class=\"jt\" data-g=\"lang_indem\">indem</span> — by",
           "src": "Goethe B1 · p.51"
         }
       ]

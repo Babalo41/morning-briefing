@@ -1,19 +1,19 @@
 {
-  "id": "2026-09-22",
-  "day": "Tue",
-  "dnum": "22",
-  "mon": "Sep",
-  "date": "Tuesday 22 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-21",
+  "day": "Wed",
+  "dnum": "21",
+  "mon": "Oct",
+  "date": "Wednesday 21 October 2026",
+  "headline": "Briefing refreshed 17:47 Berlin time",
+  "stand": "Automatically rebuilt at 17:47 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "g1XaBsk4Rv907owVZt6ick8YfS+tg7jZkTmgRz8Zl3DHNBHqoN6Ilz/B/ZOM39MZ3RHhRCtlpFnmMYI7J4zSNZORlQ2ot3CO6dV/Od19MFyw6pKDd0b/iD9jKNKAjXZs3nNzAHT/TUaRRs+aWmAHXY3XKG7VZ0lXAAAOt/Io9ZBVZQQ/+J8O",
-      "iv": "4CcMpnJeACmOw+z8",
-      "salt": "2TaUOxJCj2IhQPjIQ7FiaA=="
+      "ciphertext": "HT24D0BwZXFGsgjH3IzyH6raLSg2LlwYssOeixI5ZLEpp5OUBNLKX4l/D3tW3aZeOLfoyC8h4PSsPYt+rnv57E8Y7EYQ3HguuAUDmBetKxldYOwJ9QVN8VDZFI6T8cqlQkzCLV4iKbNQOhmc2HHxDhAs70hRh8QUf48A0DnF6rvleiUaeN7F",
+      "iv": "ZP3LEpH56qwFOquN",
+      "salt": "rNxP8L7qBAK/NjTmGUQvMw=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 17°C",
-          "b": "Low 12°C, gusts to 21 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 6°C, gusts to 28 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "u4h0G6SvrLurn4etfxBWjGHeJZbUobmOPaNm2qw3Gkq23ucz6XF6mxHNzb9xWhsHv/nOQmITMYGmL9ayUL37T3Jsm3Tp4FNYFbgZVj40zsoncWtbKrN/tBgjzYRzF+e2s1tkQoQxs3eMtj/eO6gK0XN9HWZCxCbfGs9v",
-      "iv": "NWE+lRXhUwsbULG1",
-      "salt": "RvKFdvgwd1PTHyOYY+rREA=="
+      "ciphertext": "jq9Ss267isl04JRkbFqfTJnp4SpOwNhAjLXkmuYZy4mT1GLVVTp2a/+gIGkXPToayJx3dj/7Wsvm+VW9aF7g7EfaAV6Bh0YsSpDo5qn+z42j99NoVx6sOQ4UeVO1iamsuVUX+kgB+OBGDaHvEoUfUV8xbGdooT1+I8is",
+      "iv": "yYR/809/eDYXLn85",
+      "salt": "JaCR2yFchUKve5f1HhzagQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "bgDOnlyygHbFgeoSq1G/Z2tgzodjJ+jqDj2isfXJuTMTxlh0H66rBqPW+w+4wsHXm/pVc3Q63/WbwBpwkuzgM0kETS4WOrMxzEZhke1RX9t1JDI8VcFh6kV9fzIQydVnuCW3sHrZZW70ExbpDMdmihpKN/CCHvb6Jtbi/g1NxA4L/ZvgflIixYwLHv7dKowyNZP6eLSuZfAW0H2tlIiopROE/XEGpuz6fhq8aDpdGLXgYtSv/PFZm1IrQ67EprL0WsawDRScDFdLyoO9P3YT8E+ciRCT4cenWLWzyEQOyNFMawrmfrD52CUDZE2xPfbwBPpZ6Svq",
-      "iv": "MPKHUVnH5Jx4YpqA",
-      "salt": "WsBM7cvbdvC3M42LhBa3Wg=="
+      "ciphertext": "gzANQ68pWuHW4pWAzWXgIJ6jgu2xJH2Z6RerWxuVcCiTqHE1hbnGd42RtnaMTrWNjUgZmzWqd8OYbRtnIyNakIYwLdAjYOf0+BJbLcSv5+zoKo9f6BXnarF4/0qw5cWRPIv/t6BFbtbhraPVfO6B3lcm0qq7xR67/C2qhXdQQfrnf/QAr2U2qRgduMqDlVn7/aRCDmDpA3UvFuTSesO/QYY7eK03CF/uRE9V0fv3QPl/gYRxv31Z2xDqhc0WtaFivzpcQ9YNkpG8GcYfXDRfU8ekmHKmgy1a74zDyOe2M0JYsqBtVStDjlGocDkn0K3x4HR8va6g",
+      "iv": "3LwahQilbLOrpSar",
+      "salt": "vzqfbHeTcPhuawo9yg9ibQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "XUcgwP3C7mBr87Vom0Nsm+Jr+qF5opjNCLMcKX+hny5XepgOnqTGy4d9ZhzacoWFFLxQ8QGkkQA0/IKG9SmlOiSMVY56jCRmsVp+ut1FXczF7WdUw2+Zxliv4WDGve1g9bt6ldY8NRv5gRWz08zYhBoIY1QxsFLdhwKEjM+kUQ2D2YDttvvaJPUhgvXbyBqGvHmKR7ea3tyITI0q",
-      "iv": "UwFX8tIW86nandhC",
-      "salt": "KDgsE6pBPuAtcfnxPMLX+w=="
+      "ciphertext": "5S5yjMuDyILn+M2DbS91zoLECU5iljfa3IyBsfe9zSdB0ZYyIP+Gv+MpqtIkG1aP1rY8ZYES9iyoMyrBOkF/dhQ4ugfQRkdqZIm8JkPFCUzSb14WeZ4sX+hCKvM0fcDldLHOWd3gob098rg9A29GOTKqxv/p95WtYCDYDrjN4Jc+l4fjGw+eJNHMnNSotHpXMWNA5MEyXoIppb3T",
+      "iv": "CehsXqjSKWry8WYu",
+      "salt": "9+2H550ivjYD82xroUhjTQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "ISTQB in 2026… is it still relevant or a thing of the past?",
-          "b": "Hi everyone. I work in QA and I'm wondering if it makes sense these days to get ISTQB certified (starting with the Foundation Level) or if I should aim for something else. My reasoning is this: given how fast things move (automation, AI, new tools popping up constantly), maybe the most solid approac",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wm8mys/istqb_in_2026_is_it_still_relevant_or_a_thing_of/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +115,12 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+          "b": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+          "src": "www.theregister.com - Articles",
+          "u": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
         }
       ],
       "feed_section": "work_industry"
@@ -163,6 +164,14 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN - 스타뉴스",
+          "b": "\"Made in Bremen, Germany\"… The truth behind the baseless speculation about the Mercedes-Benz GLC \"Jangtsu,\" revealed through its VIN  스타뉴스",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczJfLTVFNWdSM3Z3eElPbWxUYnUxV3FQNEsxSG03WE9ndGJQcmx3aUpZcmlTUG9wOGhHTWpPZXpmbXFKa05aNnpzYlowdTNlWjhMNUppMmZRb3ZLSm5RTWNDYmdOdGtueG1mTHhqVGdQZXNDTlMzdUlBN3p0aGQ3YmZvMA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -179,34 +188,12 @@
           "rel": "interest"
         },
         {
-          "t": "Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\" - Get German Football News",
-          "b": "Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\"  Get German Football News",
+          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
+          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GYUhBdmt1aEx2VjdvSTBrT256Ujc5SVUyRldmSXR5bjNSTEVaQ0dPMFFmc0xRM1RyeHUwNTRyMmVSSDJSUTNZcW0zZnAybU1uRzROQnc1RnktUHJkTVdrTE5aU3pJZmZ0aXJFcnVkRExINnp2aHpwVTlPdjA?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmZLSF80ZDZwN0RiVXRRRmpIeUVDMUwyVjg4bFV5eTlVWjlYX3EzV2pYOGp3WlJlYS14R0swMHBrU1NISnN1eXdRYzc1R3RSYlNBeDBlZHJxQk1rQW92akxvcWppU0k2TDcyQ0FkaUxwek82eUhYMTlKQVZleVJYSU5yUjZ5am8yeGNJNE9TNDQzR1FrRXJJa0JJVkNYdmx1TFB4UXE4VzA1X0F4NUlUbExQRHh5WDBhc0JJ?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board - Get German Football News",
-          "b": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5icWMxVHpJajQ0eUl4bU5xRGt3NlFmblYzRGVUajhLdEtERXpqMHZ2aUh0dWdnZml2TmxUazMwN1FCSE1ldHNpMWpoYTBwbmVIZVFIWC1XVEx5cWxuUW9na0JSakh5dHAzcHhmbDBWMnRBQ0llLXhMMw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Werder Bremen - Augsburg 3-2 - Flashscore.com",
-          "b": "Werder Bremen - Augsburg 3-2  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTlBSU54WFdPYnY2djFUMlpNSEdfX1RpZVBJOVNBYkdvTFJPZTA3UlQ2bTBwajhFOXdaQ2JNZkNZU2hRbFFyeHFic25CR2NZWkpTcEs4bjFpeWJKZG9Jd0tzcUJSLTlfb2VBWlF1cHkteWV6dTNwWHBiUzkyYUpCbFBwZVA5TGp4WUM0?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 Football Things Mitchell",
-          "b": "Three things we learnt from Bundesliga Matchday 4 - Things get worse for Gladbach, Mitchell Weiser's comeback story, and Hamburg are on the board  Get German Football News Werder Bremen celebrate Mitchell Weiser's magic moment: \"Welcome to the Weserstadion, football romantics!\"  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -226,24 +213,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "gut",
-          "b": "<span class=\"jt\" data-g=\"lang_gut\">gut</span> — good",
-          "src": "Goethe B1 · p.47"
+          "t": "ideal",
+          "b": "<span class=\"jt\" data-g=\"lang_ideal\">ideal</span> — ideal",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Gymnastik",
-          "b": "<span class=\"jt\" data-g=\"lang_diegymnastik\">die Gymnastik</span> — the gymnastics",
-          "src": "Goethe B1 · p.47"
+          "t": "die Idee",
+          "b": "<span class=\"jt\" data-g=\"lang_dieidee\">die Idee</span> — the idea <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "das Haar",
-          "b": "<span class=\"jt\" data-g=\"lang_dashaar\">das Haar</span> — the hair <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "illegal",
+          "b": "<span class=\"jt\" data-g=\"lang_illegal\">illegal</span> — illegal",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "haben",
-          "b": "<span class=\"jt\" data-g=\"lang_haben\">haben</span> — have <span class=\"gram\">(hat · hatte · hat gehabt)</span>",
-          "src": "Goethe B1 · p.47"
+          "t": "der Imbiss",
+          "b": "<span class=\"jt\" data-g=\"lang_derimbiss\">der Imbiss</span> — the snack <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }
