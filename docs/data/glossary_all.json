@@ -1934,5 +1934,37 @@
     "lang": "de-DE",
     "d": "By",
     "w": "“Du kannst die Datei öffnen, indem du hier klickst.”"
+  },
+  "lang_individuell": {
+    "t": "individuell",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Individually",
+    "w": "“Die Lehrerin versucht, jedes Kind individuell zu fördern.”"
+  },
+  "lang_dieindustrie": {
+    "t": "die Industrie",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The industry",
+    "w": "“In dieser Gegend gibt es viel Industrie.”"
+  },
+  "lang_dieinfektion": {
+    "t": "die Infektion",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The infection",
+    "w": "“Sie haben eine Infektion. Sie müssen Tabletten nehmen.”"
+  },
+  "lang_informieren": {
+    "t": "informieren",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Inform",
+    "w": "“Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.”"
   }
 }
