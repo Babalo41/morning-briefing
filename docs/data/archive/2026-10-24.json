@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-24",
-  "day": "Thu",
+  "id": "2026-10-24",
+  "day": "Sat",
   "dnum": "24",
-  "mon": "Sep",
-  "date": "Thursday 24 September 2026",
-  "headline": "Briefing refreshed 06:03 Berlin time",
-  "stand": "Automatically rebuilt at 06:03 — 12 sections tracked.",
+  "mon": "Oct",
+  "date": "Saturday 24 October 2026",
+  "headline": "Briefing refreshed 12:40 Berlin time",
+  "stand": "Automatically rebuilt at 12:40 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "WPxAgEvtYaoqNlAKsNkFNGqyq7xiiDRRxwy6Ee1msC+kNOS9CqRk77y3OVcAdPn36eBCtE9f97Y2Fnq+YBw74tC6EhYUNkWhlKXvSt8cdBhYFLuhiDXmmizeII/+3Rd4s1VHwAYJKUxb9jRMdFD6dAsZKknoRgZG/seTsT/04RDrKkPZBsCE",
-      "iv": "DedJu5u34CaDOqEX",
-      "salt": "DeqEmS06365r/rHZkt63uA=="
+      "ciphertext": "ln0k1g75fSXBlxDuRp0GITwdGTrfbHu9tGfLvT1gFlu4rmfuZ9r0+kGDluStGqnWNJAyL4YTmx9MbW4lwM1pDANFSB+JReKEmT2LDNj1fA06VrCshaQg74cAfs58vQaBTLH8e4XySGRfzDU0xLL0YYriw/vVEWwYy79B/9qRxU0kmZl4kKDq",
+      "iv": "F7/B/7kLgBCKfudE",
+      "salt": "l2POOe16zjM5Ettpt1w7/Q=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "12°",
+          "n": "11°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 17°C",
-          "b": "Low 12°C, gusts to 50 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 9°C, gusts to 63 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "pXscXj1IrdCkmBk9JSH18Bpgh+yUwnyAHROqbIneHDsnmm5DWeHGg9KzOxZMyaSKRlgctrJDeyV7GOd4htDBVH2Kj160uJqQ8JQyAYA1ibtboDm8JXPufU5mYH0MMJdIs72GrGc/BmjjN2Wf8+xIVIzlMhibe3pDejYJ",
-      "iv": "jU//zBV7VsR/fa/Y",
-      "salt": "mg34Kyb4dPcYv+IFNcyGMw=="
+      "ciphertext": "XJn1FUq2iNgnJTye/7SdG26iD9EudxnfTiYF/S/8xNBmBplku+H7G0/3PZw7CEbCriKNRhY/ZW2C98z8d8WEVca9Yi4h2AJJbCEy59dCRtJHxNNAlJ62q5F+pkQKS1nRTCprmGYUOZlkV9SLC/ml4jy/7RpK8jmGKGFy",
+      "iv": "Fo8ht01LYV9oH4hC",
+      "salt": "YDLoe03GZ0azmfTqaTrxNg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "7bvfuJfbNCJKfQKFv192rhrVciSk10EsGGWRZJ/AQzTWA7/e/lkkQ++hBdXbP6EJh6bmV3SMG6P4XYfh58QMR3+uPRAEuFu+d35pQ764NecfN30yAhCl6ysBeqp5A1/jcTzbPjWa+c1TD538Dr8z43xTbO8ahoaoeDU4EeYDouwHzyR37Db8WYdNjJ0cT/CkwKxiO3GTmOyD48GgL6IakYNPj1RDAsgifxc47kxaQMUeje8p40dlmRYWy963S0u6B3SaJE3PAemeZUqjAOP4o7790C2Q5MlcFhe/+aH0YEjSPyEvjzbshEMrzxGajyrq0AkVuDtT",
-      "iv": "vLUuB7KFFaWg9dnq",
-      "salt": "UWQn9CJxtIlHS4h/0fL94Q=="
+      "ciphertext": "1TUUoasIuLHYUoOY4MdCywVvP1t7rcncOPsZsRRErloud5UizQ8EigV8b7EQPW0Gq5plvF9xHdA+gdPH3F52nQoixARACynNXpCIk0dANHT47mX4ncTyIEVB2/By7q9bbWClnXBZ8seL4LPWCAS1lUh8eUhoAfQ1FBog/RhJ3ZaDwblqijbBm/O/xsX5BAdiDa4Lqx+g8wJ88Ev/xOP0r5TgyqauW9txKv9NaRn8VFr0DJgTUOxhcJk+7nYPsWyhew4bvxj6Quw33Ut4cvMg8BBTzel+TXTsJV5sE4IYJ1fciLD2jnshGzwZUWXSoGeY7rRr53bz",
+      "iv": "7W+UicR6/1H1NKK8",
+      "salt": "W7nNX8RT8m6mZtQly6HJZQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "7h3HU0Jdxlv/98ACO5RS9pDXFiH8WtFzGPY9XGoyCfq+z4WnLAwoeVl7sWg5TTatXISvQ9400K0896K7aGXqDi9zS66Sxk9zDgAumM3/FLgf3dsi5KgZm3w7WY3x55giJsLmGKFqh7hjwttKY7fG7k9Wu8vTsHg/dhMEVRS7QPKCoVHfnAWVQZJ8iUQkTtODXVQePBYozcmwr9tu",
-      "iv": "nkF7gsEwojQuq8hl",
-      "salt": "JVzpfDICcTuHq/5VoaxShQ=="
+      "ciphertext": "e5iJjGUDzVdI8+mypX0LKhQl+ygTXAellvVlqEovw0LpXzCZnOS0C53a7nWbW0AiG1pO62AOk9+agByyuBpBNJOjvD5yfGTNa9Xo+sTo0bvhGMu3fNa175H0U9U2dc01V9+XAs2293KJ4jP3mkEnx/jkKecSyN0WEARhfgdQs9fAyRZIP8UpA4LavpmpXuaVkPETdWmpWQ8tAsOF",
+      "iv": "Z432RUa7vf9aOrRz",
+      "salt": "7f8mBxkUN6I5dOhWZtVzjA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,18 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "The AfD’s Rise Isn’t Just About East Germany - The Nation",
-          "b": "The AfD’s Rise Isn’t Just About East Germany  The Nation",
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RlR4c1haRGJZRlZJb2dGTWdDeF8wXzAzLW9ac2Ywd2R3Njh5LWpqRGtIeG5tN09heWM0cmZzZzYwbG5BMlM1NFFBTTVUaHFObWdmcldpOURuNUZwazdqQzVYNNIBhAFBVV95cUxQTVo0bUt5S3lyMEdJaUhfUXpSWmpDQ29nbFVnQnAwVDF1VGdoZ09jYVE5UEQzN0tRNXBpSjV5bjJtT0tySWZWNGhfR1VXVHZlcXFqejM0WXZDRHpoMDlsZUZyc3JxYjQ4THAtcUxpai1jb3RaclNKZzVoRzRYQUlNeGd2UlU?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Bayern Munich - Werder Bremen - Flashscore.com",
-          "b": "Bayern Munich - Werder Bremen  Flashscore.com",
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWNoMXcxTGo0OXpYTV91dllnRl9XSjdHZHo0eUx5LXIwdDB5M1JMNGlXS2dDbWR2REFhbWZKSDJhckc5bjRjcWxscVFOZXlZR1dlY3RNZHNHb1RYQVdyM1oxbjVsX3NHb05JNE5yYmxZa0wzLVA2YksyMXA0Q2RReHJxVHJzNnVXY0hYTWp4MEZXZw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -212,24 +212,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "Poulet",
-          "b": "<span class=\"jt\" data-g=\"lang_poulet\">Poulet</span> — Chicken <span class=\"gram\">(plural: -s)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "die Information",
+          "b": "<span class=\"jt\" data-g=\"lang_dieinformation\">die Information</span> — the information <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "halb",
-          "b": "<span class=\"jt\" data-g=\"lang_halb\">halb</span> — half",
-          "src": "Goethe B1 · p.48"
+          "t": "der Ingenieur",
+          "b": "<span class=\"jt\" data-g=\"lang_deringenieur\">der Ingenieur</span> — the engineer <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Halbpension",
-          "b": "<span class=\"jt\" data-g=\"lang_diehalbpension\">die Halbpension</span> — the half board",
-          "src": "Goethe B1 · p.48"
+          "t": "der Inhalt",
+          "b": "<span class=\"jt\" data-g=\"lang_derinhalt\">der Inhalt</span> — the content <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.51"
         },
         {
-          "t": "halbtags",
-          "b": "<span class=\"jt\" data-g=\"lang_halbtags\">halbtags</span> — half day",
-          "src": "Goethe B1 · p.48"
+          "t": "inklusive",
+          "b": "<span class=\"jt\" data-g=\"lang_inklusive\">inklusive</span> — inclusive",
+          "src": "Goethe B1 · p.51"
         }
       ]
     }

@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "18° is the high point this week in Bremen",
+    "title": "17° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "10-23",
       "10-24",
       "10-25",
       "10-26",
       "10-27",
       "10-28",
-      "10-29"
+      "10-29",
+      "10-30"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            11.8
+            11.7
           ],
           [
             1,
-            11.8
+            13.3
           ],
           [
             2,
-            13.6
+            12.6
           ],
           [
             3,
-            13.0
+            16.9
           ],
           [
             4,
-            18.1
+            13.4
           ],
           [
             5,
-            14.1
+            15.0
           ],
           [
             6,
-            14.5
+            13.3
           ]
         ]
       }
@@ -65,16 +65,9 @@
     "catW": 76,
     "rows": [
       {
-        "k": "10-23",
-        "v": 100,
-        "lab": "100%",
-        "hero": true,
-        "tip": "12°C, Light rain"
-      },
-      {
         "k": "10-24",
-        "v": 88,
-        "lab": "88%",
+        "v": 78,
+        "lab": "78%",
         "hero": false,
         "tip": "12°C, Rain showers"
       },
@@ -83,35 +76,42 @@
         "v": 100,
         "lab": "100%",
         "hero": true,
-        "tip": "14°C, Rain showers"
+        "tip": "13°C, Rain showers"
       },
       {
         "k": "10-26",
-        "v": 39,
-        "lab": "39%",
+        "v": 68,
+        "lab": "68%",
         "hero": false,
         "tip": "13°C, Light rain"
       },
       {
         "k": "10-27",
-        "v": 58,
-        "lab": "58%",
+        "v": 71,
+        "lab": "71%",
         "hero": false,
-        "tip": "18°C, Light rain"
+        "tip": "17°C, Light rain"
       },
       {
         "k": "10-28",
-        "v": 30,
-        "lab": "30%",
+        "v": 25,
+        "lab": "25%",
         "hero": false,
-        "tip": "14°C, Overcast"
+        "tip": "13°C, Light rain"
       },
       {
         "k": "10-29",
-        "v": 3,
-        "lab": "3%",
+        "v": 9,
+        "lab": "9%",
         "hero": false,
-        "tip": "14°C, Fog"
+        "tip": "15°C, Overcast"
+      },
+      {
+        "k": "10-30",
+        "v": 0,
+        "lab": "0%",
+        "hero": false,
+        "tip": "13°C, Fog"
       }
     ]
   },
@@ -137,7 +137,7 @@
       {
         "from": "tag_bremen",
         "to": "src_bremen_germany_google_news",
-        "v": 3
+        "v": 2
       }
     ]
   }

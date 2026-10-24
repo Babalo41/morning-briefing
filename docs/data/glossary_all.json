@@ -1966,5 +1966,37 @@
     "lang": "de-DE",
     "d": "Inform",
     "w": "“Wir informieren Sie rechtzeitig über die neuen Prüfungstermine.”"
+  },
+  "lang_dieinformation": {
+    "t": "die Information",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The information",
+    "w": "“Bitte lesen Sie diese Informationen genau.”"
+  },
+  "lang_deringenieur": {
+    "t": "der Ingenieur",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The engineer",
+    "w": "“Hans will Bauingenieur werden.”"
+  },
+  "lang_derinhalt": {
+    "t": "der Inhalt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The content",
+    "w": "“Geben Sie den Inhalt der Packung in einen Liter kochendes Wasser.”"
+  },
+  "lang_inklusive": {
+    "t": "inklusive",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Inclusive",
+    "w": "“Der Zimmerpreis ist inklusive Frühstück.”"
   }
 }

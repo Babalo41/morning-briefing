@@ -1,19 +1,19 @@
 {
-  "id": "2026-10-23",
-  "day": "Fri",
-  "dnum": "23",
+  "id": "2026-10-24",
+  "day": "Sat",
+  "dnum": "24",
   "mon": "Oct",
-  "date": "Friday 23 October 2026",
-  "headline": "Briefing refreshed 18:17 Berlin time",
-  "stand": "Automatically rebuilt at 18:17 — 12 sections tracked.",
+  "date": "Saturday 24 October 2026",
+  "headline": "Briefing refreshed 12:40 Berlin time",
+  "stand": "Automatically rebuilt at 12:40 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "UrqCngMOPRbC0fU543EmK5rVHxB7KskHmXOUfDlV9UaAvftK/RsTu+gu2+dJN9xpP3Wjv0t6Z6YopoY4bzMANsLjqcnO5hdZ7skD0zSqiSfdHHwYQ7FLeapZ2tibNkOzeldE66SOmsSWSV4bJuBytSUeYTnHmOmHjDbjp63Dn7u2IyMKJT7I",
-      "iv": "1JuNBHqHFIlgnJEr",
-      "salt": "CKcH+aW3+V3nm408hmEGLA=="
+      "ciphertext": "ln0k1g75fSXBlxDuRp0GITwdGTrfbHu9tGfLvT1gFlu4rmfuZ9r0+kGDluStGqnWNJAyL4YTmx9MbW4lwM1pDANFSB+JReKEmT2LDNj1fA06VrCshaQg74cAfs58vQaBTLH8e4XySGRfzDU0xLL0YYriw/vVEWwYy79B/9qRxU0kmZl4kKDq",
+      "iv": "F7/B/7kLgBCKfudE",
+      "salt": "l2POOe16zjM5Ettpt1w7/Q=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: light rain, high 12°C",
-          "b": "Low 7°C, gusts to 53 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 9°C, gusts to 63 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "OSO7oHHJRfCPj3BcrZeMBh9qkADTQ+W8QU5dtRq5BSjl6ghb9f6qRtASrI9l1Eo2vFeCHk80A+QE/BWqi9HbhtLxIk5i3HalZBxoXC8cnK2jXiRm9RxKvnydbHmNziCycp1hXE4cLmTZHzd9O7Xd+wbEdl//IuMNySQP",
-      "iv": "gJdPxD7nOdSqanuc",
-      "salt": "3UxJfVskzUFC/v247FEqxw=="
+      "ciphertext": "XJn1FUq2iNgnJTye/7SdG26iD9EudxnfTiYF/S/8xNBmBplku+H7G0/3PZw7CEbCriKNRhY/ZW2C98z8d8WEVca9Yi4h2AJJbCEy59dCRtJHxNNAlJ62q5F+pkQKS1nRTCprmGYUOZlkV9SLC/ml4jy/7RpK8jmGKGFy",
+      "iv": "Fo8ht01LYV9oH4hC",
+      "salt": "YDLoe03GZ0azmfTqaTrxNg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "p40VNqnX+T7oAEDpeiY4yGFQNcNB9OKSTm7xkeLyT4+qS2qyvzaNkYFwGBVH/rRDPXSZVvJSgD65VU1kZOeehCG9YnLEEqwwEZgg69xI9TzcrTK9XiQ13bEg/1iGT4Oon3Jdxl1a/Mm2Sy5/bPy49qJFcCgNpVVSdhtlrEv3AcfGqNJttzY1J5F6KHU+jyFe2kU3fbAZ+n2RDfMVnZDAZP5b4yP1O6BxyI4IMOWGDWk9BcqK+BjEcqj0fhEWog+Y6mBlTgzRmYqFLa2z+PLUfdt7jWVCVixBhPNdv+79fYWGrne3t+yMRi2dJXYuD5OQ+0S9v0/r",
-      "iv": "Y6U8k7X3EZFibEq4",
-      "salt": "aJOSvGX9HcBXKsmZLx8KjQ=="
+      "ciphertext": "1TUUoasIuLHYUoOY4MdCywVvP1t7rcncOPsZsRRErloud5UizQ8EigV8b7EQPW0Gq5plvF9xHdA+gdPH3F52nQoixARACynNXpCIk0dANHT47mX4ncTyIEVB2/By7q9bbWClnXBZ8seL4LPWCAS1lUh8eUhoAfQ1FBog/RhJ3ZaDwblqijbBm/O/xsX5BAdiDa4Lqx+g8wJ88Ev/xOP0r5TgyqauW9txKv9NaRn8VFr0DJgTUOxhcJk+7nYPsWyhew4bvxj6Quw33Ut4cvMg8BBTzel+TXTsJV5sE4IYJ1fciLD2jnshGzwZUWXSoGeY7rRr53bz",
+      "iv": "7W+UicR6/1H1NKK8",
+      "salt": "W7nNX8RT8m6mZtQly6HJZQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ft0O/n8a84Lzq8xVoZk9i/0IBhzH0KcWmcCNkJfgUhNF+6inZ0bDPp4X8pbSRk9DiRtjQJ9bBX6H48Rc47LCNJsnEiUoBd+LLGG0s7xgRrIixPKr4Wv/YeMdjonbSjSz9hdUbJMZlOYU2PZrnCSYBi7cGsPww/iCeJWUZWnyFq281IL2wBRE3cV2btuuLICXd7rujS4/XrW6eOlK",
-      "iv": "WF9xYz6BKL3EKNp8",
-      "salt": "iR8TCBWCMq+Z3xlqfPoZTg=="
+      "ciphertext": "e5iJjGUDzVdI8+mypX0LKhQl+ygTXAellvVlqEovw0LpXzCZnOS0C53a7nWbW0AiG1pO62AOk9+agByyuBpBNJOjvD5yfGTNa9Xo+sTo0bvhGMu3fNa175H0U9U2dc01V9+XAs2293KJ4jP3mkEnx/jkKecSyN0WEARhfgdQs9fAyRZIP8UpA4LavpmpXuaVkPETdWmpWQ8tAsOF",
+      "iv": "Z432RUa7vf9aOrRz",
+      "salt": "7f8mBxkUN6I5dOhWZtVzjA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -193,14 +193,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "‘He really made an effort’ – Borussia Dortmund’s Niko Kovač lauds Carney Chukwuemeka - Get German Football News",
-          "b": "‘He really made an effort’ – Borussia Dortmund’s Niko Kovač lauds Carney Chukwuemeka  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0w1cU1UT0c1M1ZXN0k5Z3FHdExDM0x4QS03RGgzTmtpS3dxSWJNLXdIbG15alRkT3VTUW1Cc1R3ZkZsTXZqaGFOT0ZNQjdhRkdoRjhNWUJtdVBRRFNxUXNMejFJaDVWa1ZmdGY2UVgyTXNxMXRPQ1RaVXFFWTlnWi1sc0IzTlFuT1V2YkwwUDgtd1hjOUNKVGtQX3R2Qm8?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -220,23 +212,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "individuell",
-          "b": "<span class=\"jt\" data-g=\"lang_individuell\">individuell</span> — individually",
+          "t": "die Information",
+          "b": "<span class=\"jt\" data-g=\"lang_dieinformation\">die Information</span> — the information <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Industrie",
-          "b": "<span class=\"jt\" data-g=\"lang_dieindustrie\">die Industrie</span> — the industry <span class=\"gram\">(plural: -n)</span>",
+          "t": "der Ingenieur",
+          "b": "<span class=\"jt\" data-g=\"lang_deringenieur\">der Ingenieur</span> — the engineer <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "die Infektion",
-          "b": "<span class=\"jt\" data-g=\"lang_dieinfektion\">die Infektion</span> — the infection <span class=\"gram\">(plural: -en)</span>",
+          "t": "der Inhalt",
+          "b": "<span class=\"jt\" data-g=\"lang_derinhalt\">der Inhalt</span> — the content <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "informieren",
-          "b": "<span class=\"jt\" data-g=\"lang_informieren\">informieren</span> — inform <span class=\"gram\">(informiert · informierte · hat informiert)</span>",
+          "t": "inklusive",
+          "b": "<span class=\"jt\" data-g=\"lang_inklusive\">inklusive</span> — inclusive",
           "src": "Goethe B1 · p.51"
         }
       ]
