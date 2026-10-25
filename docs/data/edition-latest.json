@@ -1,19 +1,19 @@
 {
-  "id": "2026-10-24",
-  "day": "Sat",
-  "dnum": "24",
+  "id": "2026-10-25",
+  "day": "Sun",
+  "dnum": "25",
   "mon": "Oct",
-  "date": "Saturday 24 October 2026",
-  "headline": "Briefing refreshed 12:40 Berlin time",
-  "stand": "Automatically rebuilt at 12:40 — 12 sections tracked.",
+  "date": "Sunday 25 October 2026",
+  "headline": "Briefing refreshed 07:44 Berlin time",
+  "stand": "Automatically rebuilt at 07:44 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "ln0k1g75fSXBlxDuRp0GITwdGTrfbHu9tGfLvT1gFlu4rmfuZ9r0+kGDluStGqnWNJAyL4YTmx9MbW4lwM1pDANFSB+JReKEmT2LDNj1fA06VrCshaQg74cAfs58vQaBTLH8e4XySGRfzDU0xLL0YYriw/vVEWwYy79B/9qRxU0kmZl4kKDq",
-      "iv": "F7/B/7kLgBCKfudE",
-      "salt": "l2POOe16zjM5Ettpt1w7/Q=="
+      "ciphertext": "AVAqCXc9BejssX5gQkO8O5RGjYXwHa198sqkFlMGrT3FX/czSZA2JKH9mr+Lrd27LwqS9HPkWLnq1mkaWz1FEmhex+j+JWhu8CqSx/93s6hrL4AgmNCzcmXPR3/yiP5z31Q6HPvkkQtakjspj5kmCVDOYsKyYnkCXcs0EyJ1OT2iqAYpZdDG",
+      "iv": "z1Wsn9FfUKPb26Nm",
+      "salt": "b4o+ksmkkB8xOINiM//xcg=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 12°C",
-          "b": "Low 9°C, gusts to 63 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 13°C",
+          "b": "Low 9°C, gusts to 66 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,32 +39,38 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "XJn1FUq2iNgnJTye/7SdG26iD9EudxnfTiYF/S/8xNBmBplku+H7G0/3PZw7CEbCriKNRhY/ZW2C98z8d8WEVca9Yi4h2AJJbCEy59dCRtJHxNNAlJ62q5F+pkQKS1nRTCprmGYUOZlkV9SLC/ml4jy/7RpK8jmGKGFy",
-      "iv": "Fo8ht01LYV9oH4hC",
-      "salt": "YDLoe03GZ0azmfTqaTrxNg=="
+      "ciphertext": "Ez+Wv+SXEnTW86Lu93HEwSEf/SMDkJO2OGjmySJjMFzUdJP5m4XznVHEcHZguLEl0rxq92FvYtANc2j3ntKrHMLiUNvM8A3fYreKK8nEkouYKVth7PVeHQP/dXSo877cqvlkl4EWcsUNCjAGJXoRAPMryPWfAArxdu+k",
+      "iv": "Q12jaqXM/W9ImNv+",
+      "salt": "dmvCPnC08lTQ5Vy7YI4Wqw=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "1TUUoasIuLHYUoOY4MdCywVvP1t7rcncOPsZsRRErloud5UizQ8EigV8b7EQPW0Gq5plvF9xHdA+gdPH3F52nQoixARACynNXpCIk0dANHT47mX4ncTyIEVB2/By7q9bbWClnXBZ8seL4LPWCAS1lUh8eUhoAfQ1FBog/RhJ3ZaDwblqijbBm/O/xsX5BAdiDa4Lqx+g8wJ88Ev/xOP0r5TgyqauW9txKv9NaRn8VFr0DJgTUOxhcJk+7nYPsWyhew4bvxj6Quw33Ut4cvMg8BBTzel+TXTsJV5sE4IYJ1fciLD2jnshGzwZUWXSoGeY7rRr53bz",
-      "iv": "7W+UicR6/1H1NKK8",
-      "salt": "W7nNX8RT8m6mZtQly6HJZQ=="
+      "ciphertext": "za1xc81WjKT6ZnsQNqJBqcB9K+8dBgd8b+tqdZCv9+avzhn/pwvlTpYbLpQw0sWIOANQtxMbJ1pcbLZT4PWjViDRINRnB0AdIun71fEF/a/0QRaKLU/+SRA9dHwbUsMwtslygnT6hKCFpqLdOeMAUV+xUiB5MpSqd2Fu4sr9jmamP52O/dyQ8zu+QgKlkYNrlnIWMsRKhtarRWIq0kFMtJxTXTrOzkBN9ehIh2ytL/VVdH1QyLSyQcwGrExQCYKj7sNKJoZPw3vfwf7psqcB7Shj2GHccyMoYZ8GcRssBGNyMRYbOZd0g34ysrORlh15q1ZwIVBk",
+      "iv": "SVJ5+uJkqjq1GmTi",
+      "salt": "yl0eQOKH4EswNr0+AafSeQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "e5iJjGUDzVdI8+mypX0LKhQl+ygTXAellvVlqEovw0LpXzCZnOS0C53a7nWbW0AiG1pO62AOk9+agByyuBpBNJOjvD5yfGTNa9Xo+sTo0bvhGMu3fNa175H0U9U2dc01V9+XAs2293KJ4jP3mkEnx/jkKecSyN0WEARhfgdQs9fAyRZIP8UpA4LavpmpXuaVkPETdWmpWQ8tAsOF",
-      "iv": "Z432RUa7vf9aOrRz",
-      "salt": "7f8mBxkUN6I5dOhWZtVzjA=="
+      "ciphertext": "Xeh2VSy3+3d164P9E5zFWAIUuuSyTiN+IMsqSi4zXndIVeM/5TDA0vllVhAuXOtzSIuvkgZDosmW7yeUO7HK4mz+4nIGeIjZj6Qx5uPMHQydSIwHEVz/NTH3evczESD1DTeRn8VTt8bWiuF5EJ6cEAi6nkGCdUNTyTCMswUvjJ5WJIRbvtTeTvB/wElUig2QuVvCjo7fXJGaqphj",
+      "iv": "cuaXPxMOqrGsP7Fr",
+      "salt": "qBJyeV5qmyJ+9eFgzMTNkA=="
     },
     {
       "h": "ISTQB & Software Testing",
       "items": [
         {
+          "t": "📌 Istqb Testing Ct-Ai",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectations around quality, reliability, and trust continue to rise.",
+          "src": "insight",
+          "u": null
+        },
+        {
           "t": "📌 Istqb® Certified Tester",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
           "src": "insight",
           "u": null
         },
@@ -73,6 +79,12 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
+        },
+        {
+          "t": "ISTQB CT-AI vs ISTQB Gen AI- which is better? I am not testing any AI product. I mostly do manual testing. Thanks",
+          "b": "  submitted by    /u/Confident-Focus4   [link]   [comments]",
+          "src": "Quality Assurance : articles and news about software testing",
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1xek727/istqb_ctai_vs_istqb_gen_ai_which_is_better_i_am/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -109,18 +121,6 @@
           "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-        },
-        {
-          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-        },
-        {
-          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,18 +163,26 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
           "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
           "src": "\"Bremen, Germany\" - Google News",
           "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala - Get German Football News",
+          "b": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWmtRU19SY0xRZ0o2bEZmM1p1Nm0zdmk3MVU5bkd3ellNS19iSkc1V2ZGeTlRa3l5NWVZM01nd0FyT1VkTmlIX3pfOWFJa3lUT2tTM1dSRFo1LUVYdlJ0cjZTN0Zyck9NbnQ2bmZBUUpWQzZoSHdkcGZKTQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -212,24 +220,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Information",
-          "b": "<span class=\"jt\" data-g=\"lang_dieinformation\">die Information</span> — the information <span class=\"gram\">(plural: -en)</span>",
+          "t": "innen",
+          "b": "<span class=\"jt\" data-g=\"lang_innen\">innen</span> — inside",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Ingenieur",
-          "b": "<span class=\"jt\" data-g=\"lang_deringenieur\">der Ingenieur</span> — the engineer <span class=\"gram\">(plural: -e)</span>",
+          "t": "innerhalb",
+          "b": "<span class=\"jt\" data-g=\"lang_innerhalb\">innerhalb</span> — within",
           "src": "Goethe B1 · p.51"
         },
         {
-          "t": "der Inhalt",
-          "b": "<span class=\"jt\" data-g=\"lang_derinhalt\">der Inhalt</span> — the content <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.51"
+          "t": "die Insel",
+          "b": "<span class=\"jt\" data-g=\"lang_dieinsel\">die Insel</span> — the island <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "inklusive",
-          "b": "<span class=\"jt\" data-g=\"lang_inklusive\">inklusive</span> — inclusive",
-          "src": "Goethe B1 · p.51"
+          "t": "das Inserat",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinserat\">das Inserat</span> — the advertisement <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.52"
         }
       ]
     }

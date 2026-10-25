@@ -5,13 +5,13 @@
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "10-24",
       "10-25",
       "10-26",
       "10-27",
       "10-28",
       "10-29",
-      "10-30"
+      "10-30",
+      "10-31"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            11.7
+            12.8
           ],
           [
             1,
-            13.3
+            12.4
           ],
           [
             2,
-            12.6
+            16.8
           ],
           [
             3,
-            16.9
-          ],
-          [
-            4,
             13.4
           ],
           [
+            4,
+            14.2
+          ],
+          [
             5,
-            15.0
+            12.5
           ],
           [
             6,
-            13.3
+            11.3
           ]
         ]
       }
@@ -65,13 +65,6 @@
     "catW": 76,
     "rows": [
       {
-        "k": "10-24",
-        "v": 78,
-        "lab": "78%",
-        "hero": false,
-        "tip": "12°C, Rain showers"
-      },
-      {
         "k": "10-25",
         "v": 100,
         "lab": "100%",
@@ -83,35 +76,42 @@
         "v": 68,
         "lab": "68%",
         "hero": false,
-        "tip": "13°C, Light rain"
+        "tip": "12°C, Rain showers"
       },
       {
         "k": "10-27",
-        "v": 71,
-        "lab": "71%",
+        "v": 38,
+        "lab": "38%",
         "hero": false,
         "tip": "17°C, Light rain"
       },
       {
         "k": "10-28",
-        "v": 25,
-        "lab": "25%",
+        "v": 30,
+        "lab": "30%",
         "hero": false,
         "tip": "13°C, Light rain"
       },
       {
         "k": "10-29",
-        "v": 9,
-        "lab": "9%",
+        "v": 15,
+        "lab": "15%",
         "hero": false,
-        "tip": "15°C, Overcast"
+        "tip": "14°C, Fog"
       },
       {
         "k": "10-30",
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "13°C, Fog"
+        "tip": "12°C, Fog"
+      },
+      {
+        "k": "10-31",
+        "v": 3,
+        "lab": "3%",
+        "hero": false,
+        "tip": "11°C, Partly cloudy"
       }
     ]
   },
@@ -137,7 +137,7 @@
       {
         "from": "tag_bremen",
         "to": "src_bremen_germany_google_news",
-        "v": 2
+        "v": 3
       }
     ]
   }

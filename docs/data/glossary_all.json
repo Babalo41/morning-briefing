@@ -1998,5 +1998,37 @@
     "lang": "de-DE",
     "d": "Inclusive",
     "w": "“Der Zimmerpreis ist inklusive Frühstück.”"
+  },
+  "lang_innen": {
+    "t": "innen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Inside",
+    "w": "“Der Lichtschalter ist innen links.”"
+  },
+  "lang_innerhalb": {
+    "t": "innerhalb",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Within",
+    "w": "“Diese Fahrkarte gilt nur innerhalb der Stadt.”"
+  },
+  "lang_dieinsel": {
+    "t": "die Insel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The island",
+    "w": "“Ich würde dieses Mal gern auf einer Insel Ferien machen.”"
+  },
+  "lang_dasinserat": {
+    "t": "das Inserat",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The advertisement",
+    "w": "“Was kostet ein Inserat in der Zeitung?”"
   }
 }
