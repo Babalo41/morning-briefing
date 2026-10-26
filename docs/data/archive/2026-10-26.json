@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-26",
-  "day": "Sat",
+  "id": "2026-10-26",
+  "day": "Mon",
   "dnum": "26",
-  "mon": "Sep",
-  "date": "Saturday 26 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "mon": "Oct",
+  "date": "Monday 26 October 2026",
+  "headline": "Briefing refreshed 06:47 Berlin time",
+  "stand": "Automatically rebuilt at 06:47 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "8+Ic0qZ8ga3s6L4NRxe0UpczH3iddLKgxF5YOMcR0lvUfkS5Fq6SIK30z/NOkrXGus/sQcfiQ5b2bCipgPOUThQRDEBOYe9mo8YCNoiJ2C4Ng4uYrHau4/uC2vZ4r28166RF8kwiFoGQSu8NMZAaNuaW6gxdb/EbZs26PESUwcWmlpLfVzxv",
-      "iv": "Y9C3xKEhOk90MbxU",
-      "salt": "mrHu4Npub2DXw3iy1tpFgA=="
+      "ciphertext": "obon7/nnclSBKy7wH5gcszVMbhh+qtGz4hLVhZEb/F7hZHICUEeMwx2aQ1eWvoleX2ndL7FaRa8ZJiTgUe+UFWsAP7mJ0szJRR3HgKEkLKZZtslrU7At005Oh2sVlE3e0l5DiY4zWJEiXr+UZQgPqdtVCkNJvPjOYyQ4pSc6I8y6VDCQtUBJ",
+      "iv": "3kbd7/InPay+I0vy",
+      "salt": "irAxVE+XwI670o4Bws+xXw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "10°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 20°C",
-          "b": "Low 10°C, gusts to 27 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 13°C",
+          "b": "Low 8°C, gusts to 50 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,32 +39,38 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "HiQDKqPpeaiR4+uDigYmmYrKWN2QT4flj1jBpT1G1HNNdB1D7x1Wa/MLs+C2XtsmuUjNuYcK7OYl6fmdPQnWuBqHweHfgeEIFYU+V8I25tUCLHcDYqkGzY5q9z+mocVxowE8rw4m2+D6YCpQfPOa85PISeD5sI2KfYR3",
-      "iv": "cuGxy+SurqC3OA+p",
-      "salt": "WhE8sDZODoYHtH2WUIfH0A=="
+      "ciphertext": "4v3Q8g6hJwG0nqnRkMxca5MyN9e8rccDm1DUegkB0fX8A1NGmmqa0pxQCUMrzLwaPbAepAFX2VnGQO4ivQrWu7VJFgdCCxPEme9OY68PFBvjh+sNAgTuKrwTFdjOyLdZ8tXEolg+nQVZSiuL6SBjBb7MXGvIn7X2VlbZ",
+      "iv": "4XOvtsW2H6x+Ip+5",
+      "salt": "BxBewtrZSswoBPfb8r+aEA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "DTKkk11OXJ9+3A1rw2Qt9U3IonHGmK6LHZhB7Yq8nUvvIdNtA7LIYHnWufoNz8wqMAATF4h6LgUb/EPxy364p6tKVazOdquKc+YrmfK+jlzjnuSH0j44HoxMzJnRj2gn6/N0ABLu9pRe3HiyifSE3XlCWZHY7ylUwuHFnnehFv2hVlb1sEOXNWKgiFtm6AvMK2QiIsGZy+q0Ac9RM+B2dOtuOfmD4vZW4vmde4tGawysSpbKj3syB7SK5np9ypGFmIMDJMADcfSfDyLeMAw7LqmKorrLb7fkaYO2AdTP2gkEGhIVHADgQ0Lpn8Kr8Doj4Lj60ya/",
-      "iv": "wooYuSmeKoo/hfYP",
-      "salt": "YXdV//20ZpbgeMdi+GTg3w=="
+      "ciphertext": "IlFxCHQHMlN/GVgvEVddwUvMq7bPX7XwQvoM7A9ieYSW86V43ctIDDEa4jULnljb889vvceEVpVOBMt8mQMH0QKkfEkydcCaPNCfC4LXiaodvZnY6gcXkqVnIxZMx8pOzl5ZRhHSQ0/qzAeUbnEo65TiPq7apkxtXjsxTlwIP9AxnAJsEKs3t9DsamaYBmJpchvgkrs8OumzmN12DxkUgjMy1FMghO5gPzXWZk1sbwWfDs7m1LNuEntsej95ZUiuOG32Po6FJwqPxly2mA61O5DeIsMMDg2G3u8/y3uc9v3RxiU5HM35R/0ZXmdfPhFbGuS9BlQe",
+      "iv": "MaAvtLmmFkrWHFEj",
+      "salt": "o5JbR2tsNFWVf1vQFOPKEA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "HeXuuB0ZVvc4Bn94AtsC5fdfJ+RWqI5fY0ch5BVDWGtA5mrMjHrQOBzqIbkcC5d3g336VuOk51E56AZbzlyF3gW/f4pFAlpWO4/m65uoi/cPGgM+6oxbx3SJ2pLIbqTjg4cJg6jOSvbsFR80cHSFV2V7VQg59DJ/ppXz5LGzdakfobzxvx7iRQ4+T4pcOQ3mk3S1EBVqwbbqdJso",
-      "iv": "+ZtGChCKUaS5xj8t",
-      "salt": "4erBGtZrfLnoH5yDSRCCfQ=="
+      "ciphertext": "DFlpFA8n2++A0DD7nw1buCC1MavhLR9zCyknT0t1P2SahqrUWQSNsV4jZadSUoI4a+kEHUaEMbs5MbDC+ECQlvSHJX/l3sKm9NwoL8nqP/kR4eqOevjk2+Y9tbXJfV0bwb+pC6Pha5gn3BHwsKNmIkoApp5eYOxkHXoE3Ona6sb15O4Qi85xFiEU/Tiz7dn8KY8ZNV4jb37ew3Pf",
+      "iv": "+Q8FzcTpOFijy8nX",
+      "salt": "wJIm9EijIjJ78b8mPHCZKg=="
     },
     {
       "h": "ISTQB & Software Testing",
       "items": [
         {
+          "t": "📌 Istqb Testing Ct-Ai",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectations around quality, reliability, and trust continue to rise.",
+          "src": "insight",
+          "u": null
+        },
+        {
           "t": "📌 Istqb® Certified Tester",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
           "src": "insight",
           "u": null
         },
@@ -75,10 +81,10 @@
           "u": null
         },
         {
-          "t": "Ive been working in QA for more than 10 years and I'm just now finding out about ISTQB",
-          "b": "Are you kidding me? Lol. Uhh.. why am I just NOW seeing this acronym, then seeing some job applications, in the year of our lord 2026, asking if you have the certification.. no fucking way. Lol. You cant convince any company that this shit is completely useless and nothing beats real enterprise expe",
+          "t": "ISTQB CT-AI vs ISTQB Gen AI- which is better? I am not testing any AI product. I mostly do manual testing. Thanks",
+          "b": "  submitted by    /u/Confident-Focus4   [link]   [comments]",
           "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1womtt0/ive_been_working_in_qa_for_more_than_10_years_and/"
+          "u": "https://www.reddit.com/r/QualityAssurance/comments/1xek727/istqb_ctai_vs_istqb_gen_ai_which_is_better_i_am/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -115,12 +121,6 @@
           "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-        },
-        {
-          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
-          "src": "International Software Testing Qualifications Board",
-          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,10 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Bremen and Gaza – Longstanding Solidarity - Pressenza - International Press Agency",
-          "b": "Bremen and Gaza – Longstanding Solidarity  Pressenza - International Press Agency",
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkWERoQXFHQkxnMlA3cU0yMUwtb2M3R3Z4QzZ4d0h2QnpLZU03VUo2bXJLcE9Lb1lEaVc5ZlVWSGVadkJMNmlMOTNyZjdKZFlVX2pYY0h1R3Jzbjhrd0VjWVpQOWh5MTlRNE5UMkFuWEh5c3gyMFgwNnNQMnJDcWc?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala - Get German Football News",
+          "b": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWmtRU19SY0xRZ0o2bEZmM1p1Nm0zdmk3MVU5bkd3ellNS19iSkc1V2ZGeTlRa3l5NWVZM01nd0FyT1VkTmlIX3pfOWFJa3lUT2tTM1dSRFo1LUVYdlJ0cjZTN0Zyck9NbnQ2bmZBUUpWQzZoSHdkcGZKTQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -187,18 +195,10 @@
           "rel": "interest"
         },
         {
-          "t": "English soccer great Harry Kane eyes double-duty in MLS, NFL - Sportsnet.ca",
-          "b": "English soccer great Harry Kane eyes double-duty in MLS, NFL  Sportsnet.ca",
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmpkaDBPOVkwRGsyWHU2VGJGcVc2SlQ0bmRvUTg2cWlJVGFTT0d1b3gwUnBlc25kQ1Z1NGg5UmI2T3EyRk1HcDRudmM5RFoyVEdQenFUdjlBQzhNdVBKVi1SNDFfa3BsM3JIcndRbWNScmVpV1Z5OXd5NHNzSGp5eUw1MmNRcnpDdi01NE1jNWJWVE1mVzlwdldMMGUxWjJYNmc?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "The AfD’s Rise Isn’t Just About East Germany - The Nation",
-          "b": "The AfD’s Rise Isn’t Just About East Germany  The Nation",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wOV9ta2RIeDJMWjJ0MVk2R3FLNmhRN2p6R0ZfWGlLOWdkTUppdG1jMWRLRmpyQ2g1OVdwV0dyUXVVc2dLcXRQOTBCXy12OFJwdjhYOGlfbWRNTHlmNTA3U1I3SkNLek5ZN0lfTHpKY0VtUnA2aWZqaE44SFfSAYQBQVVfeXFMUE1aNG1LeUt5cjBHSWlIX1F6UlpqQ0NvZ2xVZ0JwMFQxdVRnaGdPY2FROVBEMzdLUTVwaUo1eW4ybU9LcklmVjRoX0dVV1R2ZXFxanozNFl2Q0R6aDA5bGVGcnNycWI0OExwLXFMaWotY290WnJTSmc1aEc0WEFJTXhndlJV?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
           "tag": "Bremen",
           "rel": "home"
         }
@@ -220,24 +220,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Hals",
-          "b": "<span class=\"jt\" data-g=\"lang_derhals\">der Hals</span> — the neck <span class=\"gram\">(plural: ¨-e)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "insgesamt",
+          "b": "<span class=\"jt\" data-g=\"lang_insgesamt\">insgesamt</span> — overall",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "halt",
-          "b": "<span class=\"jt\" data-g=\"lang_halt\">halt</span> — stop",
-          "src": "Goethe B1 · p.48"
+          "t": "installieren",
+          "b": "<span class=\"jt\" data-g=\"lang_installieren\">installieren</span> — install <span class=\"gram\">(installiert · installierte · hat installiert)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "haltbar",
-          "b": "<span class=\"jt\" data-g=\"lang_haltbar\">haltbar</span> — durable",
-          "src": "Goethe B1 · p.48"
+          "t": "das Institut",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinstitut\">das Institut</span> — the institute <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "halten",
-          "b": "<span class=\"jt\" data-g=\"lang_halten\">halten</span> — hold <span class=\"gram\">(hält · hielt · hat gehalten)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "das Instrument",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinstrument\">das Instrument</span> — the instrument <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.52"
         }
       ]
     }

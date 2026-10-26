@@ -2030,5 +2030,37 @@
     "lang": "de-DE",
     "d": "The advertisement",
     "w": "“Was kostet ein Inserat in der Zeitung?”"
+  },
+  "lang_insgesamt": {
+    "t": "insgesamt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Overall",
+    "w": "“Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet.”"
+  },
+  "lang_installieren": {
+    "t": "installieren",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Install",
+    "w": "“Können Sie mir helfen, meinen Computer zu installieren?”"
+  },
+  "lang_dasinstitut": {
+    "t": "das Institut",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The institute",
+    "w": "“Ich besuche einen Sprachkurs in einem kleinen Sprachinstitut.”"
+  },
+  "lang_dasinstrument": {
+    "t": "das Instrument",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The instrument",
+    "w": "“Ich spiele Klavier. Spielen Sie auch ein Musikinstrument?”"
   }
 }

@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-25",
-  "day": "Sun",
-  "dnum": "25",
+  "id": "2026-10-26",
+  "day": "Mon",
+  "dnum": "26",
   "mon": "Oct",
-  "date": "Sunday 25 October 2026",
-  "headline": "Briefing refreshed 07:44 Berlin time",
-  "stand": "Automatically rebuilt at 07:44 — 12 sections tracked.",
+  "date": "Monday 26 October 2026",
+  "headline": "Briefing refreshed 06:47 Berlin time",
+  "stand": "Automatically rebuilt at 06:47 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "AVAqCXc9BejssX5gQkO8O5RGjYXwHa198sqkFlMGrT3FX/czSZA2JKH9mr+Lrd27LwqS9HPkWLnq1mkaWz1FEmhex+j+JWhu8CqSx/93s6hrL4AgmNCzcmXPR3/yiP5z31Q6HPvkkQtakjspj5kmCVDOYsKyYnkCXcs0EyJ1OT2iqAYpZdDG",
-      "iv": "z1Wsn9FfUKPb26Nm",
-      "salt": "b4o+ksmkkB8xOINiM//xcg=="
+      "ciphertext": "obon7/nnclSBKy7wH5gcszVMbhh+qtGz4hLVhZEb/F7hZHICUEeMwx2aQ1eWvoleX2ndL7FaRa8ZJiTgUe+UFWsAP7mJ0szJRR3HgKEkLKZZtslrU7At005Oh2sVlE3e0l5DiY4zWJEiXr+UZQgPqdtVCkNJvPjOYyQ4pSc6I8y6VDCQtUBJ",
+      "iv": "3kbd7/InPay+I0vy",
+      "salt": "irAxVE+XwI670o4Bws+xXw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "11°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 13°C",
-          "b": "Low 9°C, gusts to 66 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 13°C",
+          "b": "Low 8°C, gusts to 50 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ez+Wv+SXEnTW86Lu93HEwSEf/SMDkJO2OGjmySJjMFzUdJP5m4XznVHEcHZguLEl0rxq92FvYtANc2j3ntKrHMLiUNvM8A3fYreKK8nEkouYKVth7PVeHQP/dXSo877cqvlkl4EWcsUNCjAGJXoRAPMryPWfAArxdu+k",
-      "iv": "Q12jaqXM/W9ImNv+",
-      "salt": "dmvCPnC08lTQ5Vy7YI4Wqw=="
+      "ciphertext": "4v3Q8g6hJwG0nqnRkMxca5MyN9e8rccDm1DUegkB0fX8A1NGmmqa0pxQCUMrzLwaPbAepAFX2VnGQO4ivQrWu7VJFgdCCxPEme9OY68PFBvjh+sNAgTuKrwTFdjOyLdZ8tXEolg+nQVZSiuL6SBjBb7MXGvIn7X2VlbZ",
+      "iv": "4XOvtsW2H6x+Ip+5",
+      "salt": "BxBewtrZSswoBPfb8r+aEA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "za1xc81WjKT6ZnsQNqJBqcB9K+8dBgd8b+tqdZCv9+avzhn/pwvlTpYbLpQw0sWIOANQtxMbJ1pcbLZT4PWjViDRINRnB0AdIun71fEF/a/0QRaKLU/+SRA9dHwbUsMwtslygnT6hKCFpqLdOeMAUV+xUiB5MpSqd2Fu4sr9jmamP52O/dyQ8zu+QgKlkYNrlnIWMsRKhtarRWIq0kFMtJxTXTrOzkBN9ehIh2ytL/VVdH1QyLSyQcwGrExQCYKj7sNKJoZPw3vfwf7psqcB7Shj2GHccyMoYZ8GcRssBGNyMRYbOZd0g34ysrORlh15q1ZwIVBk",
-      "iv": "SVJ5+uJkqjq1GmTi",
-      "salt": "yl0eQOKH4EswNr0+AafSeQ=="
+      "ciphertext": "IlFxCHQHMlN/GVgvEVddwUvMq7bPX7XwQvoM7A9ieYSW86V43ctIDDEa4jULnljb889vvceEVpVOBMt8mQMH0QKkfEkydcCaPNCfC4LXiaodvZnY6gcXkqVnIxZMx8pOzl5ZRhHSQ0/qzAeUbnEo65TiPq7apkxtXjsxTlwIP9AxnAJsEKs3t9DsamaYBmJpchvgkrs8OumzmN12DxkUgjMy1FMghO5gPzXWZk1sbwWfDs7m1LNuEntsej95ZUiuOG32Po6FJwqPxly2mA61O5DeIsMMDg2G3u8/y3uc9v3RxiU5HM35R/0ZXmdfPhFbGuS9BlQe",
+      "iv": "MaAvtLmmFkrWHFEj",
+      "salt": "o5JbR2tsNFWVf1vQFOPKEA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Xeh2VSy3+3d164P9E5zFWAIUuuSyTiN+IMsqSi4zXndIVeM/5TDA0vllVhAuXOtzSIuvkgZDosmW7yeUO7HK4mz+4nIGeIjZj6Qx5uPMHQydSIwHEVz/NTH3evczESD1DTeRn8VTt8bWiuF5EJ6cEAi6nkGCdUNTyTCMswUvjJ5WJIRbvtTeTvB/wElUig2QuVvCjo7fXJGaqphj",
-      "iv": "cuaXPxMOqrGsP7Fr",
-      "salt": "qBJyeV5qmyJ+9eFgzMTNkA=="
+      "ciphertext": "DFlpFA8n2++A0DD7nw1buCC1MavhLR9zCyknT0t1P2SahqrUWQSNsV4jZadSUoI4a+kEHUaEMbs5MbDC+ECQlvSHJX/l3sKm9NwoL8nqP/kR4eqOevjk2+Y9tbXJfV0bwb+pC6Pha5gn3BHwsKNmIkoApp5eYOxkHXoE3Ona6sb15O4Qi85xFiEU/Tiz7dn8KY8ZNV4jb37ew3Pf",
+      "iv": "+Q8FzcTpOFijy8nX",
+      "salt": "wJIm9EijIjJ78b8mPHCZKg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -179,14 +179,6 @@
           "rel": "home"
         },
         {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -201,6 +193,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -220,23 +220,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "innen",
-          "b": "<span class=\"jt\" data-g=\"lang_innen\">innen</span> — inside",
-          "src": "Goethe B1 · p.51"
-        },
-        {
-          "t": "innerhalb",
-          "b": "<span class=\"jt\" data-g=\"lang_innerhalb\">innerhalb</span> — within",
-          "src": "Goethe B1 · p.51"
-        },
-        {
-          "t": "die Insel",
-          "b": "<span class=\"jt\" data-g=\"lang_dieinsel\">die Insel</span> — the island <span class=\"gram\">(plural: -n)</span>",
+          "t": "insgesamt",
+          "b": "<span class=\"jt\" data-g=\"lang_insgesamt\">insgesamt</span> — overall",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "das Inserat",
-          "b": "<span class=\"jt\" data-g=\"lang_dasinserat\">das Inserat</span> — the advertisement <span class=\"gram\">(plural: -e)</span>",
+          "t": "installieren",
+          "b": "<span class=\"jt\" data-g=\"lang_installieren\">installieren</span> — install <span class=\"gram\">(installiert · installierte · hat installiert)</span>",
+          "src": "Goethe B1 · p.52"
+        },
+        {
+          "t": "das Institut",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinstitut\">das Institut</span> — the institute <span class=\"gram\">(plural: -e)</span>",
+          "src": "Goethe B1 · p.52"
+        },
+        {
+          "t": "das Instrument",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinstrument\">das Instrument</span> — the instrument <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.52"
         }
       ]
