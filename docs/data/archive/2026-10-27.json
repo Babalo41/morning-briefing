@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-27",
-  "day": "Sun",
+  "id": "2026-10-27",
+  "day": "Tue",
   "dnum": "27",
-  "mon": "Sep",
-  "date": "Sunday 27 September 2026",
-  "headline": "Briefing refreshed 09:38 Berlin time",
-  "stand": "Automatically rebuilt at 09:38 — 12 sections tracked.",
+  "mon": "Oct",
+  "date": "Tuesday 27 October 2026",
+  "headline": "Briefing refreshed 17:41 Berlin time",
+  "stand": "Automatically rebuilt at 17:41 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "YgwwWCAVeWGXEM3uRQBHXjUEnXk3l4nxeCEXsAQLFgo4Qs2hk0fkAbN5aqZaB7fuM5u2lkSfEJp6XGDIg7+wIr94Pd3T5XaCasJ/pjKXq/eC2kNMc7Mf9kfp/WISOtbv+O9N0nYmqrTE1LmhFlKQXqcLI3qCmFS+U+Xfo8REHD7/exFfvxIa",
-      "iv": "d5AXm5pFJ3bgjC+v",
-      "salt": "WJsLgEk4U6PrXpbPPmQm/Q=="
+      "ciphertext": "xTlYMV63Wl5+ICP3rUu8oe15G01MYc/+xwOoIF8mpUn1ufnShyqmlQydgZvwOHMCc5X65TbTZQzEZhHj6X9T0eIAA+g59PlhkK8nnE3WU6XeymFs55EcWFcM9LQCHCKzVVKVkybnOhf44b4MX7ipOK4kVfF4/T2GFuRsfD+mImLmiiDYPEp+",
+      "iv": "3nE3Fk/weUD1b27K",
+      "salt": "xdFh/Mxz3hfQBUML1Fwzhg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "13°",
+          "n": "15°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 25°C",
-          "b": "Low 12°C, gusts to 37 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 15°C",
+          "b": "Low 10°C, gusts to 36 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "LNRCiv6q79/0n9OrEAwIqbxgSlxklckvLMwNRk+35Z1hKa5XSGwyXsExXAj2rqrTxcpsiiXgPFFZVT+NnuGJgmDWrOiZlJ3+0uTfDh4xylgGsl3GfuyDvOdBnHUs+4sG57bg8ovwWhApGvmb3mmic88/Y89HcmhUbLqx",
-      "iv": "/J94fma0nGjWBNyS",
-      "salt": "5+RXsFaBqpeGkAfQw7ORMA=="
+      "ciphertext": "FPNEVShWU3xubv744vKa7kWlLx1AahrxKGnXOxMGAt5a5Zq+tC4o6XC8s51Ib6x9zCzBdtpx4rPaj7H6g8d7snk4KiTyilcu6/bSxeIX5l6zOQmLu79+J1JCuzDAEf/X/AloJcAMY+R0ajmCwYK6Y4OlPgLTCdwplBuA",
+      "iv": "1C7jCZpVkq1I8xdG",
+      "salt": "Ss6cOzBDDFLrKI661FfhcA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "9rEvqzVRsuzkr55PTJ6I2WnZPFX62wUAsrtl/WC+4hsEI1UYxO+0mbfxMvD3HgrZPvG+cL+jP/2uN+tOgGA3gy4RBdkNK000hI7Pn3JZs7ywYTP8qtWaPDZoo7fKi3sBX3V1U78sr+LE5GUKStQpb79VO6vF2ERln9N1OVqlVV8LreJnfYqvBfaPatYVNVGBsNiXvLdZUz5UkG1eixPCtfiuPAmm6NVFBKGk0oXzKFHi8CWMs9v5hHi6N+Rl8pIJKPVjH1n7bZw/W2n/kvk17nMlZ/S+/bPcmuDvr/XF5qsArmmls9+4KAWvJLcU3ztlnFdPAppb",
-      "iv": "VrqaUDBq2rcirLU/",
-      "salt": "xtC+cQW0btbRHo8x3f7/uw=="
+      "ciphertext": "c2pKPzict9DF71Ni2WKIQ6zbwqwIRopZY1sb4Khf3agc8nPgtVfmn/kZnvHMMVg62tcSLjNe5ooyttu5md3yK6Uo5A/fViVhQFswAbm7xtmarz388FPtKAF0fDKF8WyajAxEZ+7fj9hF5rLT90U59MIVvu7l/vXDDLI2GVO3pPGRfHBxw7sU5Xcco4FUmhAncFEjCY1vI0eLC35CqIbFnEcDTvAEuet1LEBc50GOVSPYzd8im19WPsqgajsZ0eKH1Z/biJ3lNqODeTVH3Ylf6gS8hWdISB2v4+GqjuNzq2j8NT+AG0eB43rdIyTtIavVWZYolJG4",
+      "iv": "Dgj61MBLqw4wm3I4",
+      "salt": "rfOiUS0Iu/tBnebTmitjgw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ppzv8SwBqYehVXtg3ovCnqYVFN7ikz2CgbBCXen0fJPmLfQJqvy5idEhG0gqZw8j/BTW/tb5Jt+5qvxRbE8/4rHvvRu8OL/1RZDQPEeejypAglHl3Q2bXgv67LVUoJnqMq9tyr8nEwldC2oQOidaTMa+LrVjsYy9gVsCU27z55DSphiHCeyiETSxtwRvalSx18b3ST51Zv9LMPAJ",
-      "iv": "4SsdItHHQO0a1AyJ",
-      "salt": "B5llwreQuoFVrIb5ocibhA=="
+      "ciphertext": "yaIh99OE6vOR60A7tBWNM/qwhMITxYtGFIxAVurriZeZc+b21qNPb/nuzYpqAO3b89EMsVFnH/lv0WDubpRtZLp7TDmFmxL9HK4kZOsBia5Se3BXQIgLP1LnNYsgLuHWzSF0U1mdRpW+5XSAHWNIZ8RSwjZcc7FhzXSCSCLeMZlNQ0na95qJZPNGnru2DQEQwqdlkSMgxKsGTAU7",
+      "iv": "FSaSNIY1aCeyIIFz",
+      "salt": "4iK/iT1Qjv5xsJGJdRfLZg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,6 +163,46 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany - JamBase",
+          "b": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany  JamBase",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTU4RDB5TEgyNThfVGg1RTY3ZUxHd1B3X0lIUi10T21DWmNoek9iOTFTdDN5UkdWaTVhMVF4SEpCRmNnNzVTWWp2aXRjNGNQaFJ4elc5VlFMbHlKU0lsaTFsX1MwM1N3aE1EZ2FXTHZQcV9jUm5STTNzdjJMWm9kNEJpZVZySURqTlVaRg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "What Borussia and Bremen have in common in the DFB-Pokal - Yahoo Sports",
+          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM01CTmFENEpCamNVWlBPNFdkU2hYZDRZZGxWSHBhT0NQdUMzazRKSXdTTVpmOFpKRHNtM3BJZldKTk11MWozT25tTGw0Z2pGVnFESUhfOG1iNGtBdGtiWlJIQ2RKOWliZUExUVc2M0R6emJZajAwOEhkS3l0SE5tN1ZlQ0h1OWdj?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision - Get German Football News",
+          "b": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjRhZm9OYzM1a2wybGhWUjVZaXcyekdFR0ZEX1BMX2RPR3BYOHlYZTJtYlhfNlJqLVF2dHAzdzVwYl9UMDFOYmRtRW1CMGpURDM0ai1RWEdUZ2ctUkhBWi1DNXVCN1ZPRkZOM3d0ZGpqSG94dndsUklqcjYxRVRYRi00eWMyS210ZGV6YTd2bUpwOE1ybG04N0pmR1VuOGZGWnp0Qw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "MSC boxship gashed in Bremerhaven cruise ship collision - Splash247",
+          "b": "MSC boxship gashed in Bremerhaven cruise ship collision  Splash247",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Nsb3UwWDR0ejlxU0RGdkFvLTZJT2FLMUw3SjFsd291TFBSMnIwSVk4QjJwVERhWU9LemI3bEVrVjJDVWxvXzhGcHppZmhaN3V0VUg0TUVoNGdjMG1RNUJpcVlBd2dhTVVPX2J2X2hJQjJDUGtuZFRpRUtWOUFBN0hqY0c?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head - BBC",
+          "b": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HamphT3RJZS1ROVl5d1Fwc2RBb29vcklzRXhIY3k0TVBBbFJSNFZDY3pIcDYzdE1MV3I3N25QVTBCeHdMSGMyOExldy1ZczNCNVNlSW9CRXJtTWpzVzZ3bWpFXzRydw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -177,8 +217,15 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "📌 Borussia What Bremen",
+          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
+          "src": "insight",
+          "u": null
         }
-      ]
+      ],
+      "chart": "near_home_flow"
     },
     {
       "h": "World & Knowledge",
@@ -195,24 +242,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Halt",
-          "b": "<span class=\"jt\" data-g=\"lang_derhalt\">der Halt</span> — the stop",
-          "src": "Goethe B1 · p.48"
+          "t": "integrieren",
+          "b": "<span class=\"jt\" data-g=\"lang_integrieren\">integrieren</span> — integrate <span class=\"gram\">(integriert · integrierte · hat integriert)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "die Haltestelle",
-          "b": "<span class=\"jt\" data-g=\"lang_diehaltestelle\">die Haltestelle</span> — the stop <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "die Integration",
+          "b": "<span class=\"jt\" data-g=\"lang_dieintegration\">die Integration</span> — the integration <span class=\"gram\">(plural: -en)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "der Hammer",
-          "b": "<span class=\"jt\" data-g=\"lang_derhammer\">der Hammer</span> — the hammer <span class=\"gram\">(plural: ¨-)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "intelligent",
+          "b": "<span class=\"jt\" data-g=\"lang_intelligent\">intelligent</span> — intelligent",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "die Hand",
-          "b": "<span class=\"jt\" data-g=\"lang_diehand\">die Hand</span> — the hand <span class=\"gram\">(plural: ¨-e)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "die Intelligenz",
+          "b": "<span class=\"jt\" data-g=\"lang_dieintelligenz\">die Intelligenz</span> — the intelligence",
+          "src": "Goethe B1 · p.52"
         }
       ]
     }

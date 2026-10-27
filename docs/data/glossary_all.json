@@ -2062,5 +2062,37 @@
     "lang": "de-DE",
     "d": "The instrument",
     "w": "“Ich spiele Klavier. Spielen Sie auch ein Musikinstrument?”"
+  },
+  "lang_integrieren": {
+    "t": "integrieren",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Integrate",
+    "w": "“Sie ist schon sehr gut im Team integriert.”"
+  },
+  "lang_dieintegration": {
+    "t": "die Integration",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The integration",
+    "w": "“Gute Deutschkenntnisse sollen bei der Integration helfen.”"
+  },
+  "lang_intelligent": {
+    "t": "intelligent",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Intelligent",
+    "w": "“Maria ist sehr intelligent. Sie kann sehr gut rechnen.”"
+  },
+  "lang_dieintelligenz": {
+    "t": "die Intelligenz",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The intelligence",
+    "w": "“Meine Kinder haben in der Schule einen Intelligenztest gemacht.”"
   }
 }

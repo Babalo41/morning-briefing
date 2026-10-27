@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-26",
-  "day": "Mon",
-  "dnum": "26",
+  "id": "2026-10-27",
+  "day": "Tue",
+  "dnum": "27",
   "mon": "Oct",
-  "date": "Monday 26 October 2026",
-  "headline": "Briefing refreshed 06:47 Berlin time",
-  "stand": "Automatically rebuilt at 06:47 — 12 sections tracked.",
+  "date": "Tuesday 27 October 2026",
+  "headline": "Briefing refreshed 17:41 Berlin time",
+  "stand": "Automatically rebuilt at 17:41 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "obon7/nnclSBKy7wH5gcszVMbhh+qtGz4hLVhZEb/F7hZHICUEeMwx2aQ1eWvoleX2ndL7FaRa8ZJiTgUe+UFWsAP7mJ0szJRR3HgKEkLKZZtslrU7At005Oh2sVlE3e0l5DiY4zWJEiXr+UZQgPqdtVCkNJvPjOYyQ4pSc6I8y6VDCQtUBJ",
-      "iv": "3kbd7/InPay+I0vy",
-      "salt": "irAxVE+XwI670o4Bws+xXw=="
+      "ciphertext": "xTlYMV63Wl5+ICP3rUu8oe15G01MYc/+xwOoIF8mpUn1ufnShyqmlQydgZvwOHMCc5X65TbTZQzEZhHj6X9T0eIAA+g59PlhkK8nnE3WU6XeymFs55EcWFcM9LQCHCKzVVKVkybnOhf44b4MX7ipOK4kVfF4/T2GFuRsfD+mImLmiiDYPEp+",
+      "iv": "3nE3Fk/weUD1b27K",
+      "salt": "xdFh/Mxz3hfQBUML1Fwzhg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "9°",
+          "n": "15°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 13°C",
-          "b": "Low 8°C, gusts to 50 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 15°C",
+          "b": "Low 10°C, gusts to 36 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,38 +39,32 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "4v3Q8g6hJwG0nqnRkMxca5MyN9e8rccDm1DUegkB0fX8A1NGmmqa0pxQCUMrzLwaPbAepAFX2VnGQO4ivQrWu7VJFgdCCxPEme9OY68PFBvjh+sNAgTuKrwTFdjOyLdZ8tXEolg+nQVZSiuL6SBjBb7MXGvIn7X2VlbZ",
-      "iv": "4XOvtsW2H6x+Ip+5",
-      "salt": "BxBewtrZSswoBPfb8r+aEA=="
+      "ciphertext": "FPNEVShWU3xubv744vKa7kWlLx1AahrxKGnXOxMGAt5a5Zq+tC4o6XC8s51Ib6x9zCzBdtpx4rPaj7H6g8d7snk4KiTyilcu6/bSxeIX5l6zOQmLu79+J1JCuzDAEf/X/AloJcAMY+R0ajmCwYK6Y4OlPgLTCdwplBuA",
+      "iv": "1C7jCZpVkq1I8xdG",
+      "salt": "Ss6cOzBDDFLrKI661FfhcA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "IlFxCHQHMlN/GVgvEVddwUvMq7bPX7XwQvoM7A9ieYSW86V43ctIDDEa4jULnljb889vvceEVpVOBMt8mQMH0QKkfEkydcCaPNCfC4LXiaodvZnY6gcXkqVnIxZMx8pOzl5ZRhHSQ0/qzAeUbnEo65TiPq7apkxtXjsxTlwIP9AxnAJsEKs3t9DsamaYBmJpchvgkrs8OumzmN12DxkUgjMy1FMghO5gPzXWZk1sbwWfDs7m1LNuEntsej95ZUiuOG32Po6FJwqPxly2mA61O5DeIsMMDg2G3u8/y3uc9v3RxiU5HM35R/0ZXmdfPhFbGuS9BlQe",
-      "iv": "MaAvtLmmFkrWHFEj",
-      "salt": "o5JbR2tsNFWVf1vQFOPKEA=="
+      "ciphertext": "c2pKPzict9DF71Ni2WKIQ6zbwqwIRopZY1sb4Khf3agc8nPgtVfmn/kZnvHMMVg62tcSLjNe5ooyttu5md3yK6Uo5A/fViVhQFswAbm7xtmarz388FPtKAF0fDKF8WyajAxEZ+7fj9hF5rLT90U59MIVvu7l/vXDDLI2GVO3pPGRfHBxw7sU5Xcco4FUmhAncFEjCY1vI0eLC35CqIbFnEcDTvAEuet1LEBc50GOVSPYzd8im19WPsqgajsZ0eKH1Z/biJ3lNqODeTVH3Ylf6gS8hWdISB2v4+GqjuNzq2j8NT+AG0eB43rdIyTtIavVWZYolJG4",
+      "iv": "Dgj61MBLqw4wm3I4",
+      "salt": "rfOiUS0Iu/tBnebTmitjgw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "DFlpFA8n2++A0DD7nw1buCC1MavhLR9zCyknT0t1P2SahqrUWQSNsV4jZadSUoI4a+kEHUaEMbs5MbDC+ECQlvSHJX/l3sKm9NwoL8nqP/kR4eqOevjk2+Y9tbXJfV0bwb+pC6Pha5gn3BHwsKNmIkoApp5eYOxkHXoE3Ona6sb15O4Qi85xFiEU/Tiz7dn8KY8ZNV4jb37ew3Pf",
-      "iv": "+Q8FzcTpOFijy8nX",
-      "salt": "wJIm9EijIjJ78b8mPHCZKg=="
+      "ciphertext": "yaIh99OE6vOR60A7tBWNM/qwhMITxYtGFIxAVurriZeZc+b21qNPb/nuzYpqAO3b89EMsVFnH/lv0WDubpRtZLp7TDmFmxL9HK4kZOsBia5Se3BXQIgLP1LnNYsgLuHWzSF0U1mdRpW+5XSAHWNIZ8RSwjZcc7FhzXSCSCLeMZlNQ0na95qJZPNGnru2DQEQwqdlkSMgxKsGTAU7",
+      "iv": "FSaSNIY1aCeyIIFz",
+      "salt": "4iK/iT1Qjv5xsJGJdRfLZg=="
     },
     {
       "h": "ISTQB & Software Testing",
       "items": [
         {
-          "t": "📌 Istqb Testing Ct-Ai",
-          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectations around quality, reliability, and trust continue to rise.",
-          "src": "insight",
-          "u": null
-        },
-        {
           "t": "📌 Istqb® Certified Tester",
-          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
           "src": "insight",
           "u": null
         },
@@ -79,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "ISTQB CT-AI vs ISTQB Gen AI- which is better? I am not testing any AI product. I mostly do manual testing. Thanks",
-          "b": "  submitted by    /u/Confident-Focus4   [link]   [comments]",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1xek727/istqb_ctai_vs_istqb_gen_ai_which_is_better_i_am/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +109,18 @@
           "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,18 +163,42 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "t": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany - JamBase",
+          "b": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany  JamBase",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTU4RDB5TEgyNThfVGg1RTY3ZUxHd1B3X0lIUi10T21DWmNoek9iOTFTdDN5UkdWaTVhMVF4SEpCRmNnNzVTWWp2aXRjNGNQaFJ4elc5VlFMbHlKU0lsaTFsX1MwM1N3aE1EZ2FXTHZQcV9jUm5STTNzdjJMWm9kNEJpZVZySURqTlVaRg?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala - Get German Football News",
-          "b": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala  Get German Football News",
+          "t": "What Borussia and Bremen have in common in the DFB-Pokal - Yahoo Sports",
+          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWmtRU19SY0xRZ0o2bEZmM1p1Nm0zdmk3MVU5bkd3ellNS19iSkc1V2ZGeTlRa3l5NWVZM01nd0FyT1VkTmlIX3pfOWFJa3lUT2tTM1dSRFo1LUVYdlJ0cjZTN0Zyck9NbnQ2bmZBUUpWQzZoSHdkcGZKTQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM01CTmFENEpCamNVWlBPNFdkU2hYZDRZZGxWSHBhT0NQdUMzazRKSXdTTVpmOFpKRHNtM3BJZldKTk11MWozT25tTGw0Z2pGVnFESUhfOG1iNGtBdGtiWlJIQ2RKOWliZUExUVc2M0R6emJZajAwOEhkS3l0SE5tN1ZlQ0h1OWdj?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision - Get German Football News",
+          "b": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjRhZm9OYzM1a2wybGhWUjVZaXcyekdFR0ZEX1BMX2RPR3BYOHlYZTJtYlhfNlJqLVF2dHAzdzVwYl9UMDFOYmRtRW1CMGpURDM0ai1RWEdUZ2ctUkhBWi1DNXVCN1ZPRkZOM3d0ZGpqSG94dndsUklqcjYxRVRYRi00eWMyS210ZGV6YTd2bUpwOE1ybG04N0pmR1VuOGZGWnp0Qw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "MSC boxship gashed in Bremerhaven cruise ship collision - Splash247",
+          "b": "MSC boxship gashed in Bremerhaven cruise ship collision  Splash247",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Nsb3UwWDR0ejlxU0RGdkFvLTZJT2FLMUw3SjFsd291TFBSMnIwSVk4QjJwVERhWU9LemI3bEVrVjJDVWxvXzhGcHppZmhaN3V0VUg0TUVoNGdjMG1RNUJpcVlBd2dhTVVPX2J2X2hJQjJDUGtuZFRpRUtWOUFBN0hqY0c?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head - BBC",
+          "b": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HamphT3RJZS1ROVl5d1Fwc2RBb29vcklzRXhIY3k0TVBBbFJSNFZDY3pIcDYzdE1MV3I3N25QVTBCeHdMSGMyOExldy1ZczNCNVNlSW9CRXJtTWpzVzZ3bWpFXzRydw?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -195,12 +219,10 @@
           "rel": "interest"
         },
         {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 Borussia What Bremen",
+          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -220,23 +242,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "insgesamt",
-          "b": "<span class=\"jt\" data-g=\"lang_insgesamt\">insgesamt</span> — overall",
+          "t": "integrieren",
+          "b": "<span class=\"jt\" data-g=\"lang_integrieren\">integrieren</span> — integrate <span class=\"gram\">(integriert · integrierte · hat integriert)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "installieren",
-          "b": "<span class=\"jt\" data-g=\"lang_installieren\">installieren</span> — install <span class=\"gram\">(installiert · installierte · hat installiert)</span>",
+          "t": "die Integration",
+          "b": "<span class=\"jt\" data-g=\"lang_dieintegration\">die Integration</span> — the integration <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "das Institut",
-          "b": "<span class=\"jt\" data-g=\"lang_dasinstitut\">das Institut</span> — the institute <span class=\"gram\">(plural: -e)</span>",
+          "t": "intelligent",
+          "b": "<span class=\"jt\" data-g=\"lang_intelligent\">intelligent</span> — intelligent",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "das Instrument",
-          "b": "<span class=\"jt\" data-g=\"lang_dasinstrument\">das Instrument</span> — the instrument <span class=\"gram\">(plural: -e)</span>",
+          "t": "die Intelligenz",
+          "b": "<span class=\"jt\" data-g=\"lang_dieintelligenz\">die Intelligenz</span> — the intelligence",
           "src": "Goethe B1 · p.52"
         }
       ]
