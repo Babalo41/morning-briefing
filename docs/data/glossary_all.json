@@ -2094,5 +2094,37 @@
     "lang": "de-DE",
     "d": "The intelligence",
     "w": "“Meine Kinder haben in der Schule einen Intelligenztest gemacht.”"
+  },
+  "lang_dasinteresse": {
+    "t": "das Interesse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The interest",
+    "w": "“Ich habe viele Interessen: Sport, Lesen, Handarbeit, Tanzen”"
+  },
+  "lang_interessiert": {
+    "t": "interessiert",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Interested",
+    "w": "“Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?”"
+  },
+  "lang_interkulturell": {
+    "t": "interkulturell",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Intercultural",
+    "w": "“Wir haben in der Sprachschule ein interkulturelles Fest gefeiert.”"
+  },
+  "lang_international": {
+    "t": "international",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "International",
+    "w": "“Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …”"
   }
 }

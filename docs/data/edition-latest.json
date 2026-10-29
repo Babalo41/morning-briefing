@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-27",
-  "day": "Tue",
-  "dnum": "27",
+  "id": "2026-10-29",
+  "day": "Thu",
+  "dnum": "29",
   "mon": "Oct",
-  "date": "Tuesday 27 October 2026",
-  "headline": "Briefing refreshed 17:41 Berlin time",
-  "stand": "Automatically rebuilt at 17:41 — 12 sections tracked.",
+  "date": "Thursday 29 October 2026",
+  "headline": "Briefing refreshed 20:59 Berlin time",
+  "stand": "Automatically rebuilt at 20:59 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "xTlYMV63Wl5+ICP3rUu8oe15G01MYc/+xwOoIF8mpUn1ufnShyqmlQydgZvwOHMCc5X65TbTZQzEZhHj6X9T0eIAA+g59PlhkK8nnE3WU6XeymFs55EcWFcM9LQCHCKzVVKVkybnOhf44b4MX7ipOK4kVfF4/T2GFuRsfD+mImLmiiDYPEp+",
-      "iv": "3nE3Fk/weUD1b27K",
-      "salt": "xdFh/Mxz3hfQBUML1Fwzhg=="
+      "ciphertext": "xMTzk4uYguKhUEFtueHY+jhN+aDCpAvruZS0zh1A/hfx3S8FFOFIK/a1QYQKKAVwfsJofE3Oz6BgK0Q8c/2QBro/IWfPAB1wna/PtFvCGPQFyQHaB/apW9zlbu2BM66mK5U3iUvoyvqRcXhg2T1mNFHvQnXw0Ge0q4zWvMKcZtuWtLv19nTh",
+      "iv": "jnN46oGHWWcOuUK3",
+      "salt": "WmjZ5ymSZjYf0TRZ7HXJdA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "15°",
+          "n": "10°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 15°C",
-          "b": "Low 10°C, gusts to 36 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 14°C",
+          "b": "Low 9°C, gusts to 25 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "FPNEVShWU3xubv744vKa7kWlLx1AahrxKGnXOxMGAt5a5Zq+tC4o6XC8s51Ib6x9zCzBdtpx4rPaj7H6g8d7snk4KiTyilcu6/bSxeIX5l6zOQmLu79+J1JCuzDAEf/X/AloJcAMY+R0ajmCwYK6Y4OlPgLTCdwplBuA",
-      "iv": "1C7jCZpVkq1I8xdG",
-      "salt": "Ss6cOzBDDFLrKI661FfhcA=="
+      "ciphertext": "6ztMC3YQrrnK0htEn2TXJ1E7DFuoA/ppgH2VKw9KrIvRYCVnl/qN6s/OMDaxsLReGTKwNhzyitRLhru1lBIpgqFgkGerPnXLbd0RdJqoFfCSjhdswrx+jGxvtGXRWdRGjbX0ffF9a5cJwvouV1HXvxjLEDzZcKp6O7XS",
+      "iv": "q8ffbIeVwYyqbD7l",
+      "salt": "iqkMT1QKsmvilfnB2APLPg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "c2pKPzict9DF71Ni2WKIQ6zbwqwIRopZY1sb4Khf3agc8nPgtVfmn/kZnvHMMVg62tcSLjNe5ooyttu5md3yK6Uo5A/fViVhQFswAbm7xtmarz388FPtKAF0fDKF8WyajAxEZ+7fj9hF5rLT90U59MIVvu7l/vXDDLI2GVO3pPGRfHBxw7sU5Xcco4FUmhAncFEjCY1vI0eLC35CqIbFnEcDTvAEuet1LEBc50GOVSPYzd8im19WPsqgajsZ0eKH1Z/biJ3lNqODeTVH3Ylf6gS8hWdISB2v4+GqjuNzq2j8NT+AG0eB43rdIyTtIavVWZYolJG4",
-      "iv": "Dgj61MBLqw4wm3I4",
-      "salt": "rfOiUS0Iu/tBnebTmitjgw=="
+      "ciphertext": "6xnRXz5IdQUX01vdKhBeltLMNirxg126i6mNhiLlUWbEujBRzlDDXLZv+cz5DX39NnKJYabKVvws50scrRTgE6mC0KRfyOyrGh08FfQyySxL3mcyj66BwaQfZsragbYNz1rW8rI2aG0v9icyUskir2AOpAL8a3gHqWaiIXcpqM9z5n5zILCFnudi8MtLbH92t3VjPahKEIDBLajEjyECg2IIBQvWfn+GL2V01tZWzOZlt8PxBlcIf+3tSGSOPXYIen1UJ++t/wTH7Q+PDs3oK4CMvjWG4zUHWKHHPcBhmXFhBc3njNm1RWUe2vFqJ76quVcVEoMr",
+      "iv": "pQdgOeLk/VT1wTc/",
+      "salt": "tC08rww+MHcYyq+IIKwIhg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "yaIh99OE6vOR60A7tBWNM/qwhMITxYtGFIxAVurriZeZc+b21qNPb/nuzYpqAO3b89EMsVFnH/lv0WDubpRtZLp7TDmFmxL9HK4kZOsBia5Se3BXQIgLP1LnNYsgLuHWzSF0U1mdRpW+5XSAHWNIZ8RSwjZcc7FhzXSCSCLeMZlNQ0na95qJZPNGnru2DQEQwqdlkSMgxKsGTAU7",
-      "iv": "FSaSNIY1aCeyIIFz",
-      "salt": "4iK/iT1Qjv5xsJGJdRfLZg=="
+      "ciphertext": "/GHPCxMwm5khqLRdnffYYWhusZz1KKSUNu9JyYo1iIBVY7tcx3saYXfh314kkgoAA0aP8hxNK5RuIoOCcEpKTyc8QKUd8kiRQQCp6bmmsZ9i6hizJ97GwqCokjVxHioNGxoriOFOtEtl8xYURFYmqRgFfhzjLjymUx3RyDmZL6xJxQz0h+rvOICBeZuKWpQLOvtZxZCxqkwNomm4",
+      "iv": "K8Yxeho0YyrRlLm+",
+      "salt": "rRVBQgNJaGRrSeFIGSo93A=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,42 +163,66 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany - JamBase",
-          "b": "Bob Dylan Busts Out ‘Million Miles’ After 12 Years In Germany  JamBase",
+          "t": "Germany Dachshund Art Exhibition - Goshen News",
+          "b": "Germany Dachshund Art Exhibition  Goshen News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTU4RDB5TEgyNThfVGg1RTY3ZUxHd1B3X0lIUi10T21DWmNoek9iOTFTdDN5UkdWaTVhMVF4SEpCRmNnNzVTWWp2aXRjNGNQaFJ4elc5VlFMbHlKU0lsaTFsX1MwM1N3aE1EZ2FXTHZQcV9jUm5STTNzdjJMWm9kNEJpZVZySURqTlVaRg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzBveVNvVDhPbU9xZjVOQ2RqLV9jaU9CejUzV2VtMXFzYWE0VFN3ZDR1WkpjZFNDajRhZEVaR2lvcURHZEZRbFNxSXVhdHlNMjNETktVeUtkeTRzODQxLTFzQXVPWHBPS1hDbjd4M0F1Y1Jjb3R4SEh0ZnVwdkw0c3FRYWpEZHFrWnhKRU5vTzY1ck4xTm9aWEdVTVpmMjFJc0g2REdlTXlYUkI4Ymw0eGl5QVB5VkNOakdFdWRBeFhJeTMz?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "What Borussia and Bremen have in common in the DFB-Pokal - Yahoo Sports",
-          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports",
+          "t": "Germany Dachshund Art Exhibition - The Batesville Daily Guard",
+          "b": "Germany Dachshund Art Exhibition  The Batesville Daily Guard",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM01CTmFENEpCamNVWlBPNFdkU2hYZDRZZGxWSHBhT0NQdUMzazRKSXdTTVpmOFpKRHNtM3BJZldKTk11MWozT25tTGw0Z2pGVnFESUhfOG1iNGtBdGtiWlJIQ2RKOWliZUExUVc2M0R6emJZajAwOEhkS3l0SE5tN1ZlQ0h1OWdj?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2RLcUM2UFFnRWZFdk83dWZJYU85X21mLUZFTnBzbGRraHMzMlR6RHJJTGNpYVBrTHhPdnlyWi1WSEVqQ3JxLV9pVzY2cWRrdEpiRjBIcWVoN3o5ams4Z0M2eF9UMlNnMHRpWFRLWmZVd25lQUtkYVhyYi1sWmhPbmFRWHhHWmgzSGI2VFNod3R4WHM1UUxXZUhtdDFoTHpoSm1OU2ZYalpSWktpcGF5Y09acl9JZDVyX1hN?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision - Get German Football News",
-          "b": "FEATURE | Niclas Füllkrug is proving that returning to Werder Bremen was the perfect decision  Get German Football News",
+          "t": "Germany Dachshund Art Exhibition - The Killeen Daily Herald",
+          "b": "Germany Dachshund Art Exhibition  The Killeen Daily Herald",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjRhZm9OYzM1a2wybGhWUjVZaXcyekdFR0ZEX1BMX2RPR3BYOHlYZTJtYlhfNlJqLVF2dHAzdzVwYl9UMDFOYmRtRW1CMGpURDM0ai1RWEdUZ2ctUkhBWi1DNXVCN1ZPRkZOM3d0ZGpqSG94dndsUklqcjYxRVRYRi00eWMyS210ZGV6YTd2bUpwOE1ybG04N0pmR1VuOGZGWnp0Qw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFFjai04MHZHR01oaDlfaU5ZS3drbDcxUFNDcEVLM1lVemlZM1VFeFNDaGxLcHBzRy02elJxSENrY3hhb1ViUUtLVzFpVkN6QUx4MDMyZlRVaFd6V0VBclVfR3d2SkxLUW9veTdpMjJzZHVpTlI4cnlXZGNLN2Zid0dvdGF1MkhmejNRcU1yNlI4eUxzYmdmVEF2SEJ3V0tnYWI5Mnd5Z18tanhVeDUyXzA2SQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "MSC boxship gashed in Bremerhaven cruise ship collision - Splash247",
-          "b": "MSC boxship gashed in Bremerhaven cruise ship collision  Splash247",
+          "t": "Germany Dachshund Art Exhibition - dailyrecordnews.com",
+          "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Nsb3UwWDR0ejlxU0RGdkFvLTZJT2FLMUw3SjFsd291TFBSMnIwSVk4QjJwVERhWU9LemI3bEVrVjJDVWxvXzhGcHppZmhaN3V0VUg0TUVoNGdjMG1RNUJpcVlBd2dhTVVPX2J2X2hJQjJDUGtuZFRpRUtWOUFBN0hqY0c?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEtsT1Qxd2VrNThtazNMbmV2dkxHUm51QmVCbDVzM2ZPMFE5VnNPWWdwT0VmdjN3NjRNc085YXV0aWVXMTk4RWM5dzZ4dEhUN3JkYVhTOW5QLS1BSk44U0l1NkdIdkFxZUY5enVYaFNEWWpoZ3ZEV01saUN2LVdOenFmQTNGZlk1Y28tZW11M25telJFMnhEWDZPT3RwUWx4UGY1ZlZkcV9jOHNFN0NXWEZ6VHhuaHBtZUVqcWdNcS15THBubGF2NmpGR0F5cFk?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head - BBC",
-          "b": "Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HamphT3RJZS1ROVl5d1Fwc2RBb29vcklzRXhIY3k0TVBBbFJSNFZDY3pIcDYzdE1MV3I3N25QVTBCeHdMSGMyOExldy1ZczNCNVNlSW9CRXJtTWpzVzZ3bWpFXzRydw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup - BVB Buzz",
+          "b": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup  BVB Buzz",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREwwQ3hJbEpjTE5mRFA5eXBqS1JwWEU3ZWxaczdrQjgtY3kwcGFlS0dIZkdXNHFnMzg1UjlBQVpPU0JYNU1XbUhQblJXelRCT0FwYmg3ek5PSnBvM3pnMlM4QnZOUzJVU1BTOGNFWHM4dlVRMHI1LW51TXVJVEtnaEFWTUQ5ckRXYTg3aFRfRWRlc19KWVRneXhxNW1tc2RJSDdpcDQ2UWJneXpmOVNvQzFwbWdWdXVZQ1hyeGRLNjdTbTR2c1BwVzFnSGllUQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more - Get German Football News",
+          "b": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXQ2d1RhSEF4MEpuak9FaVNkQWtYOUV5YkhTSXhzWmpqNG00NTJmakFsazB0dU1HYXhQS0tpTGRYRjlLOXl1NWVjejNTTHMzbEYzeTZxLWRWUS1UTXZxRnA0Q0xfUTl6bmNrQ0U1Szl0aFR6Q292WlVXYW42eXlNU1A1VmNaWlB5US1jNnVfVVdCUHNrcjh6S01KdWtPQTlYY05uNkFhelZLbU1EQzRMV1ppWDFrWC1KNXNKQ05QQjI?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Dortmund edge Bremen in German Cup - The Express Tribune",
+          "b": "Dortmund edge Bremen in German Cup  The Express Tribune",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSUZvM3A5bUJVQUJ1YTZ4UzQ1UG8wQlpTckRRR1dDSUlNZU1ZVXRMSHZPa3A5QkhDSHprQlI0M1RwMUw4MkxldGdzOWRPMERkWU1rS3BWRmZTQXdEakNCZEV2cUVxNjB4RWhjVUdWWUR0dERvSFh2TXNkY9IBgwFBVV95cUxPcjFwTTUtYWl4TzVqTzloQ0VyeU9rYmltT1hWQzJkalZNSDN4eGZENHVXUGMyTXVxRzhZYkk1NnJTLUVXTVJ3Y2puVk1BcVNjLWxLRUFsU293eF9GeEpSaGNxVGxSVHdUOGFUenp1NGM4ejlxVUxmMGU2NEcta1dMSndKOA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -217,12 +241,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "📌 Borussia What Bremen",
-          "b": "What Borussia and Bremen have in common in the DFB-Pokal  Yahoo Sports Borussia Dortmund vs Werder Bremen: German DFB Pokal stats & head-to-head  BBC",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -231,9 +249,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "b": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -242,23 +261,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "integrieren",
-          "b": "<span class=\"jt\" data-g=\"lang_integrieren\">integrieren</span> — integrate <span class=\"gram\">(integriert · integrierte · hat integriert)</span>",
+          "t": "das Interesse",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinteresse\">das Interesse</span> — the interest <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "die Integration",
-          "b": "<span class=\"jt\" data-g=\"lang_dieintegration\">die Integration</span> — the integration <span class=\"gram\">(plural: -en)</span>",
+          "t": "interessiert",
+          "b": "<span class=\"jt\" data-g=\"lang_interessiert\">interessiert</span> — interested",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "intelligent",
-          "b": "<span class=\"jt\" data-g=\"lang_intelligent\">intelligent</span> — intelligent",
+          "t": "interkulturell",
+          "b": "<span class=\"jt\" data-g=\"lang_interkulturell\">interkulturell</span> — intercultural",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "die Intelligenz",
-          "b": "<span class=\"jt\" data-g=\"lang_dieintelligenz\">die Intelligenz</span> — the intelligence",
+          "t": "international",
+          "b": "<span class=\"jt\" data-g=\"lang_international\">international</span> — international",
           "src": "Goethe B1 · p.52"
         }
       ]
