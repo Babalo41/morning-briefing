@@ -2126,5 +2126,37 @@
     "lang": "de-DE",
     "d": "International",
     "w": "“Die Teilnehmenden in unserem Kurs sind ganz international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …”"
+  },
+  "lang_dasinterview": {
+    "t": "das Interview",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The interview",
+    "w": "“Ich habe im Fernsehen ein interessantes Interview mit zwei Schauspielern gesehen.”"
+  },
+  "lang_inzwischen": {
+    "t": "inzwischen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Meanwhile",
+    "w": "“Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten.”"
+  },
+  "lang_irgendein": {
+    "t": "irgendein",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Any",
+    "w": "“Was für einen Saft möchten Sie? – Ganz egal, irgendeinen.”"
+  },
+  "lang_irgendwann": {
+    "t": "irgendwann",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "At some point",
+    "w": "“Ich habe Sie irgendwann schon mal gesehen.”"
   }
 }

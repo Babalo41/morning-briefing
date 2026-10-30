@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-29",
-  "day": "Thu",
-  "dnum": "29",
+  "id": "2026-10-30",
+  "day": "Fri",
+  "dnum": "30",
   "mon": "Oct",
-  "date": "Thursday 29 October 2026",
-  "headline": "Briefing refreshed 20:59 Berlin time",
-  "stand": "Automatically rebuilt at 20:59 — 12 sections tracked.",
+  "date": "Friday 30 October 2026",
+  "headline": "Briefing refreshed 05:00 Berlin time",
+  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "xMTzk4uYguKhUEFtueHY+jhN+aDCpAvruZS0zh1A/hfx3S8FFOFIK/a1QYQKKAVwfsJofE3Oz6BgK0Q8c/2QBro/IWfPAB1wna/PtFvCGPQFyQHaB/apW9zlbu2BM66mK5U3iUvoyvqRcXhg2T1mNFHvQnXw0Ge0q4zWvMKcZtuWtLv19nTh",
-      "iv": "jnN46oGHWWcOuUK3",
-      "salt": "WmjZ5ymSZjYf0TRZ7HXJdA=="
+      "ciphertext": "zWkbieyMpvnfw+HrtWyovRn1tO6Tf1tX17r4/CKRgC0R/Zb6eAnhIucsrfy8OEY4ZDygS3bRDxbBL8o1k6x/Lrcni5ZGEcLPheYWj4yKSAalIfhwydomFvtwRMy7X+NNVbfCrIFb3uI54uCmb8yP29RQAikayZt4SCPV7V12ktmyF33945Rl",
+      "iv": "GACrlUIdNJqaC9VS",
+      "salt": "eF0HA6D3LF1cssn1bA1UQA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "10°",
+          "n": "6°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 14°C",
-          "b": "Low 9°C, gusts to 25 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 12°C",
+          "b": "Low 6°C, gusts to 12 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "6ztMC3YQrrnK0htEn2TXJ1E7DFuoA/ppgH2VKw9KrIvRYCVnl/qN6s/OMDaxsLReGTKwNhzyitRLhru1lBIpgqFgkGerPnXLbd0RdJqoFfCSjhdswrx+jGxvtGXRWdRGjbX0ffF9a5cJwvouV1HXvxjLEDzZcKp6O7XS",
-      "iv": "q8ffbIeVwYyqbD7l",
-      "salt": "iqkMT1QKsmvilfnB2APLPg=="
+      "ciphertext": "Q7MfJb62eSCRB70jCsLpdJ46gz8khoRKLPtRfIPbklY+FfFDiHm6phnvDkG3giTUbZKTqPzB3BMGJw5nVmse4HLyVILoyY1fzCOB6uJZVii00t2GN65C6VlS0Gqtyr73MnbmF8YwLvXB6Qc6GfsZMz1WT0/c/518HaeI",
+      "iv": "5Hi8vPWN55Iw0Keq",
+      "salt": "YymH+g+vRcKk2ETa7jtTPg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "6xnRXz5IdQUX01vdKhBeltLMNirxg126i6mNhiLlUWbEujBRzlDDXLZv+cz5DX39NnKJYabKVvws50scrRTgE6mC0KRfyOyrGh08FfQyySxL3mcyj66BwaQfZsragbYNz1rW8rI2aG0v9icyUskir2AOpAL8a3gHqWaiIXcpqM9z5n5zILCFnudi8MtLbH92t3VjPahKEIDBLajEjyECg2IIBQvWfn+GL2V01tZWzOZlt8PxBlcIf+3tSGSOPXYIen1UJ++t/wTH7Q+PDs3oK4CMvjWG4zUHWKHHPcBhmXFhBc3njNm1RWUe2vFqJ76quVcVEoMr",
-      "iv": "pQdgOeLk/VT1wTc/",
-      "salt": "tC08rww+MHcYyq+IIKwIhg=="
+      "ciphertext": "J7Zdul811Z+Ls/9rDAQhi69Ir2GB7bTuVdG09nS1KJKd391VhU/FTJCDjlztXaLFm7BMx7jRhIulK+nMpuvgjEvmGsp8ax0MA9nK92sQEqqjKpl+8aKPDbK5cE5UVSsIVq9anCE+EEi8zTsCLa+xgjLyCPzp9V8hV+bzIUl4jfK5FvMSEHnIHQLAHoWdcT9zzK4hmSE/foIPhn69ryoKvQtoz4A8M37uhUBqxERCWhUouXrD+uNESnzzGuXgIAqHQDAGCw/Y1qjVoCqSL1T/Vm4pyvQHrYayBDzlpfeKacz+xa03sK6asCbcBIyeUz+E4n7d2VKB",
+      "iv": "e+vTEjf5IKAt27xM",
+      "salt": "d1qFQk2vbgRgMpdeJ3irXA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "/GHPCxMwm5khqLRdnffYYWhusZz1KKSUNu9JyYo1iIBVY7tcx3saYXfh314kkgoAA0aP8hxNK5RuIoOCcEpKTyc8QKUd8kiRQQCp6bmmsZ9i6hizJ97GwqCokjVxHioNGxoriOFOtEtl8xYURFYmqRgFfhzjLjymUx3RyDmZL6xJxQz0h+rvOICBeZuKWpQLOvtZxZCxqkwNomm4",
-      "iv": "K8Yxeho0YyrRlLm+",
-      "salt": "rRVBQgNJaGRrSeFIGSo93A=="
+      "ciphertext": "8olpwNzkgKocEI8pseK/p0F0YCluMTmBm0We6C1QEzw7RptNKaW0rwSWk72B93eRV2DTatq08zZOZv3lEXmJuVyO9/SfEWgqE7w3PCKsV1Nvk/WZ8MSU5xLQ1Z7gTTFVsM1Ia9M4cn4Sns9hm5bu/CSsBk+t1DTF8JtuAvhimLdK5AHH17RuFzpQTZdoHshk7F8oP1DFzz+YbLVZ",
+      "iv": "JXukO1NGZwEWk3lX",
+      "salt": "2UffJama6vRP450IruxW+g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -261,23 +261,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Interesse",
-          "b": "<span class=\"jt\" data-g=\"lang_dasinteresse\">das Interesse</span> — the interest <span class=\"gram\">(plural: -n)</span>",
+          "t": "das Interview",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinterview\">das Interview</span> — the interview <span class=\"gram\">(plural: -s)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "interessiert",
-          "b": "<span class=\"jt\" data-g=\"lang_interessiert\">interessiert</span> — interested",
+          "t": "inzwischen",
+          "b": "<span class=\"jt\" data-g=\"lang_inzwischen\">inzwischen</span> — meanwhile",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "interkulturell",
-          "b": "<span class=\"jt\" data-g=\"lang_interkulturell\">interkulturell</span> — intercultural",
+          "t": "irgendein",
+          "b": "<span class=\"jt\" data-g=\"lang_irgendein\">irgendein</span> — any",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "international",
-          "b": "<span class=\"jt\" data-g=\"lang_international\">international</span> — international",
+          "t": "irgendwann",
+          "b": "<span class=\"jt\" data-g=\"lang_irgendwann\">irgendwann</span> — at some point",
           "src": "Goethe B1 · p.52"
         }
       ]

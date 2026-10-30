@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-29",
-  "day": "Tue",
-  "dnum": "29",
-  "mon": "Sep",
-  "date": "Tuesday 29 September 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "id": "2026-10-30",
+  "day": "Fri",
+  "dnum": "30",
+  "mon": "Oct",
+  "date": "Friday 30 October 2026",
+  "headline": "Briefing refreshed 05:00 Berlin time",
+  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "gPUoLLz0Om6w9vh+sNXxnRD8RoS7WrSvmgpbj7UUEQm0/+7UaZD/hHfT3wThP9F7pdDefbjKiCdehdIDMRR/o9bpewXenaH08mS0yUnz1k+UxL+7dtmrLO15h8HCYAq5h9imh6+rlEiB8+HwMzNtUJSDWo6o/ZJhjmhS8n8SG4Ua6TZJ2cgd",
-      "iv": "W8dFciQD3vssv3k2",
-      "salt": "wRhWkPzCLolPILIMnztYWw=="
+      "ciphertext": "zWkbieyMpvnfw+HrtWyovRn1tO6Tf1tX17r4/CKRgC0R/Zb6eAnhIucsrfy8OEY4ZDygS3bRDxbBL8o1k6x/Lrcni5ZGEcLPheYWj4yKSAalIfhwydomFvtwRMy7X+NNVbfCrIFb3uI54uCmb8yP29RQAikayZt4SCPV7V12ktmyF33945Rl",
+      "iv": "GACrlUIdNJqaC9VS",
+      "salt": "eF0HA6D3LF1cssn1bA1UQA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "16°",
+          "n": "6°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 26°C",
-          "b": "Low 16°C, gusts to 30 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 12°C",
+          "b": "Low 6°C, gusts to 12 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "HIlOVHyKP5/fTCajMV+9QhzlRFsAA+rzk7DeLyed7ITO8PTY3LEttFzJ+kay/Nv7sJ45GcQTBPNCky21XnPEXuyZIESKoXj1G8FDPFubJDo3I0zPbuwsFjnonAV9U6YKig1s/Rfw53Cpv1HoXo7JKic22Lnw/+p0hoV7",
-      "iv": "wefwXBjh1Ld/CQAa",
-      "salt": "O5OO94NQejXWow6mT39d9w=="
+      "ciphertext": "Q7MfJb62eSCRB70jCsLpdJ46gz8khoRKLPtRfIPbklY+FfFDiHm6phnvDkG3giTUbZKTqPzB3BMGJw5nVmse4HLyVILoyY1fzCOB6uJZVii00t2GN65C6VlS0Gqtyr73MnbmF8YwLvXB6Qc6GfsZMz1WT0/c/518HaeI",
+      "iv": "5Hi8vPWN55Iw0Keq",
+      "salt": "YymH+g+vRcKk2ETa7jtTPg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "sPps28MLGEIo6O8oIPxZDXEZfH9fJyrHWOy3Te8TVEi8W67CTJ79nRTgnt0Uu2SlUrmscJ0+kMwbaTSqaOWagl0tEpF96BAu3NDGTHnTqm3Khb8j/iqULIQkJgHq4AD8VJ2OTXhWJfJTTXkyX+Uwpu0UY2S44pQjYpzK1KlRoerE5EWZzpUUXMWyktpjviNthbg1hN7C4BuRGoj8U6vBGkE0BYTBejLDSKYtgHUlCMLUp0T0sU01yCkalK8IXAemPdNIDfvLVBA8MexsD9tqNR8IJPATN9FFDaMxHApRR73t9vwM7TmJ+vSdquXnKLjMQu9NIl9H",
-      "iv": "GmKniCrPdEVdPrwL",
-      "salt": "5hl/cu+2jEb8wj7bprVA1A=="
+      "ciphertext": "J7Zdul811Z+Ls/9rDAQhi69Ir2GB7bTuVdG09nS1KJKd391VhU/FTJCDjlztXaLFm7BMx7jRhIulK+nMpuvgjEvmGsp8ax0MA9nK92sQEqqjKpl+8aKPDbK5cE5UVSsIVq9anCE+EEi8zTsCLa+xgjLyCPzp9V8hV+bzIUl4jfK5FvMSEHnIHQLAHoWdcT9zzK4hmSE/foIPhn69ryoKvQtoz4A8M37uhUBqxERCWhUouXrD+uNESnzzGuXgIAqHQDAGCw/Y1qjVoCqSL1T/Vm4pyvQHrYayBDzlpfeKacz+xa03sK6asCbcBIyeUz+E4n7d2VKB",
+      "iv": "e+vTEjf5IKAt27xM",
+      "salt": "d1qFQk2vbgRgMpdeJ3irXA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "DHCTDFmwZ9D7yevnQLl9ON9Y2kndIMrzWw9fjHzmLE+ZKKn1FVgohA4qKiWUxexnAOxCj8nKCDXuFMV+RQb1Nu6QhIqh1srXV1YLp5EF0cYfFz+D3TiCynysYEmxIEa92YTLneK1ZIUVQpVXvAWooW2yjUlt7VmmX7bnvkAKFyvx+1k41QbkNLHiE3KB2qo4X5KycUcvkApanc4A",
-      "iv": "rr5sn73az4RtdsDB",
-      "salt": "WeQg/CPsy4ukq3xhkcRMCQ=="
+      "ciphertext": "8olpwNzkgKocEI8pseK/p0F0YCluMTmBm0We6C1QEzw7RptNKaW0rwSWk72B93eRV2DTatq08zZOZv3lEXmJuVyO9/SfEWgqE7w3PCKsV1Nvk/WZ8MSU5xLQ1Z7gTTFVsM1Ia9M4cn4Sns9hm5bu/CSsBk+t1DTF8JtuAvhimLdK5AHH17RuFzpQTZdoHshk7F8oP1DFzz+YbLVZ",
+      "iv": "JXukO1NGZwEWk3lX",
+      "salt": "2UffJama6vRP450IruxW+g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -73,12 +73,6 @@
           "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
           "src": "insight",
           "u": null
-        },
-        {
-          "t": "Software QA Lead sjobs in middle east region",
-          "b": "Hi Guys, Hope you're all doing well. I'm really in need of job for senior software qa lead related jobs. Have 15 years of experience in QA. Experience with Selenium, Appium, Cucumber, Robot Framework, API Testing, CI/CD, Agile. ISTQB Certified. Appreciate any leads, referrals, or hiring contacts. Th",
-          "src": "Quality Assurance : articles and news about software testing",
-          "u": "https://www.reddit.com/r/QualityAssurance/comments/1wsp11q/software_qa_lead_sjobs_in_middle_east_region/"
         },
         {
           "t": "ISTQB® Launches Certified Tester Finance Testing certification",
@@ -121,6 +115,12 @@
           "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
           "src": "International Software Testing Qualifications Board",
           "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
         }
       ],
       "feed_section": "profession_field"
@@ -163,26 +163,66 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries - Global South Opportunities",
-          "b": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+          "t": "Germany Dachshund Art Exhibition - Goshen News",
+          "b": "Germany Dachshund Art Exhibition  Goshen News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLUZYZlM4c2hoOWdWNnI2Y1lFQjdpa3IyZWZYMW13QlZYSkxHakJBdnFnVVVuUm5xSWVJOWUyUk8tLWZTQ1BHT0psRzdzVDV6NE03ODNvYnlSSEhKS0VyZXNFUGYzNnliWFJQVQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzBveVNvVDhPbU9xZjVOQ2RqLV9jaU9CejUzV2VtMXFzYWE0VFN3ZDR1WkpjZFNDajRhZEVaR2lvcURHZEZRbFNxSXVhdHlNMjNETktVeUtkeTRzODQxLTFzQXVPWHBPS1hDbjd4M0F1Y1Jjb3R4SEh0ZnVwdkw0c3FRYWpEZHFrWnhKRU5vTzY1ck4xTm9aWEdVTVpmMjFJc0g2REdlTXlYUkI4Ymw0eGl5QVB5VkNOakdFdWRBeFhJeTMz?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Unification minister to visit Ireland, Northern Ireland, Germany from this week - The Korea Times",
-          "b": "Unification minister to visit Ireland, Northern Ireland, Germany from this week  The Korea Times",
+          "t": "Germany Dachshund Art Exhibition - The Batesville Daily Guard",
+          "b": "Germany Dachshund Art Exhibition  The Batesville Daily Guard",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTEzVGMwcm1ITEpsTVdMTGhmVUx4YW55Q0g5cGZpQlBWNWlHYVlEdDhpeUZ1XzNoejZyZHFPdHlWN2J6WGdJNy1JQ3A3OWxScUk5Vmx0UXVEVVYtZXZIWEtZZHBSWkxnVUxMNjJxWVZrWkZhTFJtS29ueUlwTV9DZkxxWndGa25icHpCbU52R2hfZEQzYTJpaEkwZEtET1YtVi1OQVVXdHUzOWdRZUlQVTdxNl9nMW5hUFZNRjVjcFJVTlkwdlRMcjBR0gHPAUFVX3lxTE94LVo0eFJaeDNYbWdkSmF0RXh2aVhUV2FXeU1qTVBydndaVkVrX0ZNZlhoR2dsYkJ1SGhFaVhKTTdPblNkUl9feVJfYTZwM3ZEOC1nc3RRdHJSa0ZCSm1LOHVNSUwycmRKMFotR01KSzZ0ekxGS2VTd1ljOVI4eUs3VHFuMjFOUjNjUEJJVWRTNkZDMU5BS2tsQnNaT2FDRFZjVzRwUnBmZEYtLWdpU0ItaEtuaEExdEZpNTlUZ0Z6dmZhSHdHXzF0MFZJN3g2MA?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2RLcUM2UFFnRWZFdk83dWZJYU85X21mLUZFTnBzbGRraHMzMlR6RHJJTGNpYVBrTHhPdnlyWi1WSEVqQ3JxLV9pVzY2cWRrdEpiRjBIcWVoN3o5ams4Z0M2eF9UMlNnMHRpWFRLWmZVd25lQUtkYVhyYi1sWmhPbmFRWHhHWmgzSGI2VFNod3R4WHM1UUxXZUhtdDFoTHpoSm1OU2ZYalpSWktpcGF5Y09acl9JZDVyX1hN?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "'Kind of hydration break I can get behind' - Real Madrid Legends clash interrupted as players served BEER & A SHOT - The Sun",
-          "b": "'Kind of hydration break I can get behind' - Real Madrid Legends clash interrupted as players served BEER & A SHOT  The Sun",
+          "t": "Germany Dachshund Art Exhibition - The Killeen Daily Herald",
+          "b": "Germany Dachshund Art Exhibition  The Killeen Daily Herald",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemlwR0pRel94cGpRR2V0NExTWXZCdjVSdy14eWY0b0JJLTZJTEdFUno0bFRTZ1A3bmVBVVY2RXBKQ0RFcDFSWFJoay1OSkkyMUsxQU5JdTVsaWxjOFJFN0tBOVF3WVZUZ0FXX0tVOENNdHJWbnVGZ04tcHRadUZkQ1RiT1hZRzZFT3MtT1VWTVBidmd4VHRR?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFFjai04MHZHR01oaDlfaU5ZS3drbDcxUFNDcEVLM1lVemlZM1VFeFNDaGxLcHBzRy02elJxSENrY3hhb1ViUUtLVzFpVkN6QUx4MDMyZlRVaFd6V0VBclVfR3d2SkxLUW9veTdpMjJzZHVpTlI4cnlXZGNLN2Zid0dvdGF1MkhmejNRcU1yNlI4eUxzYmdmVEF2SEJ3V0tnYWI5Mnd5Z18tanhVeDUyXzA2SQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Dachshund Art Exhibition - dailyrecordnews.com",
+          "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEtsT1Qxd2VrNThtazNMbmV2dkxHUm51QmVCbDVzM2ZPMFE5VnNPWWdwT0VmdjN3NjRNc085YXV0aWVXMTk4RWM5dzZ4dEhUN3JkYVhTOW5QLS1BSk44U0l1NkdIdkFxZUY5enVYaFNEWWpoZ3ZEV01saUN2LVdOenFmQTNGZlk1Y28tZW11M25telJFMnhEWDZPT3RwUWx4UGY1ZlZkcV9jOHNFN0NXWEZ6VHhuaHBtZUVqcWdNcS15THBubGF2NmpGR0F5cFk?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
+          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup - BVB Buzz",
+          "b": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup  BVB Buzz",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREwwQ3hJbEpjTE5mRFA5eXBqS1JwWEU3ZWxaczdrQjgtY3kwcGFlS0dIZkdXNHFnMzg1UjlBQVpPU0JYNU1XbUhQblJXelRCT0FwYmg3ek5PSnBvM3pnMlM4QnZOUzJVU1BTOGNFWHM4dlVRMHI1LW51TXVJVEtnaEFWTUQ5ckRXYTg3aFRfRWRlc19KWVRneXhxNW1tc2RJSDdpcDQ2UWJneXpmOVNvQzFwbWdWdXVZQ1hyeGRLNjdTbTR2c1BwVzFnSGllUQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more - Get German Football News",
+          "b": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXQ2d1RhSEF4MEpuak9FaVNkQWtYOUV5YkhTSXhzWmpqNG00NTJmakFsazB0dU1HYXhQS0tpTGRYRjlLOXl1NWVjejNTTHMzbEYzeTZxLWRWUS1UTXZxRnA0Q0xfUTl6bmNrQ0U1Szl0aFR6Q292WlVXYW42eXlNU1A1VmNaWlB5US1jNnVfVVdCUHNrcjh6S01KdWtPQTlYY05uNkFhelZLbU1EQzRMV1ppWDFrWC1KNXNKQ05QQjI?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Dortmund edge Bremen in German Cup - The Express Tribune",
+          "b": "Dortmund edge Bremen in German Cup  The Express Tribune",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSUZvM3A5bUJVQUJ1YTZ4UzQ1UG8wQlpTckRRR1dDSUlNZU1ZVXRMSHZPa3A5QkhDSHprQlI0M1RwMUw4MkxldGdzOWRPMERkWU1rS3BWRmZTQXdEakNCZEV2cUVxNjB4RWhjVUdWWUR0dERvSFh2TXNkY9IBgwFBVV95cUxPcjFwTTUtYWl4TzVqTzloQ0VyeU9rYmltT1hWQzJkalZNSDN4eGZENHVXUGMyTXVxRzhZYkk1NnJTLUVXTVJ3Y2puVk1BcVNjLWxLRUFsU293eF9GeEpSaGNxVGxSVHdUOGFUenp1NGM4ejlxVUxmMGU2NEcta1dMSndKOA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -209,9 +249,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "b": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -220,24 +261,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Händler",
-          "b": "<span class=\"jt\" data-g=\"lang_derhändler\">der Händler</span> — the dealer <span class=\"gram\">(plural: -)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "das Interview",
+          "b": "<span class=\"jt\" data-g=\"lang_dasinterview\">das Interview</span> — the interview <span class=\"gram\">(plural: -s)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "die Händlerin",
-          "b": "<span class=\"jt\" data-g=\"lang_diehändlerin\">die Händlerin</span> — the dealer <span class=\"gram\">(plural: -nen)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "inzwischen",
+          "b": "<span class=\"jt\" data-g=\"lang_inzwischen\">inzwischen</span> — meanwhile",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "das Handy",
-          "b": "<span class=\"jt\" data-g=\"lang_dashandy\">das Handy</span> — the cell phone <span class=\"gram\">(plural: -s)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "irgendein",
+          "b": "<span class=\"jt\" data-g=\"lang_irgendein\">irgendein</span> — any",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "hängen",
-          "b": "<span class=\"jt\" data-g=\"lang_hängen\">hängen</span> — hang <span class=\"gram\">(hängt · hing/hängte · hat gehangen/gehängt)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "irgendwann",
+          "b": "<span class=\"jt\" data-g=\"lang_irgendwann\">irgendwann</span> — at some point",
+          "src": "Goethe B1 · p.52"
         }
       ]
     }
