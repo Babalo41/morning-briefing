@@ -5,13 +5,13 @@
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "10-30",
       "10-31",
       "11-01",
       "11-02",
       "11-03",
       "11-04",
-      "11-05"
+      "11-05",
+      "11-06"
     ],
     "yticks": [
       0,
@@ -27,19 +27,19 @@
         "pts": [
           [
             0,
-            11.6
+            11.9
           ],
           [
             1,
-            12.0
+            11.4
           ],
           [
             2,
-            9.9
+            12.2
           ],
           [
             3,
-            11.3
+            8.9
           ],
           [
             4,
@@ -47,11 +47,11 @@
           ],
           [
             5,
-            8.5
+            7.1
           ],
           [
             6,
-            7.8
+            5.1
           ]
         ]
       }
@@ -65,32 +65,25 @@
     "catW": 76,
     "rows": [
       {
-        "k": "10-30",
-        "v": 0,
-        "lab": "0%",
-        "hero": false,
-        "tip": "12°C, Fog"
-      },
-      {
         "k": "10-31",
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "12°C, Fog"
+        "tip": "12°C, Light rain"
       },
       {
         "k": "11-01",
-        "v": 11,
-        "lab": "11%",
+        "v": 13,
+        "lab": "13%",
         "hero": false,
-        "tip": "10°C, Overcast"
+        "tip": "11°C, Light rain"
       },
       {
         "k": "11-02",
         "v": 45,
         "lab": "45%",
         "hero": true,
-        "tip": "11°C, Light rain"
+        "tip": "12°C, Light rain"
       },
       {
         "k": "11-03",
@@ -104,14 +97,21 @@
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "8°C, Overcast"
+        "tip": "9°C, Overcast"
       },
       {
         "k": "11-05",
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "8°C, Partly cloudy"
+        "tip": "7°C, Partly cloudy"
+      },
+      {
+        "k": "11-06",
+        "v": 0,
+        "lab": "0%",
+        "hero": false,
+        "tip": "5°C, Overcast"
       }
     ]
   },
@@ -137,7 +137,7 @@
       {
         "from": "tag_bremen",
         "to": "src_bremen_germany_google_news",
-        "v": 8
+        "v": 7
       }
     ]
   }

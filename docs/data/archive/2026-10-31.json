@@ -1,32 +1,32 @@
 {
-  "id": "2026-09-30",
-  "day": "Wed",
-  "dnum": "30",
-  "mon": "Sep",
-  "date": "Wednesday 30 September 2026",
-  "headline": "Briefing refreshed 18:55 Berlin time",
-  "stand": "Automatically rebuilt at 18:55 — 12 sections tracked.",
+  "id": "2026-10-31",
+  "day": "Sat",
+  "dnum": "31",
+  "mon": "Oct",
+  "date": "Saturday 31 October 2026",
+  "headline": "Briefing refreshed 05:00 Berlin time",
+  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "KXhfp201SOAx+zyOeF/SmLZXZ/EIpIOnnZ/jN/5fIPapof+ghbAU/Bol/9DKEvBNNEM9k+02nfSR9Dl9F0pP8UnjM+jkFA37ZpdC1smsOJ644nnh29KMydcVbmDwqi2EZxsEWAoYWQA1Nq1oE21oMu9fSkU0h4DIIWEOd7umTBx2F2YuqjZ4",
-      "iv": "a5sga4CHwdShELvQ",
-      "salt": "5U/qycfE8fryXZG7JrXnAg=="
+      "ciphertext": "UGIsSMHWHlkXQFMcjFKA4oo09NfHE69U1q5XlXJA4hbulWvw0hdDbniC/ZJtQ1IqTKeGQmgwr7ZzroOn7hqLfO+kME9J4CU6UfUGMnMV5BrQOWpYEXiN20UPsfoDau+d9V+eyBn7ZBfU9PlrCcQqWFQiMQbT9OeQc1Z7RF/+2PVY6ZASwz51",
+      "iv": "Yjo4ikIhKDFnfqFZ",
+      "salt": "AGL1y0RhzZR+yDT/Qxo6Pw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "24°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 26°C",
-          "b": "Low 15°C, gusts to 34 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 12°C",
+          "b": "Low 8°C, gusts to 17 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "frq00aOF2gU2mddhkfR+/NZdGQrR6mIQ+eeX6QWSlTNQF+k7cA9c9E1eR3sPCPL6P9R+Z8r/6Ntfum7+gfSMdRjHPrPSP3jEUh1C5FgzyOzSSlNK+J6pbvada6YCsd7bKnVTS+3A9Jh70pGH6d3pk6WbOdxgDNATCGLJ",
-      "iv": "Kf+SWCL6o0pVL1/0",
-      "salt": "pVm1rfIRKEQr3k4ktRSUCw=="
+      "ciphertext": "VDHoTUyXsMa7b0Ezl1X+67vqnIiPGICb/G9/pU2yYYZXYK6r/JrMY38F6zXMJaziLYD+JS3F3RiPmnNXhpda0db5SyDGlSmuzPaeG3lJEWe+Dt6LsBb2hLYEzl4uI4Td2if52OAbW8sdUEVuadpm5H4pIkNbKOd54Pe1",
+      "iv": "bbAamlLZxcHEvITk",
+      "salt": "rB5RZpnun3iMKPQGPlwlCg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "ADnAut7rM5JxUCRUCgX8vtUf5huufk7ZGpWd8vy5ifvUOJ0Au4SvELHzDx61RaCbu+k7BgDGZ3L3xzAChe3Bdd6m2UtCDYUm3oDVir1/IL062SMinefXe/F2Ak4pnOE0JvGTK0FP3lSqm7LjQG5CfrjnOMq6rVw4xCb1SuievBO+40XijW03iYxdw82u0MpF/0oSVmsB7OOShwBjvy/MCq/G8+3KKFQt1FTaHx80iUDgWLbjGyzFPX8pJTeudgrKnpOq8sWc9cgJzJTtFgpHgsF0KoOb6qAZcNksvom65AHOBxGOQd+J0qyT5Gfad838TF7mdJ0d",
-      "iv": "Xeelx8BmGOgxL9v4",
-      "salt": "mXx8b2zzJEtSEhMbNmXCJA=="
+      "ciphertext": "nEfeSrkaGmb1PcT91AM8pzdRTdGTXX5Gn264yVNCYG3Ohev28PIAIBLRE+JvRnDB855C8+LKQ4Hs9oOIX6GQhw+NOnEVTqp0ekMCL69+7R3ZfiAklI5dOHZ4+Lkwn9xzmAabG1Ag9A/B8pKH7iIAnuQPGSwGKFTXIH6doVOxIFfQN4Yv4TikbV5vNusI8G0tnswYIoSPZnwwMOQuyXyUXG0Yynx6Y5zPbyjhDphxT8TjO9Vcs9jJcW+ecPWuAp09Fh0wbF0moBWoMKTK32YPOEEzuenDSn+KB8h7WTgCDJUVqopKIGl6S6nDpDI0XUFiJNiVIQlf",
+      "iv": "Q/bAqMmsE1HNOwjD",
+      "salt": "gNs/e8YvfeCSooGLsJJACg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "ahnf+b7bARpyxxDhLqJg3d3C31FMJ3MerYRReqI1ABAcXupv6GTT1/RlBILXGrxBnnBkzaLXW6iTV8QAjqXsGiitNtsPfIdnJQVnCydd300r0pv+fpG95Dd+6O5x8TLXcVYyR1LD2oSZJdlo2pnXHN81ypmw59UFPnXChBsrw4L0zabMbYW3H6sTwQopRHClCGGpYX6B1ATZBTpw",
-      "iv": "ZytNlLsQe8nsGhmU",
-      "salt": "k1YTqQvCSwIYIB6fafjMew=="
+      "ciphertext": "MVlFZNIDDgQTDBRY5yIcSCx9JMjmLFJGCTBnK+RLL4S4uztX3xjDJImxtkJqlyj10JP6rUoAG2DaDvwJk7rQqZC8DR3QzWQBtP7km5pfw+semttIgjLVp7Ff3/46yP1oAlKX2A96XT6NMk8OiTjEaofiNVASya6Hyt4GHUzX8JN0LSV2KmMZbx8iW0JHZQ5ogQ2lxiU79v0euMTS",
+      "iv": "Y0WBQFC/F9liXQko",
+      "salt": "l3lR05dvo54T7/Sggm8n+A=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -140,10 +140,9 @@
       "h": "Network & Systems Engineering",
       "items": [
         {
-          "t": "Bandwidth billing software",
-          "b": "I work for a niche business only SP that allows customers to burst above their commit rate unless they request their services are capped. We currently use Observium's billing module with some custom enhancements to add multiple bursting rates as well as change the base rate depending on the customer",
-          "src": "Enterprise Networking Design, Support, and Discussion",
-          "u": "https://www.reddit.com/r/networking/comments/1wt6zh0/bandwidth_billing_software/"
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "network_systems"
@@ -164,10 +163,34 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
-          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
+          "t": "Werder Bremen vs Hoffenheim prediction, preview & betting tips – 31/10/2026 - Football Whispers",
+          "b": "Werder Bremen vs Hoffenheim prediction, preview & betting tips – 31/10/2026  Football Whispers",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZGhNSnhVNDM3WVBQeml1ZFZOcDE3elpndGVQZnlWQjJHb2M3SU5rc1NuNW1JSkQ5bl9jSVlEc3k1MlFTNlJWcHpXYTBrS01ndjllYlFoZXBQbjBzN29nRFB6QmZnN1hmMERzSWJPOUMzTGZsUzM5S25RRWo0dw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Panasonic Industry Europe to exhibit at Space Tech Expo in Bremen - Bisinfotech",
+          "b": "Panasonic Industry Europe to exhibit at Space Tech Expo in Bremen  Bisinfotech",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVFHWW8yS2NJbzNUMzN6VURybVdVbnlHaTJOOEFITTF3eThXaXowOGlTVFJPbHdzeVd0UkxaS2xCSmdTQVF0eFVkUUpUQV9HQXNEUjlEd2ljVl9pU0Q0UEhWc1dSaEhzMXZHdUtGcXFJM1QzRG1iZ2VRa0FPNmU5cHEyUzV5SHY5UHhBd08xOGlUdjhud3c2M0lB?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Dachshund Art Exhibition - The Batesville Daily Guard",
+          "b": "Germany Dachshund Art Exhibition  The Batesville Daily Guard",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2RLcUM2UFFnRWZFdk83dWZJYU85X21mLUZFTnBzbGRraHMzMlR6RHJJTGNpYVBrTHhPdnlyWi1WSEVqQ3JxLV9pVzY2cWRrdEpiRjBIcWVoN3o5ams4Z0M2eF9UMlNnMHRpWFRLWmZVd25lQUtkYVhyYi1sWmhPbmFRWHhHWmgzSGI2VFNod3R4WHM1UUxXZUhtdDFoTHpoSm1OU2ZYalpSWktpcGF5Y09acl9JZDVyX1hN?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Dachshund Art Exhibition - dailyrecordnews.com",
+          "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEtsT1Qxd2VrNThtazNMbmV2dkxHUm51QmVCbDVzM2ZPMFE5VnNPWWdwT0VmdjN3NjRNc085YXV0aWVXMTk4RWM5dzZ4dEhUN3JkYVhTOW5QLS1BSk44U0l1NkdIdkFxZUY5enVYaFNEWWpoZ3ZEV01saUN2LVdOenFmQTNGZlk1Y28tZW11M25telJFMnhEWDZPT3RwUWx4UGY1ZlZkcV9jOHNFN0NXWEZ6VHhuaHBtZUVqcWdNcS15THBubGF2NmpGR0F5cFk?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -188,24 +211,32 @@
           "rel": "interest"
         },
         {
-          "t": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries - Global South Opportunities",
-          "b": "DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+          "t": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup - BVB Buzz",
+          "b": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup  BVB Buzz",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLUZYZlM4c2hoOWdWNnI2Y1lFQjdpa3IyZWZYMW13QlZYSkxHakJBdnFnVVVuUm5xSWVJOWUyUk8tLWZTQ1BHT0psRzdzVDV6NE03ODNvYnlSSEhKS0VyZXNFUGYzNnliWFJQVQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREwwQ3hJbEpjTE5mRFA5eXBqS1JwWEU3ZWxaczdrQjgtY3kwcGFlS0dIZkdXNHFnMzg1UjlBQVpPU0JYNU1XbUhQblJXelRCT0FwYmg3ek5PSnBvM3pnMlM4QnZOUzJVU1BTOGNFWHM4dlVRMHI1LW51TXVJVEtnaEFWTUQ5ckRXYTg3aFRfRWRlc19KWVRneXhxNW1tc2RJSDdpcDQ2UWJneXpmOVNvQzFwbWdWdXVZQ1hyeGRLNjdTbTR2c1BwVzFnSGllUQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Unification minister to visit Ireland, Northern Ireland, Germany from this week - The Korea Times",
-          "b": "Unification minister to visit Ireland, Northern Ireland, Germany from this week  The Korea Times",
+          "t": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more - Get German Football News",
+          "b": "PODCAST | Matchday 7 review - Gladbach finally win, Werder Bremen go marching on, plus more  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTEzVGMwcm1ITEpsTVdMTGhmVUx4YW55Q0g5cGZpQlBWNWlHYVlEdDhpeUZ1XzNoejZyZHFPdHlWN2J6WGdJNy1JQ3A3OWxScUk5Vmx0UXVEVVYtZXZIWEtZZHBSWkxnVUxMNjJxWVZrWkZhTFJtS29ueUlwTV9DZkxxWndGa25icHpCbU52R2hfZEQzYTJpaEkwZEtET1YtVi1OQVVXdHUzOWdRZUlQVTdxNl9nMW5hUFZNRjVjcFJVTlkwdlRMcjBR0gHPAUFVX3lxTE94LVo0eFJaeDNYbWdkSmF0RXh2aVhUV2FXeU1qTVBydndaVkVrX0ZNZlhoR2dsYkJ1SGhFaVhKTTdPblNkUl9feVJfYTZwM3ZEOC1nc3RRdHJSa0ZCSm1LOHVNSUwycmRKMFotR01KSzZ0ekxGS2VTd1ljOVI4eUs3VHFuMjFOUjNjUEJJVWRTNkZDMU5BS2tsQnNaT2FDRFZjVzRwUnBmZEYtLWdpU0ItaEtuaEExdEZpNTlUZ0Z6dmZhSHdHXzF0MFZJN3g2MA?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXQ2d1RhSEF4MEpuak9FaVNkQWtYOUV5YkhTSXhzWmpqNG00NTJmakFsazB0dU1HYXhQS0tpTGRYRjlLOXl1NWVjejNTTHMzbEYzeTZxLWRWUS1UTXZxRnA0Q0xfUTl6bmNrQ0U1Szl0aFR6Q292WlVXYW42eXlNU1A1VmNaWlB5US1jNnVfVVdCUHNrcjh6S01KdWtPQTlYY05uNkFhelZLbU1EQzRMV1ppWDFrWC1KNXNKQ05QQjI?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "📌 2027 Fully Funded",
-          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities DAAD Scholarship 2027 at University of Bremen in Germany: Fully Funded MSc Marine Biology for Developing Countries  Global South Opportunities",
+          "t": "Dortmund edge Bremen in German Cup - The Express Tribune",
+          "b": "Dortmund edge Bremen in German Cup  The Express Tribune",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSUZvM3A5bUJVQUJ1YTZ4UzQ1UG8wQlpTckRRR1dDSUlNZU1ZVXRMSHZPa3A5QkhDSHprQlI0M1RwMUw4MkxldGdzOWRPMERkWU1rS3BWRmZTQXdEakNCZEV2cUVxNjB4RWhjVUdWWUR0dERvSFh2TXNkY9IBgwFBVV95cUxPcjFwTTUtYWl4TzVqTzloQ0VyeU9rYmltT1hWQzJkalZNSDN4eGZENHVXUGMyTXVxRzhZYkk1NnJTLUVXTVJ3Y2puVk1BcVNjLWxLRUFsU293eF9GeEpSaGNxVGxSVHdUOGFUenp1NGM4ejlxVUxmMGU2NEcta1dMSndKOA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "📌 Germany Dachshund Exhibition",
+          "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com Germany Dachshund Art Exhibition  The Batesville Daily Guard",
           "src": "insight",
           "u": null
         }
@@ -216,9 +247,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "b": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -227,24 +259,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "hart",
-          "b": "<span class=\"jt\" data-g=\"lang_hart\">hart</span> — hard",
-          "src": "Goethe B1 · p.48"
+          "t": "irren",
+          "b": "<span class=\"jt\" data-g=\"lang_irren\">irren</span> — err <span class=\"gram\">(irrt sich · irrte sich · hat sich geirrt)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "hassen",
-          "b": "<span class=\"jt\" data-g=\"lang_hassen\">hassen</span> — hate <span class=\"gram\">(hasst · hasste · hat gehasst)</span>",
-          "src": "Goethe B1 · p.48"
+          "t": "ja",
+          "b": "<span class=\"jt\" data-g=\"lang_ja\">ja</span> — yes",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "hässlich",
-          "b": "<span class=\"jt\" data-g=\"lang_hässlich\">hässlich</span> — ugly",
-          "src": "Goethe B1 · p.48"
+          "t": "die Jacke",
+          "b": "<span class=\"jt\" data-g=\"lang_diejacke\">die Jacke</span> — the jacket <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.52"
         },
         {
-          "t": "häufig",
-          "b": "<span class=\"jt\" data-g=\"lang_häufig\">häufig</span> — often",
-          "src": "Goethe B1 · p.48"
+          "t": "die Jause",
+          "b": "<span class=\"jt\" data-g=\"lang_diejause\">die Jause</span> — the snack <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.52"
         }
       ]
     }

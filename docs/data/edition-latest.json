@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-30",
-  "day": "Fri",
-  "dnum": "30",
+  "id": "2026-10-31",
+  "day": "Sat",
+  "dnum": "31",
   "mon": "Oct",
-  "date": "Friday 30 October 2026",
+  "date": "Saturday 31 October 2026",
   "headline": "Briefing refreshed 05:00 Berlin time",
   "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
   "blocks": [
@@ -11,22 +11,22 @@
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "zWkbieyMpvnfw+HrtWyovRn1tO6Tf1tX17r4/CKRgC0R/Zb6eAnhIucsrfy8OEY4ZDygS3bRDxbBL8o1k6x/Lrcni5ZGEcLPheYWj4yKSAalIfhwydomFvtwRMy7X+NNVbfCrIFb3uI54uCmb8yP29RQAikayZt4SCPV7V12ktmyF33945Rl",
-      "iv": "GACrlUIdNJqaC9VS",
-      "salt": "eF0HA6D3LF1cssn1bA1UQA=="
+      "ciphertext": "UGIsSMHWHlkXQFMcjFKA4oo09NfHE69U1q5XlXJA4hbulWvw0hdDbniC/ZJtQ1IqTKeGQmgwr7ZzroOn7hqLfO+kME9J4CU6UfUGMnMV5BrQOWpYEXiN20UPsfoDau+d9V+eyBn7ZBfU9PlrCcQqWFQiMQbT9OeQc1Z7RF/+2PVY6ZASwz51",
+      "iv": "Yjo4ikIhKDFnfqFZ",
+      "salt": "AGL1y0RhzZR+yDT/Qxo6Pw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "6°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
           "t": "Bremen: fog, high 12°C",
-          "b": "Low 6°C, gusts to 12 km/h. 7-day outlook below.",
+          "b": "Low 8°C, gusts to 17 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Q7MfJb62eSCRB70jCsLpdJ46gz8khoRKLPtRfIPbklY+FfFDiHm6phnvDkG3giTUbZKTqPzB3BMGJw5nVmse4HLyVILoyY1fzCOB6uJZVii00t2GN65C6VlS0Gqtyr73MnbmF8YwLvXB6Qc6GfsZMz1WT0/c/518HaeI",
-      "iv": "5Hi8vPWN55Iw0Keq",
-      "salt": "YymH+g+vRcKk2ETa7jtTPg=="
+      "ciphertext": "VDHoTUyXsMa7b0Ezl1X+67vqnIiPGICb/G9/pU2yYYZXYK6r/JrMY38F6zXMJaziLYD+JS3F3RiPmnNXhpda0db5SyDGlSmuzPaeG3lJEWe+Dt6LsBb2hLYEzl4uI4Td2if52OAbW8sdUEVuadpm5H4pIkNbKOd54Pe1",
+      "iv": "bbAamlLZxcHEvITk",
+      "salt": "rB5RZpnun3iMKPQGPlwlCg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "J7Zdul811Z+Ls/9rDAQhi69Ir2GB7bTuVdG09nS1KJKd391VhU/FTJCDjlztXaLFm7BMx7jRhIulK+nMpuvgjEvmGsp8ax0MA9nK92sQEqqjKpl+8aKPDbK5cE5UVSsIVq9anCE+EEi8zTsCLa+xgjLyCPzp9V8hV+bzIUl4jfK5FvMSEHnIHQLAHoWdcT9zzK4hmSE/foIPhn69ryoKvQtoz4A8M37uhUBqxERCWhUouXrD+uNESnzzGuXgIAqHQDAGCw/Y1qjVoCqSL1T/Vm4pyvQHrYayBDzlpfeKacz+xa03sK6asCbcBIyeUz+E4n7d2VKB",
-      "iv": "e+vTEjf5IKAt27xM",
-      "salt": "d1qFQk2vbgRgMpdeJ3irXA=="
+      "ciphertext": "nEfeSrkaGmb1PcT91AM8pzdRTdGTXX5Gn264yVNCYG3Ohev28PIAIBLRE+JvRnDB855C8+LKQ4Hs9oOIX6GQhw+NOnEVTqp0ekMCL69+7R3ZfiAklI5dOHZ4+Lkwn9xzmAabG1Ag9A/B8pKH7iIAnuQPGSwGKFTXIH6doVOxIFfQN4Yv4TikbV5vNusI8G0tnswYIoSPZnwwMOQuyXyUXG0Yynx6Y5zPbyjhDphxT8TjO9Vcs9jJcW+ecPWuAp09Fh0wbF0moBWoMKTK32YPOEEzuenDSn+KB8h7WTgCDJUVqopKIGl6S6nDpDI0XUFiJNiVIQlf",
+      "iv": "Q/bAqMmsE1HNOwjD",
+      "salt": "gNs/e8YvfeCSooGLsJJACg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "8olpwNzkgKocEI8pseK/p0F0YCluMTmBm0We6C1QEzw7RptNKaW0rwSWk72B93eRV2DTatq08zZOZv3lEXmJuVyO9/SfEWgqE7w3PCKsV1Nvk/WZ8MSU5xLQ1Z7gTTFVsM1Ia9M4cn4Sns9hm5bu/CSsBk+t1DTF8JtuAvhimLdK5AHH17RuFzpQTZdoHshk7F8oP1DFzz+YbLVZ",
-      "iv": "JXukO1NGZwEWk3lX",
-      "salt": "2UffJama6vRP450IruxW+g=="
+      "ciphertext": "MVlFZNIDDgQTDBRY5yIcSCx9JMjmLFJGCTBnK+RLL4S4uztX3xjDJImxtkJqlyj10JP6rUoAG2DaDvwJk7rQqZC8DR3QzWQBtP7km5pfw+semttIgjLVp7Ff3/46yP1oAlKX2A96XT6NMk8OiTjEaofiNVASya6Hyt4GHUzX8JN0LSV2KmMZbx8iW0JHZQ5ogQ2lxiU79v0euMTS",
+      "iv": "Y0WBQFC/F9liXQko",
+      "salt": "l3lR05dvo54T7/Sggm8n+A=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,10 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "Germany Dachshund Art Exhibition - Goshen News",
-          "b": "Germany Dachshund Art Exhibition  Goshen News",
+          "t": "Werder Bremen vs Hoffenheim prediction, preview & betting tips – 31/10/2026 - Football Whispers",
+          "b": "Werder Bremen vs Hoffenheim prediction, preview & betting tips – 31/10/2026  Football Whispers",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzBveVNvVDhPbU9xZjVOQ2RqLV9jaU9CejUzV2VtMXFzYWE0VFN3ZDR1WkpjZFNDajRhZEVaR2lvcURHZEZRbFNxSXVhdHlNMjNETktVeUtkeTRzODQxLTFzQXVPWHBPS1hDbjd4M0F1Y1Jjb3R4SEh0ZnVwdkw0c3FRYWpEZHFrWnhKRU5vTzY1ck4xTm9aWEdVTVpmMjFJc0g2REdlTXlYUkI4Ymw0eGl5QVB5VkNOakdFdWRBeFhJeTMz?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xZGhNSnhVNDM3WVBQeml1ZFZOcDE3elpndGVQZnlWQjJHb2M3SU5rc1NuNW1JSkQ5bl9jSVlEc3k1MlFTNlJWcHpXYTBrS01ndjllYlFoZXBQbjBzN29nRFB6QmZnN1hmMERzSWJPOUMzTGZsUzM5S25RRWo0dw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Panasonic Industry Europe to exhibit at Space Tech Expo in Bremen - Bisinfotech",
+          "b": "Panasonic Industry Europe to exhibit at Space Tech Expo in Bremen  Bisinfotech",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVFHWW8yS2NJbzNUMzN6VURybVdVbnlHaTJOOEFITTF3eThXaXowOGlTVFJPbHdzeVd0UkxaS2xCSmdTQVF0eFVkUUpUQV9HQXNEUjlEd2ljVl9pU0Q0UEhWc1dSaEhzMXZHdUtGcXFJM1QzRG1iZ2VRa0FPNmU5cHEyUzV5SHY5UHhBd08xOGlUdjhud3c2M0lB?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -179,14 +187,6 @@
           "rel": "home"
         },
         {
-          "t": "Germany Dachshund Art Exhibition - The Killeen Daily Herald",
-          "b": "Germany Dachshund Art Exhibition  The Killeen Daily Herald",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFFjai04MHZHR01oaDlfaU5ZS3drbDcxUFNDcEVLM1lVemlZM1VFeFNDaGxLcHBzRy02elJxSENrY3hhb1ViUUtLVzFpVkN6QUx4MDMyZlRVaFd6V0VBclVfR3d2SkxLUW9veTdpMjJzZHVpTlI4cnlXZGNLN2Zid0dvdGF1MkhmejNRcU1yNlI4eUxzYmdmVEF2SEJ3V0tnYWI5Mnd5Z18tanhVeDUyXzA2SQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Germany Dachshund Art Exhibition - dailyrecordnews.com",
           "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com",
           "src": "\"Bremen, Germany\" - Google News",
@@ -195,12 +195,20 @@
           "rel": "home"
         },
         {
-          "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-          "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
         },
         {
           "t": "Borussia Dortmund 3-2 Werder Bremen: Player ratings as BVB advance into the third round of German Cup - BVB Buzz",
@@ -227,20 +235,10 @@
           "rel": "home"
         },
         {
-          "t": "Tracking: Bhavnagar",
-          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Bhavnagar",
-          "rel": "family"
-        },
-        {
-          "t": "Tracking: Surat",
-          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Surat",
-          "rel": "interest"
+          "t": "📌 Germany Dachshund Exhibition",
+          "b": "Germany Dachshund Art Exhibition  dailyrecordnews.com Germany Dachshund Art Exhibition  The Batesville Daily Guard",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -249,10 +247,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-          "b": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+          "t": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "b": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
           "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+          "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -261,23 +259,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Interview",
-          "b": "<span class=\"jt\" data-g=\"lang_dasinterview\">das Interview</span> — the interview <span class=\"gram\">(plural: -s)</span>",
+          "t": "irren",
+          "b": "<span class=\"jt\" data-g=\"lang_irren\">irren</span> — err <span class=\"gram\">(irrt sich · irrte sich · hat sich geirrt)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "inzwischen",
-          "b": "<span class=\"jt\" data-g=\"lang_inzwischen\">inzwischen</span> — meanwhile",
+          "t": "ja",
+          "b": "<span class=\"jt\" data-g=\"lang_ja\">ja</span> — yes",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "irgendein",
-          "b": "<span class=\"jt\" data-g=\"lang_irgendein\">irgendein</span> — any",
+          "t": "die Jacke",
+          "b": "<span class=\"jt\" data-g=\"lang_diejacke\">die Jacke</span> — the jacket <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.52"
         },
         {
-          "t": "irgendwann",
-          "b": "<span class=\"jt\" data-g=\"lang_irgendwann\">irgendwann</span> — at some point",
+          "t": "die Jause",
+          "b": "<span class=\"jt\" data-g=\"lang_diejause\">die Jause</span> — the snack <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.52"
         }
       ]

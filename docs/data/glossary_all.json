@@ -2158,5 +2158,37 @@
     "lang": "de-DE",
     "d": "At some point",
     "w": "“Ich habe Sie irgendwann schon mal gesehen.”"
+  },
+  "lang_irren": {
+    "t": "irren",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Err",
+    "w": "“Du irrst dich. Das Auto war nicht grün, sondern rot.”"
+  },
+  "lang_ja": {
+    "t": "ja",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Yes",
+    "w": "“Sind Sie verheiratet? – Ja.”"
+  },
+  "lang_diejacke": {
+    "t": "die Jacke",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The jacket",
+    "w": "“Zieh dir eine Jacke an. Es ist kalt.”"
+  },
+  "lang_diejause": {
+    "t": "die Jause",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The snack",
+    "w": "“Es ist Zeit für eine kleine Jause.”"
   }
 }
