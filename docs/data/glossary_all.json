@@ -2190,5 +2190,29 @@
     "lang": "de-DE",
     "d": "The snack",
     "w": "“Es ist Zeit für eine kleine Jause.”"
+  },
+  "lang_je": {
+    "t": "je",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Ever",
+    "w": "“Je länger ich Deutsch lerne, desto besser kann ich es verstehen.”"
+  },
+  "lang_diejeanspljeder": {
+    "t": "die Jeans (Pl.) jeder",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The jeans (pl.) everyone",
+    "w": "“Nicht nur junge Leute tragen Jeans.”"
+  },
+  "lang_jederzeit": {
+    "t": "jederzeit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "At any time",
+    "w": "“Sie können mich jederzeit anrufen.”"
   }
 }
