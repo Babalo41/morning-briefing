@@ -2214,5 +2214,37 @@
     "lang": "de-DE",
     "d": "At any time",
     "w": "“Sie können mich jederzeit anrufen.”"
+  },
+  "lang_jedes": {
+    "t": "jedes",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Each",
+    "w": "“Inge erzählt die Geschichte jedes Mal anders.”"
+  },
+  "lang_jedoch": {
+    "t": "jedoch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "However",
+    "w": "“Sie ruft immer wieder an, jedoch ohne Erfolg.”"
+  },
+  "lang_jemals": {
+    "t": "jemals",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Ever",
+    "w": "“Hast du jemals von dem Problem gehört? – Nein, nie.”"
+  },
+  "lang_jemand": {
+    "t": "jemand",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Someone",
+    "w": "“Hat jemand einen Bleistift für mich?”"
   }
 }

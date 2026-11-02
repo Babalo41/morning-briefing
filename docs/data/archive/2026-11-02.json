@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-02",
-  "day": "Fri",
+  "id": "2026-11-02",
+  "day": "Mon",
   "dnum": "02",
-  "mon": "Oct",
-  "date": "Friday 02 October 2026",
-  "headline": "Briefing refreshed 16:22 Berlin time",
-  "stand": "Automatically rebuilt at 16:22 — 12 sections tracked.",
+  "mon": "Nov",
+  "date": "Monday 02 November 2026",
+  "headline": "Briefing refreshed 21:24 Berlin time",
+  "stand": "Automatically rebuilt at 21:24 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Azv9UulCZbNSgFY1FdT18gzoBnvLRxXX1IxIsarbKsbBjeYeh33PQHf6h1ZDwvcR2KHbi4IgS8A+F8byfp54qlLmsZFcQo5HqMm/rcLv1a3eiB9vvRSJfJ9oSRtbTUmRVTaCfhldPzEc7fdaoV40XSttHxGyf9rI6YDN6ZjRfNyrIcckSCUz",
-      "iv": "cdxgoUuHV+L9W7WG",
-      "salt": "K1lt84GNAW5iyvBu0CXMEA=="
+      "ciphertext": "SchCwtgdaqURn5hTcKPSVinvCoZnGu4i4WAsK/XGlEgCWASgnhFma7VxJ6GWMKUxwDc9yix0r8SYKy1GT0HvabuiPh+VxrcF5b8jZrc4l5S9Isoxxwl0aNY3dVPiK29ZUMaUw1ATwT9y0Ava6jkzlsMLYEGFO+2+TQWm1zBW1wBN8nm1Ks7w",
+      "iv": "o4y7DDZ37nfBINP9",
+      "salt": "RqjQ21HnlntkuQCu1s1rvQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "19°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 19°C",
-          "b": "Low 14°C, gusts to 19 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 8°C, gusts to 16 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "/1SzPObUyHIVtq7ZQaNtP9jF3QjKlU6m/KzX+ivfKYlxNTvT9l8L/7EtOG+SEspMyeRPh/mkHXoMh3RbuA0NNMp0JMC3pj/3KI+9lkuGJu3MylNqsYfShoMgp8zck9td7zhvqfL1Ehtk9ikHSePxphUw28xB7tCq5IJw",
-      "iv": "SHJ8FpIoKUg8V5+U",
-      "salt": "U+StLMaVMGMTcA9xgazZIQ=="
+      "ciphertext": "QA+yk6BlXxHJWHtu7rg4CG349CorKoGVfssRMSI22uB589iO8+Mxk/3B+RuOO7W5nEucICrJz7AcO2N8OrOund7HvI33XyuqFZQ5BilI0bteFNFFYaVv27qIY/Li+23S4/O5trwFfe75JvRjNxTMS6nlSIMv7sBiPdrP",
+      "iv": "V7kCgpBW6PHnGHDu",
+      "salt": "yKKEyg+VjHwBIU+6X3/DkQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "Es+Siw5WRTMnPOLHiI3J37sGeSwzF8wnw+VpvZwnOheK1pGwxPP/+kBvqw+JzRAqIK5bhqlWopjXFNhBAWT8Ost5+/iRvEEVbEt4xhSrL6Px6AKkV1PKqLBuJtmembR+Oh4AB24J870odJSL58QifMK7iwUBsJhjjZZD+Y6LgzYTWXCG0fzCuRhbUsXUL/7ZzNkbtLHwRS2rTzzTa8pHi2oEmUA+N5f50SvTch10XXT5tNivHxTaxHZJAXAQegP6RQ54mcW2GuVt4pAkaAE/xb2bmv7TYkp6VkU5EsCSLcSuGOaCp3aAmmmK5ZfCyaOQm4SSCyIj",
-      "iv": "nF3Cgkh5jQrPco2e",
-      "salt": "P4+VEbSr6tkEll/WfVmgcg=="
+      "ciphertext": "kMvlDM1K2YW7WJVVAUF4gZFdkx9NztX8edsCRMLRLS6KKVVOA9WRk6NYAw3QfUsK9icCly+saolQkNVDQf5ybK+Rvmwy4taqZp5a9t9FdfFY/4N3l7+falkgIa6mZnnw/KrEz9QkD3ihqWCM5bH6ftFCpqbJJKo/i/brHXnEu9oBqXwYs5qh4NzPseskYSPKlO1OF/KAo83cxYwcCxyFq1C55TSOo3brCYOq21CLsK3fgP+yVo2rLkPra8yHtjag3uHUKhW9itk0osiKbVK3JB36gkYGpvAwvWzEk2IsR6KMOA/Je7I+v13miuSmuPUg8ENq/8jQ",
+      "iv": "f6UDnrbbzQBpJece",
+      "salt": "CF1+SJbY4xW1fM7jLL34qw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "/DHu5hqSaOWtJ7DeU+EiXVlp0FvtVe2NRdLc0VBSnhtLHcRPkYj//Ub6+oNOQiN6MpUS3Sxns5eZcxkVIwpHBNnjidm5JPZa/H5PgHuWHebIXiyC0JZUH++gGtx3Mpytfdkt7WPHtz2/5B0+ABiTeaF087z0V15RqVuezBuMtcOomS9vijFNyvzcQJBCm4QxmalB0tXVTLTeygr5",
-      "iv": "4W3Too+acR3pjfYw",
-      "salt": "RDbWYkvqSt+7saE7MkklYA=="
+      "ciphertext": "bF3EXza3Y1VGXsFuFYD2vCRaAPQrlZ2yvXbxp+8YkrhL8stNKS+dGoR2Kw7WgLH95keQcitygkULsTRV+heoQjUrROD9vBNzmaSm92aEFWZ/T1A4k+fdP+Iot5JCSJQymD3wvEalcWO3T+MWpTBzqhUrESN/vVC7J9oCEKQ3fRiRDaXU5enl2IhJWDiCIHDFTnmwwBQEXQ4chjKu",
+      "iv": "djZRCeLqDrgL/YPs",
+      "salt": "BGRlIoeo6SFjG76euJA/qg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+          "b": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+          "src": "BleepingComputer",
+          "u": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/"
         }
       ],
       "feed_section": "work_industry"
@@ -163,18 +164,34 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75) - Unisba Media",
-          "b": "What Is It Like Driving Through Northern Germany? 🇩🇪 Bremen To Hamburg 4K Mother's Day (7CLdfG5i75)  Unisba Media",
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3A3WUVOTHlpdHlDMnRUcVltWUVvX1BVTjlZeFJMYVEwaF9LanFJM1o4NXpPRG1xRnZoSXQ0NG05allwc01ub2h4ai1XZzVtVFZaOWxlLUUwNlJHdDdJMlN6aTNFQW1OdDVFcnFqWHd6TGVUVXlCLWYxWUJRN1huTGF3?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen - Global South Opportunities",
-          "b": "Call for Applications: European Winter School for Women 2027 - Fully Funded Participation at University of Bremen  Global South Opportunities",
+          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art - Temple Daily Telegram",
+          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art  Temple Daily Telegram",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN2EtQnhXeVNUY3VodmJ4dzNlVGxKWUx4bHVxcU1xam5CTkRLZUtxdXlHalNwMFNCS2hrejFua1ZwaWxPTGFOZ3FWbEhVX0ktZkhkMWhXNnI1cjZWMGM1YTBtUlJDemNQOXFsUmNn?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2JYUHdUMDR6TnZ0VDdwUHVOazdaa2F6aXJuZ1JhUDJrTnphaG54ekxwd3VQTWdscFlGSmtubzJzYW44UWFpTjYzNUJvdHVISDVNOEJ5YlZ2N2t1YWx6cFg5M2VVWDBYcUZnWW5MNUtfblN3MjBGd3RoX3RsQVFiVi1fcVk?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Dachshund Art Exhibition - Bluefield Daily Telegraph",
+          "b": "Germany Dachshund Art Exhibition  Bluefield Daily Telegraph",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajNTVVkzOFEyRHZNSGlFdkkxbWRvbUVoSmw2bEh4U2ZGck05OUVsNm42LVB0aUcwVC1EdlptaE95LVh5SkFYeFU3UURCclZ3bEN3Zk1qc0RGS2pDczA3dUhJaklEYjJySk5YaUNLeWtwRnZibG5QdXNUd1Nkb1FSYi1ITjRlRGpjSnN3VThLSnFrQWE5N1FQbFJfZkdaWTU4NWlYeUpHWE9NZ00wb2c3Vm5YOXRiUEYyc2F6N0Y0SWE0Zw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Niclas Füllkrug Propels Bremen Further Up the Standings - blue News",
+          "b": "Niclas Füllkrug Propels Bremen Further Up the Standings  blue News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEtsakxsWnVjbWtnZGFjSU1jTWNsSHBsMTJkY1NfUnJ4MGhiOFh2alBnNWtTbjRocDJ3UV9fd21MVE9UYlNZdFphSjFGTkp5VFZPQkx3cnRTX3lZaWlVNjlZRmJQSGtMWDZmVjljQzctN0ZtT0dQR2xCQXY4TktfNGlON2RRbFBoS0owVjhtQlVjbS1hWDczUW56VGtrZXBzd284cXJaVHcxRnc?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -193,6 +210,38 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art - AP News",
+          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art  AP News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmVsYlZFOHY4cEQwS0V5VHd2TV9CMlk0NG9ySWhKb29QSVpsQWRSSVMyN1czYTdPOHRUWXZpYkN3VG52VGdxMjJILXVvXzkwYWpUTXlrSXBJZV9aRENMTGVPaGFuUTFnQ3RwNWpoOWxKQmlCcS1QbzR6TklTN1JyaHg2ZUVldmpkNFNuczF3bjlSZlc4VGVaOVNZUVFjMzdqdTdFMVQzOWJ3aDF4TEo5LQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Free-scoring Niclas Füllkrug strikes again - Get German Football News",
+          "b": "Free-scoring Niclas Füllkrug strikes again  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzZ4aTZ0STAyOVRCOUY5MUlvcWRzUnpKRTk2eURUdVFRVHNnUjNoSmw1VEtHaHVuSEdGTzUxTW9od3YzNE91cHYyUTQxSDFEUnhud0xDbkRDN0Zsem5mZTVmVmJlSlA1TjFGeGNzaVVBRFF1Q1FPaWg3ZTVPaGxickRIVmh6ZEE4?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Dachshunds at the center of exhibition in Germany - Taipei Times",
+          "b": "Dachshunds at the center of exhibition in Germany  Taipei Times",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15LUwyZ2tQemx4QUktS0VNZkxrVHVMRTVwaDdfa3hxXzJQZ2l0aFB3XzJfN1dfMkk5dGJselB1VDdUTDFkT1hhWS1SWTQzOVlVOGljb1BLNnBDTzdZZ3BDMHNXSTJmb0VjWGFfTUJfMjNvOENSUjgxcg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art - Traverse City Record-Eagle",
+          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art  Traverse City Record-Eagle",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcDBtclJaUkNVODBWZmFoSjVDRlBLQTNGQk1OeHlraEZKeDU0eExGQ2hGOFpNZnV0VEgzU3F2a0g5Yk51cGx5OGp0QXVfRWk5Rk10ZFlPQmo3UWkzMTZ3dzJtQVN5aGhhaEdTOWc2TGlVLXZSakRDSTU0eDNKZGFaRmxrdGZvbkY0NmRFbExuNUU0ZE9ZTXRyMFlXM2pmZVVkejMtTm5ldjNnYVVqcnRPUTdHWDVpUnVOOU01UkN3TGRyeVgzYkdPLVlpb3JCOHFyb2JvclhVUjF3aFY5LXhtb1ZNcTdhdTNQVjhxajNYQTZidFdQODA4S2xYTWMtaVZKSkVWRGtLcXBOdw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -212,24 +261,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Hausfrau/der",
-          "b": "<span class=\"jt\" data-g=\"lang_diehausfrauder\">die Hausfrau/der</span> — the housewife/the",
-          "src": "Goethe B1 · p.49"
+          "t": "jedes",
+          "b": "<span class=\"jt\" data-g=\"lang_jedes\">jedes</span> — each",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "mann",
-          "b": "<span class=\"jt\" data-g=\"lang_mann\">mann</span> — man",
-          "src": "Goethe B1 · p.49"
+          "t": "jedoch",
+          "b": "<span class=\"jt\" data-g=\"lang_jedoch\">jedoch</span> — however",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "der Haushalt",
-          "b": "<span class=\"jt\" data-g=\"lang_derhaushalt\">der Haushalt</span> — the household <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "jemals",
+          "b": "<span class=\"jt\" data-g=\"lang_jemals\">jemals</span> — ever",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "der Hausmeister",
-          "b": "<span class=\"jt\" data-g=\"lang_derhausmeister\">der Hausmeister</span> — the caretaker <span class=\"gram\">(plural: -)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "jemand",
+          "b": "<span class=\"jt\" data-g=\"lang_jemand\">jemand</span> — someone",
+          "src": "Goethe B1 · p.53"
         }
       ]
     }

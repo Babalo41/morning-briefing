@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-01",
-  "day": "Sun",
-  "dnum": "01",
+  "id": "2026-11-02",
+  "day": "Mon",
+  "dnum": "02",
   "mon": "Nov",
-  "date": "Sunday 01 November 2026",
-  "headline": "Briefing refreshed 14:52 Berlin time",
-  "stand": "Automatically rebuilt at 14:52 — 12 sections tracked.",
+  "date": "Monday 02 November 2026",
+  "headline": "Briefing refreshed 21:24 Berlin time",
+  "stand": "Automatically rebuilt at 21:24 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "QiqI5q9FRDVSJQ0WtWAGcZx/PPv4ooyR9gYCdJ9eE9aKRATn1brywoIykt52g2VaynPQeoN2Y+L5iR+UnnYRvtDfwUk+tRo0KIvjN/drzWID5JHBfwqDfDRakLiXHxELVVZ9PwB3+9sFEZiEP+qKS5LIGegzZrEO95XzJcJqP35eCK3JC7Sa",
-      "iv": "D0p6nzBmDQuDDsgc",
-      "salt": "I1Zxiak1a/ZDFvHWR7xYOA=="
+      "ciphertext": "SchCwtgdaqURn5hTcKPSVinvCoZnGu4i4WAsK/XGlEgCWASgnhFma7VxJ6GWMKUxwDc9yix0r8SYKy1GT0HvabuiPh+VxrcF5b8jZrc4l5S9Isoxxwl0aNY3dVPiK29ZUMaUw1ATwT9y0Ava6jkzlsMLYEGFO+2+TQWm1zBW1wBN8nm1Ks7w",
+      "iv": "o4y7DDZ37nfBINP9",
+      "salt": "RqjQ21HnlntkuQCu1s1rvQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "10°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 10°C",
-          "b": "Low 8°C, gusts to 20 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 12°C",
+          "b": "Low 8°C, gusts to 16 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "fpa5FMGxGLsVUbQh4bBymK1nRI8sqI5kZrQQfHuZ+bLIVbwIILDlBsAOvboGcuz6Y47Y7WDVGCLg+fWOt2eZ03hX5/YGloiANDDRSpIWZ8VAFViPuaFPGQqzw/GSssUXZV+b6ZQ2NYQgvLWz3JoxtfcMdwFfXHbKCEtR",
-      "iv": "FauggUXV1bw5pC8u",
-      "salt": "DE31sjdjO/oM7hvYwTrUpw=="
+      "ciphertext": "QA+yk6BlXxHJWHtu7rg4CG349CorKoGVfssRMSI22uB589iO8+Mxk/3B+RuOO7W5nEucICrJz7AcO2N8OrOund7HvI33XyuqFZQ5BilI0bteFNFFYaVv27qIY/Li+23S4/O5trwFfe75JvRjNxTMS6nlSIMv7sBiPdrP",
+      "iv": "V7kCgpBW6PHnGHDu",
+      "salt": "yKKEyg+VjHwBIU+6X3/DkQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "XJ1EAZLn6paYuRLin7dn7HJLfl9nvAE7ke1dE6OVbq7I7WmI8ib/gT4MWdnl3WSiC16icTKF1ypVtvMGQgW2GuGvIlgZUW66bSAzbGz5HMW9udhl4l7siuAlI6N9QazmZT8kGR6gvhMTViL0aXOj3SgS2nMQogwkvxpOs3hz+xNzqw/i3F7KLFJK78oeofkvnDACfoFhOUFADqGxeh3bLEw6eNnE6LCNeJjB1+2YatH5RwuzCjHtAuOo19rxKQprQvoVYdV4B+NOH94Vnd98uCWX3X10VdJjjqqHKcbDJ+3G8ib3BSnCIMCF7nDxmSub9yCkt8a2",
-      "iv": "j36EYtYAUDSUhLlr",
-      "salt": "7N3lHrmRJu+YnhwmiOmEzQ=="
+      "ciphertext": "kMvlDM1K2YW7WJVVAUF4gZFdkx9NztX8edsCRMLRLS6KKVVOA9WRk6NYAw3QfUsK9icCly+saolQkNVDQf5ybK+Rvmwy4taqZp5a9t9FdfFY/4N3l7+falkgIa6mZnnw/KrEz9QkD3ihqWCM5bH6ftFCpqbJJKo/i/brHXnEu9oBqXwYs5qh4NzPseskYSPKlO1OF/KAo83cxYwcCxyFq1C55TSOo3brCYOq21CLsK3fgP+yVo2rLkPra8yHtjag3uHUKhW9itk0osiKbVK3JB36gkYGpvAwvWzEk2IsR6KMOA/Je7I+v13miuSmuPUg8ENq/8jQ",
+      "iv": "f6UDnrbbzQBpJece",
+      "salt": "CF1+SJbY4xW1fM7jLL34qw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "+7euetgKWZvm55CCv/Y1adsMH9aZiAFV1Qh8Whjdyy7BiKKlP4rZzha5oMLIC5i4GL+VBoyiq7FJ/w08uYE+Aj16DujRMDzzQEn9CSIGUTq0oHFzVPrAm4KP/vYd+5VMmphvvlW0QbKbO3P7vYNVXyT1I1kW08ORChkEWogijiwZ55+yCFetORzsn5Mg1+OvMGxQAh37MvxF/+lS",
-      "iv": "yHJJteicEQsIDjOW",
-      "salt": "aENtdOJB++RB+j93SstMDw=="
+      "ciphertext": "bF3EXza3Y1VGXsFuFYD2vCRaAPQrlZ2yvXbxp+8YkrhL8stNKS+dGoR2Kw7WgLH95keQcitygkULsTRV+heoQjUrROD9vBNzmaSm92aEFWZ/T1A4k+fdP+Iot5JCSJQymD3wvEalcWO3T+MWpTBzqhUrESN/vVC7J9oCEKQ3fRiRDaXU5enl2IhJWDiCIHDFTnmwwBQEXQ4chjKu",
+      "iv": "djZRCeLqDrgL/YPs",
+      "salt": "BGRlIoeo6SFjG76euJA/qg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,9 +129,10 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+          "b": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+          "src": "BleepingComputer",
+          "u": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/"
         }
       ],
       "feed_section": "work_industry"
@@ -163,6 +164,14 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art - Temple Daily Telegram",
           "b": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art  Temple Daily Telegram",
           "src": "\"Bremen, Germany\" - Google News",
@@ -179,12 +188,28 @@
           "rel": "home"
         },
         {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "t": "Niclas Füllkrug Propels Bremen Further Up the Standings - blue News",
+          "b": "Niclas Füllkrug Propels Bremen Further Up the Standings  blue News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEtsakxsWnVjbWtnZGFjSU1jTWNsSHBsMTJkY1NfUnJ4MGhiOFh2alBnNWtTbjRocDJ3UV9fd21MVE9UYlNZdFphSjFGTkp5VFZPQkx3cnRTX3lZaWlVNjlZRmJQSGtMWDZmVjljQzctN0ZtT0dQR2xCQXY4TktfNGlON2RRbFBoS0owVjhtQlVjbS1hWDczUW56VGtrZXBzd284cXJaVHcxRnc?oc=5",
           "tag": "Bremen",
           "rel": "home"
+        },
+        {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
         },
         {
           "t": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art - AP News",
@@ -217,30 +242,6 @@
           "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcDBtclJaUkNVODBWZmFoSjVDRlBLQTNGQk1OeHlraEZKeDU0eExGQ2hGOFpNZnV0VEgzU3F2a0g5Yk51cGx5OGp0QXVfRWk5Rk10ZFlPQmo3UWkzMTZ3dzJtQVN5aGhhaEdTOWc2TGlVLXZSakRDSTU0eDNKZGFaRmxrdGZvbkY0NmRFbExuNUU0ZE9ZTXRyMFlXM2pmZVVkejMtTm5ldjNnYVVqcnRPUTdHWDVpUnVOOU01UkN3TGRyeVgzYkdPLVlpb3JCOHFyb2JvclhVUjF3aFY5LXhtb1ZNcTdhdTNQVjhxajNYQTZidFdQODA4S2xYTWMtaVZKSkVWRGtLcXBOdw?oc=5",
           "tag": "Bremen",
           "rel": "home"
-        },
-        {
-          "t": "Bremen - Hoffenheim - Bulinews",
-          "b": "Bremen - Hoffenheim  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3SjY2NlV5RkdPeHVMdTk2c1MzRkxEQTl4SnJMMEtGbmFpY19KNWliV2J2dEJRQWRrY1ZBa3JmUFZhYWVXTC16NGZyOU9teEFDRFkzQnBpNFQyejJUbFFWdC1sTmVsS2NZaW0zX3VfOA?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Tracking: Bhavnagar",
-          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Bhavnagar",
-          "rel": "family"
-        },
-        {
-          "t": "Tracking: Surat",
-          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-          "src": "system",
-          "u": null,
-          "tag": "Surat",
-          "rel": "interest"
         }
       ],
       "chart": "near_home_flow"
@@ -260,23 +261,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "je",
-          "b": "<span class=\"jt\" data-g=\"lang_je\">je</span> — ever",
-          "src": "Goethe B1 · p.52"
+          "t": "jedes",
+          "b": "<span class=\"jt\" data-g=\"lang_jedes\">jedes</span> — each",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "je",
-          "b": "<span class=\"jt\" data-g=\"lang_je\">je</span> — ever",
-          "src": "Goethe B1 · p.52"
+          "t": "jedoch",
+          "b": "<span class=\"jt\" data-g=\"lang_jedoch\">jedoch</span> — however",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "die Jeans (Pl.) jeder",
-          "b": "<span class=\"jt\" data-g=\"lang_diejeanspljeder\">die Jeans (Pl.) jeder</span> — the jeans (pl.) everyone",
-          "src": "Goethe B1 · p.52"
+          "t": "jemals",
+          "b": "<span class=\"jt\" data-g=\"lang_jemals\">jemals</span> — ever",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "jederzeit",
-          "b": "<span class=\"jt\" data-g=\"lang_jederzeit\">jederzeit</span> — at any time",
+          "t": "jemand",
+          "b": "<span class=\"jt\" data-g=\"lang_jemand\">jemand</span> — someone",
           "src": "Goethe B1 · p.53"
         }
       ]
