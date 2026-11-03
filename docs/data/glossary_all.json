@@ -2246,5 +2246,37 @@
     "lang": "de-DE",
     "d": "Someone",
     "w": "“Hat jemand einen Bleistift für mich?”"
+  },
+  "lang_jetzt": {
+    "t": "jetzt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Now",
+    "w": "“Ich muss jetzt gehen.”"
+  },
+  "lang_jeweils": {
+    "t": "jeweils",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Each",
+    "w": "“Der Kurs findet jeweils montags und donnerstags um 18 Uhr statt.”"
+  },
+  "lang_derjournalist": {
+    "t": "der Journalist",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The journalist",
+    "w": "“Meine Tochter möchte Journalistin”"
+  },
+  "lang_diejournalistin": {
+    "t": "die Journalistin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The journalist",
+    "w": "“werden.”"
   }
 }
