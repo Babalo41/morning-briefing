@@ -2278,5 +2278,37 @@
     "lang": "de-DE",
     "d": "The journalist",
     "w": "“werden.”"
+  },
+  "lang_diejugend": {
+    "t": "die Jugend",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The youth",
+    "w": "“In meiner Jugend habe ich mich sehr für Musik interessiert.”"
+  },
+  "lang_derjugendliche": {
+    "t": "der Jugendliche",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The young person",
+    "w": "“Die Jugendlichen gehen gerne in die”"
+  },
+  "lang_diejugendliche": {
+    "t": "die Jugendliche",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The young people",
+    "w": "“Disko.”"
+  },
+  "lang_diejugendherberge": {
+    "t": "die Jugendherberge",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The youth hostel",
+    "w": "“Wo habt ihr übernachtet? – In einer Jugendherberge.”"
   }
 }
