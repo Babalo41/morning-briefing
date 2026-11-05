@@ -1,32 +1,32 @@
 {
-  "id": "2026-10-05",
-  "day": "Mon",
+  "id": "2026-11-05",
+  "day": "Thu",
   "dnum": "05",
-  "mon": "Oct",
-  "date": "Monday 05 October 2026",
-  "headline": "Briefing refreshed 06:00 Berlin time",
-  "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
+  "mon": "Nov",
+  "date": "Thursday 05 November 2026",
+  "headline": "Briefing refreshed 07:45 Berlin time",
+  "stand": "Automatically rebuilt at 07:45 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "v/k+XqL6HC9mTAUus6sfSqohMQzeGJBbwbAiLg41+TfKhVFOUW34bhZamMR447A9tPOL3anmUB5O8ZMWya4ylaREaFfp4H1pAARvAGsLhexecGxmPL+Z43+ShkMeecubjkybGwDGemnjGi7W6zr/rHw1rlsYTQu/MKf0MvMOUwdCP4DLK7zW",
-      "iv": "oqyG0WoJMEwIooRo",
-      "salt": "RNVRf5mZSM6QVXhTjB6DQw=="
+      "ciphertext": "e/SAdRNaNkbydaWZfdatfa3Fn2Ksy6eqLNQelo78Ri5CrKAv+qraOxwNbvIiAK86hxf+RIpmMQqPP9qv1ScESKZfWVl4uTRa9C0R0OggJHnHNhIPL4wRdRXrydOFIHQJBHjeYByVkFbGjHBWZVktRE3Xwd7/Fgp6PJSKQUUvgKz3FiHbQHdK",
+      "iv": "M0yqxgxkphAotd/g",
+      "salt": "LBOAgNWu9p5eCTctA9VuAQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "9°",
+          "n": "3°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: mainly clear, high 20°C",
-          "b": "Low 9°C, gusts to 30 km/h. 7-day outlook below.",
+          "t": "Bremen: mainly clear, high 10°C",
+          "b": "Low 3°C, gusts to 29 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "0Ds2MehaFncr/rZbaFwRWBaIZJ9WREkDaHtjcXVR+Ruz9fgPiJbAjnJBaVxuk+DObJn5xVJXp22D+usp4oxcQ7d+gxBmA2v9+TrVpkEvuoayT9yIeA7+cW773j0/L5HkAsnxFC2bR3GobvT/u6kjZocx2IUbZmyVtkUf",
-      "iv": "6bwt1YRK7UF6i55o",
-      "salt": "Tr1r9da1Y7CntaiIEIhhcQ=="
+      "ciphertext": "5D5gF7d+eVwY1SpIe6xCiF3WUFAQp13MlAD1w11NBWicQGU/jQjPN9A3E/AAupuYrMcfpqZ/zH4bujv06aD6HjCZ+0FjLVnKE1D8K9IuVx7Rs0NKrSNBbeBZa2/Mq1X84NNzgM5o16Xgai8Ggk5C/MO+7LLSzgtY1dKl",
+      "iv": "//+MHDbgYRKfrY89",
+      "salt": "7PgNTn3WnwyEIzsTa9n2vA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "kD/Tggt8UIk7dkY8WCdmui9bH7IsrHD0YgyczcnAbQgXgroQmaP3a8n96P3ypzrvpD62lx8g3dYc8bV3TYNFMkjROsAG1FpV2e6SrwbvcdCmaCyt9kjn3BM83beBkgQEX3gbUrMFRtJjNA58VBLhfwTOaEL9I/RAuxrDadjbsEPLQJ2Vh4rTymYNxi4Cff8XcLiZ9lnE7vwlIFwkoaYOPoiGXCc7fTJUxf49X/71Cbah1RL3Vc7hLPlTTdtpREAZQNaNnoX/qA5173aiUFfvxkWtyQ5W3optCRzTKxjaSMls0Bri7I6d7YcykEtYYXWY0GJVhBVZ",
-      "iv": "N3owSdeIgVdgVPo9",
-      "salt": "DmpEo6DvgxJtsB0eLcucmg=="
+      "ciphertext": "ZtZx9z7NPWaUkS/wBaifU8xDRF6mWTJE4Mw+RGIHgL3cbj8fyxkuT6j6FaM/7bradX7ZIlfCYXZmVJJ55EQlbpUEM4Tr4S4lqUwVWlNcRq62kaNZZcUpN/9rGEuU8XdtPZtMSo7Fj6+4Gm0BV4RqnHaNdL2oGow7Mut2j9ivSe6fC9M4yv+bgML4GuLoW7N7rKClqvO14Ahgi/YIOZZAO75WW11dpHyxpytYOqiGJoDCJd6iCfQfuuSsrJ95QeOgBiaWnYAePsibwxlHpkXjHBFcH/mpCGp5nNJln/02eECeJTgWz++SwI1N2I/6zyDrjkC4DrRb",
+      "iv": "v/kSLgv4SYBbFVHP",
+      "salt": "Ot8a+uTDSYGbeYQgQ9N+JQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "BAMRpD2f5MLnSwvDLPhPvNMjjisGuXz3KB1TpDDc0eEqIqFuKwM955rmPJaJcMYdXo7eBDOTBMaG3rQg4NLJKmQ0zQ1h+sYIrP/JA60YK8apTvFCjy2gbT6SO1QykC00DUicU2pDYoYLe/RqyIurvLSxNwCaHEl0oLP2+gsnyZ4p6uX74P8KT2A70Wy8B0JeJVyxTSnfUdeP97Zy",
-      "iv": "4+syRzWSgvFoRQcP",
-      "salt": "tbbh/jqw2dxlxQzcqMewqA=="
+      "ciphertext": "ygWG/4o/6Y9ns5e1Lv4GSNoYYHBY5hBNSc0xzY/bK1t9SCuL3EZE26PynU2027s1YnMlBQp6sAZtkvihD0sVdEMb0LClaRcyxMspYvcRRnBs6EJ8WY7B3ZEI7oM+iZjP+K7YU8ELZ3ECefjeKJZnV0eJxagvU1nOyW76A7lQbESRiO2qfGRaAAW8yEwBRlw5knSlvaeOemQ+nmZk",
+      "iv": "DiVrMMdoCJpq8eHy",
+      "salt": "E+Q+M5BPe70w0qpCHfsD3Q=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,66 +163,58 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics - facebook.com",
-          "b": "DW News. . Germany is marking Unity Day, commemorating reunification in 1990. At a celebration in Bremen, President Frank-Walter Steinmeier issued a call to defend democracy — and warned of the growing influence of extremist forces. #dwgermanpolitics  facebook.com",
+          "t": "Report: Niclas Füllkrug to be called up by Jürgen Klopp - Bavarian Football Works",
+          "b": "Report: Niclas Füllkrug to be called up by Jürgen Klopp  Bavarian Football Works",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFpzVm1NQ0N1UndmTE13Mi1NMzlfZThGWkNpRTl6MWFpdEFVMFhwN3ptS09Wb3dtSmdPUGFzR2EzZmE4MFkxZ1BqTEItWG5HRURmYXVybkYzc24wRWV0c2s2anVMcld6Q3FhZnRtQlRsamtqUGx0TkRRdUo4OWJGUXk1VkZtSU1NZXlTU1c2bjk3d1pKMG5ZY0pmdGFpaFJfZ1kxcmFkUm5xdUZJUHRTMGxUOEZWbDg0VDU4RDM0QXRBMEdWd2laTlU1UTZhazkySnNZaldCWkk4SEJjUUozaHh3?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU1SRVdnOVloWk1OeXpNZE0tQ2pSeEx3b09tdU5KMFV4d1Y0UnEyRXNwc3VCTnIzZEpubTlyZUtuc2p6Q2pUanY0Q3ZwRzNoZlFEMlZsTHVXQnhrbVpOVTlOb2FXWDR2V0RvSjBmeFd2Wm8wcmE3MnJCY25VZ0ZNelBSYTAwMHFmRFNraVZ5TnZIT180SWhyY0pwUzRvektFR0NES29HTTdhUjgtQlZPMmF1V0tBSlpNeUFVWVFB?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen - Report.az",
-          "b": "Azerbaijani Embassy joins German Unity Day celebrations in Bremen  Report.az",
+          "t": "Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz - OneFootball",
+          "b": "Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz  OneFootball",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWJ2SzMyMzhkZlp1RldsNFV5aDVhZkZPZjkxLWpzY2t3OE5rc0dxbEI4YnJCS2hIYkJJaWE3bzNYa1hSNlVjNzJDTXJHRVdkX3ZpSzB4YnpzcTJXeHlfVHhaaFZDbURCVUlUUkZvS2Z5bV9ZMkp6TTc1ckpFbHRBVmV0TzBCaEp6bUdMcEFYcTVvWThGb0lueWV6eTdobXRYTWVOb1F1WEZEUlHSAasBQVVfeXFMUDlidkszMjM4ZGZadUZXbDRVeWg1YWZGT2Y5MS1qc2NrdzhOa3NHcWxCOGJyQktoSGJCSWlhN28zWGtYUjZVYzcyQ01yR0VXZF92aUsweGJ6c3EyV3h5X1R4WmhWQ21EQlVJVFJGb0tmeW1fWTJKek03NXJKRWx0QVZldE8wQmhKem1HTHBBWHE1b1k4Rm9Jbnllenk3aG10WE1lTm9RdVhGRFJR?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0czVkxwMUdMTXNsbjNhOVlQM1pmX0YxWE43TVRlUWxEOEhYa2k5d20xaHAxRU1Ja2pWRUFGb1UyMUt1WHdKNDhHRi1vUzluZXJiTGJCbmk0TXRPdVJkTzM1b3U3OF9RNG9MdFVMNTdpRXR6dVdtWHlzVFN2cXprMktWWkpnNk5HZzRqMEhaZmZyUXJNN1EyeklWdGd1c2lEcnhfa2Q4TDhVbDZYaWVFOXdEXzRlaThE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - dw.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  dw.com",
+          "t": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz - Bulinews",
+          "b": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz  Bulinews",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVM3ODNIa2lTMTJ5OVRRNEJzcHQxNVN5ZEF0al9TT2JIdDRJOTZyLWVqVFJqdmtRR2U1b1BsOW1Tc05fUGVxZXpWb1c1WmhQY2RQTm1fOFBPMGNwQ2k1c01WMGtBaVhudlhOYi1GRG5uUkE4dUJCaHd0aElLdVNLRElCQkYyNXhNaGVKSlJCSTZDMEpqc01J?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "German president warns democracy under threat after 'bitter setbacks' since reunification - dw.com",
-          "b": "German president warns democracy under threat after 'bitter setbacks' since reunification  dw.com",
+          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
+          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjNnTkRMR244OUJfSElTTXpybnBsMkVXTVFSejFIR3lFZ1o4TFdVb2tBMk1wTjQzTkhMa0tOMUx2WlpMNVdHTS1OWDhyOE05RklSeXg5WmxhdkdPc3JvU1c2MzVReC0taHhfa0NEcDYxellfdG9QX0FQZDM4QUdGb25jWjMyYXRHSkZSbEtZcU5ZOGNo?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1F3RjJiRURvX3h0b0dyNWdfY0hlZzlGWDRIb1Zic1BGR0pobmc2YUdjSjZyRTZGN3NsYXVyRWQyb1NsNXJmSEZGcGd0dmFVcXdrX0E2YVJFcTFNWXZMbVoxbXRsOFF5SnlwOUd5UWIxeGVuQ2ZNVmhERzZ3YUhSWE5TT0g0b3NRbjQ0eHAxcGFNSmh2TG15YmZYUHBQTFRpcDVzRElPRktXSERmV0xqc0tZWkMxUmxQMXBF?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Germany Reunification - The Batesville Daily Guard",
-          "b": "Germany Reunification  The Batesville Daily Guard",
+          "t": "Niclas Füllkrug tipped for return to Germany squad - Get German Football News",
+          "b": "Niclas Füllkrug tipped for return to Germany squad  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlqUV8tUGUxQ2R6MFE5ZUtTU1ZYazhnMW5ZU05zOTJqUWdEalVPSmZPUjUtZUZHdkxsb2VtUFIxd0E2MUU4NkJBNW9iaHpCV1liNXJzMV91dXVtTGprMHJ0c0trNGVYZmhKNXlTNnJkZE1UakYxb1FwS1NncjUyV0xDNFZMN0w3LXdCTUhhVmZEallYMExST0dhVmF5bjRkMmdvNWpKZmVYMWxh?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmlVX3U1akM2RF9SZkI4bU1aR3RnX3N4YnU4UHdFWlp0VERid2Y0YjRCUjlNb3FqTUpvTGRneS1Jb2FoUV9rdVJUXzg2UVRzeE9pRnhFdFlOc1pUckhxTGF5cE9XLXcxX1lOUDBWOUxEYUxhYWRDb0tTSGJpeVZPT1VleDBLQS1FVXZyY2ZIYmtHUVMxUUdfaWFuWQ?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV) - Unisba Media",
-          "b": "Driving In Bremen, Germany | 4K UHD | Driving Tour | My Experience | First Time In Bremen Alexandra Diaz (UhWrXQfsEV)  Unisba Media",
+          "t": "VfB Stuttgart vs Werder Bremen Prediction, 11/7/2026 Soccer Pick, Tips and Odds - Doc's Sports",
+          "b": "VfB Stuttgart vs Werder Bremen Prediction, 11/7/2026 Soccer Pick, Tips and Odds  Doc's Sports",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzFfNXdCT080TW5uVERUdmVyNXNNVjVuR3lpWEMwWFluZDZiLU1zSU5jV09wdVo4MUpQNk4zeXY5LWN5ZTNPX0RiNG13aXhkdzdfclkzWFdvOUxWU0RQSHlobGx0dTkzU21UNEQ3RzlabklSV3RDTzYzOWlCX1h3ZVZ0Zi0zVU41M0E?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORW9jOWM4MzIxQ2JpRFdjeW1EbWJGdm9Db3UzbnhlTEVDODg1VS1qTzBlVXZId1d2QS1ULWZhcDl3MGJiQy12XzdacjRXX1lUSWZMb1hxVUFiWld4c1Y5aDdkQjd6alFGbnNvZ0NKLVpINDZrWGVqV3lmUld6bkQtUjRFQ3ZISjY5VmxZeHRrNTJldGdkZ3BYZG8xZTVtWWg5bjFTQi13VGxYOTBjYWNNNEs4VGV0Q3lzcVdkcW1xOG1pQUdlak1aTVFVOA?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
         {
-          "t": "Germany celebrates Day of German Unity in Bremen - deutschland.de",
-          "b": "Germany celebrates Day of German Unity in Bremen  deutschland.de",
+          "t": "Jurgen Klopp told he must pick West Ham loanee for Germany - he's playing at Kylian Mbappe level - talkSPORT",
+          "b": "Jurgen Klopp told he must pick West Ham loanee for Germany - he's playing at Kylian Mbappe level  talkSPORT",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3NPUm51LTlsdkZpd0ZWY202MUJBLW15aUVxZTY1aHR1dDV5VUVkYnY1M0VkbG1wak5ULW5kelRFLTVGZDlSNVNLX0tqN0xFSWJ3VjdvZUJQblg4MkxjSlJWd0lmOERLYnpCbHNqR1JXNTA4eGNhNElHRDVMcjlEZThqVWw2QnU2XzZZ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Bremen hosts German Unity Day with top politicians and public festival - Yahoo",
-          "b": "Bremen hosts German Unity Day with top politicians and public festival  Yahoo",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmFybWJFV2pUQTFOMmlvVUFBZGJRYzhySEtQMGkzcVF1QkpZbzNURkNqWDBGNlVvcGo2YU5oVHRheGs4RUw3ck84TkVYdHE5YkdJeWpRbW80QjdlaldfTUM1ZXRQWGd1UWhZRU1qSG4wZnRiaXBzMHRLTjdCdHducTRNSkQxRlVwNF9LMzUwVQ?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEgxd3VNM0F3M0ZVSmg3WlFFTlU2TFZiallXU1Znazd1aHQ1NU9oVXg0cFY3TTJScllzUXBEcUdwN0NrejhyNTJUYmRvS0xSLU9sTWhyV0xuZnZXV3BhdHlka19uMk5xTnU5V1ByX3lMeHRBQTVBa0g4M1dwUDhtMjMyU3JzZ19GRWtqZEU2Q1ZCMVFFaHc?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -241,6 +233,12 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "📌 Bremen'S Füllkrug Germany",
+          "b": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz  Bulinews Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz  OneFootball",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -260,24 +258,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "das Heimweh",
-          "b": "<span class=\"jt\" data-g=\"lang_dasheimweh\">das Heimweh</span> — the homesickness",
-          "src": "Goethe B1 · p.49"
+          "t": "jung",
+          "b": "<span class=\"jt\" data-g=\"lang_jung\">jung</span> — young",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "heiraten",
-          "b": "<span class=\"jt\" data-g=\"lang_heiraten\">heiraten</span> — get married <span class=\"gram\">(heiratet · heiratete · hat geheiratet)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "der Junge",
+          "b": "<span class=\"jt\" data-g=\"lang_derjunge\">der Junge</span> — the boy <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "heiß",
-          "b": "<span class=\"jt\" data-g=\"lang_heiß\">heiß</span> — hot",
-          "src": "Goethe B1 · p.49"
+          "t": "das Kabel",
+          "b": "<span class=\"jt\" data-g=\"lang_daskabel\">das Kabel</span> — the cable <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.53"
         },
         {
-          "t": "heißen",
-          "b": "<span class=\"jt\" data-g=\"lang_heißen\">heißen</span> — called <span class=\"gram\">(heißt · hieß · hat geheißen)</span>",
-          "src": "Goethe B1 · p.49"
+          "t": "die Kabine",
+          "b": "<span class=\"jt\" data-g=\"lang_diekabine\">die Kabine</span> — the cabin <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.53"
         }
       ]
     }

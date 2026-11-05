@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-04",
-  "day": "Wed",
-  "dnum": "04",
+  "id": "2026-11-05",
+  "day": "Thu",
+  "dnum": "05",
   "mon": "Nov",
-  "date": "Wednesday 04 November 2026",
-  "headline": "Briefing refreshed 05:00 Berlin time",
-  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
+  "date": "Thursday 05 November 2026",
+  "headline": "Briefing refreshed 07:45 Berlin time",
+  "stand": "Automatically rebuilt at 07:45 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "inChOaCiZCoR7WJbsRjaa37xFqTsRlUz2lz53B/YiNRbpzaEeugFdYGqiUj2aDOIhSgx8XUFMLcZl3LFed9smuoWTNoUAiljp0NqLNA7sBYnxRJ1BWfr64dYGW2Ba/85rcJmLtzYLOaSNfB/FQQjAn8nFjZrEkHZoTj7m9NH6PItqZgB2qt0",
-      "iv": "RdNDwvn+couGV+eH",
-      "salt": "XQ+blRMksUJHCNi0A1Bm9Q=="
+      "ciphertext": "e/SAdRNaNkbydaWZfdatfa3Fn2Ksy6eqLNQelo78Ri5CrKAv+qraOxwNbvIiAK86hxf+RIpmMQqPP9qv1ScESKZfWVl4uTRa9C0R0OggJHnHNhIPL4wRdRXrydOFIHQJBHjeYByVkFbGjHBWZVktRE3Xwd7/Fgp6PJSKQUUvgKz3FiHbQHdK",
+      "iv": "M0yqxgxkphAotd/g",
+      "salt": "LBOAgNWu9p5eCTctA9VuAQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "8°",
+          "n": "3°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: light rain, high 10°C",
-          "b": "Low 5°C, gusts to 30 km/h. 7-day outlook below.",
+          "t": "Bremen: mainly clear, high 10°C",
+          "b": "Low 3°C, gusts to 29 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "AgFrw7B3qdlB9pkBjAG9NNeEYK3+6xJd6GlUTmcHLmkPo3oiOXA8DqEHTHh4C0eIxle3P/QLVHaGViTLffrCc19iJ5jO3WFCajxSumjEqiohmbbjxQ00TYoLSCHuam+4FcUc+3VWdkG9DlkJfGGEU+IVDPb4YFcEKSSS",
-      "iv": "QMdhyUPyJow0vvEF",
-      "salt": "3SNMGsWX/rzpc8nwjv4GDA=="
+      "ciphertext": "5D5gF7d+eVwY1SpIe6xCiF3WUFAQp13MlAD1w11NBWicQGU/jQjPN9A3E/AAupuYrMcfpqZ/zH4bujv06aD6HjCZ+0FjLVnKE1D8K9IuVx7Rs0NKrSNBbeBZa2/Mq1X84NNzgM5o16Xgai8Ggk5C/MO+7LLSzgtY1dKl",
+      "iv": "//+MHDbgYRKfrY89",
+      "salt": "7PgNTn3WnwyEIzsTa9n2vA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "zcsbcYEzQycDRIaUb8LaR+BKDBCIy8wQhBlWnFd7rF5ySRSgTaKDUGNgDntOyFrIU3Tcwvz1aDwixZ0hTeiK/vn351Fj/xftoP5N0+CBs3RKVr7CkLCAzz0isFHxY0Pk/plmGNYTaMT5e/HG3WIJxIApFvVm0+axhv7cXbNsTxxobfDRLtoZ8Z131HdeSEQmSYT/xqNQAx+s5OJyqUrZhJipbASZnPPw33/jTBsf/XB37xi+rikE9T4Tl2CvmyXRMmZxpGSbDzj6Ke/suTgnnRZfMRNBr3pNFq7l/KKLysZJPs9hOTtxk0Cd1KO/GuNfZoaCkofM",
-      "iv": "4AQArm7MTaYY7mME",
-      "salt": "ZTEOfhkM5S18P674eA1WUA=="
+      "ciphertext": "ZtZx9z7NPWaUkS/wBaifU8xDRF6mWTJE4Mw+RGIHgL3cbj8fyxkuT6j6FaM/7bradX7ZIlfCYXZmVJJ55EQlbpUEM4Tr4S4lqUwVWlNcRq62kaNZZcUpN/9rGEuU8XdtPZtMSo7Fj6+4Gm0BV4RqnHaNdL2oGow7Mut2j9ivSe6fC9M4yv+bgML4GuLoW7N7rKClqvO14Ahgi/YIOZZAO75WW11dpHyxpytYOqiGJoDCJd6iCfQfuuSsrJ95QeOgBiaWnYAePsibwxlHpkXjHBFcH/mpCGp5nNJln/02eECeJTgWz++SwI1N2I/6zyDrjkC4DrRb",
+      "iv": "v/kSLgv4SYBbFVHP",
+      "salt": "Ot8a+uTDSYGbeYQgQ9N+JQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "tgX43DhkK29MSarrdTKiEf3IOx3msFxc89mX5mSfqWHMrapRDogj+ZDYoKQr4bGtEl3lDO0EF9e6R4MbLMSWTX1LGbYo60HK0v0Y6dOwrTw+NTtQyans2o571oahg9XMzJct9VvBnII6YoVfpFuqIpz7IXxo6kjP6baoJn3Oe4cLX5MENoMzdllcVksVjFyO/bCHWoRl7R1jnIU+",
-      "iv": "LxiWYRkUv9PSVUq/",
-      "salt": "5d1f2mbnVE7TbqX2Al138A=="
+      "ciphertext": "ygWG/4o/6Y9ns5e1Lv4GSNoYYHBY5hBNSc0xzY/bK1t9SCuL3EZE26PynU2027s1YnMlBQp6sAZtkvihD0sVdEMb0LClaRcyxMspYvcRRnBs6EJ8WY7B3ZEI7oM+iZjP+K7YU8ELZ3ECefjeKJZnV0eJxagvU1nOyW76A7lQbESRiO2qfGRaAAW8yEwBRlw5knSlvaeOemQ+nmZk",
+      "iv": "DiVrMMdoCJpq8eHy",
+      "salt": "E+Q+M5BPe70w0qpCHfsD3Q=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,6 +163,46 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Report: Niclas Füllkrug to be called up by Jürgen Klopp - Bavarian Football Works",
+          "b": "Report: Niclas Füllkrug to be called up by Jürgen Klopp  Bavarian Football Works",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU1SRVdnOVloWk1OeXpNZE0tQ2pSeEx3b09tdU5KMFV4d1Y0UnEyRXNwc3VCTnIzZEpubTlyZUtuc2p6Q2pUanY0Q3ZwRzNoZlFEMlZsTHVXQnhrbVpOVTlOb2FXWDR2V0RvSjBmeFd2Wm8wcmE3MnJCY25VZ0ZNelBSYTAwMHFmRFNraVZ5TnZIT180SWhyY0pwUzRvektFR0NES29HTTdhUjgtQlZPMmF1V0tBSlpNeUFVWVFB?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz - OneFootball",
+          "b": "Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz  OneFootball",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0czVkxwMUdMTXNsbjNhOVlQM1pmX0YxWE43TVRlUWxEOEhYa2k5d20xaHAxRU1Ja2pWRUFGb1UyMUt1WHdKNDhHRi1vUzluZXJiTGJCbmk0TXRPdVJkTzM1b3U3OF9RNG9MdFVMNTdpRXR6dVdtWHlzVFN2cXprMktWWkpnNk5HZzRqMEhaZmZyUXJNN1EyeklWdGd1c2lEcnhfa2Q4TDhVbDZYaWVFOXdEXzRlaThE?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz - Bulinews",
+          "b": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVM3ODNIa2lTMTJ5OVRRNEJzcHQxNVN5ZEF0al9TT2JIdDRJOTZyLWVqVFJqdmtRR2U1b1BsOW1Tc05fUGVxZXpWb1c1WmhQY2RQTm1fOFBPMGNwQ2k1c01WMGtBaVhudlhOYi1GRG5uUkE4dUJCaHd0aElLdVNLRElCQkYyNXhNaGVKSlJCSTZDMEpqc01J?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
+          "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1F3RjJiRURvX3h0b0dyNWdfY0hlZzlGWDRIb1Zic1BGR0pobmc2YUdjSjZyRTZGN3NsYXVyRWQyb1NsNXJmSEZGcGd0dmFVcXdrX0E2YVJFcTFNWXZMbVoxbXRsOFF5SnlwOUd5UWIxeGVuQ2ZNVmhERzZ3YUhSWE5TT0g0b3NRbjQ0eHAxcGFNSmh2TG15YmZYUHBQTFRpcDVzRElPRktXSERmV0xqc0tZWkMxUmxQMXBF?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Niclas Füllkrug tipped for return to Germany squad - Get German Football News",
+          "b": "Niclas Füllkrug tipped for return to Germany squad  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmlVX3U1akM2RF9SZkI4bU1aR3RnX3N4YnU4UHdFWlp0VERid2Y0YjRCUjlNb3FqTUpvTGRneS1Jb2FoUV9rdVJUXzg2UVRzeE9pRnhFdFlOc1pUckhxTGF5cE9XLXcxX1lOUDBWOUxEYUxhYWRDb0tTSGJpeVZPT1VleDBLQS1FVXZyY2ZIYmtHUVMxUUdfaWFuWQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "VfB Stuttgart vs Werder Bremen Prediction, 11/7/2026 Soccer Pick, Tips and Odds - Doc's Sports",
           "b": "VfB Stuttgart vs Werder Bremen Prediction, 11/7/2026 Soccer Pick, Tips and Odds  Doc's Sports",
           "src": "\"Bremen, Germany\" - Google News",
@@ -175,38 +215,6 @@
           "b": "Jurgen Klopp told he must pick West Ham loanee for Germany - he's playing at Kylian Mbappe level  talkSPORT",
           "src": "\"Bremen, Germany\" - Google News",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEgxd3VNM0F3M0ZVSmg3WlFFTlU2TFZiallXU1Znazd1aHQ1NU9oVXg0cFY3TTJScllzUXBEcUdwN0NrejhyNTJUYmRvS0xSLU9sTWhyV0xuZnZXV3BhdHlka19uMk5xTnU5V1ByX3lMeHRBQTVBa0g4M1dwUDhtMjMyU3JzZ19GRWtqZEU2Q1ZCMVFFaHc?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "FEATURE | Werder Bremen are moving in the right direction under Daniel Thioune as unbeaten run continues - Get German Football News",
-          "b": "FEATURE | Werder Bremen are moving in the right direction under Daniel Thioune as unbeaten run continues  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeW9zbkF6cUxObV9qRkI2UGk4OEdvemNSdTZYdjJiVUYzUmk2eHN3WEVyMXBvelgzd0FZZURCM01TM3hldWpseTBoeEJCTTBBczZtLWk5QW1Sc25QMTJEOW80Y3A4dzhaUVhsNWllaWc5ODh3Z0NjeGNVTDE2ekxrZTdyc1hZWndIX2NKWmx1d3ZrdWdJWlVhUl92QkViX2lBbzF1dEwwem1rblM2dWRsSlZEdkFXckJCS04tX09DWXg5eEpsYnBFLWx0V0FYQURVUXdUSXV6RF9FbWpGVHZpTA?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Energiekontor AG: From wind park to production site – Energiekontor and MPC enable direct power supply to K+S - TradingView",
-          "b": "Energiekontor AG: From wind park to production site – Energiekontor and MPC enable direct power supply to K+S  TradingView",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV1ZCQmR5OC1Yc0NadVNmeVdpazI3Vm9wQXVaM1RjOXl5b2wxdHhoYm53bENkQ0Z6RGtQcUdTZ2U0Z204WEdjNjctTG1TY3pYN080SGg0SmF1TFNFOFMtRGY3VlV0R3lkTTdlOXRrUWpHaWtjVkZGV1Q5cHpVTEVuRG1mOEppWFN1a3BLeC1xbS1HRVU4cU5kb1NaT2owQUpleXBYblV6c21wN25NZ0hqUWM0ajVRdUVCNk52YWFjdU9ZTUhfNzBvc0Nrcmt6LXhmRnRSaGtoZElvV1A4cTFzbjJUTHZTUVEwMk02X2tqbzVCdw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "German Museum Opens an Entire Art Exhibition Dedicated to Dachshunds and Doxie Fans Are Losing It - ParadePets",
-          "b": "German Museum Opens an Entire Art Exhibition Dedicated to Dachshunds and Doxie Fans Are Losing It  ParadePets",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBielVhc1JjbENzNG8yaFRIZ081d3NTSkIydWFpM0F5VU1mUFJYeFRfQkx1dGpLS1BqMkJGYXJ2M2VxMXctdklkTW51Q3JMSElSWXNZRHhVLXNISXc5dk5iMWhWRklUNUI5R2pGYWxfNldHNFE0YWoyVHdWc3RVZEE?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -227,12 +235,10 @@
           "rel": "interest"
         },
         {
-          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art - Temple Daily Telegram",
-          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art  Temple Daily Telegram",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2JYUHdUMDR6TnZ0VDdwUHVOazdaa2F6aXJuZ1JhUDJrTnphaG54ekxwd3VQTWdscFlGSmtubzJzYW44UWFpTjYzNUJvdHVISDVNOEJ5YlZ2N2t1YWx6cFg5M2VVWDBYcUZnWW5MNUtfblN3MjBGd3RoX3RsQVFiVi1fcVk?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
+          "t": "📌 Bremen'S Füllkrug Germany",
+          "b": "Bremen's Füllkrug set for Germany recall alongside Ebnoutalib and Havertz  Bulinews Bremen's Füllkrug ‘to be recalled’ by Germany alongside Ebnoutalib and Havertz  OneFootball",
+          "src": "insight",
+          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -252,23 +258,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Jugend",
-          "b": "<span class=\"jt\" data-g=\"lang_diejugend\">die Jugend</span> — the youth",
+          "t": "jung",
+          "b": "<span class=\"jt\" data-g=\"lang_jung\">jung</span> — young",
           "src": "Goethe B1 · p.53"
         },
         {
-          "t": "der Jugendliche",
-          "b": "<span class=\"jt\" data-g=\"lang_derjugendliche\">der Jugendliche</span> — the young person <span class=\"gram\">(plural: -n)</span>",
+          "t": "der Junge",
+          "b": "<span class=\"jt\" data-g=\"lang_derjunge\">der Junge</span> — the boy <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.53"
         },
         {
-          "t": "die Jugendliche",
-          "b": "<span class=\"jt\" data-g=\"lang_diejugendliche\">die Jugendliche</span> — the young people <span class=\"gram\">(plural: -nen)</span>",
+          "t": "das Kabel",
+          "b": "<span class=\"jt\" data-g=\"lang_daskabel\">das Kabel</span> — the cable <span class=\"gram\">(plural: -)</span>",
           "src": "Goethe B1 · p.53"
         },
         {
-          "t": "die Jugendherberge",
-          "b": "<span class=\"jt\" data-g=\"lang_diejugendherberge\">die Jugendherberge</span> — the youth hostel <span class=\"gram\">(plural: -n)</span>",
+          "t": "die Kabine",
+          "b": "<span class=\"jt\" data-g=\"lang_diekabine\">die Kabine</span> — the cabin <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.53"
         }
       ]

@@ -2310,5 +2310,37 @@
     "lang": "de-DE",
     "d": "The youth hostel",
     "w": "“Wo habt ihr übernachtet? – In einer Jugendherberge.”"
+  },
+  "lang_jung": {
+    "t": "jung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Young",
+    "w": "“Für diesen Film bist du noch zu jung.”"
+  },
+  "lang_derjunge": {
+    "t": "der Junge",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The boy",
+    "w": "“In der Schulklasse sind 15 Jungen und 10 Mädchen.”"
+  },
+  "lang_daskabel": {
+    "t": "das Kabel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cable",
+    "w": "“Wo ist das Kabel für das Aufnahmegerät?”"
+  },
+  "lang_diekabine": {
+    "t": "die Kabine",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cabin",
+    "w": "“Um zu wählen, gehen Sie bitte in diese Kabine.”"
   }
 }
