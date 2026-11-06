@@ -2342,5 +2342,37 @@
     "lang": "de-DE",
     "d": "The cabin",
     "w": "“Um zu wählen, gehen Sie bitte in diese Kabine.”"
+  },
+  "lang_derkaffee": {
+    "t": "der Kaffee",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The coffee",
+    "w": "“Bring bitte noch eine Packung Kaffee mit.”"
+  },
+  "lang_daskaffeehaus": {
+    "t": "das Kaffeehaus",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The coffee house",
+    "w": "“Hier in der Nähe ist ein Kaffeehaus. Lass uns einen Kaffee trinken.”"
+  },
+  "lang_derkakao": {
+    "t": "der Kakao",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cocoa",
+    "w": "“Zum Frühstück trinke ich immer einen Kakao.”"
+  },
+  "lang_derkalender": {
+    "t": "der Kalender",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The calendar",
+    "w": "“Ich habe den Termin in meinem Kalender notiert.”"
   }
 }
