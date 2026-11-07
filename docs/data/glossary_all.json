@@ -2374,5 +2374,37 @@
     "lang": "de-DE",
     "d": "The calendar",
     "w": "“Ich habe den Termin in meinem Kalender notiert.”"
+  },
+  "lang_kalt": {
+    "t": "kalt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Cold",
+    "w": "“Es ist kalt heute.”"
+  },
+  "lang_diekälte": {
+    "t": "die Kälte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cold",
+    "w": "“Bei dieser Kälte fahre ich nicht mit dem Fahrrad.”"
+  },
+  "lang_diekamera": {
+    "t": "die Kamera",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The camera",
+    "w": "“Ich habe eine ganz neue Kamera.”"
+  },
+  "lang_kämpfen": {
+    "t": "kämpfen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Fight",
+    "w": "“Die Frauen kämpfen für mehr Rechte.”"
   }
 }
