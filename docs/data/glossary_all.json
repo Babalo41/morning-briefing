@@ -2406,5 +2406,37 @@
     "lang": "de-DE",
     "d": "Fight",
     "w": "“Die Frauen kämpfen für mehr Rechte.”"
+  },
+  "lang_derkampf": {
+    "t": "der Kampf",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The fight",
+    "w": "“Im Schulbus gibt es immer einen Kampf um die Sitzplätze.”"
+  },
+  "lang_derkanal": {
+    "t": "der Kanal",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The channel",
+    "w": "“Mit Kabel bekommen Sie über 30 Fernsehkanäle.”"
+  },
+  "lang_derkandidat": {
+    "t": "der Kandidat",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The candidate",
+    "w": "“Wie viele Kandidaten kommen zur Prüfung?”"
+  },
+  "lang_diekanne": {
+    "t": "die Kanne",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The pot",
+    "w": "“Das ist aber eine schöne Teekanne. – Ja, die ist aus China.”"
   }
 }
