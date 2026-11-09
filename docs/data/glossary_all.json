@@ -2438,5 +2438,37 @@
     "lang": "de-DE",
     "d": "The pot",
     "w": "“Das ist aber eine schöne Teekanne. – Ja, die ist aus China.”"
+  },
+  "lang_diekantine": {
+    "t": "die Kantine",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The canteen",
+    "w": "“In unserer Kantine kann man günstig essen.”"
+  },
+  "lang_daskapitel": {
+    "t": "das Kapitel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The chapter",
+    "w": "“Die Lehrerin hat gesagt, wir sollen zwei Kapitel im Buch wiederholen.”"
+  },
+  "lang_kaputt": {
+    "t": "kaputt",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Broken",
+    "w": "“Unsere Waschmaschine ist kaputt.”"
+  },
+  "lang_kaputtgehen": {
+    "t": "kaputtgehen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Break",
+    "w": "“Pass bitte mit diesem Glas auf. Es geht leicht kaputt.”"
   }
 }

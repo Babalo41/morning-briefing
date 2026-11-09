@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-08",
-  "day": "Sun",
-  "dnum": "08",
+  "id": "2026-11-09",
+  "day": "Mon",
+  "dnum": "09",
   "mon": "Nov",
-  "date": "Sunday 08 November 2026",
-  "headline": "Briefing refreshed 13:19 Berlin time",
-  "stand": "Automatically rebuilt at 13:19 — 12 sections tracked.",
+  "date": "Monday 09 November 2026",
+  "headline": "Briefing refreshed 17:04 Berlin time",
+  "stand": "Automatically rebuilt at 17:04 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "TYQAQc4AMoUiqbdhyPi0Hmg7MhfCOajnJQP5q08ZXzapmlQSejEEnKHEpSXsNCFRd+Vfv1ZyClbvlGAdmRU/kuJEWIfHJVDzNKM9v2LK01DjZXq5Pbr8Ttqk3V9aPbWgPERsoG/js3HZsU5XgdGDc4DuJWrYPWSdiw31KLGFPZwex2JqgSyl",
-      "iv": "h48czwW0uT4ay/17",
-      "salt": "JIfssKrkul+Wy6UVsc5BJg=="
+      "ciphertext": "02P6BneW6nKnkPFeeL/Si5V66G3IZlAe0lC3X8Z/y0NRMBB/n5Pt/ylJk4ggwQ0KzTMqO2w4mN2VUCW27mIheMSkZboE8nNJvtv9+kI5TcPB9f+VahHf7uHmufRgEOq/Df1aNz9hSf8+toQT2nf7hpCpTD+1wHpclY81vpak1ryqWvgmpIwI",
+      "iv": "42LzWLymKqZrqjkQ",
+      "salt": "zJ154pyfkHQibDi5w/3PNA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "9°",
+          "n": "8°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 10°C",
-          "b": "Low 5°C, gusts to 23 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 9°C",
+          "b": "Low 5°C, gusts to 17 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "62c9BYdcg23mt+rKl+RhznzeQacT+nHQBiS5DTXhqQci0kTp527HSdCdXcz6gNwnP49PhE2vAwkGuJ2g5cqOs1cHPMzeU8bUPoTVJsFDMiJWEwu2KA5lJXf5sxmyGW4aLe89UncxXBdCu3e82lJSZwOJU1GiedcR7BHz",
-      "iv": "yiyYHsleRU8PGX/F",
-      "salt": "N8Rtlkk8FxrZ0SuGQwu3+Q=="
+      "ciphertext": "uCU8Q4tpq0pP+Y6NGPjIBYHareQ9znBbbVFpwkhkDdHpg78/Hy+kmPTgCqqhmP6+oYbQZIvKfY6sRVi4dRznC6dReQS2M5pVOjm6WYAM+3SQSWL7gSsDXftEfmKcLko02n7Ac1tSB0d56/4VyKyx2+LTZ6Wr+c/4QK3Z",
+      "iv": "XTjwnzOsjO0tceP6",
+      "salt": "5yHFRKRn5USUAdxl6KaYCA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "kx5yfisR/rjSkUJCkjGFhCHk3Gp8fos4THgF6QVuX5PT5mIJjWHrFq7FMn1o/GGGm7f2G1usnP/NmnVP1wuVznWlM/1ZcxQVyRwaG5xQnt39BsT9QiSz+bqLZwvprTCfN0Ia/BEzPYn48folmQps3v00Vxykwaa6KtzaCC8yCAK1xW9ANY14z1XoS5R4aMO+aVyNtt212SAdGETRG9mn6B/8MHn0ZAL4DQz5ExniLLPxtIgqk2BP+OVG/xAXT1R9Qu9qCyMVuDSMKRKcboW8DB3wJYkgiB5tYnlwtkGKmyU3dVCPLNgEpHytFpm87C+eZ8f0Qj5y",
-      "iv": "9nmpO1+phNbNWX6e",
-      "salt": "J6tifvtjdTl4TaIMimth6w=="
+      "ciphertext": "Izahh8vGv1WiTZqdZP782DsMbdAf6lxIrH+wtzWiik2OEFrjLfGlScAwrf/KbWbnc2z54mT9etOa6zk9Udcv/9/ziatDH3g+V+C0rVL6mZ5WlhrmMvXoHuZXQe9M3rbNIf89mfLpH+O+qR+2j7oqQvGU48bxuymzCQKb68gjYXBGylTvJH+qj87A21OUtuK+JITUe7tgycjrIfrvX4jg5KODhY2w1uEA1PhjTaaJVcU2vJouBSgcxWwvqT62VWudEP2f89R0lJ8t0m2kMPaOYhOKlHjBlej4Bg4Q9lB/jrzdJDOWd17ZAoLNZbFwbIUycf3e1950",
+      "iv": "EW9ykqLIxCmh27/M",
+      "salt": "AMwXJY/Gv/oZ+I+oVaU0Pw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "7oQ2c+yZVXBqBswu8aNFlwRNq+g4C9se+dtfFcTIetl5IgTAUl6STvmtAC8+RrCdvxb+Jb+GITCvSXaUVdKWg+5hMPoSZz2ffkUr0pApdvnPx1hBnLSjBt9y7fCV2k+u1oSxomWmijA6lQc/YyjWaVNTkhD/Eo8hMl7y1yMHA8lq/WV8HhudnkfzJlvDkolOi9SUm34WeqIkDyHH",
-      "iv": "mwGNu1JKyNrEGVhS",
-      "salt": "llXqzQBI0bdWtsyuk4F/PA=="
+      "ciphertext": "dCcx3UFZcloFNjCRncN/XVPFZRbrqc0ki6h4d4aWiIyOD8k5qPl1lIrkfYIYnfsezNGl4FhVSIZlqS2RTT/+nF5GSI5y7A5npTe5T06Ga4MO8A9glDLDpWtz+YCbWSj4f8pyrwlzjLLAoWj3E7rt+s5cFS+macrWe7dOGfXgO7QsbOTzlKYPCWs8xg5ae6cLclMd9lVxKhWWnti0",
+      "iv": "pTcNfBGetyg0/IBe",
+      "salt": "DmcBTN/0Bf5LqFs8zIKHiw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -164,6 +164,22 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Bremen and Bremerhaven operators’ plea for infrastructure spending - Heavy Lift & Project Forwarding International",
+          "b": "Bremen and Bremerhaven operators’ plea for infrastructure spending  Heavy Lift & Project Forwarding International",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnFjYWxaZEFyNWhTWUFNVFFNRlFNQXF3Wi1GMnY1TktJWndGTzlWZUtBSEJqUGYyTzVkRVVXY3lCcFRLWDNEYmpNZHh2LWNQU2hCX281TTFZckJMcnkzbGFaS2lfbV8zcmR3ZzY0SmE4MG43a2UyYkozYzgxNjhTM21rMTNPT3laTW9sOXdjWjNLTGJTbDVFRTN1QjBnbzFqU2xGUW5mYmswUTQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Annoyed Werder Bremen star Niclas Fullkrug storms out of TV interview after being pressed on Jurgen Klopp's Germany call-up - Goal.com",
+          "b": "Annoyed Werder Bremen star Niclas Fullkrug storms out of TV interview after being pressed on Jurgen Klopp's Germany call-up  Goal.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEY1dHpDSEN5OU5lY1RxRzFRZmxIWWp1Z2JZZWhIWnh0NzdGaElNVGNLWFh0LU9kWlhrWEhYWVdnNnV0dDgtazRpWXNuX3U0U0FzYlRIVl9wYzd2d2ZYYVJKcE9VX08tckxJWkRRcktKbXBFblR2RlREbjcxS2NFTEY5R1RnNUoxMFhGSlM4LXk5aUFDc0hxNHN3RTdQX0hIMzNNTA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "'I'm not going to do that after a 1-0 loss' - Niclas Füllkrug avoids question on German national team - Get German Football News",
           "b": "'I'm not going to do that after a 1-0 loss' - Niclas Füllkrug avoids question on German national team  Get German Football News",
           "src": "\"Bremen, Germany\" - Google News",
@@ -188,30 +204,6 @@
           "rel": "home"
         },
         {
-          "t": "Stuttgart vs Werder Bremen prediction, preview & betting tips – 07/11/2026 - Football Whispers",
-          "b": "Stuttgart vs Werder Bremen prediction, preview & betting tips – 07/11/2026  Football Whispers",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnh4ZmpBMGlybUNPczZLdUlYY3hlVzZrWVJNeVdQVzdHUE9tQzBmTy01cDl4bkZFRUpmQWVFU0ZSb2RReW9ETnhSRG83YnZKb19xR0plRV84MlJTdGpZcE9HMW9zOF9vQ2lNM2RvMFJQb3B5WURtemR3ZjVfQTBiTS05LWw1eFMxVjdr?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Dachshunds star in exhibition tracing their history in art - Jamaica Gleaner",
-          "b": "Dachshunds star in exhibition tracing their history in art  Jamaica Gleaner",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlNTmNxVTkzNEU3M202UW5vN0otVVNlNzdsZ0t6OTIyTVhUX0FrdW1qX2ppa1FxUW1SbXBhelZ0c052NldJRlUxd3dxSk9ycmt0bVd0Ym5sYXZLclBZTmU5aFYxYW5GX2pWb3lwR1o3UkhEdlVlaDl3N00yZVBiS1lTQngzQVJqYUtOZGl3VHY2U29EQ0NUM2RzdHNaQ2RhZnMtVEQ1YkhEdw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug? - Bundesliga | official website",
-          "b": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug?  Bundesliga | official website",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUJyNW9nZFJfYlg4VXFZR040RWRrbWFSNmxMUVlPRTRUSmttVGMtOWxGYmNkQ2hOSk95Z2RiNE5LYkRPZzh5MWZEaXZfbzN5c2RXRjJ6SS1ONTQ0SU1aa0RxcTNabXY3VWdJTl9jeVoybS1PRHJGSjFnYUNxUUVsTHNsT3NPVElIaVlWOEFlczZVMXdIaUZfSUJjVUYxSW84dHNiMVZWZ1k2T3VnTlBUT0lJVk93M0VvZ1JYU0Zn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -226,20 +218,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Sebastian Hoeneß discusses contrasting fortunes of Niclas Füllkrug and Deniz Undav ahead of Stuttgart-Bremen clash - Get German Football News",
-          "b": "Sebastian Hoeneß discusses contrasting fortunes of Niclas Füllkrug and Deniz Undav ahead of Stuttgart-Bremen clash  Get German Football News",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84c1E1WkFSaXRzMlcwcEpBX1ZKcjZXRlZGRUptRUZXd3htcDFmOW9rem1wMENYZnVJNHF6SWwyWjlOZDYyUzhsNW5qZVk1X0JyNXVoTHd2QkphY0F1bEVmbWgwNFRiZnJzZVQxNWNFQUZBNWt2MU4w?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "📌 German Niclas Füllkrug",
-          "b": "'I'm not going to do that after a 1-0 loss' - Niclas Füllkrug avoids question on German national team  Get German Football News Sebastian Hoeneß discusses contrasting fortunes of Niclas Füllkrug and Deniz Undav ahead of Stuttgart-Bremen clash  Get German Football News",
-          "src": "insight",
-          "u": null
         }
       ],
       "chart": "near_home_flow"
@@ -259,24 +237,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Kampf",
-          "b": "<span class=\"jt\" data-g=\"lang_derkampf\">der Kampf</span> — the fight <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "die Kantine",
+          "b": "<span class=\"jt\" data-g=\"lang_diekantine\">die Kantine</span> — the canteen <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.53"
         },
         {
-          "t": "der Kanal",
-          "b": "<span class=\"jt\" data-g=\"lang_derkanal\">der Kanal</span> — the channel <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "das Kapitel",
+          "b": "<span class=\"jt\" data-g=\"lang_daskapitel\">das Kapitel</span> — the chapter <span class=\"gram\">(plural: -)</span>",
           "src": "Goethe B1 · p.53"
         },
         {
-          "t": "der Kandidat",
-          "b": "<span class=\"jt\" data-g=\"lang_derkandidat\">der Kandidat</span> — the candidate <span class=\"gram\">(plural: -en)</span>",
-          "src": "Goethe B1 · p.53"
+          "t": "kaputt",
+          "b": "<span class=\"jt\" data-g=\"lang_kaputt\">kaputt</span> — broken",
+          "src": "Goethe B1 · p.54"
         },
         {
-          "t": "die Kanne",
-          "b": "<span class=\"jt\" data-g=\"lang_diekanne\">die Kanne</span> — the pot <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.53"
+          "t": "kaputtgehen",
+          "b": "<span class=\"jt\" data-g=\"lang_kaputtgehen\">kaputtgehen</span> — break",
+          "src": "Goethe B1 · p.54"
         }
       ]
     }
