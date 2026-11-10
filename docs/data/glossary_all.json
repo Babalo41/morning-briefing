@@ -2470,5 +2470,37 @@
     "lang": "de-DE",
     "d": "Break",
     "w": "“Pass bitte mit diesem Glas auf. Es geht leicht kaputt.”"
+  },
+  "lang_kaputtmachen": {
+    "t": "kaputtmachen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Destroy",
+    "w": "“Wer hat die Lampe kaputtgemacht?”"
+  },
+  "lang_derkarneval": {
+    "t": "der Karneval",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The carnival",
+    "w": "“Dort hängt mein Kostüm für den Karnevals(um)zug.”"
+  },
+  "lang_nacht": {
+    "t": "nacht",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Night",
+    "w": "Goethe-Zertifikat B1 exam vocabulary."
+  },
+  "lang_diekarotte": {
+    "t": "die Karotte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The carrot",
+    "w": "“Hasen fressen gern Karotten.”"
   }
 }

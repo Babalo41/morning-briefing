@@ -1,0 +1,262 @@
+{
+  "id": "2026-11-10",
+  "day": "Tue",
+  "dnum": "10",
+  "mon": "Nov",
+  "date": "Tuesday 10 November 2026",
+  "headline": "Briefing refreshed 05:00 Berlin time",
+  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
+  "blocks": [
+    {
+      "h": "Needs Attention",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "n+cMWrzxoQY1wElZ8Cf9zNqOfBTFry1qgItKWox3m/F128tUTFcO7D0XDchER5z82zuLy5RIeNx6iDk2hMNoYJO3rlnTp9sCkWdFG9A+cHGRP0FupB10GBBtMIEqrNAvrFK2c4O4vJ+p14dO60etg72aNRvm8BUvfaTY2IgROO5Lhnbee4E+",
+      "iv": "4fO8IFr3XDzg8CFw",
+      "salt": "AB7g2zc8bR2yL3/zpnjQBQ=="
+    },
+    {
+      "h": "Weather",
+      "stats": [
+        {
+          "n": "4°",
+          "l": "right now"
+        }
+      ],
+      "items": [
+        {
+          "t": "Bremen: fog, high 6°C",
+          "b": "Low 2°C, gusts to 19 km/h. 7-day outlook below.",
+          "src": "Open-Meteo"
+        }
+      ],
+      "chart": [
+        "wxtemp",
+        "wxrain"
+      ]
+    },
+    {
+      "h": "Week & Month Ahead",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "XAIHWQyzHqpZWnTgWrgK+ej9IZk81Rh4AN4GtgJTLcnhGAwf8dAUaTdl8qARDJbCLYP8CntzeR4aryDH9xQowflVpWIERQ1M9d9rrvCfUU7yU9g5L4p8qkQXD6+tWiyMnBrERSXhH+N8J4JKd+5TgT7ndQhclc+Zq5id",
+      "iv": "oe2EIh6jFA2Lva+j",
+      "salt": "PfwwF0ZjBPGogbOAPL9QOA=="
+    },
+    {
+      "h": "Diabetes & Supplies",
+      "count": 2,
+      "encrypted": true,
+      "ciphertext": "WRGXJD5su7KwgplXwOUwsrOBbOve7LYAjMH+7W0JHulMNLPWk9YyPi1/Dk9A4lSQQtn7w5hcl6nprFHH9BcFcgMmijm0U+o+h0o7+qQRmsBnr7ghGptA4k1eepIldu/L8KBzlE6tI8JARqpLJszNaTImFiOdDEpEDCmpaDLARV5oLT+jLc6n4vpAp5fCWz5qEKNvQ1UYvHF27fnp/gms95h7hg/tYHbTYVFSLXiq63jJLS5KtlDejRakLtrM9fhsVGs3wl7ZXXeA+tN6G2WdmfgMY+FVJ6sakjpJhP41Kxkq/hVDRk4GePYtENkaIqhAsoz98kbt",
+      "iv": "XR9NNz15mX2Kg2Hj",
+      "salt": "BwwFg1E1He8NyIq7Pe6Etw=="
+    },
+    {
+      "h": "Spending",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "gIWT57MfEGawYCbEc83p1pu49PrzcMj51XmUZoTV8L0BKsBTv54/kMF2k2/HeDcu2cwy3WlWBkZDpU6iiibjJgv+naNyWgGb0kBIcCDdrAPdbCeNCezASkMCa6HGBJtoxPES532EGfnh2hzJCEw6bJV0ANfxZzKzFQwG3JpIY4sR0ysqsZVTLAfkZEv8MueLuKUe1ATOlGCRfhBT",
+      "iv": "BWaojwYx2eZduMAU",
+      "salt": "7JRjonF13PqGN0EvqaoPuQ=="
+    },
+    {
+      "h": "ISTQB & Software Testing",
+      "items": [
+        {
+          "t": "📌 Istqb® Tester Certified",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "📌 Istqb® Testing Recognizes",
+          "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+          "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+          "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+        },
+        {
+          "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+        },
+        {
+          "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+          "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        },
+        {
+          "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
+        }
+      ],
+      "feed_section": "profession_field"
+    },
+    {
+      "h": "Defense Electronics & Secure Networking",
+      "items": [
+        {
+          "t": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+          "b": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+          "src": "BleepingComputer",
+          "u": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/"
+        }
+      ],
+      "feed_section": "work_industry"
+    },
+    {
+      "h": "Network & Systems Engineering",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "network_systems"
+    },
+    {
+      "h": "Jira, Xray & Confluence",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "test_tooling"
+    },
+    {
+      "h": "Near Home",
+      "tags_section": "near_home",
+      "items": [
+        {
+          "t": "Bremen and Bremerhaven operators’ plea for infrastructure spending - Heavy Lift & Project Forwarding International",
+          "b": "Bremen and Bremerhaven operators’ plea for infrastructure spending  Heavy Lift & Project Forwarding International",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnFjYWxaZEFyNWhTWUFNVFFNRlFNQXF3Wi1GMnY1TktJWndGTzlWZUtBSEJqUGYyTzVkRVVXY3lCcFRLWDNEYmpNZHh2LWNQU2hCX281TTFZckJMcnkzbGFaS2lfbV8zcmR3ZzY0SmE4MG43a2UyYkozYzgxNjhTM21rMTNPT3laTW9sOXdjWjNLTGJTbDVFRTN1QjBnbzFqU2xGUW5mYmswUTQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Annoyed Werder Bremen star Niclas Fullkrug storms out of TV interview after being pressed on Jurgen Klopp's Germany call-up - Goal.com",
+          "b": "Annoyed Werder Bremen star Niclas Fullkrug storms out of TV interview after being pressed on Jurgen Klopp's Germany call-up  Goal.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEY1dHpDSEN5OU5lY1RxRzFRZmxIWWp1Z2JZZWhIWnh0NzdGaElNVGNLWFh0LU9kWlhrWEhYWVdnNnV0dDgtazRpWXNuX3U0U0FzYlRIVl9wYzd2d2ZYYVJKcE9VX08tckxJWkRRcktKbXBFblR2RlREbjcxS2NFTEY5R1RnNUoxMFhGSlM4LXk5aUFDc0hxNHN3RTdQX0hIMzNNTA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "'I'm not going to do that after a 1-0 loss' - Niclas Füllkrug avoids question on German national team - Get German Football News",
+          "b": "'I'm not going to do that after a 1-0 loss' - Niclas Füllkrug avoids question on German national team  Get German Football News",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHVEOV9zdGZvZldCYVIzNm9hVTB0VHBLUU10SXcyNTZ4SndQVXFCdVRIVFJSSUxsc2NjTXlYNEE5N29kX042NnlSSzN0R1RTeE9JcGo3QnRkc2JQMVJkcVFZemhoaTZwWE9ISDFjeGV2SDNUcmlrMHd4Y0dsVGVtdmh1MTR1c1RjRDRoZE5NR05kMjdH?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        },
+        {
+          "t": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat - Bulinews",
+          "b": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObG9RM293YUFqRWVjNDE4UUpUeHZuLXU2NjQxUkZiOHdVY1JaLXY5TVVEdTNJcktlUnVTbFZpOVZUOHAydW9BWV9lLW8xU3A1bEJYdzdyRVY4TjFtT1FIWHdZc053N2RCNElNSjY3czJxSE1MUFRDVTZhMnVDWXliN1JWSldNWVFkaDNCRHNxbnUxc0dtNDBmTTA4cw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table - Bulinews",
+          "b": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEY0a01aN3lETUtMeTQyRDByb3Z5SExaWS1yT1lFQ0xXY2dRMkhqd2xHbE9VY212QkFpRzl3T2N6LXpRc2Q2YnVwQ0h0UlhRZ3VIVF9oblhqbHdHLWFRd1JJTGZlc0dhSW1BZzJkVmdfUjdpbzlISUNySkUtU0hrbDdIVmNtNmo3VWI5V01kc2dfcGc?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        }
+      ],
+      "chart": "near_home_flow"
+    },
+    {
+      "h": "World & Knowledge",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "world_and_knowledge"
+    },
+    {
+      "h": "Language Practice",
+      "items": [
+        {
+          "t": "kaputtmachen",
+          "b": "<span class=\"jt\" data-g=\"lang_kaputtmachen\">kaputtmachen</span> — destroy",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "der Karneval",
+          "b": "<span class=\"jt\" data-g=\"lang_derkarneval\">der Karneval</span> — the carnival <span class=\"gram\">(plural: -s/-e)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "nacht",
+          "b": "<span class=\"jt\" data-g=\"lang_nacht\">nacht</span> — night",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "die Karotte",
+          "b": "<span class=\"jt\" data-g=\"lang_diekarotte\">die Karotte</span> — the carrot <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.54"
+        }
+      ]
+    }
+  ]
+}

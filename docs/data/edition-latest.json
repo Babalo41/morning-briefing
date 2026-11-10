@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-09",
-  "day": "Mon",
-  "dnum": "09",
+  "id": "2026-11-10",
+  "day": "Tue",
+  "dnum": "10",
   "mon": "Nov",
-  "date": "Monday 09 November 2026",
-  "headline": "Briefing refreshed 17:04 Berlin time",
-  "stand": "Automatically rebuilt at 17:04 — 12 sections tracked.",
+  "date": "Tuesday 10 November 2026",
+  "headline": "Briefing refreshed 05:00 Berlin time",
+  "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "02P6BneW6nKnkPFeeL/Si5V66G3IZlAe0lC3X8Z/y0NRMBB/n5Pt/ylJk4ggwQ0KzTMqO2w4mN2VUCW27mIheMSkZboE8nNJvtv9+kI5TcPB9f+VahHf7uHmufRgEOq/Df1aNz9hSf8+toQT2nf7hpCpTD+1wHpclY81vpak1ryqWvgmpIwI",
-      "iv": "42LzWLymKqZrqjkQ",
-      "salt": "zJ154pyfkHQibDi5w/3PNA=="
+      "ciphertext": "n+cMWrzxoQY1wElZ8Cf9zNqOfBTFry1qgItKWox3m/F128tUTFcO7D0XDchER5z82zuLy5RIeNx6iDk2hMNoYJO3rlnTp9sCkWdFG9A+cHGRP0FupB10GBBtMIEqrNAvrFK2c4O4vJ+p14dO60etg72aNRvm8BUvfaTY2IgROO5Lhnbee4E+",
+      "iv": "4fO8IFr3XDzg8CFw",
+      "salt": "AB7g2zc8bR2yL3/zpnjQBQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "8°",
+          "n": "4°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 9°C",
-          "b": "Low 5°C, gusts to 17 km/h. 7-day outlook below.",
+          "t": "Bremen: fog, high 6°C",
+          "b": "Low 2°C, gusts to 19 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "uCU8Q4tpq0pP+Y6NGPjIBYHareQ9znBbbVFpwkhkDdHpg78/Hy+kmPTgCqqhmP6+oYbQZIvKfY6sRVi4dRznC6dReQS2M5pVOjm6WYAM+3SQSWL7gSsDXftEfmKcLko02n7Ac1tSB0d56/4VyKyx2+LTZ6Wr+c/4QK3Z",
-      "iv": "XTjwnzOsjO0tceP6",
-      "salt": "5yHFRKRn5USUAdxl6KaYCA=="
+      "ciphertext": "XAIHWQyzHqpZWnTgWrgK+ej9IZk81Rh4AN4GtgJTLcnhGAwf8dAUaTdl8qARDJbCLYP8CntzeR4aryDH9xQowflVpWIERQ1M9d9rrvCfUU7yU9g5L4p8qkQXD6+tWiyMnBrERSXhH+N8J4JKd+5TgT7ndQhclc+Zq5id",
+      "iv": "oe2EIh6jFA2Lva+j",
+      "salt": "PfwwF0ZjBPGogbOAPL9QOA=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "Izahh8vGv1WiTZqdZP782DsMbdAf6lxIrH+wtzWiik2OEFrjLfGlScAwrf/KbWbnc2z54mT9etOa6zk9Udcv/9/ziatDH3g+V+C0rVL6mZ5WlhrmMvXoHuZXQe9M3rbNIf89mfLpH+O+qR+2j7oqQvGU48bxuymzCQKb68gjYXBGylTvJH+qj87A21OUtuK+JITUe7tgycjrIfrvX4jg5KODhY2w1uEA1PhjTaaJVcU2vJouBSgcxWwvqT62VWudEP2f89R0lJ8t0m2kMPaOYhOKlHjBlej4Bg4Q9lB/jrzdJDOWd17ZAoLNZbFwbIUycf3e1950",
-      "iv": "EW9ykqLIxCmh27/M",
-      "salt": "AMwXJY/Gv/oZ+I+oVaU0Pw=="
+      "ciphertext": "WRGXJD5su7KwgplXwOUwsrOBbOve7LYAjMH+7W0JHulMNLPWk9YyPi1/Dk9A4lSQQtn7w5hcl6nprFHH9BcFcgMmijm0U+o+h0o7+qQRmsBnr7ghGptA4k1eepIldu/L8KBzlE6tI8JARqpLJszNaTImFiOdDEpEDCmpaDLARV5oLT+jLc6n4vpAp5fCWz5qEKNvQ1UYvHF27fnp/gms95h7hg/tYHbTYVFSLXiq63jJLS5KtlDejRakLtrM9fhsVGs3wl7ZXXeA+tN6G2WdmfgMY+FVJ6sakjpJhP41Kxkq/hVDRk4GePYtENkaIqhAsoz98kbt",
+      "iv": "XR9NNz15mX2Kg2Hj",
+      "salt": "BwwFg1E1He8NyIq7Pe6Etw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "dCcx3UFZcloFNjCRncN/XVPFZRbrqc0ki6h4d4aWiIyOD8k5qPl1lIrkfYIYnfsezNGl4FhVSIZlqS2RTT/+nF5GSI5y7A5npTe5T06Ga4MO8A9glDLDpWtz+YCbWSj4f8pyrwlzjLLAoWj3E7rt+s5cFS+macrWe7dOGfXgO7QsbOTzlKYPCWs8xg5ae6cLclMd9lVxKhWWnti0",
-      "iv": "pTcNfBGetyg0/IBe",
-      "salt": "DmcBTN/0Bf5LqFs8zIKHiw=="
+      "ciphertext": "gIWT57MfEGawYCbEc83p1pu49PrzcMj51XmUZoTV8L0BKsBTv54/kMF2k2/HeDcu2cwy3WlWBkZDpU6iiibjJgv+naNyWgGb0kBIcCDdrAPdbCeNCezASkMCa6HGBJtoxPES532EGfnh2hzJCEw6bJV0ANfxZzKzFQwG3JpIY4sR0ysqsZVTLAfkZEv8MueLuKUe1ATOlGCRfhBT",
+      "iv": "BWaojwYx2eZduMAU",
+      "salt": "7JRjonF13PqGN0EvqaoPuQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -188,22 +188,6 @@
           "rel": "home"
         },
         {
-          "t": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat - Bulinews",
-          "b": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObG9RM293YUFqRWVjNDE4UUpUeHZuLXU2NjQxUkZiOHdVY1JaLXY5TVVEdTNJcktlUnVTbFZpOVZUOHAydW9BWV9lLW8xU3A1bEJYdzdyRVY4TjFtT1FIWHdZc053N2RCNElNSjY3czJxSE1MUFRDVTZhMnVDWXliN1JWSldNWVFkaDNCRHNxbnUxc0dtNDBmTTA4cw?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table - Bulinews",
-          "b": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table  Bulinews",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEY0a01aN3lETUtMeTQyRDByb3Z5SExaWS1yT1lFQ0xXY2dRMkhqd2xHbE9VY212QkFpRzl3T2N6LXpRc2Q2YnVwQ0h0UlhRZ3VIVF9oblhqbHdHLWFRd1JJTGZlc0dhSW1BZzJkVmdfUjdpbzlISUNySkUtU0hrbDdIVmNtNmo3VWI5V01kc2dfcGc?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -218,6 +202,22 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat - Bulinews",
+          "b": "Füllkrug discusses Stuttgart battle and Germany call-up after \"Topspiel\" defeat  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObG9RM293YUFqRWVjNDE4UUpUeHZuLXU2NjQxUkZiOHdVY1JaLXY5TVVEdTNJcktlUnVTbFZpOVZUOHAydW9BWV9lLW8xU3A1bEJYdzdyRVY4TjFtT1FIWHdZc053N2RCNElNSjY3czJxSE1MUFRDVTZhMnVDWXliN1JWSldNWVFkaDNCRHNxbnUxc0dtNDBmTTA4cw?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table - Bulinews",
+          "b": "One goal is enough: Stuttgart overcome Bremen to climb the Bundesliga table  Bulinews",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEY0a01aN3lETUtMeTQyRDByb3Z5SExaWS1yT1lFQ0xXY2dRMkhqd2xHbE9VY212QkFpRzl3T2N6LXpRc2Q2YnVwQ0h0UlhRZ3VIVF9oblhqbHdHLWFRd1JJTGZlc0dhSW1BZzJkVmdfUjdpbzlISUNySkUtU0hrbDdIVmNtNmo3VWI5V01kc2dfcGc?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -237,23 +237,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Kantine",
-          "b": "<span class=\"jt\" data-g=\"lang_diekantine\">die Kantine</span> — the canteen <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.53"
-        },
-        {
-          "t": "das Kapitel",
-          "b": "<span class=\"jt\" data-g=\"lang_daskapitel\">das Kapitel</span> — the chapter <span class=\"gram\">(plural: -)</span>",
-          "src": "Goethe B1 · p.53"
-        },
-        {
-          "t": "kaputt",
-          "b": "<span class=\"jt\" data-g=\"lang_kaputt\">kaputt</span> — broken",
+          "t": "kaputtmachen",
+          "b": "<span class=\"jt\" data-g=\"lang_kaputtmachen\">kaputtmachen</span> — destroy",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "kaputtgehen",
-          "b": "<span class=\"jt\" data-g=\"lang_kaputtgehen\">kaputtgehen</span> — break",
+          "t": "der Karneval",
+          "b": "<span class=\"jt\" data-g=\"lang_derkarneval\">der Karneval</span> — the carnival <span class=\"gram\">(plural: -s/-e)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "nacht",
+          "b": "<span class=\"jt\" data-g=\"lang_nacht\">nacht</span> — night",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "die Karotte",
+          "b": "<span class=\"jt\" data-g=\"lang_diekarotte\">die Karotte</span> — the carrot <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.54"
         }
       ]
