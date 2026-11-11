@@ -2502,5 +2502,37 @@
     "lang": "de-DE",
     "d": "The carrot",
     "w": "“Hasen fressen gern Karotten.”"
+  },
+  "lang_diekarriere": {
+    "t": "die Karriere",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The career",
+    "w": "“Mein Bruder hat große Pläne. Er will Karriere machen.”"
+  },
+  "lang_diekarte": {
+    "t": "die Karte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The card",
+    "w": "“Schreibst du mir eine Karte aus dem Urlaub?”"
+  },
+  "lang_diechipkarte": {
+    "t": "die Chipkarte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The chip card",
+    "w": "“Ich habe eine Chipkarte für diesen Automaten.”"
+  },
+  "lang_diefahrkarte": {
+    "t": "die Fahrkarte",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The ticket",
+    "w": "“Fahrkarten können Sie am Schalter kaufen.”"
   }
 }
