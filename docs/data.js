@@ -1,6 +1,488 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-11-11T05:00:22.636905+01:00",
+  "generated_at": "2026-11-13T22:07:48.584798+01:00",
   "editions": [
+    {
+      "id": "2026-11-13",
+      "day": "Fri",
+      "dnum": "13",
+      "mon": "Nov",
+      "date": "Friday 13 November 2026",
+      "headline": "Briefing refreshed 22:07 Berlin time",
+      "stand": "Automatically rebuilt at 22:07 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "jY4c94XQc1kznHasFFqqHXRzvZhTO0gerzue+fxMU6w23WieE7Ac2XvKrN7xTnrG4grkzDFyQx2jdwoftxzvxfWTOw2FeS9m8H9VvB+nCGHrJCfADKKd0gwrPuahcQ3Lwan+ojpTpMPXI3H1eJW3CYcoZlkR+cGlbkmtmLJsIT4uObhPnA4U",
+          "iv": "KiyNGy2io58Uvqlt",
+          "salt": "xOQrLbojJSdtDT9fEBDFIA=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "5°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 8°C",
+              "b": "Low 4°C, gusts to 43 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "hvjEy0Sr1ZiadBN0RmL7o4LWd5xPkBP389Nt9DXeh/LLELGO92chDys9G8kslYWbNvwPoVwJZhJwz5qmjrkANZRsY0bP2d20BIKzQssLxKofR5pxDeB3aGFtjAXNJvvgUyAhI9QCotIVDGVNUulGDeEpQZ8UKXIxNehB",
+          "iv": "14mzsD6fw7FCoptG",
+          "salt": "Vr1V3KKK247Q92q3MVUUkw=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "ITXAtpRB2ZrsV15Vwed8OPI4NlBa3a95ZUQnLUYgmyvvq+O3BPTnxxkYHshiyBB1mhC67t1qBsuTxp+MMtFgHFw6sJlZ4gYfCsQNiwFFgFbRxPwLWo5lY3GPZ9lBY+mYapURWYv+/4N3Xhrl2gohO1UqqSweNZjegCpMCK9lCMbiKBDejo6QDv/MLSyXOM5RCt3Qsf+LRjoOEtuKUVt506MWHjdNALoQTa4bPkNmU/NO7zoenz1frzyHmz80zSy8IeoOietNRN3+7kIXN+UROy1BYAEmrgZ3OGwvYhCWduhpuTUspVR37YspxobM6sFQNgI/48Sc",
+          "iv": "6PO7uDpsGoIhfVRM",
+          "salt": "J2l86SxWkDi5vhhNCy6swA=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "5pqe4VFTvhtFy7FwlsfatFD+BP/RbeyPHzMoICt4g2MBIdtKyRAAf+AiQm4R8004uKHye0oD9PTFNfc4a1x8JXzjU2Vheud6Cuv5wyn41C8+Fg8BC2PXGDAXPdx1So58wsOFMCRJI4ZrloLLuZaolfq8spq2Z+GLDWog0IHLUnlN9W8WDYzuRWZxcjVDlOISJKE2gPFljPxydNdO",
+          "iv": "KQCo1q2rGWTypxbw",
+          "salt": "MmXczm7DB8j1h5vAbZK5vw=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certification Portfolio",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+              "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+            },
+            {
+              "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "November Patch Tuesday boasts over 1,000 bugs, one already under attack",
+              "b": "Microsoft admins wail and gnash their teeth",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            },
+            {
+              "t": "Fullkrug's fierce focus! In-form Werder Bremen striker beams over Germany recall under Jurgen Klopp - Goal.com",
+              "b": "Fullkrug's fierce focus! In-form Werder Bremen striker beams over Germany recall under Jurgen Klopp  Goal.com",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkRUcTVRV2JQM0FqMWF6a29jNVlsTmhJYmVwcU91R2ViR041RDFOUnRwZ1pFRnZkYlZDdDBIc2k5bHl2U2RualFKRE5fNjd5LTFlRjRmVWtUWVRVVldmQmZXRmdPcVhRU1p6MzJWTkJwVGJFVDFJSXB1ME5qQ0xydWNHbXVzVTZ2SVZ6VXE2cVd0YkItQUdhV21NTWhYazlEd1hYc1g4MzdhaG8?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug? - Bundesliga | official website",
+              "b": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug?  Bundesliga | official website",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUJyNW9nZFJfYlg4VXFZR040RWRrbWFSNmxMUVlPRTRUSmttVGMtOWxGYmNkQ2hOSk95Z2RiNE5LYkRPZzh5MWZEaXZfbzN5c2RXRjJ6SS1ONTQ0SU1aa0RxcTNabXY3VWdJTl9jeVoybS1PRHJGSjFnYUNxUUVsTHNsT3NPVElIaVlWOEFlczZVMXdIaUZfSUJjVUYxSW84dHNiMVZWZ1k2T3VnTlBUT0lJVk93M0VvZ1JYU0Zn?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "die Kassette",
+              "b": "<span class=\"jt\" data-g=\"lang_diekassette\">die Kassette</span> — the cassette <span class=\"gram\">(plural: -n)</span>",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "der Kasten",
+              "b": "<span class=\"jt\" data-g=\"lang_derkasten\">der Kasten</span> — the box <span class=\"gram\">(plural: ¨-)</span>",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "der Kasten",
+              "b": "<span class=\"jt\" data-g=\"lang_derkasten\">der Kasten</span> — the box <span class=\"gram\">(plural: ¨-)</span>",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "der Katalog",
+              "b": "<span class=\"jt\" data-g=\"lang_derkatalog\">der Katalog</span> — the catalogue <span class=\"gram\">(plural: -e)</span>",
+              "src": "Goethe B1 · p.54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12",
+      "day": "Thu",
+      "dnum": "12",
+      "mon": "Nov",
+      "date": "Thursday 12 November 2026",
+      "headline": "Briefing refreshed 05:00 Berlin time",
+      "stand": "Automatically rebuilt at 05:00 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "WSixMHDB4t2erRuzWhjErSajWd9cuLJfTuzHn3YPgIrjACwgSuZz8V3ESy0XhZlC88UU6BfHEg4D4ua6Lpl7u+mwBdzZKPDlLCZkgQwI2WfXWrzgcOnjknNDsaw7Fki5TNzoMK4HOQwL38XPAkE6UVtNRjTHKJQNxBsId3IsoVkr+Qsuwgwk",
+          "iv": "cr5zIdclhKX0vtUZ",
+          "salt": "JbETYu+L+oFeAwjWZibygg=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "2°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: overcast, high 9°C",
+              "b": "Low 2°C, gusts to 31 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "fiznmu+TKrlaeXOFjYprvhQVeJdC/KcTO8T4bfLq799YvUXHXSXoyZmD2meggvIthykyHuju2c6wMaOVQO6U7yt8+m3bA0RtFAUu1NiM+fRXwyyl10Xhiidp1ytsqTjFDNlKR7dqw+fL3zHL3nKn5lSX39Bk/Sd4QqHU",
+          "iv": "Dqqv/DeIYjH5oiy3",
+          "salt": "Kk1AQ/Vvf5ajKPNvBNvGWQ=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "2qcNedvdu/wFvdu/+xNuHlELDxqh5Xl3zrQOGmq5aFWbfC6NAbb/MJ3d8I7qS2ggR+NafCzdupdyjMTk1cAgQQXU93lu4Zcx7w2O2KbylXpI3qI3Z94U7wCEDICwP+1/b4dFKAAgfg78xdC8V3ptMuytK0U3R1pNU8NGTdltDMivgDgR2kDUaIb8W6mzauRUfEc7Grrb4sDpKd8+GD+WOAKh7pSZHIv/KILGrSIN8EPqcMEApkzaMau50z7RVTx4MOc0TAjDiEXMOLetoX3sNUzc52VE/lJJgGyPyI7i86m3gtvawMXMmwoHCO5Wygh7hs5YeyVt",
+          "iv": "TaD9j0OiuuEZjO2p",
+          "salt": "Cf4l1smG1n47p3neAo1IRQ=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "sQigzjFQviiDo02hQIKCRPwDCUbqYGXiZuiKONWr99I/Allugpbm7d4rsC+5OHoeV+hBvKXGNO8oSgMu0QXKhnFnWrkfO5KsMarALGX0lRAkqnt84VPIJXmEPHlPwxu5lVcUEl3qeAFeipJ3Nz3joPBKpZp3RgDdlGxwtqwqhAHw+mrzQSsUof1gAN1SeYAw+YvMs+xtMqXwlWLK",
+          "iv": "ZyPGJCueikTTIAAz",
+          "salt": "GJoUdludQ/jwa73V557iMA=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certification Portfolio",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+              "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+            },
+            {
+              "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+              "b": "Microsoft admins wail and gnash their teeth",
+              "src": "www.theregister.com - Articles",
+              "u": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Niclas Füllkrug credits Werder Bremen medical staff for helping him rediscover form - Yahoo Sports",
+              "b": "Niclas Füllkrug credits Werder Bremen medical staff for helping him rediscover form  Yahoo Sports",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm9ScUMyY2FTQm0yUTJ2NTZNdHJ1a1hXbFg5TmJ6RE5ua2ZHam9BT2VKQUI0SGRGeWg1dHJkRUQ1aGVYRnByMjVNbjNpQnRjVS1TSU5pOXBRdTkwN2NmVmxuQ3JncDVnMHV2VjBJUVZDT3d6Qmk3V0JlcW5CQkNNMFBmSUk5dw?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Füllkrug ready for much-awaited Germany comeback - Yahoo Sports",
+              "b": "Füllkrug ready for much-awaited Germany comeback  Yahoo Sports",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmZmTXZUaDFLN096N0Q4S3Jub3UyZVBXMm9ZT014LVNPUFBzM29FYm5UX2lHRnh3QUVleG1SNG41SFZKcDhEMXowN2lWUFZ4QmlCT0lKUTFGRU9wZzg5T29Zd0xodlVmNGp5QkVfeFozSElHV2pLS0V5cnNyZ28zOGdn?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            },
+            {
+              "t": "📌 Füllkrug Yahoo Sports",
+              "b": "Niclas Füllkrug credits Werder Bremen medical staff for helping him rediscover form  Yahoo Sports Füllkrug ready for much-awaited Germany comeback  Yahoo Sports",
+              "src": "insight",
+              "u": null
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "die Kartoffel",
+              "b": "<span class=\"jt\" data-g=\"lang_diekartoffel\">die Kartoffel</span> — the potato <span class=\"gram\">(plural: -n)</span>",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "dapfel",
+              "b": "<span class=\"jt\" data-g=\"lang_dapfel\">dapfel</span> — apple",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "der Käse",
+              "b": "<span class=\"jt\" data-g=\"lang_derkäse\">der Käse</span> — the cheese",
+              "src": "Goethe B1 · p.54"
+            },
+            {
+              "t": "die Kasse",
+              "b": "<span class=\"jt\" data-g=\"lang_diekasse\">die Kasse</span> — the cash register <span class=\"gram\">(plural: -n)</span>",
+              "src": "Goethe B1 · p.54"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-11",
       "day": "Wed",
@@ -7444,566 +7926,6 @@ window.EDITION_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "2026-10-13",
-      "day": "Tue",
-      "dnum": "13",
-      "mon": "Oct",
-      "date": "Tuesday 13 October 2026",
-      "headline": "Briefing refreshed 17:42 Berlin time",
-      "stand": "Automatically rebuilt at 17:42 — 12 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "hwZCPENuWOrRUkhUc6Kd8fmU1oq3g5oy0omOhkYe1/QbDImE85uvfye2GkrpmBtsWkt2GWvBVUFV4z7+ApqTUNYb8Gm4E863Rh0uO4QLXmo0NQLQeKNVupsEMoqmcaskfbflCmlbl/khKDHSZXdlKNeiz48I4SZ8FsvcHK/4512dGqlXUwqc",
-          "iv": "oL1eOH5gJRSn4aCB",
-          "salt": "eqoo5lpUKZ3Sw2kgtRqj1w=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "14°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: overcast, high 15°C",
-              "b": "Low 7°C, gusts to 36 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "TGJDaJXq/S+78aUazJYVu4qi/Zy11OMTaP640lDUh/5J08on0bF/1J2WiEoi7LqIjQnSHdFLsWzfQ4qFRRqjX0mGWqCOaHj5QzR7FJmhdV0vSv7qEgxDp+NuukPPTKVpt3Ud/qrI6V426DyHW1MUdXukxWEd1dPHB/kg",
-          "iv": "kJ19HEr89qR8kfso",
-          "salt": "uFi5U60yBVIxIRvm5+1sxw=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "arBoGhkux7YPQvaat1zYerMFk6C9pT9tyaYhb2d1CPGU2ptDSCik40yu59EyBkuSzY92Rahk88CL+xJRK1LAORx0cyF3bes/htZqPKWE3NJwy3X69PwziLI0Jzu7mUGuXKPlJFq8bxVYVvEH5qvLUUlXgvRCqzTe4RrLlRBz2ooLB7abMy3q8ohOQWhz9MeZxMixE0K/v54a6XM677csfJ6TQaedkybEiZ9vUx1v4emwxBrC2kOWxy7UJXAY3WlV/cgMoou4m9dyLKtd8uOcqtKtXMIY8EwcINPuww6wOQDBI0Zd9m1VCUZM0FtlmRP+uQ7e/w9i",
-          "iv": "pV+LCjzSGzJCbnYY",
-          "salt": "6n12RrFAUPXHf20zIs34MQ=="
-        },
-        {
-          "h": "Spending",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "wr9raTA4IVmF+LGpkcwaZdcUMoktSATTao8iIzDjxvPFlduZCdmFIkuNeVNUX06bCm4yeekpQMiR7DFVbRyvwtb+eJZygDCVulyUlURpBCJ+8ldhPA3nk4qnKKe6SpqcDnGFSlnar7XmJ3Owtpb6Ry4j5fYmPUFcmMgUVxXiHG8f9SX/dfqWhpf1AAfoBZVmeC39WEkcWlntXDF2",
-          "iv": "rYDpnC3CH4SNFj+d",
-          "salt": "20QzUd2RZGPJcsF/2W/64w=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "📌 Istqb® Certified Tester",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "📌 Istqb® Testing Recognizes",
-              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
-              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
-              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
-              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
-            },
-            {
-              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
-            },
-            {
-              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
-            },
-            {
-              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
-              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-            },
-            {
-              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-            },
-            {
-              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
-            }
-          ],
-          "feed_section": "profession_field"
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "work_industry"
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "network_systems"
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "test_tooling"
-        },
-        {
-          "h": "Near Home",
-          "tags_section": "near_home",
-          "items": [
-            {
-              "t": "Airline to axe ALL flights to historic European city from Stansted Airport - Colchester Gazette",
-              "b": "Airline to axe ALL flights to historic European city from Stansted Airport  Colchester Gazette",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVhPVU5CaXV5N0NlbDFyVnkwSENUZGxQOGhGdWM0bkt3N0t2SjRTWXVkR2ZiUkYzY2RBWTI2UUl3TGFPanlISi1hSmdFanlGMEdibURxUkJ0QXloT0ZQZWE2RjliM1JFZ2Ixek1ka1ZmdVF2T3NKeEd4QmJvR25NM1pST3VsaTRuVUsxSG5VYUtKeExpaFk1bUZOQVlRQQ?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues - Yahoo",
-              "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU82TmhMbV9RbTVSbjc2TGJ3YU1xNXRuc1hqei1QSWhNVDluUHJGcDdNVGliZHhMYk5JZmdQV3ptSXdSU2UxMjdnNVEtSzlHa2tpbWVNWUcxc0dWSi03ekJ3US1ROHZFVEJhNzc4VHFhRHh2SjBkMERmc1BNREg0ckwzS293a0V6?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash - Get German Football News",
-              "b": "Martin Demichelis discusses Antonio Nusa and PSV ahead of UEFA Champions League clash  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbThOTHlRcndvNUlab1g1MGp5TlhKdHRrbEdwZ0thVUJKMTZMYTdUeGU2bWo5QlBXTUlxdUw0WFVhd2JyNE5xSEQ0WEo4V25IN0ZtNG8yT3FkeTdWRDhrM2k1MHJpdFFESHNZWVFmV2VtalBfWGp4WEhVWE9vZUNxQ2RTR3hBLW81a3NINmJ2SGg2SW5DS2VHMGRBLW5pa1pTUVNnT3Z0RHhWOV9oZWc?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen - FL360aero",
-              "b": "Germany’s Aviation Industry Under Pressure as Ryanair Cuts Flights, Closes Berlin Base and Exits Bremen  FL360aero",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVG9uZEkxRnRMTVIzcXNQTnZPVGtGUFFYajJLYUV2UXpnc1lZSFc4ZDkybjdwUFB3V210RjBabXE0cmN4bXQyX2N2SElPb0o0c0V5N2FrNGhmLVBONVRYSDBaUEFWVkZQc1BLQ0thWjBGV0VTVzNOWll1R0hxQ0FkUWRCQnN6Y2xxZWR4OTNqYTJpcnhzMi1ZNG9qZi1sZlNQNHdDajVod0g1WUR5bVdxdGRrWlpMS2MzeWpLMXp1YTlpNGlQaTE4cVRBOFFpN3JPb3c?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star - Goal.com",
-              "b": "'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFRkemN4bFY2SWgtaFEtNVl4aHZKLVRBN3NtZUJWSUhOd1FLX0w3V3FYcE1LdElWUVh6VVRXTzRvaGQ1dlhmYTNaTEtMc1ltSkdkNlZpbzNuWXFvcGtvWjg3QkNhY1BiYXBILWFuZjZ2cXRPWHRzOXdQYzNoNFVZdHlFZEVVc2EyNU4zalpndXM4Yk1uT1BWeW9JRVN3ZnlSR3E3Sk9PS1Z3VFB5Q0FYblNQMFBudw?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Rudi Völler opens door to Germany return for in-form Füllkrug - Bulinews",
-              "b": "Rudi Völler opens door to Germany return for in-form Füllkrug  Bulinews",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTJuMVJSRER1V0FXRWd0dFNLVnVRS0RnOTNUXzd1X1NsMGhHaWxLMDR2ZkZ5Y2ppLXgyWG41RDVadl9MTDVWT2tfd1dGQkx5X19uYktHMEktZGotdVBxTnBRZGFHQXZCSTZxdXNjZ0tyaWVjV1dBbGNGTTZHNnFmVzVn?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bhavnagar",
-              "rel": "family"
-            },
-            {
-              "t": "Tracking: Surat",
-              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Surat",
-              "rel": "interest"
-            },
-            {
-              "t": "📌 Werder Bremen Niclas",
-              "b": "How Werder Bremen feel about signing Niclas Fullkrug permanently as starring form away from West Ham continues  Yahoo 'Why not?' - Niclas Fullkrug handed Germany lifeline as DFB chief Rudi Voller discusses surprise return for Werder Bremen star  Goal.com",
-              "src": "insight",
-              "u": null
-            }
-          ],
-          "chart": "near_home_flow"
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "world_and_knowledge"
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "die Hitze",
-              "b": "<span class=\"jt\" data-g=\"lang_diehitze\">die Hitze</span> — the heat",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "das Hobby",
-              "b": "<span class=\"jt\" data-g=\"lang_dashobby\">das Hobby</span> — the hobby <span class=\"gram\">(plural: -s)</span>",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "hoch",
-              "b": "<span class=\"jt\" data-g=\"lang_hoch\">hoch</span> — high",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "die Höhe",
-              "b": "<span class=\"jt\" data-g=\"lang_diehöhe\">die Höhe</span> — the height",
-              "src": "Goethe B1 · p.50"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2026-10-12",
-      "day": "Mon",
-      "dnum": "12",
-      "mon": "Oct",
-      "date": "Monday 12 October 2026",
-      "headline": "Briefing refreshed 06:00 Berlin time",
-      "stand": "Automatically rebuilt at 06:00 — 12 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "Ws1opiSE/EwAlCaDPUVqTOSlWqlb1cp3Tt2iS8ebwIxrLqyGEuElyon8Uhhhl9eetcr/y39FkCgffyDy9vujd1phVHFzLJwR9Ybg3fRto0nXJbmVW+pF+Bisv8b2cp1Rc/7kXHfRjXT+BxhDvaYpqkR/is3bqEYDSRhK7CiJKLmlegYwIjJX",
-          "iv": "pR8mYAolH0eF3Qpx",
-          "salt": "4U167sXLA5GaaR8EF+D8gA=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "8°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: fog, high 15°C",
-              "b": "Low 8°C, gusts to 18 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "ML5qEY0xWjT3sGbmXaXDuI/n0n+4uOrH/VZPTTZEiWQfXxfUaEwWxHifWAfKHpMQewZV/aU0Isczy/BL2fWLGSI36xMKBGRmbf5NPTuDT0MD4Q7FsqqgNvIlF/795m1xmo5T9DJWLXgi1uVg/wI9VmVXnPYcsOfYEZFd",
-          "iv": "sxPFWG1hCC/vVs4F",
-          "salt": "Qt2/E49vYrpr0mw/4/1H8w=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "q78LevPzdnl9Pzg9+8kTjFXrelrfzLoP2GoB8v/5ASHMR8sfoiumqa0kOv339aQVokM+vtLJe/6IohhicfsMzs020wBDzstCsGup8CV17m1yTrThm3/ANqXvwTYX6WXirLwCDDea8Vf0baVzu4kQpKcot/NJ1Fr8PsTKf+0Jk/Mb0vG2UgTzPqBBFZGk9f6zUes23SLQClHWpid2fLjgxV481LX1XZ5p+aqcGnnH3vAgpN/oLV3/IuiS5WtVwM9PuM0/qOJFT0HpnVfP5Jhk1VRKLMIyl2WNKEfU6VoBzr0e9eNXU47Cmn4BCPASzTKLWqwg5fGg",
-          "iv": "WgboWi+VlGoqTuSX",
-          "salt": "fxu3bg96KHCbJu/CSgU/2A=="
-        },
-        {
-          "h": "Spending",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "+jeupcmym6bhXmuU6fz60e65pC58qhVWaIakLyDnvDFi2q7GEeung/7oWPyz94sjI9OdQmbIfC86EBqyCHwyPwwIBwfOjvfqD6Yy0+dV6OPNa6sEKZ/47bCJk1KFKRCzrvL+se44ayrmBoun2n4GIX7WSIkgLQlUmGUu9GqO5Qkcb3N0lyufMnCqijqtMwhz5C3kcQP3O0YLCZrr",
-          "iv": "Sybo+Aw6CzD46HfP",
-          "salt": "5XUr5+H8OM2j09g6XyKdoQ=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "📌 Istqb® Certified Tester",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "📌 Istqb® Testing Recognizes",
-              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
-              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
-              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
-              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
-            },
-            {
-              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
-            },
-            {
-              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
-            },
-            {
-              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
-              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-            },
-            {
-              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
-            },
-            {
-              "t": "ISTQB® Announces Minor Update to Certified Tester Testing with Generative AI (CT-GenAI)",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released version 1.1 of the Certified Tester Specialist Level: Testing with Generative AI (CT-GenAI) syllabus, a minor update to v1.0. The update introduces targeted corrections, some terminology updates, and minor clarifications a",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-announces-minor-update-to-certified-tester-testing-with-generative-ai-ct-genai/"
-            }
-          ],
-          "feed_section": "profession_field"
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "work_industry"
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "network_systems"
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "test_tooling"
-        },
-        {
-          "h": "Near Home",
-          "tags_section": "near_home",
-          "items": [
-            {
-              "t": "Ryanair to Stop All Bremen Flights From April 2027 - Rus Tourism News",
-              "b": "Ryanair to Stop All Bremen Flights From April 2027  Rus Tourism News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWJUNFFnSU1RQUFuUVBUaFAyWlRPamRmbWdhSHR1dnBGSEdOSFVxSkxkN05NZGF5S1dzcUhPcUxtWTEzT1h1SzZaZGJvUjNjdzI0UHVjUDZpckdlZmROSkZFY04yRng2NDR4enBOckI4T2laaVpKUE1OcllkOHdmX0pHLXBGRHNoOWMwYUpIMUVIb2RSWTE2MA?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp? - Yahoo Sports",
-              "b": "If Niclas Füllkrug keeps this up, should he get consideration for a call-up from Jürgen Klopp?  Yahoo Sports",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGc5ZE9TeFBBU2JPOUVDTXJvR3Zvd2hnYlFoOFdla2VPdVhBTlVLR0dZR2hQblpDemlqM1lwQ2NlbFdmaXJiYVhUSUtFaVdLckFwaG1fVTA1SmgtcXViUDZiY0J0RDdXazRVNDV0SU4tRUxaZGRXRWlLWkN6S1JRTVhCS3ZLa0xqQTJQWA?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback - Get German Football News",
-              "b": "Niclas Füllkrug makes personal history as Werder Bremen echo famous 2022 comeback  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTEQzWHlXS0NFcWNGQkczRW5ydjR0bkpKel9JNlVYSEYxdF9aMlprblBkYlhRV3BwZ2paZkUyZDVUMm5jYUFpZXRSUzNFMlBWNlp3VXE0NUFzaXE2WGxnVS1RSWF6N0EzTmIxc1haWXM0QlE?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen - Get German Football News",
-              "b": "Waldemar Anton reacts to Borussia Dortmund's 'incredibly frustrating' draw against Werder Bremen  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzF0cEg2eWxVQldmX3ZyTlVkZGh2ck1hWno2Z0kyWDFEeFBYSXRNZkRTMmdDbndkUWpCVy05MEdONURTbGlxVENzUlRmZjR6ak9pOHFnTklfbGJKV1lrbUZHNGRvZGc1aHk1V0N4T0pFNWstZ1NYRHZLSFZ1dDk4RVc4VDcxa2drc18tQXBNTm16a2NHWUhGd3pRVXVUZ3Q4dGU4b2RocHBsVGVicm5V?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen - Xinhua",
-              "b": "Bundesliga football match: Borussia Dortmund vs. SV Werder Bremen  Xinhua",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ed2FCcTdHOTU3cFJGRE9sbnExbmhIVW0wX1ZhQkJxanZYSnhLSEROdWVVQjFnZUhnemtyRkFOanlQNTA2eDY2RzU4RENGb2lleWRtU3ZIOHhEVF9naVZ4cGNHbEVDU3p3UzNSTklpV1lZaGdUSTMyS1M5NA?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bhavnagar",
-              "rel": "family"
-            },
-            {
-              "t": "Tracking: Surat",
-              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Surat",
-              "rel": "interest"
-            },
-            {
-              "t": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night - Bulinews",
-              "b": "West Ham loanee Füllkrug likens Bremen’s dramatic draw in Dortmund to Champions League night  Bulinews",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3BUYWVmRVYtcGJ2UGxZY2F5LWVwSS1sTW9qY2JxN3VJSWxvZ3JKSUZtdDNkeFJScnd2cmxHUWZpZEkyX1RkLWdNVzFRU1BaLUN3NHZpYmdwcS1CLWhuNTBrNGVUMEI2M2hvQ3g3TllEWmpsa0xFaUVTQ0NRbmJsbkFSdDVLZDRNbkRWeGxPNWEwYkRpeGxMQ2JjbWd3NWUzY0JzSWMzRFA?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund - Bulinews",
-              "b": "“Proud” Thioune hails Bremen’s resilience as Hein shares delight after “Man of the Match” performance in Dortmund  Bulinews",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFJPNzV4eV81UFVfMmVaUTZ6Vm52NklGZUlOU014UURQWDlDWUlzdnVteVN3MVdMX2NjOWF0MFh2bFY2T3EyZEZISE1vTWplbkJLLXBidmZJbm5DZkx4ZUJybThpcUpYVzlON2NyMkpEcVdJNmdSSFo0eGQ0eDFsXzVqV3R4bFVWXzFtNVdTMGhoWWk1MlIwcWp2QzlqQ1hpR25hMEhIWi1Xc0lYQnA1cHVpc29GWGVud1U0?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen - Laredo Morning Times",
-              "b": "Early season runs grind to a halt as Lyon loses at Lens and Dortmund held by Bremen  Laredo Morning Times",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkhvdHZpUDh1QUtuTFh5TnFFQVZjMFVWM1J5YzV1N29zSlM1ZEl3dGVDT3BqbkV0T3FkZjlaX3lnTm1IYlVnX0xXSVdhdG51MG5uRDQwcnZ6aVlsUFU1OXJGTzI5TXRNOUVYLW9nbWhla3hZcUR5U01EcGVkX1BRNF9tdDlZM1Q0LXotSkE2aS1Wd0REOXlONndIaUVYLThoSHlv?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            }
-          ],
-          "chart": "near_home_flow"
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "world_and_knowledge"
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "hinterher",
-              "b": "<span class=\"jt\" data-g=\"lang_hinterher\">hinterher</span> — afterwards",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "hinweisen",
-              "b": "<span class=\"jt\" data-g=\"lang_hinweisen\">hinweisen</span> — point out <span class=\"gram\">(weist hin · wies hin · hat hingewiesen)</span>",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "der Hinweise",
-              "b": "<span class=\"jt\" data-g=\"lang_derhinweise\">der Hinweise</span> — of the clues <span class=\"gram\">(plural: -e)</span>",
-              "src": "Goethe B1 · p.50"
-            },
-            {
-              "t": "historisch",
-              "b": "<span class=\"jt\" data-g=\"lang_historisch\">historisch</span> — historical",
-              "src": "Goethe B1 · p.50"
-            }
-          ]
-        }
-      ]
     }
   ],
   "glossary": {
@@ -10542,22 +10464,78 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The ticket",
       "w": "“Fahrkarten können Sie am Schalter kaufen.”"
+    },
+    "lang_diekartoffel": {
+      "t": "die Kartoffel",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The potato",
+      "w": "“Kann ich bitte noch Kartoffeln”"
+    },
+    "lang_dapfel": {
+      "t": "dapfel",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Apple",
+      "w": "“bekommen?”"
+    },
+    "lang_derkäse": {
+      "t": "der Käse",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cheese",
+      "w": "“Möchtest du Käse aufs Brot?”"
+    },
+    "lang_diekasse": {
+      "t": "die Kasse",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cash register",
+      "w": "“Zahlen Sie bitte an der Kasse.”"
+    },
+    "lang_diekassette": {
+      "t": "die Kassette",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cassette",
+      "w": "“Meine Eltern besitzen noch viele Musikkassetten.”"
+    },
+    "lang_derkasten": {
+      "t": "der Kasten",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The box",
+      "w": "“Die Handtücher liegen im Kasten.”"
+    },
+    "lang_derkatalog": {
+      "t": "der Katalog",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The catalogue",
+      "w": "“Ich habe mir ein Kleid aus dem Katalog bestellt.”"
     }
   },
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "14° is the high point this week in Bremen",
+      "title": "12° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "11-11",
-        "11-12",
         "11-13",
         "11-14",
         "11-15",
         "11-16",
-        "11-17"
+        "11-17",
+        "11-18",
+        "11-19"
       ],
       "yticks": [
         0,
@@ -10573,31 +10551,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              4.2
+              8.5
             ],
             [
               1,
-              9.5
+              7.9
             ],
             [
               2,
-              8.6
+              8.9
             ],
             [
               3,
-              7.9
+              10.0
             ],
             [
               4,
-              7.9
+              11.1
             ],
             [
               5,
-              13.6
+              11.3
             ],
             [
               6,
-              12.6
+              11.6
             ]
           ]
         }
@@ -10605,31 +10583,17 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 73% this week in Bremen",
+      "title": "Rain chances peak at 80% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "11-11",
-          "v": 0,
-          "lab": "0%",
-          "hero": false,
-          "tip": "4°C, Overcast"
-        },
-        {
-          "k": "11-12",
-          "v": 3,
-          "lab": "3%",
-          "hero": false,
-          "tip": "10°C, Light rain"
-        },
-        {
           "k": "11-13",
-          "v": 18,
-          "lab": "18%",
+          "v": 20,
+          "lab": "20%",
           "hero": false,
-          "tip": "9°C, Rain showers"
+          "tip": "8°C, Rain showers"
         },
         {
           "k": "11-14",
@@ -10640,24 +10604,38 @@ window.EDITION_DATA = {
         },
         {
           "k": "11-15",
-          "v": 6,
-          "lab": "6%",
+          "v": 53,
+          "lab": "53%",
           "hero": false,
-          "tip": "8°C, Light rain"
+          "tip": "9°C, Light rain"
         },
         {
           "k": "11-16",
-          "v": 44,
-          "lab": "44%",
+          "v": 67,
+          "lab": "67%",
           "hero": false,
-          "tip": "14°C, Light rain"
+          "tip": "10°C, Light rain"
         },
         {
           "k": "11-17",
-          "v": 73,
-          "lab": "73%",
+          "v": 80,
+          "lab": "80%",
           "hero": true,
-          "tip": "13°C, Light rain"
+          "tip": "11°C, Light rain"
+        },
+        {
+          "k": "11-18",
+          "v": 50,
+          "lab": "50%",
+          "hero": false,
+          "tip": "11°C, Rain showers"
+        },
+        {
+          "k": "11-19",
+          "v": 50,
+          "lab": "50%",
+          "hero": false,
+          "tip": "12°C, Rain showers"
         }
       ]
     },
@@ -10683,7 +10661,7 @@ window.EDITION_DATA = {
         {
           "from": "tag_bremen",
           "to": "src_bremen_germany_google_news",
-          "v": 3
+          "v": 2
         }
       ]
     }
@@ -10730,6 +10708,16 @@ window.EDITION_DATA = {
           "t": "Junagadh, Girnar, and an emperor's rock",
           "key": "An edict carved by Ashoka in 250 BCE still sits by the road to Girnar.",
           "b": "<p>Junagadh — literally \"old fort\" — sits under Girnar, a volcanic massif sacred to both Jains and Hindus, climbed by a stone stairway of roughly ten thousand steps.</p> <p>Beside the path lies a granite boulder carrying fourteen Rock Edicts of the emperor Ashoka, carved around 250 BCE. They are not conquest inscriptions. They instruct officials on medical care for people and animals, the planting of shade trees and wells along roads, and restraint toward other sects. The same rock was reused twice more: by the Western Kshatrapa king Rudradaman in about 150 CE, and later by a Gupta ruler — three empires' worth of writing on one stone.</p> <p>From the 9th to 15th centuries the Chudasama dynasty ruled here, and the fort's later layers include Gujarat Sultanate and Mughal work. It is a single site where you can stand between the Mauryan empire and the British Raj.</p>\n"
+        },
+        {
+          "t": "Two hundred princely states",
+          "key": "Before 1947, Saurashtra was not one place but hundreds.",
+          "b": "<p>Under the British, the peninsula was not a province. It was the <span class=\"jt\" data-g=\"kathiawar\">Kathiawar</span> Agency: over two hundred princely states, from substantial kingdoms with their own railways and ports down to estates of a few villages, each with a treaty relationship to the Crown and internal autonomy.</p> <p>Bhavnagar was among the largest and most reform-minded — it built one of India's earliest state railways and developed its port heavily. Porbandar, on the west coast, was a maritime trading state; in 1869 a boy was born there to the state's diwan, and named Mohandas Karamchand Gandhi.</p> <p>This fragmentation is why the region's dialects, dress and cuisine vary so sharply over short distances. Rulers competed in temple-building, schooling and civic works, and a great deal of what looks like ancient tradition is in fact 19th-century princely patronage.</p>\n"
+        },
+        {
+          "t": "1947: the state that voted",
+          "key": "Junagadh's ruler chose Pakistan. The people were asked, and chose otherwise.",
+          "b": "<p>At independence the princely states had to accede to India or Pakistan. Junagadh's Nawab, ruling a Hindu-majority state with no land border with Pakistan, acceded to Pakistan in August 1947.</p> <p>The decision collapsed. Neighbouring states objected, an alternative provisional government formed, administration broke down, and the Nawab left for Karachi. Indian forces moved in, and in February 1948 a plebiscite was held: the vote for India was overwhelming, reported at over 99 per cent.</p> <p>The princely states were then merged into a new Saurashtra State in 1948, with Rajkot as its capital. That state was absorbed into Bombay State in 1956, and when Bombay was split on linguistic lines in 1960, Saurashtra became part of the new state of Gujarat — where it remains.</p> <p class=\"rem\"><b>Worth holding onto</b>Junagadh is one of the very few accession disputes settled by an actual popular vote, which is why it still gets cited in arguments about Kashmir.</p>\n"
         }
       ]
     },
@@ -10742,6 +10730,16 @@ window.EDITION_DATA = {
           "t": "The base rate is what everyone forgets",
           "key": "A 99% accurate test for a rare condition is wrong most of the time it says yes.",
           "b": "<p>Take a disease that one person in 10,000 has, and a test that is 99% accurate in both directions. You test positive. What is the chance you have it?</p> <p>Most people say 99%. The real answer is about 1%.</p> <p>Work it through with 10,000 people. One actually has the disease, and the test almost certainly catches them: 1 true positive. The other 9,999 do not — but the test is wrong 1% of the time, so it flags about 100 of them anyway. You now have 101 positive results and only one of them is real. Your odds are 1 in 101.</p> <p>Nothing about the test is bad. The <span class=\"jt\" data-g=\"baserate\">base rate</span> is simply so low that false positives swamp true ones. This is why screening the whole population for rare things causes so much harm, and why doctors re-test rather than acting on one result.</p> <p>The same arithmetic runs through your working life. If an automated test suite has a 2% flake rate and genuine regressions are rare, then most red builds are noise — and a team that treats every failure as real will burn itself out, while a team that ignores them all will eventually ship the one that mattered. The fix in both medicine and testing is identical: confirm before you act.</p> <p class=\"rem\"><b>Worth holding onto</b>Whenever someone quotes an accuracy figure, ask \"out of how many, and how common is the thing?\" Accuracy without a base rate is not information.</p>\n"
+        },
+        {
+          "t": "\"Average\" is the most misleading word in English",
+          "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
+          "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
+        },
+        {
+          "t": "Correlation, causation, and the third thing hiding behind both",
+          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
+          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
         }
       ]
     },
@@ -10839,6 +10837,16 @@ window.EDITION_DATA = {
           "t": "Six families you will actually meet",
           "key": "Learn six families and you can place a large share of the plants around you.",
           "b": "<p><b>Poaceae</b> — grasses. Hollow jointed stems, parallel veins, wind-pollinated flowers with no petals. Wheat, rice, maize, barley, bamboo, sugarcane. This one family feeds humanity.</p> <p><b>Fabaceae</b> — legumes. Pea-shaped flowers, seeds in a pod. Their roots host bacteria that fix nitrogen from air into usable form, which is why they restore soil and why crop rotation works. Beans, lentils, groundnut, clover, acacia.</p> <p><b>Asteraceae</b> — the daisy family, one of the largest. What looks like one flower is a dense head of many tiny ones. Sunflower, marigold, lettuce, dandelion.</p> <p><b>Rosaceae</b> — five petals, many stamens. Apple, pear, cherry, plum, almond, strawberry, rose.</p> <p><b>Lamiaceae</b> — mints. Square stems, opposite leaves, aromatic. Basil, tulsi, mint, rosemary, sage, oregano.</p> <p><b>Apiaceae</b> — carrot family. Tiny flowers in flat umbrella-shaped umbels, hollow grooved stems. Carrot, coriander, cumin, fennel, dill.</p> <p class=\"rem warn\"><b>A warning that matters</b>Apiaceae contains both your spice rack and hemlock, water hemlock and giant hogweed — among the most toxic plants in Europe. Never eat a wild umbellifer on family resemblance. This family is exactly why \"it looks like a carrot\" has killed people.</p>\n"
+        },
+        {
+          "t": "How life is filed",
+          "key": "Every organism has a two-word name, and the names change as DNA rewrites the tree.",
+          "b": "<p>The hierarchy runs Domain -&gt; Kingdom -&gt; Phylum -&gt; Class -&gt; Order -&gt; Family -&gt; Genus -&gt; Species. Bread wheat is Eukarya -&gt; Plantae -&gt; Angiosperms -&gt; Monocots -&gt; Poales -&gt; Poaceae -&gt; <i>Triticum</i> -&gt; <i>aestivum</i>.</p> <p>Linnaeus's binomial system gives each species a genus name and a species epithet, italicised, genus capitalised: <i>Panthera leo</i>. It works because it is universal — <i>Ocimum tenuiflorum</i> means the same plant to a botanist in Bremen and one in Bhavnagar, where \"tulsi\" and \"holy basil\" would not.</p> <p>A species is usually defined as a group that interbreeds and produces fertile offspring, which is why a horse and a donkey are separate species: the mule is sterile. The definition breaks down for organisms that reproduce asexually, and for fossils.</p> <p>Names change because classification now follows ancestry rather than appearance. DNA sequencing has repeatedly shown that things which look alike are unrelated, and things which look nothing alike are cousins — birds sit inside the dinosaurs, and fungi are closer to animals than to plants.</p>\n"
+        },
+        {
+          "t": "The cell that swallowed another cell",
+          "key": "Your mitochondria used to be free-living bacteria. So did every chloroplast.",
+          "b": "<p>Two membranes separate the living world. Prokaryotes — bacteria and archaea — have no nucleus. Eukaryotes — everything else, including you and every plant — package their DNA in one.</p> <p>The best explanation for how eukaryotes arose is <span class=\"jt\" data-g=\"endosymbiosis\">endosymbiosis</span>: roughly two billion years ago one cell engulfed another and, instead of digesting it, kept it. The swallowed bacterium became the mitochondrion. Later, a similar event with a photosynthetic cyanobacterium produced the chloroplast, and with it every plant and alga on earth.</p> <p>The evidence is hard to argue with. Mitochondria and chloroplasts have their own circular DNA, of bacterial type. They have double membranes, as you would expect from being engulfed. They divide by splitting, on their own schedule, not by being manufactured by the cell. And their ribosomes are bacterial — which is precisely why some antibiotics have side effects in humans.</p> <p class=\"rem\"><b>Worth holding onto</b>You inherit mitochondrial DNA only from your mother. It never recombines, so it mutates at a steady rate — which is how \"mitochondrial Eve\" and most deep human migration maps were reconstructed.</p>\n"
         }
       ]
     },
@@ -10866,6 +10874,16 @@ window.EDITION_DATA = {
           "t": "Shelter, fast and small",
           "key": "A shelter you can build in an hour beats a good one you never finish.",
           "b": "<p>Choose the site before the design. You want to be out of the wind, off the low ground where cold air pools and water runs, away from dead branches overhead, and near — but not in — a water source.</p> <p><b>Small is warm.</b> The instinct is to build something roomy. Resist it: your body is the heat source, and a space barely larger than you warms up and stays warm. A cavity you fill is worth more than a hall you cannot heat.</p> <p>The generic pattern is a debris shelter: a ridgepole propped at one end, ribs leaned against it, then piled leaves and vegetation — a lot of it, thicker than seems reasonable, ideally an arm's depth. Stuff the inside with dry material too, so you are lying in insulation rather than on soil.</p> <p>In an urban emergency the same logic applies indoors: close off one small room rather than heating a flat, block draughts at the doors, and put something insulating between you and the floor.</p>\n"
+        },
+        {
+          "t": "Fire, in the right order",
+          "key": "Fires fail from impatience — jumping to big fuel before the small stuff is burning.",
+          "b": "<p>Fire needs three things at once: fuel, oxygen and heat. Remove any one and it stops — which is also how you put one out.</p> <p>Prepare all three sizes of material <i>before</i> striking anything, and prepare more than you think you need:</p> <p><b>Tinder</b> catches a spark — birch bark, dry grass, cotton wool, char cloth, resinous shavings.<br> <b>Kindling</b> — twigs from matchstick to finger thickness.<br> <b>Fuel</b> — wrist thickness and up.</p> <p>Build so air can move through: a teepee or lean-to over the tinder. A pile pressed flat suffocates. Light from the upwind side, and feed it gradually — the commonest failure is dumping a log on a flame that is not established.</p> <p>In wet conditions, standing dead wood is drier than anything on the ground, and the inside of a split branch is dry even when the outside is soaked. Always lay a platform of sticks under the fire so it is not sitting on wet earth or snow.</p> <p class=\"rem warn\"><b>Safety</b>Never burn anything inside an enclosed space without ventilation. Carbon monoxide is odourless, and it kills people in tents, cars and closed rooms every winter.</p>\n"
+        },
+        {
+          "t": "Lost: stop moving",
+          "key": "STOP — Stop, Think, Observe, Plan. Most people who die lost, died walking.",
+          "b": "<p>The instinct on realising you are lost is to keep going and hope the ground becomes familiar. It is almost always wrong. Walking spreads your possible locations over a wider and wider area, which is exactly what makes searchers fail.</p> <p><b>S</b>top — sit down. Do not take another step for a few minutes.<br> <b>T</b>hink — when were you last certain of your position? What have you got?<br> <b>O</b>bserve — weather, light left, terrain, water, your own condition.<br> <b>P</b>lan — and only then move, if moving is genuinely better than staying.</p> <p>If anyone knows roughly where you were going, staying put is usually correct. A stationary person in an open place with a signal is far easier to find than a moving one under trees.</p> <p><b>Signalling</b> follows the rule of three: three whistle blasts, three fires in a triangle, three of anything means distress. A whistle carries much further than a voice and costs almost no energy — a shout exhausts you in minutes. A mirror flash is visible for kilometres.</p> <p>Downhill and downstream generally leads to people, since settlements follow water. That is a tendency, not a guarantee — in mountains it can lead into a gorge you cannot climb out of.</p>\n"
         }
       ]
     }

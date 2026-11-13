@@ -2534,5 +2534,61 @@
     "lang": "de-DE",
     "d": "The ticket",
     "w": "“Fahrkarten können Sie am Schalter kaufen.”"
+  },
+  "lang_diekartoffel": {
+    "t": "die Kartoffel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The potato",
+    "w": "“Kann ich bitte noch Kartoffeln”"
+  },
+  "lang_dapfel": {
+    "t": "dapfel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Apple",
+    "w": "“bekommen?”"
+  },
+  "lang_derkäse": {
+    "t": "der Käse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cheese",
+    "w": "“Möchtest du Käse aufs Brot?”"
+  },
+  "lang_diekasse": {
+    "t": "die Kasse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cash register",
+    "w": "“Zahlen Sie bitte an der Kasse.”"
+  },
+  "lang_diekassette": {
+    "t": "die Kassette",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cassette",
+    "w": "“Meine Eltern besitzen noch viele Musikkassetten.”"
+  },
+  "lang_derkasten": {
+    "t": "der Kasten",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The box",
+    "w": "“Die Handtücher liegen im Kasten.”"
+  },
+  "lang_derkatalog": {
+    "t": "der Katalog",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The catalogue",
+    "w": "“Ich habe mir ein Kleid aus dem Katalog bestellt.”"
   }
 }
