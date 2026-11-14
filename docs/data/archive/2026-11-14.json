@@ -1,0 +1,221 @@
+{
+  "id": "2026-11-14",
+  "day": "Sat",
+  "dnum": "14",
+  "mon": "Nov",
+  "date": "Saturday 14 November 2026",
+  "headline": "Briefing refreshed 15:43 Berlin time",
+  "stand": "Automatically rebuilt at 15:43 — 12 sections tracked.",
+  "blocks": [
+    {
+      "h": "Needs Attention",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "Mq8PsJOP6hefADQqL22tuEaG1rD7oqSUuNrlBXgfMoeRkxe/78/ghdh6oK3yeCWSWn1aiRbTOrduh+4Y8RHYLYO2EZhZPIeFv+v/fJuND6DlZQu/9jH4eEWH4znRxQzD8/daMglPVkkvduW7nZMS1OldLxElyoh6MPGJT6V3sQ3RG+GcOG7v",
+      "iv": "V6YUZPvjNeOsH+Cj",
+      "salt": "/T3u5rgMbmbOFa81q3auxQ=="
+    },
+    {
+      "h": "Weather",
+      "stats": [
+        {
+          "n": "8°",
+          "l": "right now"
+        }
+      ],
+      "items": [
+        {
+          "t": "Bremen: mainly clear, high 8°C",
+          "b": "Low 2°C, gusts to 25 km/h. 7-day outlook below.",
+          "src": "Open-Meteo"
+        }
+      ],
+      "chart": [
+        "wxtemp",
+        "wxrain"
+      ]
+    },
+    {
+      "h": "Week & Month Ahead",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "xHJC5TkFXrE6+d2O/4PV2eQnOsRy32GUOhiWtql/A+aAdNmv3gLDRcww6DrFjyTVyTJbY7bkSBlFdicKMMDwOiCPC3XLzvtNptFhuD8XebtRBNET/Iv/Z0ISVMzQ/luGTZ512OCIeC/hIY/zWydiAaqd9Wxt028TcHiu",
+      "iv": "9WJyA5aQ6356o/NO",
+      "salt": "54FcEI1dbBJzlmwXpEVKIQ=="
+    },
+    {
+      "h": "Diabetes & Supplies",
+      "count": 2,
+      "encrypted": true,
+      "ciphertext": "cZc8GGCF5qd35HydZ4qJtIwiaIoCezdfTKwfzlgFnGf9/tEqbu0OI/is8tjaUzBYaR3tahELB+l+WpYURRA/VQiMBhveVAhLefNFg1toB1Yo0q/2s45F6o1L+kKeCjzfyq3nu+rfFp7GC4tMKDK+9I0nD6LE4iL03VdQm9tBMMmetRVY/iXHdoJSDvqyqr+Cc+QOh9l/ADJYaUla4MbYZthTMIO/DMwSIJW5/tEF7n1reW5mo7t8oVTinjCgeuH2oXW8wBkSoR178h7rpskUOjaVsvvz6rrEYULkowe05lFSXwEM+OQE7c67s329mvA+u5SUL2xp",
+      "iv": "GUlKC9sRdtX4CrxL",
+      "salt": "NDA++LeKD1zRpf5Z87GyjQ=="
+    },
+    {
+      "h": "Spending",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "ztsrY3TzAt2PNTcuLJ7q4khRPMcRALck8PsLt0au4ck8paoYLpXm8wRxuqhDLXyQjb6DNHY5jZ4H0QgbAPcXVh6wvzo9ySnJAfGt2xD/pJ1ga5b4BuqRkjlXOs+BUXi4QmHtdMlHg8MC0dJCursih5v/S6XJQPD6GNWiowBi/mKZUxMO/OYF01aDSPZLLeIlWrAu2UXKhXzJvuYn",
+      "iv": "+mfK4wnt/GoNlsvy",
+      "salt": "pqEfRqDzwobqQDjae7VDDg=="
+    },
+    {
+      "h": "ISTQB & Software Testing",
+      "items": [
+        {
+          "t": "📌 Istqb® Certification Portfolio",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "📌 Istqb® Certified Tester",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+          "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+        },
+        {
+          "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+          "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+          "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+        },
+        {
+          "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+        },
+        {
+          "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+          "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        }
+      ],
+      "feed_section": "profession_field"
+    },
+    {
+      "h": "Defense Electronics & Secure Networking",
+      "items": [
+        {
+          "t": "November Patch Tuesday boasts over 1,000 bugs, one already under attack",
+          "b": "Microsoft admins wail and gnash their teeth",
+          "src": "www.theregister.com - Articles",
+          "u": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946"
+        }
+      ],
+      "feed_section": "work_industry"
+    },
+    {
+      "h": "Network & Systems Engineering",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "network_systems"
+    },
+    {
+      "h": "Jira, Xray & Confluence",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "test_tooling"
+    },
+    {
+      "h": "Near Home",
+      "tags_section": "near_home",
+      "items": [
+        {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        }
+      ]
+    },
+    {
+      "h": "World & Knowledge",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "world_and_knowledge"
+    },
+    {
+      "h": "Language Practice",
+      "items": [
+        {
+          "t": "die Katastrophe",
+          "b": "<span class=\"jt\" data-g=\"lang_diekatastrophe\">die Katastrophe</span> — the catastrophe <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "der Kauf",
+          "b": "<span class=\"jt\" data-g=\"lang_derkauf\">der Kauf</span> — the purchase",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "der Käufer",
+          "b": "<span class=\"jt\" data-g=\"lang_derkäufer\">der Käufer</span> — the buyer <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "die Käuferin",
+          "b": "<span class=\"jt\" data-g=\"lang_diekäuferin\">die Käuferin</span> — the buyer <span class=\"gram\">(plural: -nen)</span>",
+          "src": "Goethe B1 · p.54"
+        }
+      ]
+    }
+  ]
+}

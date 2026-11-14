@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-13",
-  "day": "Fri",
-  "dnum": "13",
+  "id": "2026-11-14",
+  "day": "Sat",
+  "dnum": "14",
   "mon": "Nov",
-  "date": "Friday 13 November 2026",
-  "headline": "Briefing refreshed 22:07 Berlin time",
-  "stand": "Automatically rebuilt at 22:07 — 12 sections tracked.",
+  "date": "Saturday 14 November 2026",
+  "headline": "Briefing refreshed 15:43 Berlin time",
+  "stand": "Automatically rebuilt at 15:43 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "jY4c94XQc1kznHasFFqqHXRzvZhTO0gerzue+fxMU6w23WieE7Ac2XvKrN7xTnrG4grkzDFyQx2jdwoftxzvxfWTOw2FeS9m8H9VvB+nCGHrJCfADKKd0gwrPuahcQ3Lwan+ojpTpMPXI3H1eJW3CYcoZlkR+cGlbkmtmLJsIT4uObhPnA4U",
-      "iv": "KiyNGy2io58Uvqlt",
-      "salt": "xOQrLbojJSdtDT9fEBDFIA=="
+      "ciphertext": "Mq8PsJOP6hefADQqL22tuEaG1rD7oqSUuNrlBXgfMoeRkxe/78/ghdh6oK3yeCWSWn1aiRbTOrduh+4Y8RHYLYO2EZhZPIeFv+v/fJuND6DlZQu/9jH4eEWH4znRxQzD8/daMglPVkkvduW7nZMS1OldLxElyoh6MPGJT6V3sQ3RG+GcOG7v",
+      "iv": "V6YUZPvjNeOsH+Cj",
+      "salt": "/T3u5rgMbmbOFa81q3auxQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "5°",
+          "n": "8°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 8°C",
-          "b": "Low 4°C, gusts to 43 km/h. 7-day outlook below.",
+          "t": "Bremen: mainly clear, high 8°C",
+          "b": "Low 2°C, gusts to 25 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "hvjEy0Sr1ZiadBN0RmL7o4LWd5xPkBP389Nt9DXeh/LLELGO92chDys9G8kslYWbNvwPoVwJZhJwz5qmjrkANZRsY0bP2d20BIKzQssLxKofR5pxDeB3aGFtjAXNJvvgUyAhI9QCotIVDGVNUulGDeEpQZ8UKXIxNehB",
-      "iv": "14mzsD6fw7FCoptG",
-      "salt": "Vr1V3KKK247Q92q3MVUUkw=="
+      "ciphertext": "xHJC5TkFXrE6+d2O/4PV2eQnOsRy32GUOhiWtql/A+aAdNmv3gLDRcww6DrFjyTVyTJbY7bkSBlFdicKMMDwOiCPC3XLzvtNptFhuD8XebtRBNET/Iv/Z0ISVMzQ/luGTZ512OCIeC/hIY/zWydiAaqd9Wxt028TcHiu",
+      "iv": "9WJyA5aQ6356o/NO",
+      "salt": "54FcEI1dbBJzlmwXpEVKIQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "ITXAtpRB2ZrsV15Vwed8OPI4NlBa3a95ZUQnLUYgmyvvq+O3BPTnxxkYHshiyBB1mhC67t1qBsuTxp+MMtFgHFw6sJlZ4gYfCsQNiwFFgFbRxPwLWo5lY3GPZ9lBY+mYapURWYv+/4N3Xhrl2gohO1UqqSweNZjegCpMCK9lCMbiKBDejo6QDv/MLSyXOM5RCt3Qsf+LRjoOEtuKUVt506MWHjdNALoQTa4bPkNmU/NO7zoenz1frzyHmz80zSy8IeoOietNRN3+7kIXN+UROy1BYAEmrgZ3OGwvYhCWduhpuTUspVR37YspxobM6sFQNgI/48Sc",
-      "iv": "6PO7uDpsGoIhfVRM",
-      "salt": "J2l86SxWkDi5vhhNCy6swA=="
+      "ciphertext": "cZc8GGCF5qd35HydZ4qJtIwiaIoCezdfTKwfzlgFnGf9/tEqbu0OI/is8tjaUzBYaR3tahELB+l+WpYURRA/VQiMBhveVAhLefNFg1toB1Yo0q/2s45F6o1L+kKeCjzfyq3nu+rfFp7GC4tMKDK+9I0nD6LE4iL03VdQm9tBMMmetRVY/iXHdoJSDvqyqr+Cc+QOh9l/ADJYaUla4MbYZthTMIO/DMwSIJW5/tEF7n1reW5mo7t8oVTinjCgeuH2oXW8wBkSoR178h7rpskUOjaVsvvz6rrEYULkowe05lFSXwEM+OQE7c67s329mvA+u5SUL2xp",
+      "iv": "GUlKC9sRdtX4CrxL",
+      "salt": "NDA++LeKD1zRpf5Z87GyjQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "5pqe4VFTvhtFy7FwlsfatFD+BP/RbeyPHzMoICt4g2MBIdtKyRAAf+AiQm4R8004uKHye0oD9PTFNfc4a1x8JXzjU2Vheud6Cuv5wyn41C8+Fg8BC2PXGDAXPdx1So58wsOFMCRJI4ZrloLLuZaolfq8spq2Z+GLDWog0IHLUnlN9W8WDYzuRWZxcjVDlOISJKE2gPFljPxydNdO",
-      "iv": "KQCo1q2rGWTypxbw",
-      "salt": "MmXczm7DB8j1h5vAbZK5vw=="
+      "ciphertext": "ztsrY3TzAt2PNTcuLJ7q4khRPMcRALck8PsLt0au4ck8paoYLpXm8wRxuqhDLXyQjb6DNHY5jZ4H0QgbAPcXVh6wvzo9ySnJAfGt2xD/pJ1ga5b4BuqRkjlXOs+BUXi4QmHtdMlHg8MC0dJCursih5v/S6XJQPD6GNWiowBi/mKZUxMO/OYF01aDSPZLLeIlWrAu2UXKhXzJvuYn",
+      "iv": "+mfK4wnt/GoNlsvy",
+      "salt": "pqEfRqDzwobqQDjae7VDDg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -178,25 +178,8 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Fullkrug's fierce focus! In-form Werder Bremen striker beams over Germany recall under Jurgen Klopp - Goal.com",
-          "b": "Fullkrug's fierce focus! In-form Werder Bremen striker beams over Germany recall under Jurgen Klopp  Goal.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkRUcTVRV2JQM0FqMWF6a29jNVlsTmhJYmVwcU91R2ViR041RDFOUnRwZ1pFRnZkYlZDdDBIc2k5bHl2U2RualFKRE5fNjd5LTFlRjRmVWtUWVRVVldmQmZXRmdPcVhRU1p6MzJWTkJwVGJFVDFJSXB1ME5qQ0xydWNHbXVzVTZ2SVZ6VXE2cVd0YkItQUdhV21NTWhYazlEd1hYc1g4MzdhaG8?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug? - Bundesliga | official website",
-          "b": "What can Germany coach Jürgen Klopp expect from recalled Werder Bremen forward Niclas Füllkrug?  Bundesliga | official website",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUJyNW9nZFJfYlg4VXFZR040RWRrbWFSNmxMUVlPRTRUSmttVGMtOWxGYmNkQ2hOSk95Z2RiNE5LYkRPZzh5MWZEaXZfbzN5c2RXRjJ6SS1ONTQ0SU1aa0RxcTNabXY3VWdJTl9jeVoybS1PRHJGSjFnYUNxUUVsTHNsT3NPVElIaVlWOEFlczZVMXdIaUZfSUJjVUYxSW84dHNiMVZWZ1k2T3VnTlBUT0lJVk93M0VvZ1JYU0Zn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
-      ],
-      "chart": "near_home_flow"
+      ]
     },
     {
       "h": "World & Knowledge",
@@ -213,23 +196,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Kassette",
-          "b": "<span class=\"jt\" data-g=\"lang_diekassette\">die Kassette</span> — the cassette <span class=\"gram\">(plural: -n)</span>",
+          "t": "die Katastrophe",
+          "b": "<span class=\"jt\" data-g=\"lang_diekatastrophe\">die Katastrophe</span> — the catastrophe <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Kasten",
-          "b": "<span class=\"jt\" data-g=\"lang_derkasten\">der Kasten</span> — the box <span class=\"gram\">(plural: ¨-)</span>",
+          "t": "der Kauf",
+          "b": "<span class=\"jt\" data-g=\"lang_derkauf\">der Kauf</span> — the purchase",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Kasten",
-          "b": "<span class=\"jt\" data-g=\"lang_derkasten\">der Kasten</span> — the box <span class=\"gram\">(plural: ¨-)</span>",
+          "t": "der Käufer",
+          "b": "<span class=\"jt\" data-g=\"lang_derkäufer\">der Käufer</span> — the buyer <span class=\"gram\">(plural: -)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Katalog",
-          "b": "<span class=\"jt\" data-g=\"lang_derkatalog\">der Katalog</span> — the catalogue <span class=\"gram\">(plural: -e)</span>",
+          "t": "die Käuferin",
+          "b": "<span class=\"jt\" data-g=\"lang_diekäuferin\">die Käuferin</span> — the buyer <span class=\"gram\">(plural: -nen)</span>",
           "src": "Goethe B1 · p.54"
         }
       ]

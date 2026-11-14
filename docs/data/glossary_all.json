@@ -2590,5 +2590,37 @@
     "lang": "de-DE",
     "d": "The catalogue",
     "w": "“Ich habe mir ein Kleid aus dem Katalog bestellt.”"
+  },
+  "lang_diekatastrophe": {
+    "t": "die Katastrophe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The catastrophe",
+    "w": "“Der Urlaub war eine Katastrophe. Es hat nur geregnet.”"
+  },
+  "lang_derkauf": {
+    "t": "der Kauf",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The purchase",
+    "w": "“Der neue Esstisch war ein guter Kauf.”"
+  },
+  "lang_derkäufer": {
+    "t": "der Käufer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The buyer",
+    "w": "“Ich habe schon einen Käufer für den”"
+  },
+  "lang_diekäuferin": {
+    "t": "die Käuferin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The buyer",
+    "w": "“alten Tisch.”"
   }
 }
