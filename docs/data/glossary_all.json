@@ -2622,5 +2622,37 @@
     "lang": "de-DE",
     "d": "The buyer",
     "w": "“alten Tisch.”"
+  },
+  "lang_kaum": {
+    "t": "kaum",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Hardly",
+    "w": "“Ich kann Sie kaum verstehen. Bitte sprechen Sie lauter.”"
+  },
+  "lang_derkeller": {
+    "t": "der Keller",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cellar",
+    "w": "“Unser Keller ist nicht besonders groß.”"
+  },
+  "lang_derkellner": {
+    "t": "der Kellner",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The waiter",
+    "w": "“Ich bin Kellnerin von Beruf.”"
+  },
+  "lang_diekellnerin": {
+    "t": "die Kellnerin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The waitress",
+    "w": "Goethe-Zertifikat B1 exam vocabulary."
   }
 }
