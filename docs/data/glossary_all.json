@@ -2654,5 +2654,37 @@
     "lang": "de-DE",
     "d": "The waitress",
     "w": "Goethe-Zertifikat B1 exam vocabulary."
+  },
+  "lang_kennen": {
+    "t": "kennen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Know",
+    "w": "“Kennen Sie hier in der Nähe ein gemütliches Café?”"
+  },
+  "lang_kennenlernen": {
+    "t": "kennenlernen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Get to know",
+    "w": "“Wo habt ihr euch kennengelernt?”"
+  },
+  "lang_diekenntnisse": {
+    "t": "die Kenntnisse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The knowledge",
+    "w": "“In vielen Berufen braucht man heute Sprachkenntnisse.”"
+  },
+  "lang_daskennzeichen": {
+    "t": "das Kennzeichen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The license plate",
+    "w": "“Das Auto hat ein Schweizer Kennzeichen.”"
   }
 }

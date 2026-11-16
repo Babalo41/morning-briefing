@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-15",
-  "day": "Sun",
-  "dnum": "15",
+  "id": "2026-11-16",
+  "day": "Mon",
+  "dnum": "16",
   "mon": "Nov",
-  "date": "Sunday 15 November 2026",
-  "headline": "Briefing refreshed 12:21 Berlin time",
-  "stand": "Automatically rebuilt at 12:21 — 12 sections tracked.",
+  "date": "Monday 16 November 2026",
+  "headline": "Briefing refreshed 18:47 Berlin time",
+  "stand": "Automatically rebuilt at 18:47 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "nNLD2dEOocrQVfoEAjrc+OCSrGoY6wxIriuhZO4hk6D/1ffFNNo3/TbkgrbDPWgJrPp8kxooHKFB+SiP6QlL9yuPpI37K2RqX6CFOlpcylZjC/ej/4+TqzK2IXmsaMfnx9b+iW5oHUGUS9369ycUZfLwBtBfYrXd5PC9bx5IArB0IZyscLVi",
-      "iv": "FWp8lsvH2uP0Tu0/",
-      "salt": "BrfAi1fLBEQVoJahJV4iEA=="
+      "ciphertext": "Z6TedTc4wt7jqyPCKJ5X9rvXdtXi+4sS/MUo/HT+lkcxnY9u9yyPYXrkMZnO8A+eY22ETuTyw2yS8t1bp1dxcyVOp/ROswuMR0KQ78ceIKCaU0mj/+Nh1z8G0BLiI/3iCpNS6rXFAHxQr15J7m3rO2A3/5UUkihBlJYSbIj3k7cdIrDabL5B",
+      "iv": "EhMG4Hy/3Bw5gl9A",
+      "salt": "cDCzDoMoqWuK/Igq+bfmTA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "4°",
+          "n": "7°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 8°C",
-          "b": "Low 0°C, gusts to 28 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 10°C",
+          "b": "Low 5°C, gusts to 48 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "FV5ykimExVsiS8osU0XwL2OddX+tTgxK34p2vVpdweV6SwBUFQL+TU3FoOAAQ4h7/C5UXfNOoNMqwhyKKqvV6Py6yKDZ1j0J7tqhuGcQnvhqe9k4ya4kdcbrZSlFI1uuHpOYW0u3oyu8RyfYfP6YRau+F9kPDxmvhvVs",
-      "iv": "Taq16+cQy4VKtXHS",
-      "salt": "L6eUEvh7dN8AyCSXgb15kQ=="
+      "ciphertext": "3kul93u/G6ZvqUC4xZmXYULF2JXOL6fZMDofg6eZodInVtK1MZCQkt+3PKEzfToXVTYWECcXy5Cpj+9YIOj40hy1jB8PWOX+uA7+O5by6XuOO3G0bywSF9Dp9uLzNhuf7IxGVJ8vUZlgCzrjd2XW6i7eNdoOUWPtsD0m",
+      "iv": "1kS2mQf/lFy/IDzp",
+      "salt": "791G1uox6f3jU+bm0WW2lg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "lvnKftLT2Q1wmQESjw/Q0HcRX14vlkXpFyx65Z/t5TLs23WP0bNhABJF4+JK/UC54X0tP3fCvLtgeO7U2kc1v+hami3spNMgWO8V2ahHvxdzxbRHz8z5Y745OGK4yMLpAjHkFvc2uRuwfvwfxknCjbvIRj3cS7l6iWAiMEQuIRvFFqCO7FgxG5VPTMSEOxr3uRsIpsFnoopz+eTrU4PCdZJo9CBfZV7Dl9k3ykjj6BG9EKjwAY9MPRPx6y7yBzdEMmbNSjjRpmEzLQdXTqYVUPhc1YXM5FnPaPu2BlfbcJYzHhNKPT+uKHQvBNk91QsO1U+oYtj4",
-      "iv": "8apGDYGKe4YcMVYs",
-      "salt": "tkzXDQpFtYi4n881hbyHFQ=="
+      "ciphertext": "KTxn1Aq8+IwhCB44PJ/whBdlPz1sFIGIGBLe7SR3L88UKF/0HgcjQ34tXlky8wYNxoNVZRpuAU0o4pSjiziR87cD/FyKLyZu4vca016tLumQ5eGYwLKI14r0H0NNLiuv2Es8kaXdbPiz3KB6wPOxTGMWPRSKtFbE1w8VEAOra1zzAYsEneDKBfFNBd1+uf5rW/1r7su3jGVNvroYWR/+44hO2h1oWh3ul/wOuOYKizEcKOi1FVTAcLeW/UXytrYOIDSLr51ktzpKzwzsKL1zbD/p5UA6RI4rKZWzDzZ+rVAZwg67f5k1nvevn1RvDe0TJcFbrd/6",
+      "iv": "tBdrAnUZYkPnHKP1",
+      "salt": "PptmrcN0yk+kqI8Rrmx78A=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Abx8u8dKGibDoppccQTnsGgxcQNMdwbkUwjFhtyTQ1Xv2jpfWkq5x6I6EQd0k8hQd8gSi1Ylyjch+CM+6MZdhfT+glHlw4UCkWDQFu9YyLwJq4dcYA1aOGsNJOhAlgOM+pVDIA0UDy6ec/zQsT052JHMC7wec028aTJUTFoPj3nuLTuRaACgkfsYZ8dr+sncC42VzlO/TqF6S0qL",
-      "iv": "gJFirXSnPQ6wnIOI",
-      "salt": "SDcZkmu1epnuAi59TfKesw=="
+      "ciphertext": "hnYSizxG5NKpzRdeipMo4ctYQL+x9uvMebe2s6q6bg8q5rV6y7pP/w5EE/9rlGuRj97kyYbRYfea9lc8z1qlnpTcbDycKYVLKgrlemwxHzo235NW9GlYHbzDLi9ygEzatBZifp5q9/GPhnxxYVQmt9j1NXfQinMUsdEBgkE8K/HwCjo6deesdcZ+lmJMajjVAj09VudS9VSZ8tgf",
+      "iv": "rML7KlPJQ4Gmj/Wu",
+      "salt": "SZBvPJ7+sLHRfWLYJVl02g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -129,10 +129,9 @@
       "h": "Defense Electronics & Secure Networking",
       "items": [
         {
-          "t": "November Patch Tuesday boasts over 1,000 bugs, one already under attack",
-          "b": "Microsoft admins wail and gnash their teeth",
-          "src": "www.theregister.com - Articles",
-          "u": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946"
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "work_industry"
@@ -164,18 +163,10 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "German exhibition traces history of dachshund – or sausage dog – in art - South China Morning Post",
-          "b": "German exhibition traces history of dachshund – or sausage dog – in art  South China Morning Post",
+          "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
+          "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaWR5SVJCQW84bFRzZmllbHJkdGJjNmtDOW5ocXZBTDBsdlNzWEN2TE1xc3QxOWxLTkp0VGl4dFhCSGRUaXJOLXk5SkoxTndwTE45YVlKbmFVM2hnaDh3UlM4Y21yV3MwX2NCRjdPMUdOS0lNc3VpMTh6RE1kWDg3VVFnQmFKZEhSR2VDazZWSHVMME9kYlNWWUY4b0p1c3dmbkJORWNhLUVNYU9ZMWhQS08tUFB3RU0tMGFIa1Jn?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXJmVDVzNldJMmNEUmJrbExKRjBMdFhVaHFEVUtGQTdjOVMzOXM0c3JFRnJKQjZLM0pPaVo4QTQwMEF1OFZEWnRDVWhnZDRmZjNLUUhNWVU?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -213,23 +204,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "kaum",
-          "b": "<span class=\"jt\" data-g=\"lang_kaum\">kaum</span> — hardly",
+          "t": "kennen",
+          "b": "<span class=\"jt\" data-g=\"lang_kennen\">kennen</span> — know <span class=\"gram\">(kennt · kannte · hat gekannt)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Keller",
-          "b": "<span class=\"jt\" data-g=\"lang_derkeller\">der Keller</span> — the cellar <span class=\"gram\">(plural: -)</span>",
+          "t": "kennenlernen",
+          "b": "<span class=\"jt\" data-g=\"lang_kennenlernen\">kennenlernen</span> — get to know <span class=\"gram\">(lernt kennen · lernte kennen · hat kennengelernt)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Kellner",
-          "b": "<span class=\"jt\" data-g=\"lang_derkellner\">der Kellner</span> — the waiter <span class=\"gram\">(plural: -)</span>",
+          "t": "die Kenntnisse",
+          "b": "<span class=\"jt\" data-g=\"lang_diekenntnisse\">die Kenntnisse</span> — the knowledge <span class=\"gram\">(plural: (Pl.))</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "die Kellnerin",
-          "b": "<span class=\"jt\" data-g=\"lang_diekellnerin\">die Kellnerin</span> — the waitress <span class=\"gram\">(plural: -nen)</span>",
+          "t": "das Kennzeichen",
+          "b": "<span class=\"jt\" data-g=\"lang_daskennzeichen\">das Kennzeichen</span> — the license plate <span class=\"gram\">(plural: -)</span>",
           "src": "Goethe B1 · p.54"
         }
       ]

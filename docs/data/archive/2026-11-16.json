@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-16",
+  "day": "Mon",
+  "dnum": "16",
+  "mon": "Nov",
+  "date": "Monday 16 November 2026",
+  "headline": "Briefing refreshed 18:47 Berlin time",
+  "stand": "Automatically rebuilt at 18:47 — 12 sections tracked.",
+  "blocks": [
+    {
+      "h": "Needs Attention",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "Z6TedTc4wt7jqyPCKJ5X9rvXdtXi+4sS/MUo/HT+lkcxnY9u9yyPYXrkMZnO8A+eY22ETuTyw2yS8t1bp1dxcyVOp/ROswuMR0KQ78ceIKCaU0mj/+Nh1z8G0BLiI/3iCpNS6rXFAHxQr15J7m3rO2A3/5UUkihBlJYSbIj3k7cdIrDabL5B",
+      "iv": "EhMG4Hy/3Bw5gl9A",
+      "salt": "cDCzDoMoqWuK/Igq+bfmTA=="
+    },
+    {
+      "h": "Weather",
+      "stats": [
+        {
+          "n": "7°",
+          "l": "right now"
+        }
+      ],
+      "items": [
+        {
+          "t": "Bremen: overcast, high 10°C",
+          "b": "Low 5°C, gusts to 48 km/h. 7-day outlook below.",
+          "src": "Open-Meteo"
+        }
+      ],
+      "chart": [
+        "wxtemp",
+        "wxrain"
+      ]
+    },
+    {
+      "h": "Week & Month Ahead",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "3kul93u/G6ZvqUC4xZmXYULF2JXOL6fZMDofg6eZodInVtK1MZCQkt+3PKEzfToXVTYWECcXy5Cpj+9YIOj40hy1jB8PWOX+uA7+O5by6XuOO3G0bywSF9Dp9uLzNhuf7IxGVJ8vUZlgCzrjd2XW6i7eNdoOUWPtsD0m",
+      "iv": "1kS2mQf/lFy/IDzp",
+      "salt": "791G1uox6f3jU+bm0WW2lg=="
+    },
+    {
+      "h": "Diabetes & Supplies",
+      "count": 2,
+      "encrypted": true,
+      "ciphertext": "KTxn1Aq8+IwhCB44PJ/whBdlPz1sFIGIGBLe7SR3L88UKF/0HgcjQ34tXlky8wYNxoNVZRpuAU0o4pSjiziR87cD/FyKLyZu4vca016tLumQ5eGYwLKI14r0H0NNLiuv2Es8kaXdbPiz3KB6wPOxTGMWPRSKtFbE1w8VEAOra1zzAYsEneDKBfFNBd1+uf5rW/1r7su3jGVNvroYWR/+44hO2h1oWh3ul/wOuOYKizEcKOi1FVTAcLeW/UXytrYOIDSLr51ktzpKzwzsKL1zbD/p5UA6RI4rKZWzDzZ+rVAZwg67f5k1nvevn1RvDe0TJcFbrd/6",
+      "iv": "tBdrAnUZYkPnHKP1",
+      "salt": "PptmrcN0yk+kqI8Rrmx78A=="
+    },
+    {
+      "h": "Spending",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "hnYSizxG5NKpzRdeipMo4ctYQL+x9uvMebe2s6q6bg8q5rV6y7pP/w5EE/9rlGuRj97kyYbRYfea9lc8z1qlnpTcbDycKYVLKgrlemwxHzo235NW9GlYHbzDLi9ygEzatBZifp5q9/GPhnxxYVQmt9j1NXfQinMUsdEBgkE8K/HwCjo6deesdcZ+lmJMajjVAj09VudS9VSZ8tgf",
+      "iv": "rML7KlPJQ4Gmj/Wu",
+      "salt": "SZBvPJ7+sLHRfWLYJVl02g=="
+    },
+    {
+      "h": "ISTQB & Software Testing",
+      "items": [
+        {
+          "t": "📌 Istqb® Certification Portfolio",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "📌 Istqb® Certified Tester",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+          "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+        },
+        {
+          "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+          "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+          "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+        },
+        {
+          "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+        },
+        {
+          "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+          "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        }
+      ],
+      "feed_section": "profession_field"
+    },
+    {
+      "h": "Defense Electronics & Secure Networking",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "work_industry"
+    },
+    {
+      "h": "Network & Systems Engineering",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "network_systems"
+    },
+    {
+      "h": "Jira, Xray & Confluence",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "test_tooling"
+    },
+    {
+      "h": "Near Home",
+      "tags_section": "near_home",
+      "items": [
+        {
+          "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
+          "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXJmVDVzNldJMmNEUmJrbExKRjBMdFhVaHFEVUtGQTdjOVMzOXM0c3JFRnJKQjZLM0pPaVo4QTQwMEF1OFZEWnRDVWhnZDRmZjNLUUhNWVU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        }
+      ],
+      "chart": "near_home_flow"
+    },
+    {
+      "h": "World & Knowledge",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "world_and_knowledge"
+    },
+    {
+      "h": "Language Practice",
+      "items": [
+        {
+          "t": "kennen",
+          "b": "<span class=\"jt\" data-g=\"lang_kennen\">kennen</span> — know <span class=\"gram\">(kennt · kannte · hat gekannt)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "kennenlernen",
+          "b": "<span class=\"jt\" data-g=\"lang_kennenlernen\">kennenlernen</span> — get to know <span class=\"gram\">(lernt kennen · lernte kennen · hat kennengelernt)</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "die Kenntnisse",
+          "b": "<span class=\"jt\" data-g=\"lang_diekenntnisse\">die Kenntnisse</span> — the knowledge <span class=\"gram\">(plural: (Pl.))</span>",
+          "src": "Goethe B1 · p.54"
+        },
+        {
+          "t": "das Kennzeichen",
+          "b": "<span class=\"jt\" data-g=\"lang_daskennzeichen\">das Kennzeichen</span> — the license plate <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.54"
+        }
+      ]
+    }
+  ]
+}
