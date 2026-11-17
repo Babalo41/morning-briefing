@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-16",
-  "day": "Mon",
-  "dnum": "16",
+  "id": "2026-11-17",
+  "day": "Tue",
+  "dnum": "17",
   "mon": "Nov",
-  "date": "Monday 16 November 2026",
-  "headline": "Briefing refreshed 18:47 Berlin time",
-  "stand": "Automatically rebuilt at 18:47 — 12 sections tracked.",
+  "date": "Tuesday 17 November 2026",
+  "headline": "Briefing refreshed 19:38 Berlin time",
+  "stand": "Automatically rebuilt at 19:38 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Z6TedTc4wt7jqyPCKJ5X9rvXdtXi+4sS/MUo/HT+lkcxnY9u9yyPYXrkMZnO8A+eY22ETuTyw2yS8t1bp1dxcyVOp/ROswuMR0KQ78ceIKCaU0mj/+Nh1z8G0BLiI/3iCpNS6rXFAHxQr15J7m3rO2A3/5UUkihBlJYSbIj3k7cdIrDabL5B",
-      "iv": "EhMG4Hy/3Bw5gl9A",
-      "salt": "cDCzDoMoqWuK/Igq+bfmTA=="
+      "ciphertext": "Y/1fmx6udkMOApkqMkrLEv/LEK/SBWGTNoyNDKP/k95M0vQJwhJVZY/8XF6uiJw/bIC9rSzPVRzfmtrJPOnsr9b5l6/n5XH2RQce1GxPn5sPnHQrpvc500crMekVeHpZIEgNMd33hUh+ruqn79SRZQo+miYsgRHvMif5Yv1RUueeFWuJ/EJ8",
+      "iv": "jvaJGBr3zY5JkpWw",
+      "salt": "1HxrSOgP6wJUObyqhggHKA=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "7°",
+          "n": "9°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 10°C",
-          "b": "Low 5°C, gusts to 48 km/h. 7-day outlook below.",
+          "t": "Bremen: partly cloudy, high 10°C",
+          "b": "Low 3°C, gusts to 48 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "3kul93u/G6ZvqUC4xZmXYULF2JXOL6fZMDofg6eZodInVtK1MZCQkt+3PKEzfToXVTYWECcXy5Cpj+9YIOj40hy1jB8PWOX+uA7+O5by6XuOO3G0bywSF9Dp9uLzNhuf7IxGVJ8vUZlgCzrjd2XW6i7eNdoOUWPtsD0m",
-      "iv": "1kS2mQf/lFy/IDzp",
-      "salt": "791G1uox6f3jU+bm0WW2lg=="
+      "ciphertext": "LT1LlL8ofmb2LKOgHLfFn4OaDeUZNQT+s4Siv5MbFdpd9LI2PZkISBBliaCL0PzfVUWkgqiG0P3cfbkskWbT2FcCiGjPC9+VfzcbKryxHeY3okQQf5At2Ej1/XTSfLZLhLyyrWGWUWLSMGthUbS761uNouLryw73eXYk",
+      "iv": "atEoJvuaDzTxE+l2",
+      "salt": "v0T7qhkPZSuQpHH/ryMROg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "KTxn1Aq8+IwhCB44PJ/whBdlPz1sFIGIGBLe7SR3L88UKF/0HgcjQ34tXlky8wYNxoNVZRpuAU0o4pSjiziR87cD/FyKLyZu4vca016tLumQ5eGYwLKI14r0H0NNLiuv2Es8kaXdbPiz3KB6wPOxTGMWPRSKtFbE1w8VEAOra1zzAYsEneDKBfFNBd1+uf5rW/1r7su3jGVNvroYWR/+44hO2h1oWh3ul/wOuOYKizEcKOi1FVTAcLeW/UXytrYOIDSLr51ktzpKzwzsKL1zbD/p5UA6RI4rKZWzDzZ+rVAZwg67f5k1nvevn1RvDe0TJcFbrd/6",
-      "iv": "tBdrAnUZYkPnHKP1",
-      "salt": "PptmrcN0yk+kqI8Rrmx78A=="
+      "ciphertext": "ZKeS5T/3yiyj7rXdAXzXGLQqETOxyQKTLBokGFGI+kze9JzcOHvGifvnJCMVoy35nNco7K/9A5CQyO6+51DGqwVxV/s91eUeUXykrvraDjybMSGfyKUZRofFWlcQEcfSLjYw697yXaT2tnwJ33BXms2GJA6ZrJ3fJ6PEijFkrp7Dvxr5HuL3DqGYQ5EwMXAAeRRX/AaS++ve/IS5NUekCAlElfKbLFP4mjH2/1ZF+wZcH80pJ5SPYb0SkhuQhSuBwxAPnclnpSz2Q2AOY5t97YO6294+qKF3sdfKNwSRi+jH+yE0DF80Iz1rXfS6vx9XVSk/PK5t",
+      "iv": "nmAiCAZnYulRE/qp",
+      "salt": "7LkSE0v6NTcqrxx862EPRQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "hnYSizxG5NKpzRdeipMo4ctYQL+x9uvMebe2s6q6bg8q5rV6y7pP/w5EE/9rlGuRj97kyYbRYfea9lc8z1qlnpTcbDycKYVLKgrlemwxHzo235NW9GlYHbzDLi9ygEzatBZifp5q9/GPhnxxYVQmt9j1NXfQinMUsdEBgkE8K/HwCjo6deesdcZ+lmJMajjVAj09VudS9VSZ8tgf",
-      "iv": "rML7KlPJQ4Gmj/Wu",
-      "salt": "SZBvPJ7+sLHRfWLYJVl02g=="
+      "ciphertext": "ZvqUeEXNrL7Qq1DNfS3YOH4clXj1kaZ+vLyArtVv9b+DSb9zGemVBPyegIb9NKiqKkrEjfrSIaJamvF5Kzps05r6YjLC08HvFQq9y/xCWPi0WwR4BPg6YXw9UGuPFY2MQnqEkvx6WGf8oPiLaZLzegco3uTnX1DSHnMTlTB8707ylRKXDNan052Av9u4+/fq+J7RAN03Nl61yuQo",
+      "iv": "ea3yaniwujRNh0hw",
+      "salt": "vxgyMgJm8BUZtG54lXP3Hg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,6 +163,30 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "Werder Bremen and Hamburg prepare to do battle in Bundesliga's 111th Nordderby - Bundesliga | official website",
+          "b": "Werder Bremen and Hamburg prepare to do battle in Bundesliga's 111th Nordderby  Bundesliga | official website",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGNVdEZVeWlkcDh0WnNHWWlDaUNGZ3lNbTdGeF9UbWNzSlA3TmVYX2RUNE1NTVhscGxoQ0JLV3pSTDBFVTFaOGpxTF9tVEQ2RDZjRm9uWkNEXzVYYV9RYlFQaTltMnYtZl82Y0VMSGNrV2dxTFNhUGRmWmJsbWJCWkVYRmdYYkszNzdUay1SQ193Q3RqZXJFQkxPTkw4SmcyZXV6NUtFRQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Bremen politician says Bundesliga should pay for derby policing costs - Yahoo Sports",
+          "b": "Bremen politician says Bundesliga should pay for derby policing costs  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW9Ta1lFcS1CZDVlNktEc1JTTlo0NDhBUEZTcjZZbEFxUFYtQmhJVl9hZG1mRkdaTXZhV25lSWVxNGw5Q1ZVVzNLamhKSzhiSzQyZXowbDF1bEh6RDd6enNOM00zUkZUaDBSaXA2bEJGZUJLdm1RdVNtNDBodENhWjdZVFNpbkhFMTh0X3lvVQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art - Lewistown Sentinel",
+          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art  Lewistown Sentinel",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2EtOF9mcFNub0dweVpoOWJlTFhFdGsyVFdKNU5Va193M1ljM1dhb3BFT0szVzJQcVd5QXowUE9YZnV1bm5lNGpRbl82OEhzT3U5S2hmc3EwaW8wVzVsYkw4R1A5d2h3NjVsVDVBRGotMHZicl9UZ3hBZ2M3RFQ5aHVkNHlCdGJvMU9IMElDeWE1b3haaG5uZENZNUdIREF0SV90UlRFdUN6MGFVS3IyN3kyemxBVkdiVVAzMEpKX2ZpNUlid0dfdF83VFNjZUdfeTE1Q2ZqbFIxTUJq?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
           "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
           "src": "\"Bremen, Germany\" - Google News",
@@ -204,23 +228,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "kennen",
-          "b": "<span class=\"jt\" data-g=\"lang_kennen\">kennen</span> — know <span class=\"gram\">(kennt · kannte · hat gekannt)</span>",
+          "t": "die Kerze",
+          "b": "<span class=\"jt\" data-g=\"lang_diekerze\">die Kerze</span> — the candle <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "kennenlernen",
-          "b": "<span class=\"jt\" data-g=\"lang_kennenlernen\">kennenlernen</span> — get to know <span class=\"gram\">(lernt kennen · lernte kennen · hat kennengelernt)</span>",
+          "t": "die Kette",
+          "b": "<span class=\"jt\" data-g=\"lang_diekette\">die Kette</span> — the chain <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "die Kenntnisse",
-          "b": "<span class=\"jt\" data-g=\"lang_diekenntnisse\">die Kenntnisse</span> — the knowledge <span class=\"gram\">(plural: (Pl.))</span>",
+          "t": "das Kind",
+          "b": "<span class=\"jt\" data-g=\"lang_daskind\">das Kind</span> — the child <span class=\"gram\">(plural: -er)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "das Kennzeichen",
-          "b": "<span class=\"jt\" data-g=\"lang_daskennzeichen\">das Kennzeichen</span> — the license plate <span class=\"gram\">(plural: -)</span>",
+          "t": "der Kindergarten",
+          "b": "<span class=\"jt\" data-g=\"lang_derkindergarten\">der Kindergarten</span> — the kindergarten <span class=\"gram\">(plural: ¨-)</span>",
           "src": "Goethe B1 · p.54"
         }
       ]
