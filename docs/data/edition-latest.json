@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-17",
-  "day": "Tue",
-  "dnum": "17",
+  "id": "2026-11-18",
+  "day": "Wed",
+  "dnum": "18",
   "mon": "Nov",
-  "date": "Tuesday 17 November 2026",
-  "headline": "Briefing refreshed 19:38 Berlin time",
-  "stand": "Automatically rebuilt at 19:38 — 12 sections tracked.",
+  "date": "Wednesday 18 November 2026",
+  "headline": "Briefing refreshed 20:21 Berlin time",
+  "stand": "Automatically rebuilt at 20:21 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Y/1fmx6udkMOApkqMkrLEv/LEK/SBWGTNoyNDKP/k95M0vQJwhJVZY/8XF6uiJw/bIC9rSzPVRzfmtrJPOnsr9b5l6/n5XH2RQce1GxPn5sPnHQrpvc500crMekVeHpZIEgNMd33hUh+ruqn79SRZQo+miYsgRHvMif5Yv1RUueeFWuJ/EJ8",
-      "iv": "jvaJGBr3zY5JkpWw",
-      "salt": "1HxrSOgP6wJUObyqhggHKA=="
+      "ciphertext": "Zi6kiPTs7XK9+cQLWCpgyQ0BamkaOk03TxQYyGGe37NUNe2mqwCA9MWw1VwNYemZuRhwTu0WxB+cGN7lZ3tksca45pltlUKWFjGruDSlbsEm3HYV1oM8DASOihMX5u+GRD88eVSYEyVA02KQ2AAulXeAMSz8Y1+n0re5j8YL5siIlfLQwsZs",
+      "iv": "c+mZztOiUzRtAEMU",
+      "salt": "OLUhtST3dy0S/HH7UeAXzg=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "9°",
+          "n": "8°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: partly cloudy, high 10°C",
-          "b": "Low 3°C, gusts to 48 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 10°C",
+          "b": "Low 6°C, gusts to 76 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "LT1LlL8ofmb2LKOgHLfFn4OaDeUZNQT+s4Siv5MbFdpd9LI2PZkISBBliaCL0PzfVUWkgqiG0P3cfbkskWbT2FcCiGjPC9+VfzcbKryxHeY3okQQf5At2Ej1/XTSfLZLhLyyrWGWUWLSMGthUbS761uNouLryw73eXYk",
-      "iv": "atEoJvuaDzTxE+l2",
-      "salt": "v0T7qhkPZSuQpHH/ryMROg=="
+      "ciphertext": "AO5RP4P/znQx7+GK7K58Ia80EgdYH3BWSuad9UAmcmVYg+3HbJLeRsOIszckyWafrTJZpdyXEla6hoqo7Nsan0NRbfV/nstr7mQ+bQAZmGlE7WSCIjjWjCQaCakAut2gZ/MU8fToMCWYYHslEt8ovYIU26TlfwnGSEIf",
+      "iv": "a4poC65R6zbLTBpx",
+      "salt": "orVHFaLUWkReisJx9HtRcg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "ZKeS5T/3yiyj7rXdAXzXGLQqETOxyQKTLBokGFGI+kze9JzcOHvGifvnJCMVoy35nNco7K/9A5CQyO6+51DGqwVxV/s91eUeUXykrvraDjybMSGfyKUZRofFWlcQEcfSLjYw697yXaT2tnwJ33BXms2GJA6ZrJ3fJ6PEijFkrp7Dvxr5HuL3DqGYQ5EwMXAAeRRX/AaS++ve/IS5NUekCAlElfKbLFP4mjH2/1ZF+wZcH80pJ5SPYb0SkhuQhSuBwxAPnclnpSz2Q2AOY5t97YO6294+qKF3sdfKNwSRi+jH+yE0DF80Iz1rXfS6vx9XVSk/PK5t",
-      "iv": "nmAiCAZnYulRE/qp",
-      "salt": "7LkSE0v6NTcqrxx862EPRQ=="
+      "ciphertext": "P8JlMT775g8Yp/st+rPlecA+qOuDfZNh/AOPhKk6SuB8QwMwOHedP0FLEMAVYAHioakcn3Xf02Bo41kdfNMs+Fu7VPr6BBy0zCZUqSB48wLkOpDFz/fHV3Ndj4ki0XaFBlY0dyHDCEzI2Ope1NdUEfjb5Wb0bYrrY9VFiWVpxY/VfO81egy+cYOdAsqZJu2ikYYQxqhH4jFJgjk59f1v5ldj8UqyITNQ58fvxZwTC9oQMQqjp7XQfo6eNkR7RxgTXYMh2ouPOVR1KSfAaR10jR3ItcXvXWIfaLaGGGVw610EBe0k87D62MJ35w8euR2pYuqChF9T",
+      "iv": "IqQXQkaMrfFYB8Bv",
+      "salt": "51KyUh0DfYkQ60i9PTTYpw=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "ZvqUeEXNrL7Qq1DNfS3YOH4clXj1kaZ+vLyArtVv9b+DSb9zGemVBPyegIb9NKiqKkrEjfrSIaJamvF5Kzps05r6YjLC08HvFQq9y/xCWPi0WwR4BPg6YXw9UGuPFY2MQnqEkvx6WGf8oPiLaZLzegco3uTnX1DSHnMTlTB8707ylRKXDNan052Av9u4+/fq+J7RAN03Nl61yuQo",
-      "iv": "ea3yaniwujRNh0hw",
-      "salt": "vxgyMgJm8BUZtG54lXP3Hg=="
+      "ciphertext": "BejUeEIlCsiOHUO1htWRvLRDVqbO3rsHUDQ5fRrleK46p2L0jdFtzisEQdET8oXWIVnDHpMDS9t3p0PG8Cw2cSU2nJXJQ8O8uvssqLxKJDTBgqLmDGqMiSL76/gRZCd8TL2qik3lJmW4NLin3YaKcAMK+mLqCDf+idrpbFkBfu/WJQRnlGZiJQC4OuX2yCmUn+6qFkkze24Rqyks",
+      "iv": "uoqb+LaU1HRMMSZR",
+      "salt": "T3iAZgF+Tc4cO9drVTf47g=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,34 +163,18 @@
       "tags_section": "near_home",
       "items": [
         {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
           "t": "Werder Bremen and Hamburg prepare to do battle in Bundesliga's 111th Nordderby - Bundesliga | official website",
           "b": "Werder Bremen and Hamburg prepare to do battle in Bundesliga's 111th Nordderby  Bundesliga | official website",
           "src": "\"Bremen, Germany\" - Google News",
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGNVdEZVeWlkcDh0WnNHWWlDaUNGZ3lNbTdGeF9UbWNzSlA3TmVYX2RUNE1NTVhscGxoQ0JLV3pSTDBFVTFaOGpxTF9tVEQ2RDZjRm9uWkNEXzVYYV9RYlFQaTltMnYtZl82Y0VMSGNrV2dxTFNhUGRmWmJsbWJCWkVYRmdYYkszNzdUay1SQ193Q3RqZXJFQkxPTkw4SmcyZXV6NUtFRQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Bremen politician says Bundesliga should pay for derby policing costs - Yahoo Sports",
-          "b": "Bremen politician says Bundesliga should pay for derby policing costs  Yahoo Sports",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW9Ta1lFcS1CZDVlNktEc1JTTlo0NDhBUEZTcjZZbEFxUFYtQmhJVl9hZG1mRkdaTXZhV25lSWVxNGw5Q1ZVVzNLamhKSzhiSzQyZXowbDF1bEh6RDd6enNOM00zUkZUaDBSaXA2bEJGZUJLdm1RdVNtNDBodENhWjdZVFNpbkhFMTh0X3lvVQ?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art - Lewistown Sentinel",
-          "b": "The dachshund is the muse in an exhibition showcasing the sausage dog’s history in art  Lewistown Sentinel",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2EtOF9mcFNub0dweVpoOWJlTFhFdGsyVFdKNU5Va193M1ljM1dhb3BFT0szVzJQcVd5QXowUE9YZnV1bm5lNGpRbl82OEhzT3U5S2hmc3EwaW8wVzVsYkw4R1A5d2h3NjVsVDVBRGotMHZicl9UZ3hBZ2M3RFQ5aHVkNHlCdGJvMU9IMElDeWE1b3haaG5uZENZNUdIREF0SV90UlRFdUN6MGFVS3IyN3kyemxBVkdiVVAzMEpKX2ZpNUlid0dfdF83VFNjZUdfeTE1Q2ZqbFIxTUJq?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
-          "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
-          "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXJmVDVzNldJMmNEUmJrbExKRjBMdFhVaHFEVUtGQTdjOVMzOXM0c3JFRnJKQjZLM0pPaVo4QTQwMEF1OFZEWnRDVWhnZDRmZjNLUUhNWVU?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -209,6 +193,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
+          "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXJmVDVzNldJMmNEUmJrbExKRjBMdFhVaHFEVUtGQTdjOVMzOXM0c3JFRnJKQjZLM0pPaVo4QTQwMEF1OFZEWnRDVWhnZDRmZjNLUUhNWVU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -217,9 +209,10 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "No fresh items this run",
-          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-          "src": "system"
+          "t": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+          "b": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+          "src": "BBC News",
+          "u": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -228,23 +221,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Kerze",
-          "b": "<span class=\"jt\" data-g=\"lang_diekerze\">die Kerze</span> — the candle <span class=\"gram\">(plural: -n)</span>",
+          "t": "die Kindheit",
+          "b": "<span class=\"jt\" data-g=\"lang_diekindheit\">die Kindheit</span> — childhood",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "die Kette",
-          "b": "<span class=\"jt\" data-g=\"lang_diekette\">die Kette</span> — the chain <span class=\"gram\">(plural: -n)</span>",
+          "t": "das Kino",
+          "b": "<span class=\"jt\" data-g=\"lang_daskino\">das Kino</span> — the cinema <span class=\"gram\">(plural: -s)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "das Kind",
-          "b": "<span class=\"jt\" data-g=\"lang_daskind\">das Kind</span> — the child <span class=\"gram\">(plural: -er)</span>",
+          "t": "der Kiosk",
+          "b": "<span class=\"jt\" data-g=\"lang_derkiosk\">der Kiosk</span> — the kiosk <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.54"
         },
         {
-          "t": "der Kindergarten",
-          "b": "<span class=\"jt\" data-g=\"lang_derkindergarten\">der Kindergarten</span> — the kindergarten <span class=\"gram\">(plural: ¨-)</span>",
+          "t": "die Kirche",
+          "b": "<span class=\"jt\" data-g=\"lang_diekirche\">die Kirche</span> — the church <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.54"
         }
       ]

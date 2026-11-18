@@ -2718,5 +2718,37 @@
     "lang": "de-DE",
     "d": "The kindergarten",
     "w": "“Morgens bringe ich meinen Sohn in den Kindergarten.”"
+  },
+  "lang_diekindheit": {
+    "t": "die Kindheit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Childhood",
+    "w": "“In meiner Kindheit war ich oft auf dem Land bei meinen Großeltern.”"
+  },
+  "lang_daskino": {
+    "t": "das Kino",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cinema",
+    "w": "“Wollen wir ins Kino gehen?”"
+  },
+  "lang_derkiosk": {
+    "t": "der Kiosk",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The kiosk",
+    "w": "“Zeitungen bekommst du am Kiosk.”"
+  },
+  "lang_diekirche": {
+    "t": "die Kirche",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The church",
+    "w": "“Diese Kirche ist aus dem 12. Jahrhundert.”"
   }
 }
