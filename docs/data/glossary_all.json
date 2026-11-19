@@ -2750,5 +2750,37 @@
     "lang": "de-DE",
     "d": "The church",
     "w": "“Diese Kirche ist aus dem 12. Jahrhundert.”"
+  },
+  "lang_diekiste": {
+    "t": "die Kiste",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The box",
+    "w": "“Ich habe zwei Kisten Bier gekauft.”"
+  },
+  "lang_daskissen": {
+    "t": "das Kissen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The pillow",
+    "w": "“Ohne Kopfkissen kann ich nicht schlafen.”"
+  },
+  "lang_klagen": {
+    "t": "klagen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Complain",
+    "w": "“Sie klagt über Kopfschmerzen.”"
+  },
+  "lang_klappen": {
+    "t": "klappen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Fold",
+    "w": "“Wie war die Reise? – Gut. Es hat alles prima geklappt.”"
   }
 }

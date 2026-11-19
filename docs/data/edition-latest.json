@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-18",
-  "day": "Wed",
-  "dnum": "18",
+  "id": "2026-11-19",
+  "day": "Thu",
+  "dnum": "19",
   "mon": "Nov",
-  "date": "Wednesday 18 November 2026",
-  "headline": "Briefing refreshed 20:21 Berlin time",
-  "stand": "Automatically rebuilt at 20:21 — 12 sections tracked.",
+  "date": "Thursday 19 November 2026",
+  "headline": "Briefing refreshed 17:15 Berlin time",
+  "stand": "Automatically rebuilt at 17:15 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Zi6kiPTs7XK9+cQLWCpgyQ0BamkaOk03TxQYyGGe37NUNe2mqwCA9MWw1VwNYemZuRhwTu0WxB+cGN7lZ3tksca45pltlUKWFjGruDSlbsEm3HYV1oM8DASOihMX5u+GRD88eVSYEyVA02KQ2AAulXeAMSz8Y1+n0re5j8YL5siIlfLQwsZs",
-      "iv": "c+mZztOiUzRtAEMU",
-      "salt": "OLUhtST3dy0S/HH7UeAXzg=="
+      "ciphertext": "mwGYJciFDFSYv4/2QmY0rE9oiAlzgGiKbQZMjAICu9zDyk/j1KsK8ByIIQ3cNBmn3Lms/I61pw927Dncc4xQyqPSZVajRpCbNJk8SDPcFf79Tdt4v3HOribKWadEqVmyThGUqIsr4uzAte/pK1A14L7yVdZACL7rLwBuJeUO1RKTXj1dggO+",
+      "iv": "aYNnqniPusupFE5g",
+      "salt": "oXtEkzNGvK+G9KvgbyTS2w=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "8°",
+          "n": "5°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 10°C",
-          "b": "Low 6°C, gusts to 76 km/h. 7-day outlook below.",
+          "t": "Bremen: light rain, high 7°C",
+          "b": "Low 3°C, gusts to 41 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "AO5RP4P/znQx7+GK7K58Ia80EgdYH3BWSuad9UAmcmVYg+3HbJLeRsOIszckyWafrTJZpdyXEla6hoqo7Nsan0NRbfV/nstr7mQ+bQAZmGlE7WSCIjjWjCQaCakAut2gZ/MU8fToMCWYYHslEt8ovYIU26TlfwnGSEIf",
-      "iv": "a4poC65R6zbLTBpx",
-      "salt": "orVHFaLUWkReisJx9HtRcg=="
+      "ciphertext": "5WgSDw7UJ2x65dIohCQlWbADQ1H+Hz3tbdugsVvmIcQ9wHJ5B+hWs8kioKKJEy+j1M3xDKo1c78Hy+BlQAjtpNx2+dNEMlYSFp3WPNxo/jLKBOwcskuM22YgOz4LIvc8uWkzuNyuSuds3tvwxFkcDc62Lf/9Al5Y1Y/Y",
+      "iv": "qMqNy0AuP4CsB0Aq",
+      "salt": "QEVhrov9kR7KqR5Pqppw8w=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "P8JlMT775g8Yp/st+rPlecA+qOuDfZNh/AOPhKk6SuB8QwMwOHedP0FLEMAVYAHioakcn3Xf02Bo41kdfNMs+Fu7VPr6BBy0zCZUqSB48wLkOpDFz/fHV3Ndj4ki0XaFBlY0dyHDCEzI2Ope1NdUEfjb5Wb0bYrrY9VFiWVpxY/VfO81egy+cYOdAsqZJu2ikYYQxqhH4jFJgjk59f1v5ldj8UqyITNQ58fvxZwTC9oQMQqjp7XQfo6eNkR7RxgTXYMh2ouPOVR1KSfAaR10jR3ItcXvXWIfaLaGGGVw610EBe0k87D62MJ35w8euR2pYuqChF9T",
-      "iv": "IqQXQkaMrfFYB8Bv",
-      "salt": "51KyUh0DfYkQ60i9PTTYpw=="
+      "ciphertext": "WxWt4rU5MovOnE/HxY0HZerZz5PwQrAFf9RlQoNQK2IdXReZAnrZ62ZRs/qLkIBfp6ijc3rgh3i5YVWxsx08ShiTWaa/TuI5fRhc7+efNvNc5m1nm7Hk+4DXxK6QH0mT638A1zplsXeq30utSC2WVCNk4rwzq5e/7aOlOHqeMyjwJ1XLTdVY/in/CxZZe3Oqluk0jc7eeWWHsYNhY7ScCXQq03mh63y1LUP9eHwygzWMN1yJ1s9bWKbQmKKb6KbHx18v+TZDqInp/HKwc3JZs2iC+17oqDc7yOqWVmwTQt8tFO0E6Tc6zreVNSHO4PyuIP41zEkf",
+      "iv": "ba8r1GCVuGI9skLy",
+      "salt": "4TTIkgSgTkO9hkTgVRyMKA=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "BejUeEIlCsiOHUO1htWRvLRDVqbO3rsHUDQ5fRrleK46p2L0jdFtzisEQdET8oXWIVnDHpMDS9t3p0PG8Cw2cSU2nJXJQ8O8uvssqLxKJDTBgqLmDGqMiSL76/gRZCd8TL2qik3lJmW4NLin3YaKcAMK+mLqCDf+idrpbFkBfu/WJQRnlGZiJQC4OuX2yCmUn+6qFkkze24Rqyks",
-      "iv": "uoqb+LaU1HRMMSZR",
-      "salt": "T3iAZgF+Tc4cO9drVTf47g=="
+      "ciphertext": "/SmPwcZYOLPB+wF5+cUQ8BougLhAeEhUdewTt1W4Z6FJfA2hD028HVnY+iSgiHesMuEHJSnzG7Bdr08V+dBh/sBarz9uNLsH/JIt3t3JQ1ai8u43zV0CbNYuG+I9wY5TGB0wJTypkeBX8Ipc+UeX9XnO6KxuvMRC+7n95L25HLKwPIIchQbAFnw9lmwy3Gkd6pArTDiKei5AoDrs",
+      "iv": "EFUwGjNz/9KKYDdd",
+      "salt": "qLn7eyoUDzvMOtKOZit9hg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -193,14 +193,6 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
-        },
-        {
-          "t": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims - TRT World",
-          "b": "Germany’s Bremen withdraws 'campaign' after backlash over portrayal of Muslims  TRT World",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NXJmVDVzNldJMmNEUmJrbExKRjBMdFhVaHFEVUtGQTdjOVMzOXM0c3JFRnJKQjZLM0pPaVo4QTQwMEF1OFZEWnRDVWhnZDRmZjNLUUhNWVU?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -221,24 +213,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Kindheit",
-          "b": "<span class=\"jt\" data-g=\"lang_diekindheit\">die Kindheit</span> — childhood",
-          "src": "Goethe B1 · p.54"
+          "t": "die Kiste",
+          "b": "<span class=\"jt\" data-g=\"lang_diekiste\">die Kiste</span> — the box <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.55"
         },
         {
-          "t": "das Kino",
-          "b": "<span class=\"jt\" data-g=\"lang_daskino\">das Kino</span> — the cinema <span class=\"gram\">(plural: -s)</span>",
-          "src": "Goethe B1 · p.54"
+          "t": "das Kissen",
+          "b": "<span class=\"jt\" data-g=\"lang_daskissen\">das Kissen</span> — the pillow <span class=\"gram\">(plural: -)</span>",
+          "src": "Goethe B1 · p.55"
         },
         {
-          "t": "der Kiosk",
-          "b": "<span class=\"jt\" data-g=\"lang_derkiosk\">der Kiosk</span> — the kiosk <span class=\"gram\">(plural: -e)</span>",
-          "src": "Goethe B1 · p.54"
+          "t": "klagen",
+          "b": "<span class=\"jt\" data-g=\"lang_klagen\">klagen</span> — complain <span class=\"gram\">(klagt · klagte · hat geklagt)</span>",
+          "src": "Goethe B1 · p.55"
         },
         {
-          "t": "die Kirche",
-          "b": "<span class=\"jt\" data-g=\"lang_diekirche\">die Kirche</span> — the church <span class=\"gram\">(plural: -n)</span>",
-          "src": "Goethe B1 · p.54"
+          "t": "klappen",
+          "b": "<span class=\"jt\" data-g=\"lang_klappen\">klappen</span> — fold <span class=\"gram\">(klappt · klappte · hat geklappt)</span>",
+          "src": "Goethe B1 · p.55"
         }
       ]
     }
