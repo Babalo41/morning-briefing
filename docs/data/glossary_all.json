@@ -2782,5 +2782,37 @@
     "lang": "de-DE",
     "d": "Fold",
     "w": "“Wie war die Reise? – Gut. Es hat alles prima geklappt.”"
+  },
+  "lang_klar": {
+    "t": "klar",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Clear",
+    "w": "“Sie müssen noch mehr Deutsch lernen. – Ja, das ist mir klar.”"
+  },
+  "lang_klären": {
+    "t": "klären",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Clarify",
+    "w": "“Ich hoffe, wir können dieses Problem bald klären.”"
+  },
+  "lang_klasse": {
+    "t": "klasse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Class",
+    "w": "“Ich finde unseren Lehrer klasse.”"
+  },
+  "lang_dieklasse": {
+    "t": "die Klasse",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The class",
+    "w": "“In der Klasse sind 24 Schülerinnen und Schüler.”"
   }
 }
