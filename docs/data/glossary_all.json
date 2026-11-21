@@ -2814,5 +2814,37 @@
     "lang": "de-DE",
     "d": "The class",
     "w": "“In der Klasse sind 24 Schülerinnen und Schüler.”"
+  },
+  "lang_dieklassenarbeit": {
+    "t": "die Klassenarbeit",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The class work",
+    "w": "“Mein Sohn schreibt bei Klassenarbeiten immer gute Noten.”"
+  },
+  "lang_dasklavier": {
+    "t": "das Klavier",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The piano",
+    "w": "“Meine Tochter möchte Klavier spielen lernen.”"
+  },
+  "lang_kleben": {
+    "t": "kleben",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Stick",
+    "w": "“Die Briefmarke klebt nicht mehr.”"
+  },
+  "lang_daskleid": {
+    "t": "das Kleid",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The dress",
+    "w": "“Ich habe mir ein neues Kleid gekauft.”"
   }
 }

@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "7° is the high point this week in Bremen",
+    "title": "6° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "11-20",
       "11-21",
       "11-22",
       "11-23",
       "11-24",
       "11-25",
-      "11-26"
+      "11-26",
+      "11-27"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            3.6
+            6.3
           ],
           [
             1,
-            7.0
+            4.9
           ],
           [
             2,
-            6.1
+            4.4
           ],
           [
             3,
-            4.2
+            1.9
           ],
           [
             4,
-            2.6
-          ],
-          [
-            5,
             1.3
           ],
           [
+            5,
+            1.5
+          ],
+          [
             6,
-            1.4
+            -0.2
           ]
         ]
       }
@@ -59,59 +59,59 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 35% this week in Bremen",
+    "title": "Rain chances peak at 50% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
       {
-        "k": "11-20",
-        "v": 0,
-        "lab": "0%",
-        "hero": false,
-        "tip": "4°C, Rain showers"
-      },
-      {
         "k": "11-21",
-        "v": 35,
-        "lab": "35%",
+        "v": 50,
+        "lab": "50%",
         "hero": true,
-        "tip": "7°C, Rain showers"
+        "tip": "6°C, Rain showers"
       },
       {
         "k": "11-22",
-        "v": 10,
-        "lab": "10%",
+        "v": 40,
+        "lab": "40%",
         "hero": false,
-        "tip": "6°C, Rain showers"
+        "tip": "5°C, Rain showers"
       },
       {
         "k": "11-23",
         "v": 5,
         "lab": "5%",
         "hero": false,
-        "tip": "4°C, Overcast"
+        "tip": "4°C, Mainly clear"
       },
       {
         "k": "11-24",
         "v": 3,
         "lab": "3%",
         "hero": false,
-        "tip": "3°C, Partly cloudy"
+        "tip": "2°C, Partly cloudy"
       },
       {
         "k": "11-25",
-        "v": 17,
-        "lab": "17%",
+        "v": 3,
+        "lab": "3%",
         "hero": false,
-        "tip": "1°C, Overcast"
+        "tip": "1°C, Partly cloudy"
       },
       {
         "k": "11-26",
-        "v": 22,
-        "lab": "22%",
+        "v": 3,
+        "lab": "3%",
         "hero": false,
-        "tip": "1°C, Overcast"
+        "tip": "2°C, Light snow"
+      },
+      {
+        "k": "11-27",
+        "v": 9,
+        "lab": "9%",
+        "hero": false,
+        "tip": "0°C, Light snow"
       }
     ]
   },

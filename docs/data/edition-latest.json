@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-20",
-  "day": "Fri",
-  "dnum": "20",
+  "id": "2026-11-21",
+  "day": "Sat",
+  "dnum": "21",
   "mon": "Nov",
-  "date": "Friday 20 November 2026",
-  "headline": "Briefing refreshed 13:54 Berlin time",
-  "stand": "Automatically rebuilt at 13:54 — 12 sections tracked.",
+  "date": "Saturday 21 November 2026",
+  "headline": "Briefing refreshed 10:05 Berlin time",
+  "stand": "Automatically rebuilt at 10:05 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "hOwLeiYhAKdvLq/1Z8NrENM+14a6JTshMy34CM2fVZdcd3er8SDe3VW3f/pgW2+vNh8T+b69sJOgmuiRb20RzerpEfjtHM1fbFqgBNvtp/AvbuORK3taIt/ZP/mabRu23c1dzFc0ruvdn3WHH68t9rBJP6O/PXT4KZmlnp9cSQwxImc6MzqC",
-      "iv": "fK/uYek8QlR6Onvs",
-      "salt": "MF93UyBRawvDHp9EGnOYAw=="
+      "ciphertext": "ibblRfTO/ruEePjLaGrwtWWvUuuNjQQ1hXVT/fle39dO9eaU8QttZcjEvA3rqWY4QW9hZgj19RcmsXRdbL3+Eq342lJowXhv+PNraifnuZnAu1DQydM/7MmpdQGfHvSjPh0c1M/SB6u+BNvffTmQ/ktpJsk+ZjhU/ffc3jWA1UEKnJHjONbH",
+      "iv": "hLUF861x7+ud+uvX",
+      "salt": "y+dDfpwOvg8yBIZIg50o2Q=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "3°",
+          "n": "4°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 4°C",
-          "b": "Low 0°C, gusts to 19 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 6°C",
+          "b": "Low 3°C, gusts to 31 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "utq6uiUDJGSOQ0J6IbXJAd+QB1qhjh5HRvqYlQkrYPRJ0F8PDi9nu9uTDPn/d9CITbiBhwO8NmgQOPio67HxSd3qECGbg1ReEHuFquKXbDSERUNP3A9rKARBwtl14SF8eJmKtLCGA+SF4q3e0usDP2lxL7LZpce3KbcM",
-      "iv": "ClfCjok2yTzNfoeR",
-      "salt": "iBouWZ5gsVMbXvU9tczFiQ=="
+      "ciphertext": "ZMeL9G9dSjmcbQPxVFjbH5WXRwxbdUAXGvE99fsHSN8tDYXcLFqjIGBNRqVaVvkyIJJGVnD8CMZfYXEsmHV7gW1wCCd6jdOvA/vg+GQK1x6POEbGkqmHNO7px4tEDDSTnf04qR7bbZigi1DJY2a6mPuBs1F/BCcq5XHi",
+      "iv": "833rNcTItm+awjmC",
+      "salt": "GTWRM6y5Z2eKMQqH/PrqTQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "vZvPG+ZQMkdj0gw53Qz8Shsp8WynNbuHiBdIMwFE3Eg1GuBBIduNmhnoKl6z8pIRpEAePmpComlXmsv2LGB9Wk0NEzRtRe38WJdwSYXYjEa22HWNrfrL8wEJQbfXhkgc6PU4O4q+02jPr4ObL9OYH9aZ+W0Ekse806H2Rhd3rBSbhIIhM02Llfh8IXqncPN1eA6kCIvKr435GWMPhC93IfMCVNu9wc80Jo2DiIO+FI3CPYCjBZpurgWMiAKWFmfwmhyexuELTXeazGXtyABEU1fzap7pb3KF1KgOdxbPj46y8pKFGvSujy0wWieGTK8ZspvxyZme",
-      "iv": "aJSmMyX3SI6TOLDy",
-      "salt": "fqM5T2TXdSeND8BJYRy9lQ=="
+      "ciphertext": "TPCXjJASGmN5NJpglyhj7dw9atvZciHnzmsHnJLCOoIa9OtYghzGuzK1HKfncZnvwOv3tsGa0oqKd+fvAxS7sapIxBhseah5lZ8buIFZ7QPhJ4zl7cNsIW+0VFh2kvQJlc4SWQ1dSnvvDuPX9zZVrNc3EfqtJhKLBn5/6BSpGmi6uNyDqS7frAwRPua9tt/z673Oq6jl176hiZKdDKNDvyUnUpbdD7VedM8KT+JfHi2JaAE2nY0EKNCkrPyB9Xl8XeXhyGkrwhOfvPyfplPqRJkvd5Hk0K/2mmLyxM1hSChHhQhpM+5ZTK49Ijom8xlkbqqTpMBM",
+      "iv": "EyM1nUg2MbidS8sY",
+      "salt": "Ffioh0P/QVYsObZpsuAMzg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "wiy3HXPQVXZgJ130xq4gsA4iVv462VuVQKz9+X+tLvFjEirQ/29mDO7JYzBEyQQP/USgJfXDeDMnkGMZ3M/BubrBvlLDXYjXdZr/Ep4T0kquegqtls3kLnyTwjF3cAH/zfQdLJSKE7aAIXSdtuS8+kLrS+4U4L3iYZpqGScvCQqLNdcvEpsBTPWQqvmevPrVpHOELUefVLleyxrz",
-      "iv": "fuFyyShKE8vkhF9I",
-      "salt": "Ryh+1ZJpUXobFnBnkHDmdQ=="
+      "ciphertext": "GcKdW0fkz7UVhl+tKhg7BuOZt31FDxEahcISRLY57mTxXYWmms/cSqPEoa/PnFAolWLk4bujZTTl5iF28aC+ljPfr9UuIjeX+Mn87iSa2kY00E7/yEvS5jspZnS0E0RGZQiPSDmAk/ppbPMOZsutGN9gCB/BmNw8hOxkQpW0BS9qfHqdfRtVBD4MGwaTjJWyqNzHShjsGW/2Q5nJ",
+      "iv": "zjS/CTE73Hdd6NVZ",
+      "salt": "3+DcxxY5G5BjT1gKpx5Nyg=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -221,23 +221,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "klar",
-          "b": "<span class=\"jt\" data-g=\"lang_klar\">klar</span> — clear",
+          "t": "die Klassenarbeit",
+          "b": "<span class=\"jt\" data-g=\"lang_dieklassenarbeit\">die Klassenarbeit</span> — the class work <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "klären",
-          "b": "<span class=\"jt\" data-g=\"lang_klären\">klären</span> — clarify <span class=\"gram\">(klärt · klärte · hat geklärt)</span>",
+          "t": "das Klavier",
+          "b": "<span class=\"jt\" data-g=\"lang_dasklavier\">das Klavier</span> — the piano <span class=\"gram\">(plural: -e)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "klasse",
-          "b": "<span class=\"jt\" data-g=\"lang_klasse\">klasse</span> — class",
+          "t": "kleben",
+          "b": "<span class=\"jt\" data-g=\"lang_kleben\">kleben</span> — stick <span class=\"gram\">(klebt · klebte · hat geklebt)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "die Klasse",
-          "b": "<span class=\"jt\" data-g=\"lang_dieklasse\">die Klasse</span> — the class <span class=\"gram\">(plural: -n)</span>",
+          "t": "das Kleid",
+          "b": "<span class=\"jt\" data-g=\"lang_daskleid\">das Kleid</span> — the dress <span class=\"gram\">(plural: -er)</span>",
           "src": "Goethe B1 · p.55"
         }
       ]
