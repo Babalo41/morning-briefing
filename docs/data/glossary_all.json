@@ -2846,5 +2846,37 @@
     "lang": "de-DE",
     "d": "The dress",
     "w": "“Ich habe mir ein neues Kleid gekauft.”"
+  },
+  "lang_diekleidung": {
+    "t": "die Kleidung",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The clothing",
+    "w": "“Hier brauchen Sie auch im Sommer warme Kleidung.”"
+  },
+  "lang_klein": {
+    "t": "klein",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Small",
+    "w": "“Unsere Wohnung ist klein.”"
+  },
+  "lang_klettern": {
+    "t": "klettern",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Climb",
+    "w": "“Die Kinder sind auf den Baum geklettert.”"
+  },
+  "lang_klicken": {
+    "t": "klicken",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Click",
+    "w": "“Wenn du die Datei öffnen willst, musst du mit der Maus zweimal klicken.”"
   }
 }
