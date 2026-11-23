@@ -2878,5 +2878,37 @@
     "lang": "de-DE",
     "d": "Click",
     "w": "“Wenn du die Datei öffnen willst, musst du mit der Maus zweimal klicken.”"
+  },
+  "lang_derklick": {
+    "t": "der Klick",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The click",
+    "w": "“Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste.”"
+  },
+  "lang_dasklima": {
+    "t": "das Klima",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The climate",
+    "w": "“Alle sagen, dass sich das Klima ändert.”"
+  },
+  "lang_dieklimaanlage": {
+    "t": "die Klimaanlage",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The air conditioning",
+    "w": "“Im Sommer brauchen wir eine Klimaanlage.”"
+  },
+  "lang_klingeln": {
+    "t": "klingeln",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Ring",
+    "w": "“Ich glaube, es hat an der Tür geklingelt.”"
   }
 }
