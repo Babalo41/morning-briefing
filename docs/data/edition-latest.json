@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-23",
-  "day": "Mon",
-  "dnum": "23",
+  "id": "2026-11-24",
+  "day": "Tue",
+  "dnum": "24",
   "mon": "Nov",
-  "date": "Monday 23 November 2026",
-  "headline": "Briefing refreshed 16:43 Berlin time",
-  "stand": "Automatically rebuilt at 16:43 — 12 sections tracked.",
+  "date": "Tuesday 24 November 2026",
+  "headline": "Briefing refreshed 19:43 Berlin time",
+  "stand": "Automatically rebuilt at 19:43 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "qNZ/FVDHIDSqNN/Ve1v6Snj6r+8ukX/QtsBXk/WHXAvK09TjSgBWpxjA6/wpo4hkG6meKhIImwjwX4kcgxhDqVWb0bvKbL2NAMpxbIx8/Se4BA75LsrZFGCK06SgvaPtjZqP/sSfrjWEIM6Qw6RpcuKps+gThw9ORttnrEmr91DTq2YayKYd",
-      "iv": "c+x8j81Xz3INNAcW",
-      "salt": "zm49pBbJIEan5RqXcQDL6A=="
+      "ciphertext": "0ro6oYy/564+xN2bOysQdh2KFAhGo+T2ziOVHu9FbWBk4anaY7qGwF+eHAgU76RALx3jklcx5W5BSCupvNxHWVNhWQzeaRmQick2aF2TCa9DCmAeDVHI6odJXr6keEd+bC2kdG8owrWgW2zyykV7mlhmKHiJPUrGGMdhLMj+CD38/VYur58I",
+      "iv": "rOfoAsewidLKJ0nN",
+      "salt": "OGcWhD3Gre78VTKikYBYLQ=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "4°",
+          "n": "-2°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: rain showers, high 5°C",
-          "b": "Low 0°C, gusts to 24 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 0°C",
+          "b": "Low -4°C, gusts to 16 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "Ox4fgv+0jbqkuUUWad4O2spph1wiK6SIkfk3jCcg83+pTk7SI7N91p//I20ARr654EAkarWAEmEOVddjQu83tQq3/p68E7FMsmIcXEnJhVa8WP+ycd12qiXdfPK3UHNoziK8A1XWI4G+vNS4ERUiPafKLuKQK1X994vp",
-      "iv": "JTBRSh+Et+WAcziA",
-      "salt": "CakXTODMQQekS19DEIltXA=="
+      "ciphertext": "38opvBTHP6sDOmEadTFFBhDLJPcEOu/Id49TbpeoSsfIIUUNIHnGqMQdclFGsNwyNAxBvSpQ/5BqGnbBSAant1LF0o9j0xW9lRCnndAUZFLYVZKhNweLzJZms+FBvFtZVwYgfAWedkLZXoCbSTeYX5lrbMpwLWv/F+x7",
+      "iv": "CPGQGgTaG3QbUAVh",
+      "salt": "O7xvt1p6zkbyqLPXtswNUQ=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "HxpVwFI6G0VpXeYh4etsuhJ7jSgbSK6JJsSiZOmxvyZ6YQmieCSs2E01wuhmRfPY/HSIPv0B7kc+U/uhMix6rBvxN0LVUSMKxEhW1DPV+ytQ4P+khF/bM4jw1tDpXoQKFjLkKqz/uSfQLjBnzJys6Ix57KEF4EiUv8VWFfYNKtTAFLoD++GIcjqfEGmzzLvpV+5oBmjj8a5UILLuJLPX4a2l2mNQYMu7vHCnX4FljMHaU/wfEKei4D3y+pFsNZp/Z/nEmpd9OsXge0pidM55/OS2jhpTQkROPzJakMaLuVX3SeDCYhmnTJdFPDAarPuey9kc6DC5",
-      "iv": "eFmktnyhER2Sgnya",
-      "salt": "equJRYecwhoG0BlgRTkWgg=="
+      "ciphertext": "OEcovMkfO/E+eZyfY9qyP7kts2m0/fU17rYd1URwz+o4SdmFD0nZ5QImEcPgwq0Tw9OBXtbLr8QxoITnODVHZFBPQTjtEmSRVTCSSLREVv7zhEAmDChIXVQbSqsYdsz76KSo29PAmHwbFyaaeuSpqii/AnPQvjx5Mjm3UUdMgY9zfIqovgSGgMfETf0w9DtuYwN2x5afNDPZU4nJXXRAAHSou2EVnWCSib0ApBGdj9eEgnLJ0IHoLnnAQ3KFarsUE/bNXmohiZcZhcG7rQS/qQTYqVY2hnO5WhTrj9wKXn8kPTWuU+acVtBfcxjCDZY1p3toyMV7",
+      "iv": "Qpezn23Olfr1gkZ5",
+      "salt": "GB3x5tx9HXgl1xp6qIMXeQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "bNOp9/xBrASRXKjK/r6njCDDbd//SUr0NOJTeme9XMKltP6S8BBB+IUIf3f6o2zLb7927O07p6oN3MV2vmY6W3l9gK5oa1Aq2BZH/oBHMj610Uv/p7GRT+lH4eEtxSSSf+SmpGHTzGvt2XuXcCR9Kj7CJLCExiIHCQlRwa6afvd9vXojvzRE4PJlND3scmassGi2tH/Ieg69PXCH",
-      "iv": "VFBp/qMhzhXOennf",
-      "salt": "kAkq9ZiBkFBoE7FNjxzG6g=="
+      "ciphertext": "7Xyedf+y9HagQ+IQerHdnd8Oytn+o8S3Xngp3c7iEikolcd0DVVQpuNyGTCfIHnQcVxx6o1vn6kOTjeamLnz45qRlPEB1r0Qzb47NFJtoDpBCaw/PhQnMrueoOf/WHyiZvy3fHOgzGrl4CWvXHNSgt+CywJtpFy74daofoJSxXlIZkqVDKDQfTanKvjIfqxnn2eG3ujC8pZ8ckvL",
+      "iv": "0GPLA1u/aSMG+UC9",
+      "salt": "aCfQvyk9tOK8dnmZuhS5rw=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -163,10 +163,26 @@
       "tags_section": "near_home",
       "items": [
         {
-          "t": "20 November in Bremen - Workers' Liberty",
-          "b": "20 November in Bremen  Workers' Liberty",
+          "t": "Watch Werder Bremen vs Borussia Mönchengladbach - Fubo",
+          "b": "Watch Werder Bremen vs Borussia Mönchengladbach  Fubo",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EVGFYLUFpajhvTk5uQndnWkI0SkducUJDQnBleHUxM2o1cERNb2llZDBIT1FhdVl2UWwzZ0FVLWFyc19xU19WTFFwWGZkWFBwNVdkWWJiby1qb05aVXZYMEQ5RUlyd09XMFFWTnJjbw?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GX0U1YmZldzl5eWRBOHdhRHlDZlVKLXc2azYxUmlqOUk0bjlLSUZLSEpNQzh4b3hCZVBqT2M4UkRXWTNRX29ycHRwWmZWMGFLNDFfSkVuNUh1SlpBM2UwNlRibGhrM1dIb3owSXVyOA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "FEATURE | Surprise package Werder Bremen continue rise after Nordderby victory - Yahoo Sports",
+          "b": "FEATURE | Surprise package Werder Bremen continue rise after Nordderby victory  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0dVNjNjb2IwT2dzMmp4ZHRTZ3VQZUt5TWc5cHhLOVl5WER1YkxELW5HSWlrMFJZaHlJSnc1OHdOODRobmRRZlJmSHRQQUlaRElXaFhrSDBMQjhOVHptVlRwcnFwWnN5Rm1ZWm5NM2hNSUtrN3FyV01aSGVaWVlOODFEcDQyS1hyUFZmRWhXcmg?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -187,10 +203,10 @@
           "rel": "home"
         },
         {
-          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "t": "Fuellkrug scores again as Bremen hammer Hamburg - Free Malaysia Today",
+          "b": "Fuellkrug scores again as Bremen hammer Hamburg  Free Malaysia Today",
           "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FvMm1aOTZCNGI0MW5hLTdyTzZoRDRUMWI3alB2b0N5QkRPbmh4bGxIUVl4eEJpLWpoc1FYX0pKWERLUk1wQ3ZuZUZLWk1LMUl4SFo4QjVPdC1yV1ByMnd4andncWZkX0pCU1U2WmNFY0xyNVpicHZrNGdQNDdHYkRmYllCZF9xQ2I5QlNWbDhJTzV5TDZ3aW9QaWZzTzBZeE5tWGU1Y3VHU0dU?oc=5",
           "tag": "Bremen",
           "rel": "home"
         },
@@ -217,10 +233,9 @@
       "h": "World & Knowledge",
       "items": [
         {
-          "t": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-          "b": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-          "src": "BBC News",
-          "u": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
         }
       ],
       "feed_section": "world_and_knowledge"
@@ -229,23 +244,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "der Klick",
-          "b": "<span class=\"jt\" data-g=\"lang_derklick\">der Klick</span> — the click",
+          "t": "die Klingel",
+          "b": "<span class=\"jt\" data-g=\"lang_dieklingel\">die Klingel</span> — the bell <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "das Klima",
-          "b": "<span class=\"jt\" data-g=\"lang_dasklima\">das Klima</span> — the climate",
+          "t": "klingen",
+          "b": "<span class=\"jt\" data-g=\"lang_klingen\">klingen</span> — sound <span class=\"gram\">(klingt · klang · hat geklungen)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "die Klimaanlage",
-          "b": "<span class=\"jt\" data-g=\"lang_dieklimaanlage\">die Klimaanlage</span> — the air conditioning <span class=\"gram\">(plural: -n)</span>",
+          "t": "die Klinik",
+          "b": "<span class=\"jt\" data-g=\"lang_dieklinik\">die Klinik</span> — the clinic <span class=\"gram\">(plural: -en)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "klingeln",
-          "b": "<span class=\"jt\" data-g=\"lang_klingeln\">klingeln</span> — ring <span class=\"gram\">(klingelt · klingelte · hat geklingelt)</span>",
+          "t": "klopfen",
+          "b": "<span class=\"jt\" data-g=\"lang_klopfen\">klopfen</span> — knock <span class=\"gram\">(klopft · klopfte · hat geklopft)</span>",
           "src": "Goethe B1 · p.55"
         }
       ]

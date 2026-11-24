@@ -2910,5 +2910,37 @@
     "lang": "de-DE",
     "d": "Ring",
     "w": "“Ich glaube, es hat an der Tür geklingelt.”"
+  },
+  "lang_dieklingel": {
+    "t": "die Klingel",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The bell",
+    "w": "“Drück bitte auf die Klingel!”"
+  },
+  "lang_klingen": {
+    "t": "klingen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Sound",
+    "w": "“Wollen wir einkaufen gehen und danach zusammen kochen? – Ja, das klingt gut.”"
+  },
+  "lang_dieklinik": {
+    "t": "die Klinik",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The clinic",
+    "w": "“Ich muss in die Klinik, um meinen kranken Onkel zu besuchen.”"
+  },
+  "lang_klopfen": {
+    "t": "klopfen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Knock",
+    "w": "“Da klopft jemand ans Fenster.”"
   }
 }
