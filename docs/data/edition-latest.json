@@ -1,19 +1,19 @@
 {
-  "id": "2026-11-24",
-  "day": "Tue",
-  "dnum": "24",
+  "id": "2026-11-25",
+  "day": "Wed",
+  "dnum": "25",
   "mon": "Nov",
-  "date": "Tuesday 24 November 2026",
-  "headline": "Briefing refreshed 19:43 Berlin time",
-  "stand": "Automatically rebuilt at 19:43 — 12 sections tracked.",
+  "date": "Wednesday 25 November 2026",
+  "headline": "Briefing refreshed 07:23 Berlin time",
+  "stand": "Automatically rebuilt at 07:23 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "0ro6oYy/564+xN2bOysQdh2KFAhGo+T2ziOVHu9FbWBk4anaY7qGwF+eHAgU76RALx3jklcx5W5BSCupvNxHWVNhWQzeaRmQick2aF2TCa9DCmAeDVHI6odJXr6keEd+bC2kdG8owrWgW2zyykV7mlhmKHiJPUrGGMdhLMj+CD38/VYur58I",
-      "iv": "rOfoAsewidLKJ0nN",
-      "salt": "OGcWhD3Gre78VTKikYBYLQ=="
+      "ciphertext": "DpUlt9H6JPs5l9PTxloSYsfXNEz++5F0aACxv2+TCbebdmUm9N9rwuhbC0Sj9Q0nVBXyA6DVSPwHy7yWvz9s1N5BHxUNore5CxyuHL7kEXhHH3p44NJA0qbi98agO1eyXim+pV/5j7Mrkwv1UBbR+U42g1HXbrF4LNai7Caa/5i/rbjB9AoA",
+      "iv": "j9E6XAQ2Qw5a/gAJ",
+      "salt": "LJKmfp9/tA9hp34XazF5Gg=="
     },
     {
       "h": "Weather",
@@ -25,8 +25,8 @@
       ],
       "items": [
         {
-          "t": "Bremen: overcast, high 0°C",
-          "b": "Low -4°C, gusts to 16 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 1°C",
+          "b": "Low -4°C, gusts to 30 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "38opvBTHP6sDOmEadTFFBhDLJPcEOu/Id49TbpeoSsfIIUUNIHnGqMQdclFGsNwyNAxBvSpQ/5BqGnbBSAant1LF0o9j0xW9lRCnndAUZFLYVZKhNweLzJZms+FBvFtZVwYgfAWedkLZXoCbSTeYX5lrbMpwLWv/F+x7",
-      "iv": "CPGQGgTaG3QbUAVh",
-      "salt": "O7xvt1p6zkbyqLPXtswNUQ=="
+      "ciphertext": "+5lwfQ88q+nd5ItwM3BgwV1L0qfyaRriYl8nPz5zXXL/+/yfU0FPZYDPS0WjBWCPBs/GeF5gMPdwGyLg+gs29TMdVxzXGrksQsUzZDbWzin7vl4iHVkIdaUggMfdFzjRkdjCYKrZ56pWzoZbUNkkIVOpvrXlaDMpM3Qe",
+      "iv": "QBAxEXiaqsiL+JOY",
+      "salt": "8CpuHhFiJn/tMnX9vqTy0Q=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "OEcovMkfO/E+eZyfY9qyP7kts2m0/fU17rYd1URwz+o4SdmFD0nZ5QImEcPgwq0Tw9OBXtbLr8QxoITnODVHZFBPQTjtEmSRVTCSSLREVv7zhEAmDChIXVQbSqsYdsz76KSo29PAmHwbFyaaeuSpqii/AnPQvjx5Mjm3UUdMgY9zfIqovgSGgMfETf0w9DtuYwN2x5afNDPZU4nJXXRAAHSou2EVnWCSib0ApBGdj9eEgnLJ0IHoLnnAQ3KFarsUE/bNXmohiZcZhcG7rQS/qQTYqVY2hnO5WhTrj9wKXn8kPTWuU+acVtBfcxjCDZY1p3toyMV7",
-      "iv": "Qpezn23Olfr1gkZ5",
-      "salt": "GB3x5tx9HXgl1xp6qIMXeQ=="
+      "ciphertext": "1yrjuEtC/QngfI1R48s05vjapL6D1SUYQjaAhq77PO6uHWBmcY14e7sF/wkcrc2G+R6IegnMv3CB9vpItTyVtJ/9LU2x87ZYiezfJAEKQh+05IYF4xQ5c3Bd+A4O5adx9lhAZ6zBQtB3iK9LBMnqXWlUu4pgTt+2Bo5tdnsPwB2rsyO5XPFBtY2/bKURUBsEasci4aklOseoRNXaq+hBtKa+2ORZd0PinNGaqcimKItEyX6yG3vm/WIvUpPyqIrUGYcTwK0L4BIRpVOrlQ+GNnD4jeAcnMg/BhM2nB/+L0bvwtQ8Ba6CzDoQEQw1F2a9nSoOXe6f",
+      "iv": "/sYWrvYC9E+wEKkB",
+      "salt": "+TKN/NYj7umZkMYFQO+5RQ=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "7Xyedf+y9HagQ+IQerHdnd8Oytn+o8S3Xngp3c7iEikolcd0DVVQpuNyGTCfIHnQcVxx6o1vn6kOTjeamLnz45qRlPEB1r0Qzb47NFJtoDpBCaw/PhQnMrueoOf/WHyiZvy3fHOgzGrl4CWvXHNSgt+CywJtpFy74daofoJSxXlIZkqVDKDQfTanKvjIfqxnn2eG3ujC8pZ8ckvL",
-      "iv": "0GPLA1u/aSMG+UC9",
-      "salt": "aCfQvyk9tOK8dnmZuhS5rw=="
+      "ciphertext": "yJPxaoUdSdrJ/cb5N+kYvvjkmIbroqc/lipdjpYacjDcUE5bw8PCl7w48lwvd0voha81/UCwWGkulG5WAUwSe25sF7zwlZdND323YMxmwpU4ehUciReuzZiBaxDfqTIZMXvAE3s65u/4E7fZefyEOY1gCkN/zzbQ3oxK66zo1N0Kyf3MLMPVaWsaoldmr3CLo7yAmF91GZGR7ysE",
+      "iv": "KepYjA4WlU8JKqvl",
+      "salt": "sXL68lzwKVKpOR2Z4bP+tA=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -203,14 +203,6 @@
           "rel": "home"
         },
         {
-          "t": "Fuellkrug scores again as Bremen hammer Hamburg - Free Malaysia Today",
-          "b": "Fuellkrug scores again as Bremen hammer Hamburg  Free Malaysia Today",
-          "src": "\"Bremen, Germany\" - Google News",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FvMm1aOTZCNGI0MW5hLTdyTzZoRDRUMWI3alB2b0N5QkRPbmh4bGxIUVl4eEJpLWpoc1FYX0pKWERLUk1wQ3ZuZUZLWk1LMUl4SFo4QjVPdC1yV1ByMnd4andncWZkX0pCU1U2WmNFY0xyNVpicHZrNGdQNDdHYkRmYllCZF9xQ2I5QlNWbDhJTzV5TDZ3aW9QaWZzTzBZeE5tWGU1Y3VHU0dU?oc=5",
-          "tag": "Bremen",
-          "rel": "home"
-        },
-        {
           "t": "Tracking: Bhavnagar",
           "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
           "src": "system",
@@ -225,6 +217,14 @@
           "u": null,
           "tag": "Surat",
           "rel": "interest"
+        },
+        {
+          "t": "Fuellkrug scores again as Bremen hammer Hamburg - Free Malaysia Today",
+          "b": "Fuellkrug scores again as Bremen hammer Hamburg  Free Malaysia Today",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FvMm1aOTZCNGI0MW5hLTdyTzZoRDRUMWI3alB2b0N5QkRPbmh4bGxIUVl4eEJpLWpoc1FYX0pKWERLUk1wQ3ZuZUZLWk1LMUl4SFo4QjVPdC1yV1ByMnd4andncWZkX0pCU1U2WmNFY0xyNVpicHZrNGdQNDdHYkRmYllCZF9xQ2I5QlNWbDhJTzV5TDZ3aW9QaWZzTzBZeE5tWGU1Y3VHU0dU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
         }
       ],
       "chart": "near_home_flow"
@@ -244,23 +244,23 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "die Klingel",
-          "b": "<span class=\"jt\" data-g=\"lang_dieklingel\">die Klingel</span> — the bell <span class=\"gram\">(plural: -n)</span>",
+          "t": "der Kloß",
+          "b": "<span class=\"jt\" data-g=\"lang_derkloß\">der Kloß</span> — the dumpling <span class=\"gram\">(plural: ¨-e)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "klingen",
-          "b": "<span class=\"jt\" data-g=\"lang_klingen\">klingen</span> — sound <span class=\"gram\">(klingt · klang · hat geklungen)</span>",
+          "t": "klug",
+          "b": "<span class=\"jt\" data-g=\"lang_klug\">klug</span> — clever",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "die Klinik",
-          "b": "<span class=\"jt\" data-g=\"lang_dieklinik\">die Klinik</span> — the clinic <span class=\"gram\">(plural: -en)</span>",
+          "t": "knapp",
+          "b": "<span class=\"jt\" data-g=\"lang_knapp\">knapp</span> — scarce",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "klopfen",
-          "b": "<span class=\"jt\" data-g=\"lang_klopfen\">klopfen</span> — knock <span class=\"gram\">(klopft · klopfte · hat geklopft)</span>",
+          "t": "die Kneipe",
+          "b": "<span class=\"jt\" data-g=\"lang_diekneipe\">die Kneipe</span> — the pub <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.55"
         }
       ]

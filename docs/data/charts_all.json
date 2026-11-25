@@ -1,17 +1,17 @@
 {
   "wxtemp": {
     "kind": "line",
-    "title": "2° is the high point this week in Bremen",
+    "title": "1° is the high point this week in Bremen",
     "sub": "Bremen, daily maximum temperature, °C",
     "source": "Open-Meteo",
     "xlabels": [
-      "11-24",
       "11-25",
       "11-26",
       "11-27",
       "11-28",
       "11-29",
-      "11-30"
+      "11-30",
+      "12-01"
     ],
     "yticks": [
       0,
@@ -27,31 +27,31 @@
         "pts": [
           [
             0,
-            0.5
-          ],
-          [
-            1,
             0.8
           ],
           [
+            1,
+            1.0
+          ],
+          [
             2,
-            1.6
+            0.5
           ],
           [
             3,
-            0.7
+            -0.9
           ],
           [
             4,
-            0.0
+            0.8
           ],
           [
             5,
-            -1.5
+            0.7
           ],
           [
             6,
-            -0.2
+            -0.1
           ]
         ]
       }
@@ -59,18 +59,11 @@
   },
   "wxrain": {
     "kind": "bar",
-    "title": "Rain chances peak at 8% this week in Bremen",
+    "title": "Rain chances peak at 11% this week in Bremen",
     "sub": "Bremen, chance of precipitation, %",
     "source": "Open-Meteo",
     "catW": 76,
     "rows": [
-      {
-        "k": "11-24",
-        "v": 0,
-        "lab": "0%",
-        "hero": false,
-        "tip": "0°C, Rime fog"
-      },
       {
         "k": "11-25",
         "v": 0,
@@ -83,35 +76,42 @@
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "2°C, Overcast"
+        "tip": "1°C, Mainly clear"
       },
       {
         "k": "11-27",
         "v": 0,
         "lab": "0%",
         "hero": false,
-        "tip": "1°C, Overcast"
-      },
-      {
-        "k": "11-28",
-        "v": 0,
-        "lab": "0%",
-        "hero": false,
         "tip": "0°C, Overcast"
       },
       {
-        "k": "11-29",
-        "v": 7,
-        "lab": "7%",
+        "k": "11-28",
+        "v": 2,
+        "lab": "2%",
         "hero": false,
-        "tip": "-2°C, Overcast"
+        "tip": "-1°C, Overcast"
+      },
+      {
+        "k": "11-29",
+        "v": 11,
+        "lab": "11%",
+        "hero": true,
+        "tip": "1°C, Light snow"
       },
       {
         "k": "11-30",
-        "v": 8,
-        "lab": "8%",
-        "hero": true,
-        "tip": "0°C, Clear sky"
+        "v": 9,
+        "lab": "9%",
+        "hero": false,
+        "tip": "1°C, Light snow"
+      },
+      {
+        "k": "12-01",
+        "v": 4,
+        "lab": "4%",
+        "hero": false,
+        "tip": "0°C, Overcast"
       }
     ]
   },

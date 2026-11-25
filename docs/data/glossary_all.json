@@ -2942,5 +2942,37 @@
     "lang": "de-DE",
     "d": "Knock",
     "w": "“Da klopft jemand ans Fenster.”"
+  },
+  "lang_derkloß": {
+    "t": "der Kloß",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The dumpling",
+    "w": "“Möchten Sie zum Fleisch Kartoffeln oder Klöße? – Klöße, bitte.”"
+  },
+  "lang_klug": {
+    "t": "klug",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Clever",
+    "w": "“Ich halte sie für klug.”"
+  },
+  "lang_knapp": {
+    "t": "knapp",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Scarce",
+    "w": "“Mach schnell. Die Zeit ist knapp.”"
+  },
+  "lang_diekneipe": {
+    "t": "die Kneipe",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The pub",
+    "w": "“Gehen wir noch in eine Kneipe ein Bier trinken?”"
   }
 }

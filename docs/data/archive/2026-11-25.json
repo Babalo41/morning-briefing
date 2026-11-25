@@ -1,0 +1,269 @@
+{
+  "id": "2026-11-25",
+  "day": "Wed",
+  "dnum": "25",
+  "mon": "Nov",
+  "date": "Wednesday 25 November 2026",
+  "headline": "Briefing refreshed 07:23 Berlin time",
+  "stand": "Automatically rebuilt at 07:23 — 12 sections tracked.",
+  "blocks": [
+    {
+      "h": "Needs Attention",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "DpUlt9H6JPs5l9PTxloSYsfXNEz++5F0aACxv2+TCbebdmUm9N9rwuhbC0Sj9Q0nVBXyA6DVSPwHy7yWvz9s1N5BHxUNore5CxyuHL7kEXhHH3p44NJA0qbi98agO1eyXim+pV/5j7Mrkwv1UBbR+U42g1HXbrF4LNai7Caa/5i/rbjB9AoA",
+      "iv": "j9E6XAQ2Qw5a/gAJ",
+      "salt": "LJKmfp9/tA9hp34XazF5Gg=="
+    },
+    {
+      "h": "Weather",
+      "stats": [
+        {
+          "n": "-2°",
+          "l": "right now"
+        }
+      ],
+      "items": [
+        {
+          "t": "Bremen: overcast, high 1°C",
+          "b": "Low -4°C, gusts to 30 km/h. 7-day outlook below.",
+          "src": "Open-Meteo"
+        }
+      ],
+      "chart": [
+        "wxtemp",
+        "wxrain"
+      ]
+    },
+    {
+      "h": "Week & Month Ahead",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "+5lwfQ88q+nd5ItwM3BgwV1L0qfyaRriYl8nPz5zXXL/+/yfU0FPZYDPS0WjBWCPBs/GeF5gMPdwGyLg+gs29TMdVxzXGrksQsUzZDbWzin7vl4iHVkIdaUggMfdFzjRkdjCYKrZ56pWzoZbUNkkIVOpvrXlaDMpM3Qe",
+      "iv": "QBAxEXiaqsiL+JOY",
+      "salt": "8CpuHhFiJn/tMnX9vqTy0Q=="
+    },
+    {
+      "h": "Diabetes & Supplies",
+      "count": 2,
+      "encrypted": true,
+      "ciphertext": "1yrjuEtC/QngfI1R48s05vjapL6D1SUYQjaAhq77PO6uHWBmcY14e7sF/wkcrc2G+R6IegnMv3CB9vpItTyVtJ/9LU2x87ZYiezfJAEKQh+05IYF4xQ5c3Bd+A4O5adx9lhAZ6zBQtB3iK9LBMnqXWlUu4pgTt+2Bo5tdnsPwB2rsyO5XPFBtY2/bKURUBsEasci4aklOseoRNXaq+hBtKa+2ORZd0PinNGaqcimKItEyX6yG3vm/WIvUpPyqIrUGYcTwK0L4BIRpVOrlQ+GNnD4jeAcnMg/BhM2nB/+L0bvwtQ8Ba6CzDoQEQw1F2a9nSoOXe6f",
+      "iv": "/sYWrvYC9E+wEKkB",
+      "salt": "+TKN/NYj7umZkMYFQO+5RQ=="
+    },
+    {
+      "h": "Spending",
+      "count": 1,
+      "encrypted": true,
+      "ciphertext": "yJPxaoUdSdrJ/cb5N+kYvvjkmIbroqc/lipdjpYacjDcUE5bw8PCl7w48lwvd0voha81/UCwWGkulG5WAUwSe25sF7zwlZdND323YMxmwpU4ehUciReuzZiBaxDfqTIZMXvAE3s65u/4E7fZefyEOY1gCkN/zzbQ3oxK66zo1N0Kyf3MLMPVaWsaoldmr3CLo7yAmF91GZGR7ysE",
+      "iv": "KepYjA4WlU8JKqvl",
+      "salt": "sXL68lzwKVKpOR2Z4bP+tA=="
+    },
+    {
+      "h": "ISTQB & Software Testing",
+      "items": [
+        {
+          "t": "📌 Istqb® Certification Portfolio",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "📌 Istqb® Certified Tester",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+          "src": "insight",
+          "u": null
+        },
+        {
+          "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+          "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+        },
+        {
+          "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+          "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+          "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+          "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+        },
+        {
+          "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+          "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+        },
+        {
+          "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+        },
+        {
+          "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+          "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+        },
+        {
+          "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+          "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+          "src": "International Software Testing Qualifications Board",
+          "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+        }
+      ],
+      "feed_section": "profession_field"
+    },
+    {
+      "h": "Defense Electronics & Secure Networking",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "work_industry"
+    },
+    {
+      "h": "Network & Systems Engineering",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "network_systems"
+    },
+    {
+      "h": "Jira, Xray & Confluence",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "test_tooling"
+    },
+    {
+      "h": "Near Home",
+      "tags_section": "near_home",
+      "items": [
+        {
+          "t": "Watch Werder Bremen vs Borussia Mönchengladbach - Fubo",
+          "b": "Watch Werder Bremen vs Borussia Mönchengladbach  Fubo",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GX0U1YmZldzl5eWRBOHdhRHlDZlVKLXc2azYxUmlqOUk0bjlLSUZLSEpNQzh4b3hCZVBqT2M4UkRXWTNRX29ycHRwWmZWMGFLNDFfSkVuNUh1SlpBM2UwNlRibGhrM1dIb3owSXVyOA?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
+          "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "FEATURE | Surprise package Werder Bremen continue rise after Nordderby victory - Yahoo Sports",
+          "b": "FEATURE | Surprise package Werder Bremen continue rise after Nordderby victory  Yahoo Sports",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0dVNjNjb2IwT2dzMmp4ZHRTZ3VQZUt5TWc5cHhLOVl5WER1YkxELW5HSWlrMFJZaHlJSnc1OHdOODRobmRRZlJmSHRQQUlaRElXaFhrSDBMQjhOVHptVlRwcnFwWnN5Rm1ZWm5NM2hNSUtrN3FyV01aSGVaWVlOODFEcDQyS1hyUFZmRWhXcmg?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Werder Bremen stun HSV in fiery North German derby - TribalFootball",
+          "b": "Werder Bremen stun HSV in fiery North German derby  TribalFootball",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXlNRHZVbGkzY2c3NVI3WHVjdGFuYTNQMGtUZjZOcThYdFdDaF92Z1hwX01yNFV1ZG1TSDhYREhCVnMwV1hHM19kekFIWGRSY2kycURxRi1YYlNZSnZHOTVaRFBDTHZzMGFKZEhvLVFOVDFXZTJBT3h2RjgyUDMyUE5uUl90eXJwem12MXZKTnExMzFZWHU4dmNKSG1ieXhuenRxMWxfZWp4ODA3X0N3cjNXTEVEak9yekppNnpnbV9CTDU4?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Njinmah double powers Bremen to northern derby victory - 新华网",
+          "b": "Njinmah double powers Bremen to northern derby victory  新华网",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OTjVQNEg2bS1vLXBHbERRWjc3MXlaZzdPWDNHdmZYU2x5Y1hmSFhUU3hlUlY5MnJYOUpXYXFIUnhSNGlMQ0tVWGRkeGY3aWx2dC1nWllfbUpDTlNSaFlPT3p4UGk1WmUzN0t6MzJmWVlLcmZIb1NrQWxDOGQ?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        },
+        {
+          "t": "Tracking: Bhavnagar",
+          "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Bhavnagar",
+          "rel": "family"
+        },
+        {
+          "t": "Tracking: Surat",
+          "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+          "src": "system",
+          "u": null,
+          "tag": "Surat",
+          "rel": "interest"
+        },
+        {
+          "t": "Fuellkrug scores again as Bremen hammer Hamburg - Free Malaysia Today",
+          "b": "Fuellkrug scores again as Bremen hammer Hamburg  Free Malaysia Today",
+          "src": "\"Bremen, Germany\" - Google News",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FvMm1aOTZCNGI0MW5hLTdyTzZoRDRUMWI3alB2b0N5QkRPbmh4bGxIUVl4eEJpLWpoc1FYX0pKWERLUk1wQ3ZuZUZLWk1LMUl4SFo4QjVPdC1yV1ByMnd4andncWZkX0pCU1U2WmNFY0xyNVpicHZrNGdQNDdHYkRmYllCZF9xQ2I5QlNWbDhJTzV5TDZ3aW9QaWZzTzBZeE5tWGU1Y3VHU0dU?oc=5",
+          "tag": "Bremen",
+          "rel": "home"
+        }
+      ],
+      "chart": "near_home_flow"
+    },
+    {
+      "h": "World & Knowledge",
+      "items": [
+        {
+          "t": "No fresh items this run",
+          "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+          "src": "system"
+        }
+      ],
+      "feed_section": "world_and_knowledge"
+    },
+    {
+      "h": "Language Practice",
+      "items": [
+        {
+          "t": "der Kloß",
+          "b": "<span class=\"jt\" data-g=\"lang_derkloß\">der Kloß</span> — the dumpling <span class=\"gram\">(plural: ¨-e)</span>",
+          "src": "Goethe B1 · p.55"
+        },
+        {
+          "t": "klug",
+          "b": "<span class=\"jt\" data-g=\"lang_klug\">klug</span> — clever",
+          "src": "Goethe B1 · p.55"
+        },
+        {
+          "t": "knapp",
+          "b": "<span class=\"jt\" data-g=\"lang_knapp\">knapp</span> — scarce",
+          "src": "Goethe B1 · p.55"
+        },
+        {
+          "t": "die Kneipe",
+          "b": "<span class=\"jt\" data-g=\"lang_diekneipe\">die Kneipe</span> — the pub <span class=\"gram\">(plural: -n)</span>",
+          "src": "Goethe B1 · p.55"
+        }
+      ]
+    }
+  ]
+}
