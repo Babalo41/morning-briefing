@@ -2974,5 +2974,37 @@
     "lang": "de-DE",
     "d": "The pub",
     "w": "“Gehen wir noch in eine Kneipe ein Bier trinken?”"
+  },
+  "lang_kochen": {
+    "t": "kochen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Cook",
+    "w": "“Ich koche gern.”"
+  },
+  "lang_derkoch": {
+    "t": "der Koch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cook",
+    "w": "“Ein Freund von mir ist Koch in einem”"
+  },
+  "lang_dieköchin": {
+    "t": "die Köchin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The cook",
+    "w": "“teuren Restaurant.”"
+  },
+  "lang_derkoffer": {
+    "t": "der Koffer",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The suitcase",
+    "w": "“Ich habe den Koffer schon gepackt.”"
   }
 }

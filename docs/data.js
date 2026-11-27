@@ -1,6 +1,259 @@
 window.EDITION_DATA = {
-  "generated_at": "2026-11-25T07:23:06.297531+01:00",
+  "generated_at": "2026-11-27T19:36:09.043082+01:00",
   "editions": [
+    {
+      "id": "2026-11-27",
+      "day": "Fri",
+      "dnum": "27",
+      "mon": "Nov",
+      "date": "Friday 27 November 2026",
+      "headline": "Briefing refreshed 19:36 Berlin time",
+      "stand": "Automatically rebuilt at 19:36 — 12 sections tracked.",
+      "blocks": [
+        {
+          "h": "Needs Attention",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "T0OdbMSjxP0WHf7YJeXbEMGs4s+K/Ec+InOWLlWKCUFmbjlG1Sz8/dUSLJy21lD9KEJjBcDDXdx47A6BCEXE1AoY7Jsua5xj2ncWRwvDk2+1GbjfcF/ciSxvYPjzKTFVXYsmIww3hDzY8cB5NxObvesJDfVUIkH+p64PlcO0Y9CKeliquObN",
+          "iv": "lnYsQ+4qvXDfkMTR",
+          "salt": "GZk0u0DYUQX6Xhy/DpRHsA=="
+        },
+        {
+          "h": "Weather",
+          "stats": [
+            {
+              "n": "0°",
+              "l": "right now"
+            }
+          ],
+          "items": [
+            {
+              "t": "Bremen: mainly clear, high 2°C",
+              "b": "Low -2°C, gusts to 32 km/h. 7-day outlook below.",
+              "src": "Open-Meteo"
+            }
+          ],
+          "chart": [
+            "wxtemp",
+            "wxrain"
+          ]
+        },
+        {
+          "h": "Week & Month Ahead",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "z6IgvI8aMtY1EfnxB1zIKvpuNDKqW2kPLCyghoLd0c/W4rqMthvxW16J7xwBez7IyUlnT5pEmHlziQzsoX59pl2A9AAA8/mGKBXu1xc3zK1P/9LWyVbCQb55AYlA0Xh8oug/Ps2bec2AJb59JcJD/zK+jO1z65W48FpZ",
+          "iv": "eRbJmzvLuwCRBVun",
+          "salt": "bIljIUkin7nf+IaTYWkr0w=="
+        },
+        {
+          "h": "Diabetes & Supplies",
+          "count": 2,
+          "encrypted": true,
+          "ciphertext": "iU1YpPYktMIS67Yd9JDz/dojEhpg2ynbMDfN+KwE9A1lgRqLtDVImQ4OJxgpSvItERCtCBg5Y8vOUulDMwvqHgEplXJbCPfMJA6TKiuQA8Fls5vah6SqhffwKYTP9Xlv4zIoqTN1688eqoKLyXk3hv9fNGQp3/BAxRIoOyEAwP4tx50Vv2ra8QX/1K0UA2I0sr1s/crgfcrsWqt60p7j/Yg5MIT3G3YtuMK6v9TNl85WzR2/C8MIyWvt0yLg5fEgJQSeWTgaJxqaXBh9jNcRqN2wbuXyXV5yHnck42fNINO5xqhDUu5wzJNv8gROxY4CfRUbktZs",
+          "iv": "yhwwjpcM3bX9UM1a",
+          "salt": "ntfl0Ua7H+D3Wv+MdEVe3g=="
+        },
+        {
+          "h": "Spending",
+          "count": 1,
+          "encrypted": true,
+          "ciphertext": "XiHwH1+/WUihnL8lihepW+rufUjEV7diT+/XxUDs3/7lSSB4YwwXHueMT4zBHOKviVw46hrH+5Bnhd6A5jLZYFvLzZB4L6pFgcV9nKlTgVlPDaHcB5oGi66sT5gobmyQfnqQzq9pV/gSwflL7dJ5X8tsNNwCK9+vpRULvbiDX10mZdJPzPujWbl4R30GvN1dZmW4knt2yIL6cAi2",
+          "iv": "FSYIhDmWMuJXCP1z",
+          "salt": "ICGlw87dYUCksFRVQNi/Vg=="
+        },
+        {
+          "h": "ISTQB & Software Testing",
+          "items": [
+            {
+              "t": "📌 Istqb® Certification Portfolio",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance within the financial services domain.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "📌 Istqb® Certified Tester",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing.",
+              "src": "insight",
+              "u": null
+            },
+            {
+              "t": "ISTQB® Strengthens Its Global Certification Portfolio with Five New and Updated Certifications",
+              "b": "New and updated certifications in usability testing, digital accessibility testing, game testing, security testing, and expert-level test management reflect ISTQB®’s continued commitment to advancing the software testing profession. Brussels, 10 November 2026 – The International Software Testing Qua",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-strengthens-its-global-certification-portfolio-with-five-new-and-updated-certifications/"
+            },
+            {
+              "t": "ISTQB® Announces Retirement of Three Specialist Certifications as Part of Ongoing Portfolio Review",
+              "b": "ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-retirement-of-three-specialist-certifications-as-part-of-ongoing-portfolio-review/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
+              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
+              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
+            },
+            {
+              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
+              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
+            },
+            {
+              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
+            },
+            {
+              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
+              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
+            },
+            {
+              "t": "ISTQB® Announces Results of 2026 Executive Committee and Working Group Elections",
+              "b": "The International Software Testing Qualifications Board (ISTQB®) is pleased to announce the results of the Executive Committee, Working Group leadership, and Funnel Representative, held during the ISTQB® General Assembly in Mauritius on 17 April 2026. EXECUTIVE COMMITTEE ELECTION RESULTS ISTQB® conf",
+              "src": "International Software Testing Qualifications Board",
+              "u": "https://istqb.org/istqb-announces-results-of-2026-executive-committee-and-working-group-elections/"
+            }
+          ],
+          "feed_section": "profession_field"
+        },
+        {
+          "h": "Defense Electronics & Secure Networking",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "work_industry"
+        },
+        {
+          "h": "Network & Systems Engineering",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "network_systems"
+        },
+        {
+          "h": "Jira, Xray & Confluence",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "test_tooling"
+        },
+        {
+          "h": "Near Home",
+          "tags_section": "near_home",
+          "items": [
+            {
+              "t": "Hundreds of ArianeGroup Workers Strike in Bremen - European Spaceflight",
+              "b": "Hundreds of ArianeGroup Workers Strike in Bremen  European Spaceflight",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUp3NDZZZmlYMmhVSUtRd002cDBwZGs0RjZhRUZVd18zUlljcXdlVlhCZlRRRmk5ai12Vi1BNmVVMVZqXzRWQmFYTXh4akJZQXVaNk94VzVwMmVmR0U2dTM1aTctVWlHLW9wOWZ5bDNnbkVVbHlieXF5YjRmNFZJVEREVXk0b0l1?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "ANALYSIS | This is why Werder Bremen is No.1 in northern Germany - Yahoo Sports",
+              "b": "ANALYSIS | This is why Werder Bremen is No.1 in northern Germany  Yahoo Sports",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0Zkc3RHRWwydGVXWWd0SjJTbHM5NFRpaEhGanZxMk0yRnd0cmg5T2JyT28zbDlzdUNhd2dUdG04MXZMUjkzTVFjNXhjY3FkZVpmNk8yTnhmS0pPck9PRm82T2hVMHZFWmNZVUZWWlV1Tl9wOXBVQnAwSnR4WXJhRTZFNTEwcmM4SE9qOEln?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "BLG keeps Neustädter Hafen concession in Bremen - Heavy Lift & Project Forwarding International",
+              "b": "BLG keeps Neustädter Hafen concession in Bremen  Heavy Lift & Project Forwarding International",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlR4bVF2YUFUbHN5UU1qSVVWRjRwWF9uZ3pjMDBTRmNpbDh3X0FFQ3h3WUFBUHNlVEFHYlBhNFlveWdpNTFnWFdWUWRfU1dQclZKVkR1QnNLLUpjZEhuc19kN2tfRlR4cWhfb3VyY256eVVzSndNOGFCYlc5blhnMEoyenBtQ0xmQ3hqZmY0NHdHRXEybjFSaU9mM3Vzd0xvQXJpWnpIb0RHSERD?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Germany Bundesliga Soccer - Chronicle-Tribune",
+              "b": "Germany Bundesliga Soccer  Chronicle-Tribune",
+              "src": "\"Bremen, Germany\" - Google News",
+              "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVU9jTzBaMk51cldnQkZBbmtlWHJSVVE0X0FRTFBHdVpBUVVaT0ZrTGswLU9VVDJLN0RrRHA1TC0zMmpMc2RCa29NdnREb3pjZUN6SjRlOVNhaE1KUTJGRVBOaDNtLTNqSWd2Tmw0TF9LbHlReFVZRUVGTExwcWkyREg2X3VRVU5SUHpZX213RUduckhPRlZDRVZGTGo5dDVQNGNtdzBsT1Y4THJteWowM3lnaFMzcGtHRnNJ?oc=5",
+              "tag": "Bremen",
+              "rel": "home"
+            },
+            {
+              "t": "Tracking: Bhavnagar",
+              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Bhavnagar",
+              "rel": "family"
+            },
+            {
+              "t": "Tracking: Surat",
+              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
+              "src": "system",
+              "u": null,
+              "tag": "Surat",
+              "rel": "interest"
+            }
+          ],
+          "chart": "near_home_flow"
+        },
+        {
+          "h": "World & Knowledge",
+          "items": [
+            {
+              "t": "No fresh items this run",
+              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
+              "src": "system"
+            }
+          ],
+          "feed_section": "world_and_knowledge"
+        },
+        {
+          "h": "Language Practice",
+          "items": [
+            {
+              "t": "kochen",
+              "b": "<span class=\"jt\" data-g=\"lang_kochen\">kochen</span> — cook <span class=\"gram\">(kocht · kochte · hat gekocht)</span>",
+              "src": "Goethe B1 · p.55"
+            },
+            {
+              "t": "der Koch",
+              "b": "<span class=\"jt\" data-g=\"lang_derkoch\">der Koch</span> — the cook <span class=\"gram\">(plural: ¨-e)</span>",
+              "src": "Goethe B1 · p.55"
+            },
+            {
+              "t": "die Köchin",
+              "b": "<span class=\"jt\" data-g=\"lang_dieköchin\">die Köchin</span> — the cook <span class=\"gram\">(plural: -nen)</span>",
+              "src": "Goethe B1 · p.55"
+            },
+            {
+              "t": "der Koffer",
+              "b": "<span class=\"jt\" data-g=\"lang_derkoffer\">der Koffer</span> — the suitcase <span class=\"gram\">(plural: -)</span>",
+              "src": "Goethe B1 · p.55"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25",
       "day": "Wed",
@@ -7597,251 +7850,6 @@ window.EDITION_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "2026-10-26",
-      "day": "Mon",
-      "dnum": "26",
-      "mon": "Oct",
-      "date": "Monday 26 October 2026",
-      "headline": "Briefing refreshed 06:47 Berlin time",
-      "stand": "Automatically rebuilt at 06:47 — 12 sections tracked.",
-      "blocks": [
-        {
-          "h": "Needs Attention",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "obon7/nnclSBKy7wH5gcszVMbhh+qtGz4hLVhZEb/F7hZHICUEeMwx2aQ1eWvoleX2ndL7FaRa8ZJiTgUe+UFWsAP7mJ0szJRR3HgKEkLKZZtslrU7At005Oh2sVlE3e0l5DiY4zWJEiXr+UZQgPqdtVCkNJvPjOYyQ4pSc6I8y6VDCQtUBJ",
-          "iv": "3kbd7/InPay+I0vy",
-          "salt": "irAxVE+XwI670o4Bws+xXw=="
-        },
-        {
-          "h": "Weather",
-          "stats": [
-            {
-              "n": "9°",
-              "l": "right now"
-            }
-          ],
-          "items": [
-            {
-              "t": "Bremen: overcast, high 13°C",
-              "b": "Low 8°C, gusts to 50 km/h. 7-day outlook below.",
-              "src": "Open-Meteo"
-            }
-          ],
-          "chart": [
-            "wxtemp",
-            "wxrain"
-          ]
-        },
-        {
-          "h": "Week & Month Ahead",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "4v3Q8g6hJwG0nqnRkMxca5MyN9e8rccDm1DUegkB0fX8A1NGmmqa0pxQCUMrzLwaPbAepAFX2VnGQO4ivQrWu7VJFgdCCxPEme9OY68PFBvjh+sNAgTuKrwTFdjOyLdZ8tXEolg+nQVZSiuL6SBjBb7MXGvIn7X2VlbZ",
-          "iv": "4XOvtsW2H6x+Ip+5",
-          "salt": "BxBewtrZSswoBPfb8r+aEA=="
-        },
-        {
-          "h": "Diabetes & Supplies",
-          "count": 2,
-          "encrypted": true,
-          "ciphertext": "IlFxCHQHMlN/GVgvEVddwUvMq7bPX7XwQvoM7A9ieYSW86V43ctIDDEa4jULnljb889vvceEVpVOBMt8mQMH0QKkfEkydcCaPNCfC4LXiaodvZnY6gcXkqVnIxZMx8pOzl5ZRhHSQ0/qzAeUbnEo65TiPq7apkxtXjsxTlwIP9AxnAJsEKs3t9DsamaYBmJpchvgkrs8OumzmN12DxkUgjMy1FMghO5gPzXWZk1sbwWfDs7m1LNuEntsej95ZUiuOG32Po6FJwqPxly2mA61O5DeIsMMDg2G3u8/y3uc9v3RxiU5HM35R/0ZXmdfPhFbGuS9BlQe",
-          "iv": "MaAvtLmmFkrWHFEj",
-          "salt": "o5JbR2tsNFWVf1vQFOPKEA=="
-        },
-        {
-          "h": "Spending",
-          "count": 1,
-          "encrypted": true,
-          "ciphertext": "DFlpFA8n2++A0DD7nw1buCC1MavhLR9zCyknT0t1P2SahqrUWQSNsV4jZadSUoI4a+kEHUaEMbs5MbDC+ECQlvSHJX/l3sKm9NwoL8nqP/kR4eqOevjk2+Y9tbXJfV0bwb+pC6Pha5gn3BHwsKNmIkoApp5eYOxkHXoE3Ona6sb15O4Qi85xFiEU/Tiz7dn8KY8ZNV4jb37ew3Pf",
-          "iv": "+Q8FzcTpOFijy8nX",
-          "salt": "wJIm9EijIjJ78b8mPHCZKg=="
-        },
-        {
-          "h": "ISTQB & Software Testing",
-          "items": [
-            {
-              "t": "📌 Istqb Testing Ct-Ai",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectations around quality, reliability, and trust continue to rise.",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "📌 Istqb® Certified Tester",
-              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI).",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "📌 Istqb® Testing Recognizes",
-              "b": "At a ceremony following the ISTQB® General Assembly meeting in Copenhagen, Denmark, Janet Gregory, internationally recognized author, speaker, and thought leader in software quality and agile testing, was honored with the ISTQB® Software Testing Excellence Award. The ISTQB® Software Testing Exce",
-              "src": "insight",
-              "u": null
-            },
-            {
-              "t": "ISTQB CT-AI vs ISTQB Gen AI- which is better? I am not testing any AI product. I mostly do manual testing. Thanks",
-              "b": "  submitted by    /u/Confident-Focus4   [link]   [comments]",
-              "src": "Quality Assurance : articles and news about software testing",
-              "u": "https://www.reddit.com/r/QualityAssurance/comments/1xek727/istqb_ctai_vs_istqb_gen_ai_which_is_better_i_am/"
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Finance Testing certification",
-              "b": "Brussels, 27 May 2026 – The International Software Testing Qualifications Board (ISTQB®) today announced the release of the ISTQB® Certified Tester Finance Testing (CT-FT) Syllabus v1.0, a new Specialist certification syllabus for professionals involved in software testing and quality assurance with",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-finance-testing-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Certified Tester Quality in DevOps certification",
-              "b": "Brussels, 27 May, 2026 – The International Software Testing Qualifications Board (ISTQB®) announces the official release of its latest specialist-level certification: Certified Tester Quality in DevOps (CT-QDO). The ISTQB® CT-QDO certification equips professionals working in DevOps-based software de",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-certified-tester-quality-in-devops-certification/"
-            },
-            {
-              "t": "ISTQB® Launches Advanced-Level Agile Tester Certification Reflecting Industry Maturity",
-              "b": "ISTQB® has released the Certified Tester Advanced Level Agile Tester (CTAL-AT) v2.0, marking a significant step forward in Agile testing certification. The new version elevates Agile tester certification from foundation-level awareness to advanced-level professional capability.  This is not a routin",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-launches-advanced-level-agile-tester-certification-reflecting-industry-maturity/"
-            },
-            {
-              "t": "ISTQB® Releases Certified Tester AI Testing (CT-AI) Syllabus Version 2.0",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) has released the Certified Tester AI Testing (CT-AI) Syllabus Version 2.0, marking a significant update to its specialist certification in AI testing. As AI systems move into production across a wide range of industries, the expectatio",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/"
-            },
-            {
-              "t": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
-              "b": "The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills t",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/"
-            },
-            {
-              "t": "ISTQB® and iSAQB® Strengthen Collaboration in Software Testing and Software Architecture",
-              "b": "Memorandum of Understanding establishes the foundation for closer cooperation between software testing and software architecture On June 16, 2026, the International Software Testing Qualifications Board (ISTQB®) and the International Software Architecture Qualification Board (iSAQB®) signed a Memora",
-              "src": "International Software Testing Qualifications Board",
-              "u": "https://istqb.org/istqb-and-isaqb-strengthen-collaboration-in-software-testing-and-software-architecture/"
-            }
-          ],
-          "feed_section": "profession_field"
-        },
-        {
-          "h": "Defense Electronics & Secure Networking",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Defense Electronics & Secure Networking' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "work_industry"
-        },
-        {
-          "h": "Network & Systems Engineering",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Network & Systems Engineering' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "network_systems"
-        },
-        {
-          "h": "Jira, Xray & Confluence",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'Jira, Xray & Confluence' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "test_tooling"
-        },
-        {
-          "h": "Near Home",
-          "tags_section": "near_home",
-          "items": [
-            {
-              "t": "German Unity Day in Bremen: 'Many Strengths — One Country' - DW.com",
-              "b": "German Unity Day in Bremen: 'Many Strengths — One Country'  DW.com",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0RxREwySWc3WlQ0Tlk4SWo3eWwyUlc3Q3BJeXZ5SHFvOThsZU1tVDZiOWdESXZtN2t3Mk5lOXZfdnJ1dXdrZWxyN0dVMGJHUHBUZm5QXzdiQkxCRGhzaGppQlBWQVFhckRBeHgtMXFtS0hQUDJKOXFFaXZCMG9raTFRQWwwcmxfRTM4ZlRfV0FjNl93QVlYWjltSUJjTXZBeXlGc1FqWlBXOFE3TnE5OUVSMjZiOWJfOTA2UzlhOG9XMW1hV1AtOXNoX2swLThVaE5jTEFIczFsSXlUSktQXzhCb19Ib1BkREwyV2VDdDdUekl1RDZ0TEdaSWFPSnJadkJxbg?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala - Get German Football News",
-              "b": "Three things we learnt from Bundesliga Matchday 7 - Antonio Nusa, Werder Bremen are fun and Said El Mala  Get German Football News",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IWmtRU19SY0xRZ0o2bEZmM1p1Nm0zdmk3MVU5bkd3ellNS19iSkc1V2ZGeTlRa3l5NWVZM01nd0FyT1VkTmlIX3pfOWFJa3lUT2tTM1dSRFo1LUVYdlJ0cjZTN0Zyck9NbnQ2bmZBUUpWQzZoSHdkcGZKTQ?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            },
-            {
-              "t": "Tracking: Bhavnagar",
-              "b": "No source added yet for Bhavnagar (family). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Bhavnagar",
-              "rel": "family"
-            },
-            {
-              "t": "Tracking: Surat",
-              "b": "No source added yet for Surat (interest). Add one with `py scripts/intake.py \"<url>\"`.",
-              "src": "system",
-              "u": null,
-              "tag": "Surat",
-              "rel": "interest"
-            },
-            {
-              "t": "Werder Bremen - Hoffenheim - Flashscore.com",
-              "b": "Werder Bremen - Hoffenheim  Flashscore.com",
-              "src": "\"Bremen, Germany\" - Google News",
-              "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2hmUV9EcVoyUktOR3QybGZjVl9BbzQ0MFJ3M2xiYTc1YjhYMXJVMWRzWkFlaVpiNFc4VFA2OE85RHluSzVPd0VDemh3UG5KTV9hU21zV2tUcnJiTUphYTdSLWlBeTRBNnYwcEZCbkxWNEpwM1FSRFNPN0RNNl95SFRlSEt0M1dHSDNDckhR?oc=5",
-              "tag": "Bremen",
-              "rel": "home"
-            }
-          ],
-          "chart": "near_home_flow"
-        },
-        {
-          "h": "World & Knowledge",
-          "items": [
-            {
-              "t": "No fresh items this run",
-              "b": "'World & Knowledge' had nothing new to show — will keep checking.",
-              "src": "system"
-            }
-          ],
-          "feed_section": "world_and_knowledge"
-        },
-        {
-          "h": "Language Practice",
-          "items": [
-            {
-              "t": "insgesamt",
-              "b": "<span class=\"jt\" data-g=\"lang_insgesamt\">insgesamt</span> — overall",
-              "src": "Goethe B1 · p.52"
-            },
-            {
-              "t": "installieren",
-              "b": "<span class=\"jt\" data-g=\"lang_installieren\">installieren</span> — install <span class=\"gram\">(installiert · installierte · hat installiert)</span>",
-              "src": "Goethe B1 · p.52"
-            },
-            {
-              "t": "das Institut",
-              "b": "<span class=\"jt\" data-g=\"lang_dasinstitut\">das Institut</span> — the institute <span class=\"gram\">(plural: -e)</span>",
-              "src": "Goethe B1 · p.52"
-            },
-            {
-              "t": "das Instrument",
-              "b": "<span class=\"jt\" data-g=\"lang_dasinstrument\">das Instrument</span> — the instrument <span class=\"gram\">(plural: -e)</span>",
-              "src": "Goethe B1 · p.52"
-            }
-          ]
-        }
-      ]
     }
   ],
   "glossary": {
@@ -10820,22 +10828,54 @@ window.EDITION_DATA = {
       "lang": "de-DE",
       "d": "The pub",
       "w": "“Gehen wir noch in eine Kneipe ein Bier trinken?”"
+    },
+    "lang_kochen": {
+      "t": "kochen",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "Cook",
+      "w": "“Ich koche gern.”"
+    },
+    "lang_derkoch": {
+      "t": "der Koch",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cook",
+      "w": "“Ein Freund von mir ist Koch in einem”"
+    },
+    "lang_dieköchin": {
+      "t": "die Köchin",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The cook",
+      "w": "“teuren Restaurant.”"
+    },
+    "lang_derkoffer": {
+      "t": "der Koffer",
+      "ipa": "",
+      "resp": "",
+      "lang": "de-DE",
+      "d": "The suitcase",
+      "w": "“Ich habe den Koffer schon gepackt.”"
     }
   },
   "charts": {
     "wxtemp": {
       "kind": "line",
-      "title": "1° is the high point this week in Bremen",
+      "title": "8° is the high point this week in Bremen",
       "sub": "Bremen, daily maximum temperature, °C",
       "source": "Open-Meteo",
       "xlabels": [
-        "11-25",
-        "11-26",
         "11-27",
         "11-28",
         "11-29",
         "11-30",
-        "12-01"
+        "12-01",
+        "12-02",
+        "12-03"
       ],
       "yticks": [
         0,
@@ -10851,31 +10891,31 @@ window.EDITION_DATA = {
           "pts": [
             [
               0,
-              0.8
+              2.2
             ],
             [
               1,
-              1.0
+              0.2
             ],
             [
               2,
-              0.5
+              1.8
             ],
             [
               3,
-              -0.9
+              5.6
             ],
             [
               4,
-              0.8
+              3.7
             ],
             [
               5,
-              0.7
+              5.6
             ],
             [
               6,
-              -0.1
+              8.2
             ]
           ]
         }
@@ -10883,59 +10923,59 @@ window.EDITION_DATA = {
     },
     "wxrain": {
       "kind": "bar",
-      "title": "Rain chances peak at 11% this week in Bremen",
+      "title": "Rain chances peak at 83% this week in Bremen",
       "sub": "Bremen, chance of precipitation, %",
       "source": "Open-Meteo",
       "catW": 76,
       "rows": [
         {
-          "k": "11-25",
-          "v": 0,
-          "lab": "0%",
-          "hero": false,
-          "tip": "1°C, Overcast"
-        },
-        {
-          "k": "11-26",
-          "v": 0,
-          "lab": "0%",
-          "hero": false,
-          "tip": "1°C, Mainly clear"
-        },
-        {
           "k": "11-27",
           "v": 0,
           "lab": "0%",
           "hero": false,
-          "tip": "0°C, Overcast"
+          "tip": "2°C, Overcast"
         },
         {
           "k": "11-28",
-          "v": 2,
-          "lab": "2%",
+          "v": 0,
+          "lab": "0%",
           "hero": false,
-          "tip": "-1°C, Overcast"
+          "tip": "0°C, Overcast"
         },
         {
           "k": "11-29",
-          "v": 11,
-          "lab": "11%",
+          "v": 83,
+          "lab": "83%",
           "hero": true,
-          "tip": "1°C, Light snow"
+          "tip": "2°C, Light rain"
         },
         {
           "k": "11-30",
-          "v": 9,
-          "lab": "9%",
+          "v": 14,
+          "lab": "14%",
           "hero": false,
-          "tip": "1°C, Light snow"
+          "tip": "6°C, Overcast"
         },
         {
           "k": "12-01",
-          "v": 4,
-          "lab": "4%",
+          "v": 3,
+          "lab": "3%",
           "hero": false,
-          "tip": "0°C, Overcast"
+          "tip": "4°C, Overcast"
+        },
+        {
+          "k": "12-02",
+          "v": 51,
+          "lab": "51%",
+          "hero": false,
+          "tip": "6°C, Light rain"
+        },
+        {
+          "k": "12-03",
+          "v": 53,
+          "lab": "53%",
+          "hero": false,
+          "tip": "8°C, Light rain"
         }
       ]
     },
@@ -10961,7 +11001,7 @@ window.EDITION_DATA = {
         {
           "from": "tag_bremen",
           "to": "src_bremen_germany_google_news",
-          "v": 6
+          "v": 4
         }
       ]
     }
@@ -10998,6 +11038,16 @@ window.EDITION_DATA = {
           "t": "Vallabhi, the university that rivalled Nalanda",
           "key": "For three centuries, one of Asia's great universities sat in Saurashtra.",
           "b": "<p>From roughly 475 to 776 CE the peninsula was ruled by the <span class=\"jt\" data-g=\"maitraka\">Maitraka</span> dynasty from their capital at Vallabhi, near modern Bhavnagar. They began as generals for the Gupta empire and became independent kings as it fell apart.</p> <p>What makes them remarkable is what they funded. Vallabhi grew into a university drawing students from across India — the western counterpart to Nalanda in the east. The Chinese pilgrim Xuanzang, travelling in the 7th century, described several thousand monks studying there. It taught Buddhist philosophy alongside secular subjects, and the Maitrakas — Shaivite Hindus themselves — endowed Buddhist monasteries and Jain institutions without apparent conflict.</p> <p>Vallabhi's copper-plate land grants are one of the richest documentary sources for early medieval western India: hundreds survive, and they let historians reconstruct land tenure, taxation and religious patronage in unusual detail.</p> <p class=\"rem\"><b>Worth holding onto</b>Bhavnagar is not a modern city sitting on empty ground. It is twenty kilometres from what was, for three hundred years, one of the intellectual capitals of Asia.</p>\n"
+        },
+        {
+          "t": "Somnath, and the habit of rebuilding",
+          "key": "A temple destroyed at least six times and rebuilt every time.",
+          "b": "<p>On the southern coast at Veraval stands Somnath, counted as the first of the twelve <span class=\"jt\" data-g=\"jyotirlinga\">Jyotirlingas</span> — the shrines where Shiva is held to have manifested as a pillar of light.</p> <p>Its fame is inseparable from its destruction. Mahmud of Ghazni sacked it in 1026, and it was attacked and rebuilt repeatedly over the following centuries. The present temple is modern: reconstruction was driven by Sardar Vallabhbhai Patel after independence and completed in 1951, in the Chalukya style, on the original coastal site.</p> <p>Historians now read the medieval raids as being about wealth and prestige as much as religion — temples were treasuries — and note that the \"six destructions\" narrative was hardened considerably by colonial-era historiography. The temple matters as much for what people have made of its story as for the stone.</p> <p class=\"rem\"><b>Worth holding onto</b>Nothing stands between Somnath's shore and Antarctica — a pillar on the temple grounds marks the unbroken line of ocean south.</p>\n"
+        },
+        {
+          "t": "Junagadh, Girnar, and an emperor's rock",
+          "key": "An edict carved by Ashoka in 250 BCE still sits by the road to Girnar.",
+          "b": "<p>Junagadh — literally \"old fort\" — sits under Girnar, a volcanic massif sacred to both Jains and Hindus, climbed by a stone stairway of roughly ten thousand steps.</p> <p>Beside the path lies a granite boulder carrying fourteen Rock Edicts of the emperor Ashoka, carved around 250 BCE. They are not conquest inscriptions. They instruct officials on medical care for people and animals, the planting of shade trees and wells along roads, and restraint toward other sects. The same rock was reused twice more: by the Western Kshatrapa king Rudradaman in about 150 CE, and later by a Gupta ruler — three empires' worth of writing on one stone.</p> <p>From the 9th to 15th centuries the Chudasama dynasty ruled here, and the fort's later layers include Gujarat Sultanate and Mughal work. It is a single site where you can stand between the Mauryan empire and the British Raj.</p>\n"
         }
       ]
     },
@@ -11015,21 +11065,6 @@ window.EDITION_DATA = {
           "t": "\"Average\" is the most misleading word in English",
           "key": "The mean, the median and the mode are three different numbers, and people quote whichever flatters them.",
           "b": "<p>Put nine people earning €40,000 in a room with one person earning €5 million. The <b>mean</b> salary is €536,000. The <b>median</b> — the middle value when you line them up — is €40,000. Both are correct. Only one describes anyone in the room.</p> <p>The mean is pulled by extremes; the median is not. So the rule is simple: for anything skewed — income, house prices, response times, time-to-fix — the median tells you about a typical case and the mean tells you about the total. When a report gives you a mean for skewed data and no median, assume it was chosen deliberately.</p> <p>Two more traps sit alongside it.</p> <p><b>Spread matters as much as centre.</b> A server with a mean response of 200 ms could be steady at 200 ms, or mostly 50 ms with occasional 5-second stalls. Which is why performance work quotes percentiles — p95, p99 — rather than averages. The average user experience is not the experience of the average.</p> <p><b>Simpson's paradox.</b> A trend can appear in every subgroup and reverse when you pool them. A famous Berkeley admissions case looked like bias against women overall, yet most individual departments favoured women slightly — women had simply applied in greater numbers to the most competitive departments. Aggregating hid the mechanism. Whenever a headline number surprises you, split it before believing it.</p> <p class=\"rem warn\"><b>The habit to build</b>Three questions kill most bad statistics: compared to what? out of how many? and who is missing from the data?</p>\n"
-        },
-        {
-          "t": "Correlation, causation, and the third thing hiding behind both",
-          "key": "Two lines moving together are rarely proof of a link — usually there is a third variable driving both.",
-          "b": "<p>Ice-cream sales and drowning deaths rise and fall together across the year, almost in lockstep. Nobody sane concludes that ice cream causes drowning. The real driver is a third variable, hot weather, that pushes both numbers up at once. This is <b>confounding</b>, and it is behind more bad headlines than any other single statistical error.</p> <p>The trouble is that confounding is invisible unless you already suspect it. A study might find that people who take a particular vitamin live longer. It is a real correlation. But people who conscientiously buy and take vitamins also tend to exercise more, smoke less, and see a doctor regularly — the vitamin may be doing nothing at all, and simply travelling alongside genuinely healthy habits. This is sometimes called the <b>healthy-user effect</b>, and it has quietly wrecked the reputation of more supplements than any regulator has.</p> <p>Software testing runs into the same shape of problem constantly. Say a team notices that commits reviewed by a particular senior engineer ship with fewer defects. The tempting conclusion is \"her reviews catch more bugs.\" The confound: she is also disproportionately assigned to review the calmer, lower-risk changes, because people trust her with the important ones and route the messy, rushed work elsewhere. The review quality may matter not at all — the confound is what kind of code reaches her in the first place.</p> <p>The only real way to rule out confounding is a <b>randomised experiment</b> — assign the treatment (the vitamin, the code review, the drug) by coin flip rather than by choice, so that whatever kind of person or code tends to end up in one group is, on average, identical to what ends up in the other. This is why medicine treats randomised controlled trials as a different tier of evidence from observational studies, however large the observational dataset is. Size does not fix confounding; only randomisation does.</p> <p>Where you cannot randomise — you cannot force half of Bremen to eat more vitamin C to see what happens — the honest move is to name the plausible confounders out loud and explain why you do or do not think they account for the effect, rather than presenting a correlation as if it settles the question.</p> <p class=\"rem\"><b>Worth holding onto</b>Before believing \"X causes Y,\" ask what kind of thing would tend to have both X and Y already, for reasons that have nothing to do with X causing Y.</p>\n"
-        },
-        {
-          "t": "Why small samples lie louder than large ones",
-          "key": "A small study is not just less certain — it is far more likely to show an impressively large effect that is pure noise.",
-          "b": "<p>Flip a fair coin four times and getting three heads (75%) is unremarkable — it happens nearly a quarter of the time. Flip it four hundred times and getting 300 heads (also 75%) would be extraordinary, essentially impossible for a fair coin. Same percentage, wildly different meaning, because sample size changes everything about how much a given result should move your belief.</p> <p>This is why small studies routinely produce the flashiest headlines. A study of twelve people finding a supplement \"boosts memory by 40%\" sounds dramatic. A study of twelve thousand people finding a 2% effect sounds boring. The twelve-person study is almost always the less trustworthy one, precisely because small samples have enormous random swing built in — and a result only makes it into a headline if it happened to swing far from zero. This is one root of the <b>replication crisis</b> that has hit psychology and nutrition science particularly hard over the past fifteen years: striking small-sample results got published and publicised, then quietly failed to reproduce at scale.</p> <p>There is a direct analogue in test engineering. Running a flaky test three times and seeing it pass all three tells you almost nothing about its real pass rate — three data points cannot distinguish a 95%-reliable test from a 70%-reliable one. Confidence in a pass rate requires enough runs that the noise has a chance to average out, which is precisely why CI systems that track flake rate use rolling windows of hundreds of runs rather than a handful.</p> <p>The general rule, sometimes called the <b>law of large numbers</b> when stated properly: as a sample grows, its average gets closer and more reliably close to the true underlying value. Small samples do not just have wider error bars — they are disproportionately likely to be the ones you hear about, because extreme results are the ones that get shared.</p> <p class=\"rem warn\"><b>The tell</b>Whenever a striking result comes with an oddly specific but small sample size — \"in a study of 14 participants\" — treat the size itself as the headline, and the effect as provisional until someone runs it on hundreds.</p>\n"
-        },
-        {
-          "t": "p-values and the significance trap",
-          "key": "'Statistically significant' does not mean important, and it does not mean the effect is even real.",
-          "b": "<p>A <b>p-value</b> answers one narrow question: if there were truly no effect at all, how surprising would data this extreme be? A p-value under 0.05 — the conventional cutoff for \"statistically significant\" — means results this striking would show up by pure chance less than 5% of the time if nothing real were going on. That is all it means. It says nothing about how large or important the effect is, and it is not the probability that the finding is true.</p> <p>Two consequences follow, and both are widely misunderstood even by people who use the term professionally. First: with a large enough sample, even a genuinely trivial effect becomes \"statistically significant,\" because tiny true effects still stop looking like pure chance once you have enough data. A drug that lowers blood pressure by an amount too small to matter clinically can still produce an impressive-looking p-value in a trial of 50,000 people. Significant is not the same question as significant to you.</p> <p>Second, and more damaging: if you test twenty unrelated hypotheses, roughly one of them will cross the 5% threshold by chance alone, with no real effect behind it at all. This is <b>p-hacking</b>, and it does not require dishonesty — a researcher who tries several ways of slicing the data, several subgroups, several endpoints, and reports the one that \"worked\" has, often without meaning to, run the twenty-hypothesis lottery and kept the one winning ticket. It is a major contributor to results that make headlines and then vanish on replication.</p> <p>The testing-world parallel is direct. Run a flaky test suite against twenty unrelated code changes and, by chance, one or two will show a test failure that looks correlated with the change but is not — pure coincidence dressed up as a regression. The fix in both fields is the same discipline: decide what you are testing for before you look at the data, and be honest that combing through results afterward for anything that looks significant will always find something, whether or not anything real is there.</p> <p class=\"rem\"><b>Worth holding onto</b>Ask two questions of any \"statistically significant\" finding: significant compared to how large an effect, and was this the one hypothesis being tested, or the one that survived out of many?</p>\n"
         }
       ]
     },
@@ -11117,6 +11152,16 @@ window.EDITION_DATA = {
           "t": "Water's impossible climb",
           "key": "No pump lifts water up a tree. Evaporation pulls it, and the water column holds together.",
           "b": "<p>A tall tree lifts water a hundred metres with no moving parts. Suction from below cannot do it — a perfect vacuum only raises water about ten metres before the column breaks.</p> <p>The mechanism is the cohesion-tension theory. Water evaporates from leaf pores called stomata — <span class=\"jt\" data-g=\"transpiration\">transpiration</span>. That evaporation puts the water in the leaf under tension. Because water molecules hydrogen-bond strongly to each other (cohesion) and to the walls of the narrow xylem vessels (adhesion), the whole column from root to leaf behaves like a rope being pulled from the top.</p> <p>Two tissues do the transport. <b>Xylem</b> carries water upward and is made of dead, hollow cells. <b>Phloem</b> carries dissolved sugar in any direction and must be alive to work.</p> <p>Every stoma the plant opens to admit CO2 also lets water escape. That trade-off — food against thirst — shapes almost everything about how plants look. Desert plants open their stomata at night; conifer needles have sunken pores and a waxy skin.</p>\n"
+        },
+        {
+          "t": "How to read a plant you've never seen",
+          "key": "Six features, checked in order, get you to a family.",
+          "b": "<p>Identification is not memorising species. It is running a checklist.</p> <p><b>1. Habit</b> — herb, shrub, tree, climber, grass.<br> <b>2. Leaf arrangement</b> — alternate, opposite, or whorled around the stem. Surprisingly few plants have opposite leaves; noticing it eliminates most families at a stroke.<br> <b>3. Leaf shape and margin</b> — simple or compound; edge smooth, toothed or lobed.<br> <b>4. Venation</b> — parallel veins point to monocots (grasses, lilies, orchids, palms); a branching net points to dicots (most other flowering plants).<br> <b>5. Flower parts</b> — count petals. Multiples of three suggest a monocot; four or five suggest a dicot.<br> <b>6. Fruit</b> — often the single most diagnostic feature, and the one beginners skip.</p> <p>Monocot versus dicot is the first big fork, and it is visible from a distance: a wheat field and an oak are on opposite sides of it.</p>\n"
+        },
+        {
+          "t": "Six families you will actually meet",
+          "key": "Learn six families and you can place a large share of the plants around you.",
+          "b": "<p><b>Poaceae</b> — grasses. Hollow jointed stems, parallel veins, wind-pollinated flowers with no petals. Wheat, rice, maize, barley, bamboo, sugarcane. This one family feeds humanity.</p> <p><b>Fabaceae</b> — legumes. Pea-shaped flowers, seeds in a pod. Their roots host bacteria that fix nitrogen from air into usable form, which is why they restore soil and why crop rotation works. Beans, lentils, groundnut, clover, acacia.</p> <p><b>Asteraceae</b> — the daisy family, one of the largest. What looks like one flower is a dense head of many tiny ones. Sunflower, marigold, lettuce, dandelion.</p> <p><b>Rosaceae</b> — five petals, many stamens. Apple, pear, cherry, plum, almond, strawberry, rose.</p> <p><b>Lamiaceae</b> — mints. Square stems, opposite leaves, aromatic. Basil, tulsi, mint, rosemary, sage, oregano.</p> <p><b>Apiaceae</b> — carrot family. Tiny flowers in flat umbrella-shaped umbels, hollow grooved stems. Carrot, coriander, cumin, fennel, dill.</p> <p class=\"rem warn\"><b>A warning that matters</b>Apiaceae contains both your spice rack and hemlock, water hemlock and giant hogweed — among the most toxic plants in Europe. Never eat a wild umbellifer on family resemblance. This family is exactly why \"it looks like a carrot\" has killed people.</p>\n"
         }
       ]
     },
@@ -11134,6 +11179,16 @@ window.EDITION_DATA = {
           "t": "Water you can actually drink",
           "key": "Boil one minute. Filters miss viruses. Chemicals miss Cryptosporidium.",
           "b": "<p>Each method has a specific hole in it, and the holes do not overlap — which is the whole reason to know all three.</p> <p><b>Boiling</b> is the most reliable. The CDC's guidance is a rolling boil for <b>one minute</b>, or <b>three minutes above about 2,000 metres</b>, where water boils cooler. Boiling kills everything biological. It does not remove chemicals, heavy metals or salt.</p> <p><b>Filtering</b> depends entirely on pore size. A filter of 1 micron or smaller removes parasites. 0.3 micron or smaller removes bacteria as well. Neither removes <b>viruses</b> — those are far too small. Only reverse osmosis catches all three.</p> <p><b>Chemicals</b> — chlorine or iodine — kill bacteria and viruses reliably, but work poorly against parasites, and especially badly against <span class=\"jt\" data-g=\"crypto\">Cryptosporidium</span>, whose thick-walled cysts shrug off normal doses. Chlorine dioxide is better but slow.</p> <p>For cloudy water the order matters: let it settle, then filter, then disinfect. Particles physically shield organisms from both chemicals and UV light.</p> <p class=\"rem\"><b>Worth holding onto</b>Never ration water while you still have it. Dehydration impairs your judgement long before it threatens your life, and bad decisions kill faster than thirst. Drink it and go find more.</p>\n"
+        },
+        {
+          "t": "Staying warm is mostly staying dry",
+          "key": "You lose heat to the ground faster than to the air. Insulate underneath first.",
+          "b": "<p>Heat leaves you four ways: <b>conduction</b> (touching cold things — above all the ground), <b>convection</b> (wind stripping warmth away), <b>radiation</b> (mostly from the head and neck), and <b>evaporation</b> (sweat and wet clothing).</p> <p>People lying on cold ground lose heat to it far faster than to the air around them. A layer of leaves, branches, a pack or foam beneath you is worth more than another layer on top of you. This is the single most-missed point in cold weather.</p> <p>Dress in three layers: a base that moves sweat off the skin, a middle that traps air, an outer that blocks wind and rain. Wool and synthetics keep insulating when damp. <b>Cotton does not</b> — wet cotton actively drains heat, which is where the mountaineers' phrase \"cotton kills\" comes from.</p> <p>Sweating in the cold is dangerous. If you are working hard, remove a layer <i>before</i> you sweat through the ones underneath.</p> <p><span class=\"jt\" data-g=\"hypothermia\">Hypothermia</span> announces itself in order: shivering, then clumsiness and slurred speech, then confusion and — strangely — sometimes a feeling of being too hot. Someone who stops shivering while still cold is getting worse, not better.</p>\n"
+        },
+        {
+          "t": "Shelter, fast and small",
+          "key": "A shelter you can build in an hour beats a good one you never finish.",
+          "b": "<p>Choose the site before the design. You want to be out of the wind, off the low ground where cold air pools and water runs, away from dead branches overhead, and near — but not in — a water source.</p> <p><b>Small is warm.</b> The instinct is to build something roomy. Resist it: your body is the heat source, and a space barely larger than you warms up and stays warm. A cavity you fill is worth more than a hall you cannot heat.</p> <p>The generic pattern is a debris shelter: a ridgepole propped at one end, ribs leaned against it, then piled leaves and vegetation — a lot of it, thicker than seems reasonable, ideally an arm's depth. Stuff the inside with dry material too, so you are lying in insulation rather than on soil.</p> <p>In an urban emergency the same logic applies indoors: close off one small room rather than heating a flat, block draughts at the doors, and put something insulating between you and the floor.</p>\n"
         }
       ]
     }
