@@ -3006,5 +3006,37 @@
     "lang": "de-DE",
     "d": "The suitcase",
     "w": "“Ich habe den Koffer schon gepackt.”"
+  },
+  "lang_derkollege": {
+    "t": "der Kollege",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The colleague",
+    "w": "“Ich habe guten Kontakt zu meinen”"
+  },
+  "lang_diekollegin": {
+    "t": "die Kollegin",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "The colleague",
+    "w": "“Kollegen.”"
+  },
+  "lang_komisch": {
+    "t": "komisch",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Funny",
+    "w": "“Das Essen schmeckt komisch. Probier mal.”"
+  },
+  "lang_kommen": {
+    "t": "kommen",
+    "ipa": "",
+    "resp": "",
+    "lang": "de-DE",
+    "d": "Come",
+    "w": "“Woher kommen Sie? – Aus Frankreich.”"
   }
 }

@@ -1,32 +1,32 @@
 {
-  "id": "2026-11-27",
-  "day": "Fri",
-  "dnum": "27",
+  "id": "2026-11-28",
+  "day": "Sat",
+  "dnum": "28",
   "mon": "Nov",
-  "date": "Friday 27 November 2026",
-  "headline": "Briefing refreshed 19:36 Berlin time",
-  "stand": "Automatically rebuilt at 19:36 — 12 sections tracked.",
+  "date": "Saturday 28 November 2026",
+  "headline": "Briefing refreshed 12:28 Berlin time",
+  "stand": "Automatically rebuilt at 12:28 — 12 sections tracked.",
   "blocks": [
     {
       "h": "Needs Attention",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "T0OdbMSjxP0WHf7YJeXbEMGs4s+K/Ec+InOWLlWKCUFmbjlG1Sz8/dUSLJy21lD9KEJjBcDDXdx47A6BCEXE1AoY7Jsua5xj2ncWRwvDk2+1GbjfcF/ciSxvYPjzKTFVXYsmIww3hDzY8cB5NxObvesJDfVUIkH+p64PlcO0Y9CKeliquObN",
-      "iv": "lnYsQ+4qvXDfkMTR",
-      "salt": "GZk0u0DYUQX6Xhy/DpRHsA=="
+      "ciphertext": "cwcGrq73QSxZ1rgths1AoK4BTnBRVVfwCdNr295G3zXaWiKgzG88Km93KGWHnWoaJfYPkYMkiPj0DRKxSfrlcttLLRDJSgLgNmswzFPk7+frOZB3j6rG8Xe3gE4ZHurZG07LmKR6b4a12at3uBb4uZYjW5dLq3nkZU+6oXWo4ywS+4Jrec9v",
+      "iv": "vIHD4oUnZgW1+iST",
+      "salt": "8qh7GrfAZJNX1KsVsFBgrw=="
     },
     {
       "h": "Weather",
       "stats": [
         {
-          "n": "0°",
+          "n": "1°",
           "l": "right now"
         }
       ],
       "items": [
         {
-          "t": "Bremen: mainly clear, high 2°C",
-          "b": "Low -2°C, gusts to 32 km/h. 7-day outlook below.",
+          "t": "Bremen: overcast, high 1°C",
+          "b": "Low -1°C, gusts to 40 km/h. 7-day outlook below.",
           "src": "Open-Meteo"
         }
       ],
@@ -39,25 +39,25 @@
       "h": "Week & Month Ahead",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "z6IgvI8aMtY1EfnxB1zIKvpuNDKqW2kPLCyghoLd0c/W4rqMthvxW16J7xwBez7IyUlnT5pEmHlziQzsoX59pl2A9AAA8/mGKBXu1xc3zK1P/9LWyVbCQb55AYlA0Xh8oug/Ps2bec2AJb59JcJD/zK+jO1z65W48FpZ",
-      "iv": "eRbJmzvLuwCRBVun",
-      "salt": "bIljIUkin7nf+IaTYWkr0w=="
+      "ciphertext": "M57kR1xLubhFf3kDXh5HGpN2yYDxkVdQfVOxeD/AamloPGAw49eDdOUujiyJaAiOidoovgwj+SL7AiSGo6vVb1QK8f84XYg29RwjSY+QePSegbQ4Lrysuhh9fj42CQtnO86yuQMHhx6aDUNAWNFmL1TorQhS5l5jyUxL",
+      "iv": "uz5mfplhf7ooraEM",
+      "salt": "vKV5fMMbTDLlYypmNKcGjg=="
     },
     {
       "h": "Diabetes & Supplies",
       "count": 2,
       "encrypted": true,
-      "ciphertext": "iU1YpPYktMIS67Yd9JDz/dojEhpg2ynbMDfN+KwE9A1lgRqLtDVImQ4OJxgpSvItERCtCBg5Y8vOUulDMwvqHgEplXJbCPfMJA6TKiuQA8Fls5vah6SqhffwKYTP9Xlv4zIoqTN1688eqoKLyXk3hv9fNGQp3/BAxRIoOyEAwP4tx50Vv2ra8QX/1K0UA2I0sr1s/crgfcrsWqt60p7j/Yg5MIT3G3YtuMK6v9TNl85WzR2/C8MIyWvt0yLg5fEgJQSeWTgaJxqaXBh9jNcRqN2wbuXyXV5yHnck42fNINO5xqhDUu5wzJNv8gROxY4CfRUbktZs",
-      "iv": "yhwwjpcM3bX9UM1a",
-      "salt": "ntfl0Ua7H+D3Wv+MdEVe3g=="
+      "ciphertext": "LKF5xLC7ev7p9Gfs0BXkqEkH0enqqsvHnGPNdIsLa3i860rORI8L0/KHbr6zw1iUUtwWvyDQUdQ0j19M+U46/7Fw3l2o9TQptoYTeYPNFabXJgGIa3WAJRleoCcjG+5Y/4lZp8M7Shid2ZGhTGjo0lWNfCWQNQKID1v4Ao796ZAtZCHnuRovCLtzYGcqg/LCIVX8ENjGzDbNIh6n2e5re3ZvB9IdA3g7Cb5fqoiP5mAInEPPtEC4z/u6mG9OzJRomPgPqVC7EsUvJnHdCYK1YI2d1YOyu/1XZHCIuB7m+iBbZJCmOElC6uvYYFHO/4JnN0XhITVR",
+      "iv": "OxWg5vYRp9goyn9D",
+      "salt": "1Uan4V96gh7xkgb7nL3VXg=="
     },
     {
       "h": "Spending",
       "count": 1,
       "encrypted": true,
-      "ciphertext": "XiHwH1+/WUihnL8lihepW+rufUjEV7diT+/XxUDs3/7lSSB4YwwXHueMT4zBHOKviVw46hrH+5Bnhd6A5jLZYFvLzZB4L6pFgcV9nKlTgVlPDaHcB5oGi66sT5gobmyQfnqQzq9pV/gSwflL7dJ5X8tsNNwCK9+vpRULvbiDX10mZdJPzPujWbl4R30GvN1dZmW4knt2yIL6cAi2",
-      "iv": "FSYIhDmWMuJXCP1z",
-      "salt": "ICGlw87dYUCksFRVQNi/Vg=="
+      "ciphertext": "S8hTUgL/LFGO6WFou0sR5GSz4F+bFLyXfGVbYhBqD9NILhVYJY9wGezxG9TblzNRURZdf4faGqONGtom8LySwaTEt+CSa7nWnS3XfHdn13GrV8evQI8GRyFewYG/WKqz7KMlX0i0KKVVS0WaNrkKKiMSVjk7bsHadiSLKE3JGiY4OHVb5tGabrmSCUUSjIax/SgLWQxuDhZqPebD",
+      "iv": "JmTOG8bEeubxKaTr",
+      "salt": "BXj04x1MGWEzgCrsd7SGKQ=="
     },
     {
       "h": "ISTQB & Software Testing",
@@ -228,24 +228,24 @@
       "h": "Language Practice",
       "items": [
         {
-          "t": "kochen",
-          "b": "<span class=\"jt\" data-g=\"lang_kochen\">kochen</span> — cook <span class=\"gram\">(kocht · kochte · hat gekocht)</span>",
+          "t": "der Kollege",
+          "b": "<span class=\"jt\" data-g=\"lang_derkollege\">der Kollege</span> — the colleague <span class=\"gram\">(plural: -n)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "der Koch",
-          "b": "<span class=\"jt\" data-g=\"lang_derkoch\">der Koch</span> — the cook <span class=\"gram\">(plural: ¨-e)</span>",
+          "t": "die Kollegin",
+          "b": "<span class=\"jt\" data-g=\"lang_diekollegin\">die Kollegin</span> — the colleague <span class=\"gram\">(plural: -nen)</span>",
           "src": "Goethe B1 · p.55"
         },
         {
-          "t": "die Köchin",
-          "b": "<span class=\"jt\" data-g=\"lang_dieköchin\">die Köchin</span> — the cook <span class=\"gram\">(plural: -nen)</span>",
-          "src": "Goethe B1 · p.55"
+          "t": "komisch",
+          "b": "<span class=\"jt\" data-g=\"lang_komisch\">komisch</span> — funny",
+          "src": "Goethe B1 · p.56"
         },
         {
-          "t": "der Koffer",
-          "b": "<span class=\"jt\" data-g=\"lang_derkoffer\">der Koffer</span> — the suitcase <span class=\"gram\">(plural: -)</span>",
-          "src": "Goethe B1 · p.55"
+          "t": "kommen",
+          "b": "<span class=\"jt\" data-g=\"lang_kommen\">kommen</span> — come <span class=\"gram\">(kommt · kam · ist gekommen)</span>",
+          "src": "Goethe B1 · p.56"
         }
       ]
     }
